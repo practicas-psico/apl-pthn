@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.70478/pap.psicol.2026.47.10</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>¿Qué es la Psicología?</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>What is Psychology?</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0007-4309-4544</contrib-id>
+					<name>
+						<surname>Álvarez Fernández</surname>
+						<given-names>Sergio</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Consejería de Educación del Principado de Asturias, España.</institution>
+					<institution content-type="orgname">Consejería de Educación del Principado de Asturias</institution>
+					<country country="ES">España</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Autor de correspondencia: Sergio Álvarez Fernández <email>sergioalvarez999@gmail.com</email>
+				</corresp>
+				<fn fn-type="con" id="fn7">
+					<label>Citar como</label>
+					<p>Álvarez Fernández, S. (2026). ¿Qué es la Psicología?. <italic>Papeles del Psicólogo/Psychologist Papers, 47</italic>(2), 84-94. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.70478/pap.psicol.2026.47.10">https://doi.org/10.70478/pap.psicol.2026.47.10</ext-link>. Este artículo está publicado bajo Licencia Creative Commons 4.0 CC-BY-NC-ND</p>
+				</fn>
+				<fn fn-type="conflict" id="fn8">
+					<p>No existe conflicto de intereses.</p>
+				</fn>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>84</fpage>
+			<lpage>94</lpage>
+			<history>
+				<date date-type="received">
+					<day>04</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>27</day>
+					<month>11</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>Este trabajo pretende responder a la pregunta «¿Qué es la psicología?», intentando resolver algunos de sus entuertos gnoseológicos: su pluralidad, la definición de su objeto de estudio y su presunto carácter precientífico, resultado de una eterna lucha de escuelas. Se concluye que la Psicología no es una disciplina, sino muchas; y que, si quiere ser una ciencia, tiene que serlo de aquello que se ha dado en llamar «funciones genéticas». Se presentan, además, algunos intentos de fundamentar una psicología general, planteando, finalmente, una tesis arriesgada: que semejante proyecto es imposible, pues tal disciplina solo podría ser filosófica. Todos estos enredos se atribuyen al carácter problemático que las ideas de función y finalidad tienen en filosofía de la ciencia.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>This paper addresses the question &quot;What is psychology?&quot; and seeks to resolve some of its epistemological entanglements: its plurality, the definition of its object of study, and its presumed pre-scientific nature caused by an eternal struggle between schools of thought. It is concluded that psychology is not one discipline but many, and that to qualify as a science, it must be one of what has been called &quot;genetic functions.&quot; The paper also presents attempts to establish a foundation for this general psychology, ultimately proposing a controversial thesis: that such a project is impossible as it would necessarily remain philosophical. All these entanglements are attributed to the problematic nature of the ideas of function and finality.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Psicología</kwd>
+				<kwd>Ética</kwd>
+				<kwd>Escuelas de psicología</kwd>
+				<kwd>Finalidad</kwd>
+				<kwd>Función</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Psychology</kwd>
+				<kwd>Ethics</kwd>
+				<kwd>Psychology schools</kwd>
+				<kwd>Finality</kwd>
+				<kwd>Function</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="26"/>
+				<page-count count="11"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec>
+			<title>¿Qué es la Psicología?</title>
+			<disp-quote>
+				<p><italic>Al judío que labró tan arduo cristal, el primero en</italic> confundir <italic>la ética con la psicología; pero también al resto de mis profesores, de quienes tanto aprendí.</italic></p>
+			</disp-quote>
+			<p>La psicología ha sido siempre una disciplina menesterosa, insegura respecto de su propia cientificidad; acomplejada, acaso con razón, pero sin motivo. Bajo premisas cientificistas, creyendo que el único conocimiento válido es el conocimiento científico, ha tratado de presentarse como una ciencia a imagen y semejanza de las naturales. Obsesión tan nociva como innecesaria; pues, para la ciencia del sujeto y su comportamiento, poca utilidad tienen aquellas verdades que parten precisamente de su anulación. Nada puramente objetivo interesa a quien tiene por objetivo estudiar lo que hacen los sujetos.</p>
+			<p>La situación de la psicología en la república de las ciencias es, sin embargo, un lugar de debate común entre psicólogos; quizás porque en ese estatus les va la vida. No es poco lo que se gana con el nombre de «ciencia». Una psicología científica es una psicología respetable, sólida y, sobre todo, verdadera; en la que merece la pena invertir y en la cual participar lo imbuye a uno de un halo de sobriedad, rigor y prestigio. Ejercer una psicología científica, cuando nos referimos a la clínica, supone saber lo que uno hace, mostrar una preocupación verdadera por el cliente y mantenerse a una saludable distancia de pseudociencias varias. Poco importa si los criterios tradicionales de demarcación se revelan incapaces de distinguir una cosa de otra en psicología (<xref ref-type="bibr" rid="B15">Pérez-Álvarez, 2021a</xref>).</p>
+			<p>Las más de las veces, se dice aquello de que la psicología es una ciencia sin dejar claro qué se quiere decir con ello. El problema radica en que no se convierte uno en científico por decirlo más veces, ni tampoco más alto. Para determinar qué es ciencia y qué no hace falta una Teoría de la Ciencia; una teoría que no es psicológica, sino filosófica. Dicho de otro modo: el psicólogo, en tanto que psicólogo, nada puede decir acerca del carácter científico, o no, de su disciplina, y, si lo hace, no es en calidad de psicólogo, sino haciendo las veces de filósofo a tiempo parcial. Cuando un psicólogo, incluso desde la Academia, grita convencido: «¡La psicología será científica o no será!», podemos estar casi seguros de que no sabe lo que dice; no sabe lo que es la ciencia, pero, peor aún, tampoco lo que es la psicología.</p>
+			<p>Esta pregunta por el estatuto científico de la psicología es responsable de mi acercamiento a la filosofía. Fue cursando el Grado de Psicología cuando me di cuenta de que esta cuestión no encontraba respuesta dentro de la propia disciplina, que había que ir a buscarla más allá de sus fronteras. Así topé con la filosofía y sus herramientas; años después, pertrechado con ellas, me encuentro en disposición de aventurar una respuesta.</p>
+			<p>Pero para poder ofrecerla, primero, tendremos que partir de alguna filosofía de la ciencia; pues qué consideremos o no ciencia dependerá siempre de las coordenadas filosóficas que estemos manejando. Tomaremos partido por la <italic>Teoría del Cierre Categorial</italic>, presentada por <xref ref-type="bibr" rid="B4">Bueno (1992/1993</xref> y <xref ref-type="bibr" rid="B6">1995b)</xref> en los cinco volúmenes homónimos y en el opúsculo <italic>¿Qué es la ciencia?</italic>, pero también en otros artículos y publicaciones. Una vez explicada, trataremos de aplicar esta filosofía al campo de la Psicología, tal y como se estudia hoy en nuestras universidades. Veremos si todo lo que se estudia allí es o no es ciencia y, si no lo es, de qué tipo de saber se trata. Para ello, tendremos que dedicar un apartado también a examinar el viejo problema de la unidad de la psicología y su lucha de escuelas. Finalmente, trataremos de ofrecer una respuesta acerca del porqué de que la psicología tenga semejantes problemas gnoseológicos. Adelantando parte de nuestras tesis, diremos que la psicología ha tenido tantos problemas porque, al igual que sucede en biología, las ideas de función y de finalidad, tan denostadas por según qué filosofías de la ciencia, son esenciales para esta disciplina.</p>
+		</sec>
+		<sec>
+			<title>¿Qué es ciencia?</title>
+			<p>Esta es la pregunta fundamental de la filosofía de la ciencia y no es baladí, pues decir qué es ciencia es tanto como saber identificar qué no lo es. Los griegos utilizaban la palabra para referirse al conocimiento en general, distinguiendo la <italic>episteme</italic>, la ciencia, de la opinión, <italic>doxa</italic>, y de la técnica, <italic>téchne</italic>. Así fue hasta el nacimiento de la ciencia moderna. Desde entonces, la «ciencia» es más estricta, no solo en sus métodos, sino también en su significado. En este sentido, <xref ref-type="bibr" rid="B6">Bueno (1995b)</xref> distingue cuatro modulaciones de la idea de ciencia. La primera es aquella que la concibe al modo griego: como conocimiento en general; permitiendo hablar de la ciencia del zapatero o de la del artesano. La segunda es más restringida y se refiere a la ciencia desde el punto de vista de la lógica, entendiendo por ciencia un sistema ordenado de proposiciones que se derivan a partir de un conjunto de premisas. La tercera, ahora sí, engloba el conjunto de las ciencias positivas, tal y como las comprendemos desde la Modernidad. Finalmente, la cuarta y última acepción habría aparecido con el desarrollo de las llamadas «ciencias humanas», tratando de recoger un amplio conjunto de disciplinas que, a pesar de sus diferencias con respecto a las ciencias estrictas, positivas o naturales, pretenderían con todo arroparse bajo el manto de la cientificidad.</p>
+			<sec>
+				<title>La Teoría del Cierre Categorial (TCC)</title>
+				<p>La teoría del cierre categorial (TCC) se gestó entre los años setenta y noventa del siglo pasado, por oposición al neopositivismo, al falsacionismo de Popper y a las derivas sociologistas de Kuhn y Feyerabend. Con ella, partiendo del principio platónico de <italic>symploké</italic>, Bueno buscaba afirmar un irreductible pluralismo: no existiría la ciencia, sino las ciencias; cada una con sus propios términos, operaciones, fenómenos, relaciones, referenciales, esencias, normas, dialogismos y autologismos; es decir, cada una con su propio e irreductible campo de trabajo.</p>
+				<p>Lo que caracterizaría a las ciencias, frente a otras formas de conocimiento, sería el tipo de verdades a que darían lugar: lo que Bueno llamó <italic>identidades sintéticas</italic>. Esta es una verdad a la que se llega por confluencia; es decir: una verdad definida por la capacidad de llegar a ella a través de caminos diferentes. Si dos procesos de demostración dan lugar a un mismo resultado, podemos concluir que dicho resultado es independiente del curso de demostración seguido. Si soy capaz de hacer una demostración geométrica y una algebraica del Teorema de Pitágoras, éste podrá ser considerado una verdad objetiva, en el sentido de que el sujeto -en este caso yo- quedaría, junto con mis operaciones, anulado durante el proceso de demostración. Esto es lo que harían las ciencias: dar con resultados, con verdades, independientes de los sujetos que las hacen. El problema, claro está, es que no siempre es tan sencillo. La solución de la TCC fue establecer un gradiente entre aquello que es ciencia y aquello que no lo es. Así, las distintas ciencias podrían ser clasificadas en virtud del grado de eliminación de los sujetos gnoseológicos -los científicos- y de los sujetos de estudio -cuando los convierten en su objeto- que son capaces de alcanzar; yendo desde aquellas ciencias que son completamente anantrópicas o alfa-operatorias, como la física o la bioquímica, a aquellas otras disciplinas que no son capaces de neutralizar alguno o ninguno -en el caso de las técnicas- de sus sujetos, llamadas, por tanto, antrópicas o beta-operatorias.</p>
+				<p>La TCC supone también un giro respecto de la concepción tradicional de la relación entre la ciencia y otras disciplinas. Ya desde Aristóteles, pero sobre todo desde la Modernidad, se ha tenido por buena la imagen del árbol de la ciencia: como si la filosofía fuese un saber previo, propedéutico y anterior a ella. Para <xref ref-type="bibr" rid="B5">Bueno (1995a)</xref>, en cambio, la filosofía es un saber reflexivo o de segundo grado; término y no principio del conocimiento. Para hacer filosofía hay que saber antes algo de aquellos otros saberes que la alimentan: los saberes de primer grado, como las ciencias, las artes o las técnicas.</p>
+				<p>La relación entre la técnica, la ciencia y la tecnología también se encuentra invertida en el materialismo filosófico. A su juicio, son las técnicas y no la filosofía las madres de las ciencias. Éstas lo que harían sería sistematizar una serie de saberes previos, dando lugar a los teoremas, si es que son capaces de alcanzarlos, que forman su cuerpo. Así, por ejemplo, la química vendría a sistematizar el tipo de operaciones que, técnicamente, uniendo y separando distintas sustancias, se habrían venido ejerciendo desde bien antiguo; las operaciones que habrían desarrollado los curanderos, los cocineros o los chamanes de algunas tribus primitivas. Lo mismo sucedería con las matemáticas y con cualquier otra ciencia. El contenido del teorema de Pitágoras, por ejemplo, era aplicado por los campesinos mesopotámicos sin necesidad de conocer los pasos de su demostración.</p>
+				<p>Son técnicas, por tanto, aquellas disciplinas que conforman las <italic>categorías del hacer</italic> en su doble vertiente: la de la <italic>praxis</italic>, el <italic>agere</italic>, y la de la <italic>poiesis</italic>, el <italic>facere</italic>. Las tecnologías, en cambio, no son «madres» de nada, sino, en todo caso, «hijas»; hijas de las ciencias, pues implican la transformación del mundo, igual que las técnicas, pero la transformación que operan estaría mediada por conocimientos científicos. Lanzar un misil balístico, una tecnología, requiere una serie de conocimientos físicos, químicos y matemáticos bien consolidados, sin los cuales el misil no despegaría o, aún peor, cumpliría su función en un lugar y un tiempo equivocados.</p>
+				<p>En cuanto a las pseudociencias, podemos definirlas como aquellos saberes que, no siendo científicos, pretenden presentarse como tales. Disfrazarse de ciencia es disfrazarse de conocimiento verdadero; algo muy útil cuando no se es ciencia y se pretende, con todo, convencer a la gente de que lo que se dice es cierto. En psicología, muchas terapias y pseudoterapias lo intentan, a veces con éxito. En cualquier caso, lo cierto es que la TCC no se interesa demasiado por las cuestiones de demarcación. Al fin y al cabo, el psicoanálisis o la astrología, igual que tantas otras disciplinas usualmente rechazadas como pseudocientíficas, no dejan de ser formas de conocimiento. Uno no puede psicoanalizar a alguien sin saber de psicoanálisis, de sus técnicas y procedimientos; del mismo modo, para echar las cartas o para leer el futuro o la personalidad de alguien en las estrellas, hace falta también conocer los métodos de la astrología. Otra cuestión es que sus conclusiones sean falsas e inoperantes. El psicoanálisis, suponiendo que sus terapias no funcionen, pero sobre todo la astrología -por mantener el ejemplo- es un conocimiento técnico que, a diferencia del del zapatero, no resulta pragmático -al menos no para sus usuarios, aunque quizás sí para sus practicantes-; y esa es, ciertamente, una buena razón para rechazarlo.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>El Lugar de la Psicología en el Conjunto del Saber</title>
+			<sec>
+				<title>La Polémica Unidad de la Psicología</title>
+				<p>La psicología, tal como aparece configurada en los planes de estudios de las Facultades de Psicología, es una quimera. Su unidad es de carácter deíctico: la de aquello que se señala con el dedo. En este sentido, la psicología que se encuentra institucionalizada en sus diferentes planes de estudios no ayuda al análisis gnoseológico de la disciplina; más bien lo estorba. En un mismo Grado es posible encontrar asignaturas de Neuroanatomía y Neurofisiología, de Etología y Psicología comparada, de Estadística aplicada (Psicometría) y Psicología evolutiva; por no hablar de aquellas otras que se mueven en un plano estrictamente técnico, desde el control del comportamiento a la psicoterapia en sentido amplio, la Psicología educativa o la Intervención comunitaria. El hecho de que el rótulo «Psicología» dé cobertura a todo este amasijo de disciplinas impide, absolutamente, definir con rigor qué pueda ser la psicología misma: sólo una definición intensionalmente vaga podría dar cabida a un campo extensionalmente tan amplio.</p>
+				<p>La Psicología académica aparece, así, como una especie de monstruo de Frankenstein: una labor de retazos en la que algunos tramos casan mejor que otros. Por tanto, antes de resolver el entuerto de la lucha de escuelas, mejor haríamos mandando descolgar aquello de «Facultad de Psicología» que figura en su frontispicio, sustituyéndolo por el más plural «Facultad de ciencias (o, mejor, disciplinas) etológicas y psicológicas»; un nombre más largo, y quizás memos atractivo para las nuevas generaciones de psicólogos, pero bastante más ajustado a lo que cabe encontrar detrás de sus puertas<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>.</p>
+				<p>De esto puede darse cuenta cualquiera que las haya atravesado. El conductista trabaja con animales en situación de laboratorio, no se preocupa por la anatomía funcional o estructural de su sistema nervioso, prioriza siempre el método inductivo, dice tomar por objeto de estudio la conducta y entiende que conocerla científicamente equivale a ser capaz de controlarla. No hay lugar para el análisis estadístico, al menos si por estadística nos referimos a la inferencial y no a la descriptiva. Un gráfico de frecuencias o de latencias es suficiente; ni rastro de regresiones a la media, grados de libertad e hipótesis nulas. El neurocientífico, en cambio, toma por objeto la anatomía del sistema nervioso; sus trabajos están plagados de complejos análisis estadísticos e imágenes coloreadas de esta o aquella región cerebral; su método no es inductivo, sino hipotético-deductivo. En cuanto a sus resultados, jamás se refieren a un sujeto individual, diluyéndose en las muestras con las que trabaja, tanto más grandes cuanto más insignificantes resulten sus conclusiones.<xref ref-type="fn" rid="fn2"><sup>2</sup></xref> El psicómetra hace lo mismo, pero su interés no estará ya ni siquiera en la conducta o en el cerebro del animal que estudia, sino en sus respuestas, o mejor, en las que podría dar un sujeto cualquiera -es decir, nadie en particular-, al conjunto de ítems que componen sus pruebas. Lo que hacen unos y otros poco o nada tiene que ver. En la terminología de la TCC estas tres disciplinas no comparten términos, operaciones, fenómenos, relaciones, referenciales, esencias, normas, dialogismos ni autologismos; elementos, todos ellos, que dibujan el campo de las distintas ciencias. En realidad, ni siquiera se puede decir que las tres sean ciencias, o por lo menos no en el mismo grado: el control del comportamiento que lleva a cabo el conductista no segrega al sujeto gnoseológico ni, sobre todo, al que constituye su objeto de estudio; desde luego no en la misma medida en que lo hacen las neurociencias y la psicometría. Uno está más cerca de la mera técnica; los otros dos, del biólogo y del sociólogo.</p>
+				<p>Por lo tanto, se puede decir que el conductista, el neurocientífico y el psicómetra no comparten objeto, no comparten método, no comparten intereses ni tampoco buscan lo mismo y, por no compartir, ni siquiera comparten un aire de familia, pues ni el conductista piensa que el neurocientífico es psicólogo, ni el neurocientífico piensa muchas veces que el conductista es científico. Uno cree que el otro pierde de vista la conducta para hacer biología; el otro, que el primero es una especie de fanático, incapaz de aceptar algo tan evidente como que nuestro comportamiento viene determinado por nuestros genes, nuestro cerebro o nuestra anatomía básica. Entre ellos, a priori, no existe un suelo común que pueda servir de base para cualquier forma de entendimiento. Sus disciplinas son absolutamente extrañas y, sin embargo, no es esta una visión popular en lo que a la psicología contemporánea se refiere.</p>
+				<p>De hecho, la mayoría de los psicólogos prefiere pensar que es posible realizar un esfuerzo de unificación teórica; que es posible, en definitiva, solventar estas diferencias para fundar una ciencia unificada, aunque tenga que ser ésta necesariamente plural. <xref ref-type="bibr" rid="B10">Loredo (2009)</xref>, pero también Sánchez González, siguiendo en esto a <xref ref-type="bibr" rid="B7">Fernández (2009)</xref>, han insistido en esta posibilidad, señalando cómo, una determinada lectura de Kant, a través del constructivismo clásico, podría permitirnos recuperar la idea de sujeto como núcleo de una verdadera teoría psicológica. A su juicio, lo que habría hecho este constructivismo, a través de la obra de Darwin y, sobre todo, de Baldwin, sería naturalizar el sujeto kantiano. Esa habría sido la principal contribución de la psicología experimental a partir de Wundt. Si Kant había negado la posibilidad de elaborar una ciencia del sujeto y su actividad, este constructivismo pretendería, precisamente, fundarla, evitando caer, eso sí, tanto en tendencias objetivistas y reduccionistas como en desviaciones subjetivistas y constructivistas radicales (<xref ref-type="bibr" rid="B18">Sánchez González, 2009a</xref>).</p>
+				<p>También entre nosotros, <xref ref-type="bibr" rid="B25">Yela (1996)</xref>, figura egregia de nuestra psicología, trató de unificar la disciplina apelando a una presunta estructura trimembre de la conducta: conciencia, estímulo y situación; o, siguiendo la lectura de <xref ref-type="bibr" rid="B16">Pérez-Álvarez (2021b)</xref>: sujeto, conducta y situación. Ambos autores fueron, o son, plenamente conscientes de la naturaleza plural que su disciplina arrastra desde su «fundación» en 1879. La solución de <xref ref-type="bibr" rid="B14">Pérez-Álvarez (2019)</xref> ha pasado, sin embargo, por tratar de reivindicar una psicología más humana que tecnológica; por tratar de conjugar la objetividad de la psicología experimental con la subjetividad de una tradición, igualmente psicológica, pero más cercana a la fenomenología. Esta raigambre fenomenológica no es baladí, pues ya en 1874, cinco años antes de que Wundt fundase su famoso laboratorio, <xref ref-type="bibr" rid="B3">Brentano (2020)</xref> publicaba el resultado de sus muchos esfuerzos: el intento de fundamentar la psicología en un conjunto de fenómenos muy especiales, los fenómenos intencionales. Antes de recorrer esta vía, sin embargo, todavía tenemos que cerrar la anterior. Y es que, hasta ahora, nos hemos topado con una psicología plural; con una disciplina que no es una, sino un crisol. Quizás no pueda ser de otra manera. <xref ref-type="bibr" rid="B25">Yela (1996)</xref> habló de su unificación como de una empresa utópica; posible, quizás, pero irrealizable. Tenemos, entonces, una disciplina esencialmente escindida, plural, con diferentes enfoques y escuelas. Lo que se estudia en las Facultades de Psicología no es una ciencia, sino muchas, así como también otra serie de disciplinas que tampoco lo son, bien por ser técnicas, anteriores a las ciencias, o tecnologías, posteriores. Lo que nos queda por saber es si el proyecto utópico de desarrollar una <italic>psicología general</italic>, como apuntan <xref ref-type="bibr" rid="B25">Yela (1996)</xref> y <xref ref-type="bibr" rid="B12">Pérez-Álvarez (2018a</xref> y <xref ref-type="bibr" rid="B13">2018b)</xref>, pero también <xref ref-type="bibr" rid="B10">Loredo (2009)</xref>, es posible; si es posible, en definitiva, una ciencia psicológica unificada.</p>
+			</sec>
+			<sec>
+				<title>¿Es y Puede ser la Psicología una Ciencia?</title>
+				<p>Tradicionalmente se ha definido la psicología como la ciencia de la mente y la conducta (<xref ref-type="bibr" rid="B26">Zagaria et al., 2020</xref>). Esta definición es una solución de compromiso entre las tendencias cognitivistas y conductistas en psicología que, por ecléctica, no termina de satisfacer a nadie. Definirla así implica preguntarse qué es la mente y qué la conducta. La mente, para empezar, es algo de dudosa densidad ontológica. La Filosofía de la Mente, como disciplina académica, lleva más de un siglo preguntándose cuál podría ser su naturaleza, y sería faltar a la verdad afirmar que se ha llegado a alguna conclusión. Históricamente, la discusión se ha movido entre el dualismo y el monismo; sin embargo, ninguno de ellos tiene la última palabra. El materialismo filosófico, por ejemplo, ha afirmado un pluralismo ontológico no reduccionista; visión que anima la psicología constructivista de Loredo y Sánchez González, pero también el conductismo-fenomenológico de Marino Pérez; ambos pluralistas y antidualistas. Todos ellos compartirían, pues, el rechazo de cualquier dualismo sujeto/objeto, interno/externo, mente/cuerpo; aceptando el viejo principio dialéctico de la co-determinación; no hay sujeto sin objeto, como tampoco objeto sin sujeto; no hay mente sin cuerpo, igual que no hay cuerpo sin mente; no hay convexidad sin concavidad, y así sucesivamente. El sujeto es siempre operante.</p>
+				<p>Desde este punto de vista, cabría recuperar la mente, o el alma, no como un principio sustancial, sino como sinónimo de <italic>vida</italic>; como aquello que caracteriza a los seres vivos, que por algo son «animados»; a saber: un conjunto de funciones que les permiten perseverar en el ser. Una piedra no necesita facultades mentales o psicológicas porque no está viva. Lo que la diferencia de un ser vivo es que, si la dejas a su suerte en una cámara de vacío, cuando vuelvas a recogerla, la piedra permanecerá incólume, sin menoscabo alguno. Abandona un ser vivo en una cámara de vacío y al cabo de unos minutos obtendrás un ser inerte. Esa es la naturaleza de la vida: la autoconsunción. Para permanecer en el ser, los seres animados, organismos darwinianos, tienen que hacer cosas; entre ellas, devorar otros seres. Vivir es, por tanto, esforzarse, y para ello hay que poder hacer lo que hace falta para seguir vivo. Las facultades o funciones psicológicas son los medios que les permiten a los seres vivos hacer eso mismo y consisten en relacionarse con el mundo (sensibilidad), moverse y actuar (movimiento y voluntad), recibir retroalimentación (afecto y emoción), acordarse de todo ello (memoria), aprender de sus aciertos y errores (aprendizaje) y realizar inferencias (razonamiento o pensamiento). Si esto es lo que se entiende por mente en la definición tradicional de la psicología, podemos darla por buena. Lamentablemente, por mente se suele entender solamente cognición, en el sentido de la moderna psicología cognitiva: como entradas y salidas de información a procesar; como si el ordenador, un producto de nuestra inteligencia, pudiera ser un buen modelo para comprender la propia inteligencia que lo creó; o, peor aún, una sustancia inmaterial, al modo de la vieja idea órfica del alma o de la <italic>res cogitans</italic> cartesiana.</p>
+				<p>Por otro lado, si la mente es un asunto peliagudo, la conducta no lo es menos. Tradicionalmente, nos dice <xref ref-type="bibr" rid="B13">Pérez-Álvarez (2018b)</xref>, la conducta se ha entendido como aquello que la mente utiliza para relacionarse con el mundo; su instrumento. A su juicio, sin embargo, el comportamiento es algo más: una relación entre el sujeto y el mundo; sí, pero constitutivamente interrelacionados. «Yo soy yo y mi circunstancia, y si no la salvo a ella, no me salvo yo» (<xref ref-type="bibr" rid="B11">Ortega y Gasset, 2021, p. 77</xref>). En este sentido, la conducta, lo que los organismos hacen, vendría a ser «la articulación corporal, afectiva, cognoscitiva y operatoria del sujeto con el mundo, donde el comportamiento implica intencionalidad, saber-hacer y comprensión» (<xref ref-type="bibr" rid="B12">Pérez-Álvarez, 2018a, p. 168</xref>). Esta idea no es sino la recuperación de aquella estructura de la conducta que <xref ref-type="bibr" rid="B25">Yela (1996)</xref> cifraba en «la unidad de interdependencia del estímulo, el sujeto y la acción» (p. 131). Por eso pretende <xref ref-type="bibr" rid="B13">Pérez-Álvarez (2018b)</xref> hacer de la psicología una ciencia del sujeto y del comportamiento.</p>
+				<p>El problema que tiene hablar así de la psicología es que, dejando a un lado la cuestión del sujeto, el comportamiento viene a ser lo que el sujeto hace-en-el-mundo. Pero claro, los sujetos hacemos muchas cosas ¿Acaso no estudia la economía lo que el sujeto hace? ¿Y la sociología no estudia también lo que hacen los sujetos? ¿No estudia la historia lo que han hecho? ¿Y la antropología? ¿Qué estudian todas estas ciencias si no es la conducta o el comportamiento? ¿Deberíamos reducirlas a psicología y afirmar, como hicieron Dilthey y tantos otros en el siglo XIX, que la psicología es a las ciencias humanas como la física a las naturales: la ciencia que las subyace? Uno podría argumentar, entonces, que la psicología estudia lo que hace el sujeto individual; pero todo sujeto es un sujeto socializado. No existen los sujetos individuales, porque ser sujeto es estar sujeto, entre otras cosas, a procesos y normas sociales, culturales e históricas.</p>
+				<p>De esta forma, todas las ciencias humanas y sociales estudian el comportamiento: ya sea el económico, el cultural, el social, el político, el «individual». Podría entonces el conductista defenderse argumentando que lo que hace la psicología es estudiar los principios fundamentales de la conducta; cómo ésta se adquiere y modifica, como si de una ciencia general del aprendizaje se tratara. El problema de estos principios, tan generales, es que son principios formales: nos dicen cómo se aprende, en general, pero no cómo se aprende esto o aquello. Nos pueden decir que los estudiantes aprenden mejor y más rápido si se les ofrecen determinados reforzadores de determinada manera, pero no cómo explicarles la <italic>Crítica de la Razón Pura</italic> para que la entiendan.<xref ref-type="fn" rid="fn3"><sup>3</sup></xref> En último término, lo que nos enseña la psicología del aprendizaje no dejan de ser cuestiones de sentido común; que se producen asociaciones entre estímulos y respuestas, en el condicionamiento clásico, y que se aprenden contingencias en el operante, es decir: cómo determinada conducta, en determinada situación, conlleva un determinado reforzador. Sin embargo, reducir el amor a un intercambio de reforzadores como hacía Skinner, en clave de humor, es vendarse los ojos para no ver cómo esos intercambios, de hecho, cambian, han cambiado y seguirán cambiando bajo el influjo de presiones históricas, económicas, sociológicas y antropológicas. Y eso es lo importante; porque reforzador es cualquier cosa, pero lo que hay que saber es qué lo es en cada momento y, sobre todo, por qué. No es lo mismo enamorarse hoy que hace cien años; por mucho que en ambos casos se produzcan intercambios de reforzadores. Del mismo modo, decir que la depresión es un aumento del coste de respuesta de la conducta es no entender qué significa estar deprimido; es ignorar la dimensión existencial y personal del problema solo para darle otro nombre a uno de sus presuntos síntomas patognomónicos: la anhedonia.</p>
+				<p>De hecho, el concepto de reforzador es bastante opaco. El conductismo no se pronuncia acerca de qué puede funcionar como un reforzador y qué no; eso es algo, dirán, que solo podemos conocer a posteriori: viendo si su aparición favorece o entorpece en el futuro la repetición de esa misma conducta en una situación similar. Por qué un latigazo es un castigo para el reo y un placer, desde luego no culpable, para el Marqués de Sade, resulta algo inescrutable a priori para el conductista, que arrojará la incógnita al pozo sin fondo de sus respectivas historias de aprendizaje. Estas historias, sin embargo, como la historia cultural del amor o la del sadismo, no se entienden si no se toman en cuenta presiones y desarrollos históricos, culturales, sociales, etc, que conforman y determinan lo que hoy se experimenta con dolor o deleite. Achacarlo a la historia de aprendizaje es enviarlo a la caja negra, junto con los componentes filogenéticos; que sí, que no se niegan, pero que se dejan sin explicar; algo útil, quizás, de cara al control del comportamiento, pero engañoso si lo que se pretende es comprenderlo y explicarlo. El control es una forma de conocimiento práctico, pero es menos exigente que comprender y conocer, como diría Spinoza, las cosas <italic>sub specie aeternitatis</italic>. Para hacer que una rata salte, basta con dos pinzas y una batería de coche; para que lo haga una vaca, solo hay que subir el voltaje. Ninguna de las dos cosas implica saber qué es una rata o una vaca, ni tampoco cómo se comportan; a lo sumo que son seres sensibles a los que no les agrada ser electrocutados. Sin embargo, ni siquiera esto pretende conocer el conductista, pues hablar de agrado o desagrado, como insinuar que la rata lo que persigue es evitar la descarga, sería tanto como reconocer que su conducta es un acto intencional; algo inaceptable para aquellos cuya intención es desterrar la intencionalidad de la ciencia.</p>
+				<p>¿Quiere decir esto que no hay sitio para la psicología tal y como la conocemos en la república de las ciencias? Kant habría dicho que no, que la razón, en su uso teórico, nada puede conocer del sujeto, del Yo. <xref ref-type="bibr" rid="B12">Pérez-Álvarez (2018a</xref>, <xref ref-type="bibr" rid="B13">2018b</xref>, <xref ref-type="bibr" rid="B14">2019)</xref>, sin embargo, ha buscado resituar esa ciencia del sujeto y su comportamiento entre las ciencias humanas. En esta misma línea, de considerarla, al menos, como una ciencia posible, se mueven <xref ref-type="bibr" rid="B20">Sánchez González y Loredo (2007)</xref>, reivindicando también, igual que Yela y Marino Pérez, la necesidad de refundar la psicología sobre una nueva idea de sujeto. Su término adjunto, eso sí, no sería ya el comportamiento, sino la acción, entendida en términos de función y génesis; o, mejor, de <italic>función genética</italic>. En este sentido, <xref ref-type="bibr" rid="B18">Sánchez González (2009a)</xref> entiende por función genética «la realización de la utilidad» (p. 138); es decir, aquello que los organismos hacen para satisfacer un determinado logro: evolutivo, en sus formas más simples; mediado social, histórica y simbólicamente, en las más complejas. Inspirada en la <italic>reacción circular</italic> de Baldwin, esta idea de función, de génesis, se presenta como una suerte de dialéctica de la acción; como una espiral en la que, a partir de modificaciones y retroalimentaciones progresivas, lo nuevo puede nacer a partir de lo viejo (<italic>génesis</italic>). Hay selección, pero no mecánica; hay innovación y hay propositividad o intencionalidad, pero no la de un sujeto autónomo, sino la de un sujeto que, para ser tal, requiere de un objeto; igual que el objeto necesita también de un sujeto. Las funciones psicológicas, que son siempre las de un sujeto y que están insertas en una determinada historia onto y filogenética, consistirían, entonces, en una sucesión de tanteos, de ensayos y errores que, progresivamente, darían lugar a formas de acción y organización cada vez más complejas.</p>
+				<p>Desde luego, se puede elaborar una ciencia que tenga por objeto cómo se desarrollan esas funciones genéticas. En eso consistió la psicología cultural soviética. También se puede estudiar, como hacen los psicólogos comparados, qué funciones desarrollan las diferentes especies animales, hasta dónde llegan sus similitudes y sus diferencias. Esta psicología, por otra parte, podría muy bien nutrirse de los desarrollos de la psicología evolutiva y, por qué no, de las investigaciones que los psicólogos del procesamiento de la información llevan a cabo acerca de los diferentes procesos psicológicos, desde la percepción al razonamiento y el lenguaje, pasando por la memoria o el aprendizaje. Qué grado de segregación del sujeto sea capaz de alcanzar esta psicología podrá ser discutible, siendo mayor o menor, entre otras cosas, dependiendo de la metodología empleada. Así, por ejemplo, no lo evacuará por igual el estudio estadístico de las famosas «vías de la lectura» que la observación etológica de la capacidad para discriminar cantidades de una determina especie de peces. En cualquier caso, en la medida en que esta ciencia pretenda ser una ciencia del sujeto y de lo que hace, nunca podrá ser, bajo las coordenadas que venimos manejando, una ciencia en el mismo sentido en que lo son la física o la química. Lo cual, sin embargo, no es motivo de preocupación; incluso podría serlo de alegría. No ser capaz de evacuar por completo al sujeto quizás la vuelva una disciplina menos objetiva, pero también menos extraña; más humana. <italic>Homo sum, nihil humani a me alienum puto</italic>.</p>
+				<p>El problema radica en que, a menudo, la psicología pretende ir más allá de las funciones estudiadas por la psicología soviética, deslizándose por una pendiente de consecuencias peligrosas. Sucede así, por ejemplo, cuando el psicólogo, estudiando las funciones más complejas, toma la biología, la historia, la cultura o la economía, no como variables independientes, no como el contexto que permite comparar unas facultades con otras o un estadio de desarrollo previo de una de ellas con uno posterior, sino como algo a explicar desde la psicología. Uno, desde luego, puede estudiar cómo se forma el concepto de belleza en un sujeto concreto; o cómo se forma el concepto de permanencia en un infante; pero ni la idea de belleza ni la de sustancia se reducen a dichos conceptos psicológicos. Uno podría dar cuenta de la experiencia estética desde un punto de vista psicológico o de las emociones que experimentamos asociadas a eso que llamamos <italic>felicidad</italic>, pero la psicología nunca podrá decir qué es el arte, ni tampoco la felicidad, pues esas son cuestiones que conciernen a la estética y a la ética respectivamente. Lo mismo sucede con el amor, con la ciencia y con la propia psicología -a no ser que hagamos de ella una suerte de conocimiento último, capaz de dar cuenta de todos los demás-. Este, sin embargo, es un papel que no le compete a ella; no es su campo de juego, porque lo es el de la filosofía.</p>
+				<p>He aquí la tesis que trato de defender: qué sea la psicología dependerá de qué papel le asignemos como disciplina ¿Es posible hablar de una disciplina científica, al menos en alguna medida, que estudia las funciones o facultades de los organismos? Sí. Concedido esto, ¿suelen quedarse ahí las aspiraciones de los psicólogos? Rara vez, porque lo que se suele entender que persigue la psicología es algo más; es decir, mostrar o comprender por qué los sujetos hacen lo que hacen. Describir cómo perciben, atienden, se emocionan, aprenden, recuerdan, hablan y piensan podría ser la tarea propia de una <italic>psicología genética</italic>; pero esto no suele ser suficiente para las aspiraciones del psicólogo, que jamás se contenta con estas importantísimas descripciones -porque sí, no dejan de ser descripciones, por muy genéticas que sean-. El psicólogo tiende a buscar, ante todo, comprender los motivos, las causas de nuestras acciones; su sentido. Esto exige, sin embargo, tomar la historia, la antropología, la sociología, la biología, las artes, las ciencias y un sinfín de disciplinas más, no como variables independientes, no como el contexto ante el cual examinar el desarrollo de nuestras facultades, sino como auténticos determinantes de lo que el sujeto es y de lo que el sujeto hace; como la materia misma de nuestra investigación. Ninguna ciencia puede hacerse cargo de todas estas presiones por sí sola; hacerlo exigiría un tipo de conocimiento diferente, más reflexivo, de segundo grado. Si queremos entender por psicología una disciplina capaz de decirnos por qué los sujetos hacen lo que hacen, de la forma en que lo hacen -sin contentarnos solamente con su descripción genética-, ahondando en su profundo sentido -en su porqué-, habremos de admitir que esa disciplina no es una disciplina científica, sino filosófica: una verdadera <italic>praxeología</italic> o teoría de la acción. Ésta deberá tener en cuenta los desarrollos de la «psicología genética», pero también los de todas aquellas otras disciplinas que tienen mucho que decir, por más que no sean psicológicas, acerca del comportamiento de los organismos. Esto, sin embargo, no tiene por qué ser algo negativo, ni un demérito. La filosofía no es sinónimo de falta de ciencia, ni de ausencia de rigor; la filosofía es de hecho rigurosa y en cierto sentido más científica que cualquier ciencia -aunque solo sea porque debe tener en cuenta no lo que diga una ciencia, sino lo que digan todas-.</p>
+			</sec>
+			<sec>
+				<title>Una Respuesta a la Lucha de Escuelas</title>
+				<p>Todavía nos queda por atajar la tan célebre como eterna lucha de escuelas, pues esa suele ser la principal dificultad que todo psicólogo señala a la hora de considerar la psicología como una ciencia unificada. Este problema deriva de una concepción kuhniana de la ciencia; de diagnósticos similares al que en su día ofreció <xref ref-type="bibr" rid="B24">Watson (1971)</xref>. Para él, la psicología no era una ciencia, al menos todavía, por encontrarse en un estado preparadigmático. Cada escuela de psicología constituiría, a su juicio, una teoría o enfoque completamente diferente. La falta de un suelo común, de un paradigma capaz de dar lugar a un periodo de ciencia normal, haría de la psicología una disciplina, si no anticientífica, sí precientífica. En esta tesitura, lo que habrían pretendido la mayoría de los psicólogos habría sido tratar de ofrecer un verdadero paradigma, las más de las veces, consistente en dar prioridad a una de esas escuelas sobre las demás. Otros psicólogos, como <xref ref-type="bibr" rid="B10">Loredo (2009)</xref>, y en ocasiones <xref ref-type="bibr" rid="B12">Pérez-Álvarez (2018a)</xref>, han optado por resaltar esa pluralidad, tanto teórica como práctica y metodológica, convirtiéndola en característica de la disciplina. El diagnóstico de <xref ref-type="bibr" rid="B24">Watson (1971)</xref>, a mi juicio, arrojaba, siquiera negativamente, algo más de luz sobre el asunto. Recordémoslo.</p>
+				<p>Para <xref ref-type="bibr" rid="B24">Watson (1971)</xref>, cada escuela de psicología constituía un posicionamiento con respecto a toda una serie de prescripciones de opuestos: determinismo/indeterminismo, mecanicismo/vitalismo, monismo/dualismo, objetivismo/subjetivismo, etc. Así, por ejemplo, el conductismo sería, a su juicio, determinista, mecanicista, monista y objetivista; mientras que el humanismo, por el contrario, sería indeterminista, vitalista, dualista y subjetivista. Cualquier escuela de psicología podría ser vinculada con una determinada combinación de posiciones en esta lista de pares de opuestos. La unidad de la psicología, desde este punto de vista, sería una unidad polémica; diagnóstico compartido, aunque desde coordenadas diferentes, por <xref ref-type="bibr" rid="B25">Yela (1996)</xref> y <xref ref-type="bibr" rid="B10">Loredo (2009)</xref>, pero no por nosotros -o, al menos, no en el mismo sentido-.; y es que hay algo en estas prescripciones que llama la atención del filósofo: todos esos pares de opuestos expresan ideas, no conceptos. Lo que nos está diciendo Watson, acaso sin darse cuenta, es que las distintas escuelas de psicología no son escuelas psicológicas, sino filosóficas. Recuérdese cómo el propio <xref ref-type="bibr" rid="B22">Skinner (1994)</xref> definió el conductismo, no como la ciencia del comportamiento, sino como la filosofía que la subyace.</p>
+				<p>He aquí un indicio más a favor de lo argumentado anteriormente. No hay psicólogo que se precie capaz de contentarse con los hallazgos de su disciplina, sea esta científica, técnica o un crisol.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref> Tiene la psicología una tendencia natural hacia la filosofía. Todo psicólogo quiere responder a aquella pregunta de por qué hacemos lo que hacemos, de cuál es el sentido y el porqué de nuestras acciones. El problema es que responder a esa pregunta exige asumir una serie de compromisos ontológicos, éticos y antropológicos que llaman a las puertas de otras tantas disciplinas con preocupaciones similares; compromisos que tienen, por otra parte, y le pese a quien le pese, carta de ciudadanía filosófica.</p>
+				<p>Así, cada escuela de psicología lo que es, en realidad, es una antropología filosófica. Por eso la psicología tiene esa unidad tan propia de la filosofía que es la dialéctica. Ahora bien, ¿cómo ha podido algo tan claro pasar tanto tiempo inadvertido? Por supuesto, la razón principal es el generalizado menosprecio que la psicología, desde su presunta fundación en 1879, le habría dedicado a la filosofía. Las aspiraciones de cientificidad de la psicología se construyeron sobre el rechazo y la independencia respecto de su pretendido pasado filosófico; como si la filosofía fuera primero y la ciencia después; como si uno pudiera escapar de la filosofía.<xref ref-type="fn" rid="fn5"><sup>5</sup></xref> Basta con abrir cualquier manual de Historia de la Psicología, valga como ejemplo el de <xref ref-type="bibr" rid="B9">Leahey (1998)</xref>, para encontrarse esta autolectura de su propia historia. Tampoco se le puede echar en cara; las ciencias, como los países, necesitan mitos fundacionales, y estos suelen estar siempre ligados a historias de libertad e independencia.</p>
+				<p>Si esta tesis es cierta y las distintas escuelas de psicología son en realidad escuelas filosóficas, el psicólogo que pretenda resolver su lucha eterna se estaría enfrentando a un trabajo sisífico. Tarea inútil la suya, pues en filosofía, aunque pueden reconocerse algunas teorías como falsas, las discusiones rara vez se resuelven en términos de verdad y falsedad. Varias teorías pueden ser consistentes con un mismo fenómeno, debiendo dirimirse la discusión, más bien, en términos de sus respectivas potencias explicativas; no siendo tanto verdaderas o falsas, cuanto más o menos potentes. En cualquier caso, y esta es la moraleja, muchos problemas se hubiera ahorrado la psicología si no hubiera pretendido librarse tan pronto de su herencia filosófica. Como el niño que quiere hacer demasiado pronto de su triciclo bicicleta, corría el riesgo, en este caso realizado, de terminar desfigurada.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>La Idea de Función en Psicología</title>
+			<p>El carácter tan particular que tiene la psicología como disciplina deriva de la naturaleza de aquello que estudia. El comportamiento de los organismos es siempre intencional. Ya <xref ref-type="bibr" rid="B3">Brentano (2020)</xref> se había dado cuenta de que los fenómenos psicológicos, lo que hemos llamado <italic>funciones</italic>, son siempre intencionales. Esta idea la recuperará Husserl más adelante para elaborar su proyecto filosófico; continuado por Ortega y, de su mano, por Pinillos, Yela y Marino Pérez, ya psicólogos <italic>stricto sensu</italic>. «Intentio» quiere decir «tender a»; y, en este sentido, la intención tiene que ver con la finalidad. Lo que los organismos hacen implica siempre propositividad: comen para satisfacer su apetito, lloran para expresar desencanto, guiñan para mostrar complicidad, acarician o besan para demostrar afecto. La idea de función no es sino un trasunto de esta intencionalidad; es la finalidad adaptada al marco conceptual de la biología. En biología, la función es aquello que un organismo hace con vistas a un determinado fin -que, normalmente, de acuerdo con la teoría de la evolución, tiende a mirarse desde el punto de vista de la adaptabilidad del organismo al medio y su eficacia reproductiva-. El problema es que las explicaciones teleológicas de este tipo, fundamentales en biología, pero también en psicología, han sido históricamente rechazadas por la ciencia moderna, que ha tendido a identificar la idea de finalidad con los fines y propósitos de una presunta inteligencia divina.</p>
+			<sec>
+				<title>Función y Finalidad en Filosofía de la Ciencia</title>
+				<p>La finalidad es una idea fundamental en la filosofía aristotélica. Siendo una de las cuatro causas, la final introduce un orden teleológico en el universo. Todo tiene, para Aristóteles, su lugar natural; aquello hacia lo que, de manera intrínseca, tiende. Es este también el fundamento de su ética, pues identifica el fin propio de cada cosa, aquello hacia lo que naturalmente tiende, con su bien. Por otra parte, en su sistema filosófico, el motor inmóvil servía a modo de causa final universal; idea, ésta, que aprovechará más tarde la Escolástica para articular la de una causa primera, no solo final, sino también eficiente: Dios.</p>
+				<p>Desde este punto de vista, el orden teleológico del universo habría que ir a buscarlo a la inteligencia de ese Ser supremo y ordenador del cosmos. La ciencia moderna, sin embargo, después de la revolución científica, comenzó a rechazar paulatinamente la idea de un orden dependiente de la inteligencia y la voluntad divinas; el universo debía ser explicado de acuerdo con causas naturales y mecánicas. La causa final había caído en desgracia, destronada por la causalidad eficiente. <xref ref-type="bibr" rid="B23">Spinoza (2011)</xref> es un buen ejemplo de este rechazo de la finalidad: nada en el universo tiene para él fines; no hay propositividad, tan solo necesidad. Nuestra ilusión de propósito e intencionalidad es solo eso: un engaño.</p>
+				<p>En este sentido, la ciencia moderna y su filosofía se construyeron negando toda finalidad. Las explicaciones propias de las ciencias naturales tenían que ser no teleológicas, pues, de no ser así, corrían el riesgo de deslizarse hacia terrenos nada científicos. El modelo de estas explicaciones, por supuesto, lo ofrecería la física, como ejemplo paradigmático de lo que es una ciencia natural.</p>
+				<p>El problema de la biología es que no funciona como la física y, como señala <xref ref-type="bibr" rid="B2">Ayala (1968)</xref>, en ella las explicaciones funcionales no solo son válidas; son necesarias. Cuando el biólogo se pregunta por un determinado rasgo morfológico, lo que se está preguntando es, entre otras cosas, cómo ha llegado esa especie a desarrollarlo. Ese «cómo» puede remitirse a una serie de causas eficientes: determinadas mutaciones y selecciones genéticas; pero, irremediablemente, implicará también un para qué, una función. Por otro lado, la teoría de la evolución ha sido interpretada tradicionalmente de manera ciega y mecánica, como si la selección natural fuera una instancia objetiva, al margen de las acciones de los organismos. Algunos tramos lo son, como las mutaciones aleatorias; pero, como supo ver Baldwin al postular la idea de <italic>selección orgánica</italic>, la teoría de la evolución ha de contar también con lo que los organismos hacen; con su conducta. Pongamos el ejemplo del melanismo industrial de las <italic>Biston betularia</italic>. El suyo ha sido siempre presentado como un caso paradigmático del mutacionismo aleatorio y ciego característico de la selección natural. Sin embargo, la función adaptativa de ese melanismo no se explica sin la conducta predatoria de las aves que les daban caza. Eran esas aves las que mediante su conducta seleccionaban a las mariposas y no alguna clase de mecanismo ciego y objetivo (<xref ref-type="bibr" rid="B21">Sánchez González, 2025</xref>). Por si esto no fuera suficiente, incluso la lectura mecanicista de la selección natural se ve obligada a asumir la perspectiva funcional o teleológica; pues no se entiende ningún proceso de selección natural si no se remite a un determinado fin: el logro adaptativo de la supervivencia y la reproducción. Su porqué implica necesariamente un para qué.</p>
+			</sec>
+			<sec>
+				<title>La Idea de Función en Ética, Biología y Psicología</title>
+				<p>La ética, la biología y la psicología son tres disciplinas que han sido, históricamente, muy mal entendidas. Pudiera parecer, en principio, que nada tienen en común y, sin embargo, guardan entre sí conexiones importantes que suelen pasar inadvertidas. La ética se ha solido entender como la disciplina filosófica encargada de enjuiciar las acciones humanas en términos de su bondad o maldad, de su valor o disvalor y de su carácter debido o indebido (<xref ref-type="bibr" rid="B8">Gómez, 2018</xref>). En general, se suele presenta su panorama histórico como dividido en dos grandes corrientes: la aristotélica y la kantiana.</p>
+				<p>Para el deontologismo kantiano, la ética tiene que ver con el deber; con las leyes universales que la razón se da a sí misma en virtud de su propia naturaleza: libre y racional. El deontologismo kantiano y su imperativo categórico, tan formal como contrafáctico, es, sin embargo, más un desiderátum que una teoría filosófica verdadera. La ética tiene que ver, precisamente, con aquellos otros imperativos que su filosofía descartó: los hipotéticos. De ahí que en el último medio siglo se haya avanzado, precisamente, retrocediendo; reencontrando en la obra de Aristóteles una filosofía moral, quizás metafísica, pero, al menos, no delirante.</p>
+				<p>La verdad de la ética aristotélica radica en su definición de aquello que interesa fundamentalmente a esta disciplina: el bien. Para <xref ref-type="bibr" rid="B1">Aristóteles (2019)</xref>, el bien es aquello hacia lo que todas las cosas tienden. Tiene que ver, entonces, con la idea de <italic>finalidad</italic>; con la <italic>función</italic> que a cada cosa le pertenece más propiamente. La virtud del cuchillo es cortar; la del abrigo, abrigar. El bien o la virtud tiene que ver, por tanto, con la satisfacción de un fin; con aquellos medios que contribuyen a su realización; el mal, por su parte, con aquellos que trabajan en dirección contraria. La ética, sin embargo, como decía Aristóteles, no la estudiamos para saber lo que es bueno; la estudiamos para ser buenos; para construir esa <italic>morada</italic> en la que vivimos; ese <italic>êthos</italic> que nos constituye y que ante todo somos. De ahí viene la palabra «ética», de ese «êthos» griego, pero también de aquel otro «éthos» que significaba el «hábito» o la «costumbre» (<xref ref-type="bibr" rid="B8">Gómez, 2018</xref>). Porque sí, construirse esa <italic>morada</italic>, esa casa, es un esfuerzo <italic>habitual</italic>. Uno se hace virtuoso practicando la virtud y haciéndolo a diario. Ya se sabe: una golondrina no hace verano.</p>
+				<p>Por esta razón, en otros trabajos, e inspirándome en <xref ref-type="bibr" rid="B17">Ricoeur (2019)</xref>, he intentado defender una visión de la ética como aquella disciplina práctica que estudia dos cosas: el sentido de la vida, es decir, la felicidad entendida como vida plena de sentido; y la forja del carácter, es decir, la construcción y adquisición de aquellas virtudes y modos de ser que pueden guiarnos en esa búsqueda de la vida feliz y realizada (AUTOR, AÑO).</p>
+				<p>En cuanto a la biología, no ha sido menos malinterpretada que la ética; empezando por su propio nombre. Los griegos tenían dos palabras para la vida: <italic>biós</italic> y <italic>zoé</italic>; vida biográfica y vida biológica, respectivamente. Aquello a lo que actualmente llamamos «biología», en realidad, es zoología: el estudio de la vida animal, no personal. Los <italic>biós</italic> de Aristóteles tenían que ver, por el contrario, con los diferentes sentidos que a la vida se le podían dar: una vida dedicada a los placeres, una dedicada a la política y una dedicada al conocimiento. Hay, sin embargo, una rama de la zoología, la <italic>etología</italic>, que estudia lo que los organismos hacen y no solo de qué están hechos. La raíz de la palabra es transparente, <italic>ethología</italic>, y apunta, precisamente, al <italic>hábito</italic> y a la <italic>costumbre</italic>, fundamento del comportamiento, la acción o la conducta para buena parte de la tradición psicológica. El hábito y la costumbre es aquel proceso por el cual un organismo, mediante la práctica o repetición de una determinada acción, forja un determinado carácter o modo de ser. En el ser humano, este carácter tiene un sentido personal, es un modo de ser persona; en otras especies, es un modo de ser específico: un modo de ser gusano, un modo de ser oveja o un modo de ser suricato.</p>
+				<p>Desde luego, la psicología, en la medida en que se pregunte por qué los organismos hacen lo que hacen, cuál es el sentido de sus acciones y cómo las llevan a cabo, ha de contar necesariamente con la biología. Al fin y al cabo, esos organismos son organismos darwinianos, que han evolucionado hasta ser como son. En este sentido, hay más relación entre la psicología y la biología de la que en un principio pudiera parecer. No hay solución de continuidad entre los fenómenos biológicos y los psicológicos. Estos últimos, las funciones psicológicas, se cimentan sobre las biológicas; implican su reorganización intencional y propositiva, inteligente. Esta inteligencia, sin embargo, no es ya la de un Ser supremo, sino que se trata de la inteligencia propia de un organismo vivo; uno que tiene que hacer cosas para seguir estándolo. Los perros de Pavlov no hubieran asociado el sonido de la campana y la aparición de la comida si esta última no hubiera elicitado la respuesta incondicionada de salivación. Las funciones biológicas, como las psicológicas, están al servicio de la vida orgánica. Ésta se pierde de vista cuando uno se fija solo en las células, cuando uno abandona la biología en favor de la bioquímica; incurriendo en una suerte de reduccionismo descendente. La etología, sin embargo, disciplina egregia pero olvidada, no lo hace. Esa es la biología que nos importa.</p>
+				<p>Podemos apreciar ahora la íntima vinculación entre la ética, la biología y la psicología; las tres son disciplinas teleológicas, que tienen que ver con la idea de función o finalidad. Las tres analizan qué deben hacer los organismos para lograr un determinado fin; las tres tienen por objeto la vida orgánica ¿Quiere decir esto que las tres son una y la misma cosa? Evidentemente no ¿Por qué? Para empezar, porque la ética tiene que ver, aunque no solo, con la felicidad y el sentido de la vida, y sería muy difícil sostener que los chimpancés manejan dichas ideas y tienen dichas preocupaciones. Estas son ideas mediadas cultural y simbólicamente; son funciones que no están al alcance de cualquier <italic>bicho</italic>, por mucho que nosotros no dejemos de ser uno entre muchos. Sí se puede decir, sin embargo, que los animales tienen un carácter específico, un modo de ser de esta o de aquella especie; aunque, de nuevo, como ya hemos señalado, este carácter no tiene las mismas connotaciones que los caracteres personales, propios de los seres humanos. Pero, sobre todo, no podemos decir que son lo mismo porque la relación entre la ética, la psicología y la etología, tal y como las hemos concebido, es una relación de identificación entre las dos primeras y de inclusión de la tercera en aquéllas. Desde este punto de vista, la ética haría las veces de una teoría general de la acción, de la vida, entendida como aquello que los organismos hacen y lo que les pasa; de sus fines y de sus funciones; de aquello que hacen, entre otras cosas, para seguir vivos y de la mejor forma. La etología, tal y como se ha estudiado hasta ahora, podría ofrecer materiales para esta reflexión; igual que la psicología -entendida en sentido tradicional-; pero esos materiales etológicos tienen un alcance limitado, no pudiendo identificarse con la totalidad de la ética. Al fin y al cabo, nuestra especie es, hasta donde se sabe, única en el uso de sus capacidades o funciones simbólicas. La cultura reorganiza dialécticamente los materiales estrictamente naturales, dando lugar a grados de complejidad que no estaban allí con anterioridad.</p>
+				<p>En cuanto a la psicología, con las debidas modificaciones conceptuales, es una disciplina que, a mi juicio, y como ya he adelantado, podría ser identificada con la ética. «Psicología» dice «psyché» y dice «lógos»; es decir, dice vida animada y dice razón: el conocimiento de aquella por sus causas necesarias; aquello a lo que <xref ref-type="bibr" rid="B23">Spinoza (2011)</xref> no dudó en llamar «Ética», aunque él no creyera en la finalidad. La vida, muy a su pesar, sin embargo, es esencialmente propositiva; está cargada de connotaciones teleológicas y funcionales; no deja de ser lo que el organismo hace y lo que le pasa.</p>
+				<p>Por supuesto, ningún psicólogo, etólogo ni filósofo que se precie estará dispuesto a modificar esta nomenclatura; ni falta que hace.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref> No se puede luchar contra un error milenario. Es suficiente con que se haga cargo de sus implicaciones. Podemos seguir llamando «ética» a la ética, «psicología» a la psicología, «etología» a la etología y «biología» a la biología, con tal de asumir las consecuencias de mi argumento: que explicar por qué un sujeto hace lo que hace es materia de un saber reflexivo, filosófico, no solo científico; que dicho saber tendrá que echar mano de otros saberes previos, algunos acaso científicos, pero también de otros técnicos o incluso tecnológicos; y que ofrecer dicha explicación exigirá adoptar siempre una perspectiva teleológica o funcional, pues todo lo que <italic>hacen</italic> los organismos, todo lo que no simplemente les <italic>pasa</italic>, es algo intencional. Comprender por qué los sujetos hacen lo que hacen es materia de una teoría de la acción, de una <italic>ética</italic>, de una <italic>psicología</italic> o de una <italic>praxeología</italic>; e implica, necesariamente, hacerse cargo de sus motivos.</p>
+				<p>¿Cuál podría ser el método de esta disciplina? No lo tengo claro, acaso, por <italic>cursi</italic> que pueda sonar, la <italic>empatía</italic>, eso sí, en sentido etimológico: la adopción o mímesis del punto de vista ajeno; llegar a comprender al otro, como diría Kant -lo que hace, sus prácticas- incluso mejor de lo que se entiende él a sí mismo. Este habría de ser el método, hermenéutico si se quiere, de esta disciplina. No habría que entender, sin embargo, esta empatía en un sentido puramente subjetivista, sino que habría que incluir en esa perspectiva, también, el complejo mundo institucional que la envuelve y determina. El bien y el mal, la realización o no de un determinado fin, no son gratuitos, pero sí una cuestión de perspectiva; no son algo ni puramente objetivo ni puramente subjetivo; más bien algo subjetual u objetual -dada la naturaleza dialéctica de este par de conceptos conjugados-. En el fondo, aprehender los fines y los motivos de alguien o algo no es otra cosa que ponerse en su lugar; contemplar el mundo desde su singular perspectiva.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>Hemos abordado a lo largo de este trabajo la naturaleza científica, o no, de la psicología. Para ello, hemos tenido que tomar partido por una determinada teoría de la ciencia: la teoría del cierre categorial (TCC). En este sentido, las ciencias, a diferencia de otras formas de conocimiento, como la filosofía, se caracterizarían por el tipo de verdades a que dan lugar: como identidades sintéticas. Es la eliminación o neutralización de las operaciones de los sujetos gnoseológicos y de los sujetos de investigación -cuando están presentes- la que otorga objetividad a las ciencias. Esta eliminación, sin embargo, no siempre es absoluta, permitiendo clasificarlas en función del grado de «objetividad» que son capaces de alcanzar: absoluto cuando son anantrópicas; inexistente en el caso de las técnicas.</p>
+			<p>Partiendo de estas coordenadas, hemos examinado qué lugar podría ocupar la psicología en el conjunto del saber. Por el camino, nos hemos topado con una serie de enredos gnoseológicos que hemos tenido que ir deshaciendo hasta poder ofrecer una respuesta.</p>
+			<p>Hemos visto, en primer lugar, que <italic>la Psicología no existe</italic>; que no podemos decir que la Psicología curricular es una disciplina unificada. En las Facultades de Psicología se estudia un crisol de disciplinas; algunas científicas -como la fisiología-, otras tecnológicas -como la psicometría- y otras, finalmente, estrictamente técnicas -como el control del comportamiento- ¿Quiere decir esto que no podemos hablar de la psicología, que no existe como disciplina? No, tan solo que hay que ir más allá de su barullo curricular para remontarse a lo esencial. En este sentido, más allá de su unidad institucional o deíctica, muchos psicólogos se han esforzado por tratar de resolver el entuerto.</p>
+			<p>Hemos presentado, entonces, las teorías de <xref ref-type="bibr" rid="B25">Yela (1996)</xref>, <xref ref-type="bibr" rid="B12">Pérez-Álvarez (2018a</xref>, <xref ref-type="bibr" rid="B13">2018b</xref> y <xref ref-type="bibr" rid="B16">2021b)</xref>, <xref ref-type="bibr" rid="B10">Loredo (2009)</xref> y <xref ref-type="bibr" rid="B18">Sánchez González (2009a</xref> y <xref ref-type="bibr" rid="B19">2009b)</xref> como ejemplos paradigmáticos de este intento de refundar la psicología como disciplina científica. Todos ellos comparten un interés fundamental por el sujeto y su comportamiento; aunque, cada uno, en función de sus propias influencias científicas y filosóficas, habla su propio lenguaje e introduce sus propios matices. A pesar de ello, lo que estos autores entienden por conducta, comportamiento, acción o función genética es bastante parecido. En conjunto, sus propuestas son una alternativa a los problemas conceptuales que plantea la definición tradicional de la psicología como ciencia de la mente y de la conducta. La idea de sujeto manejan es la de uno naturalizado, operatorio, darwiniano y corporalizado, que hace cosas con su cerebro, pero también con su cuerpo, su lenguaje y sus manos; siempre con vistas a algún fin. Lo que hace, además, transforma su medio y a él mismo, y no de manera mecánica, sino inteligente. En el ir y venir de sus acciones, éstas van adquiriendo, al hilo de sus consecuencias, grados de elaboración y complejidad crecientes.</p>
+			<p>Hay, sin embargo, un problema. Si bien estas propuestas permitirían fundamentar el estudio científico de esas <italic>funciones genéticas</italic>, al estilo de la psicología soviética, por <italic>psicología</italic> se suele entender, normalmente, algo de más alcance: el intento de comprender por qué los organismos hacen lo que hacen, la elucidación del profundo sentido de sus acciones y no solamente cómo se desarrollan y adquieren.</p>
+			<p>Semejante disciplina, a la que podríamos denominar «psicología general», y no solamente «genética», no puede ser, sin embargo, una disciplina científica. No solo porque en ella el sujeto es ineliminable, sino porque ofrecer semejante explicación implica también, y esto necesariamente, echar mano de muchas disciplinas diferentes: para empezar, de esa psicología genética y de ese monstruo de Frankenstein que configura los currículums de las Facultades de Psicología; pero, además, de la historia, de la antropología, de la sociología, de la biología y de otras tantas disciplinas, no solo científicas, sino también técnicas y tecnológicas. La psicología general, como teoría de la acción, tendría que ser una disciplina filosófica o reflexiva, capaz de recoger, coordinar y elaborar todos esos saberes de los que venimos hablando. Esa psicología general habría de ser, en definitiva, una <italic>praxeología</italic>.</p>
+			<p>Una vez asentada esta tesis, polémica -qué duda cabe-, hemos reinterpretado la lucha de escuelas, motivo que normalmente se suele aducir a la hora de hablar de la fragmentación teórica de la psicología, como una lucha, en realidad, entre escuelas filosóficas. No es que la psicología sea precientífica porque, como señaló <xref ref-type="bibr" rid="B24">Watson (1971)</xref>, en ella no se haya fraguado todavía un paradigma unificado; no. Más bien lo que sucede es que las escuelas psicológicas implican una toma de posición filosófica, dialéctica e irreconciliable, acerca de cuestiones ontológicas y antropológicas fundamentales. Por eso la lucha entre escuelas es y será eterna; porque eterna es la lucha entre filósofos de toda ralea.</p>
+			<p>Por último, una vez resuelta esta cuestión, nos hemos aventurado a ofrecer una explicación del carácter tan <italic>sui generis</italic> que tiene la psicología como disciplina, atribuyéndoselo al papel que en ella juegan, igual que en biología, las ideas de función y finalidad.</p>
+			<p>Ahora bien, como al estudio de los fines es a lo que se dedica la ética, hemos concluido, recurriendo a sus respectivas etimologías, que tanto la biología -reinterpretada y haciendo énfasis sobre una de sus ramas: la etología-, como la psicología general son, en realidad, disciplinas éticas. Las tres analizan qué deben hacer los organismos para lograr un determinado fin; las tres se refieren a la vida orgánica y a lo que hay que hacer para vivir adecuadamente. En las tres juegan también un papel fundamental las ideas de <italic>hábito</italic>, <italic>costumbre</italic> y <italic>carácter</italic>; y, finalmente, en las tres son esenciales las ideas de sentido y finalidad: leídas, eso sí, en términos específicos y evolutivos en el caso de la etología y en términos personales y biográficos en ética y psicología.</p>
+			<p>De esta forma, se sugiere reservar el término «etología» para el estudio de aquellos fines y funciones propias de los animales no humanos, no mediadas simbólica, cultural e institucionalmente -recogiendo así lo que en su día fue la etología, pero también muchos tramos de la psicología contemporánea, sobre todo de la psicología animal y comparada-. Al estudio genético de esas otras funciones complejas que caracterizan al ser humano, ahora sí, cultural, simbólica e institucionalmente mediadas, por su parte, bien se le podría llamar «psicología genética» -reconociendo, qué duda cabe, sus vínculos con aquellas otras funciones etológicas que les sirven de cimientos-. Finalmente, a la <italic>psicología general</italic>, entendida como teoría de la acción o <italic>praxeología</italic>, como teoría acerca de por qué los organismos hacen lo que hacen y de cuál es su sentido, la he identificado con la <italic>ética</italic>. No obstante, el uso práctico de estas desviaciones terminológicas es menos importante que su comprensión teórica; no se pretende que nadie aprenda a hablar de nuevo, tan solo que se haga cargo del argumento y de sus implicaciones, tanto teóricas como prácticas. En psicología, como en filosofía, muchas veces las disputas son nominales e inútiles; otras, por el contrario, discutir de nombres resulta de lo más útil. En cualquier caso, jamás se debería despreciar el poder de las palabras; grave error, sobre todo, cuando van cargadas de sentido.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Aristóteles (2019). <italic>Ética a Nicómaco. Ética a Eudemo</italic>. Gredos.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aristóteles</surname>
+							<given-names/>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<source>Ética a Nicómaco. Ética a Eudemo</source>
+					<publisher-name>Gredos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Ayala, F. J. (1968). Biology as an autonomous science. <italic>American scientist</italic>, <italic>56</italic>(3), 207-221. <ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/27828186">http://www.jstor.org/stable/27828186</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ayala</surname>
+							<given-names>F. J.</given-names>
+						</name>
+					</person-group>
+					<year>1968</year>
+					<article-title>Biology as an autonomous science</article-title>
+					<source>American scientist</source>
+					<volume>56</volume>
+					<issue>3</issue>
+					<fpage>207</fpage>
+					<lpage>221</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/27828186">http://www.jstor.org/stable/27828186</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Brentano, F. (2020). <italic>Psicología desde el punto de vista empírico</italic>. Sígueme.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Brentano</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>Psicología desde el punto de vista empírico</source>
+					<publisher-name>Sígueme</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Bueno, G. (1992/1993). <italic>Teoría del Cierre Categorial I-V</italic>. Pentalfa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bueno</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>1992/1993</year>
+					<source>Teoría del Cierre Categorial I-V</source>
+					<publisher-name>Pentalfa</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Bueno, G. (1995a). <italic>¿Qué es la filosofía?</italic> Pentalfa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bueno</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>1995a</year>
+					<source>¿Qué es la filosofía?</source>
+					<publisher-name>Pentalfa</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Bueno, G. (1995b). <italic>¿Qué es la ciencia?</italic> Pentalfa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bueno</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>1995b</year>
+					<source>¿Qué es la ciencia?</source>
+					<publisher-name>Pentalfa</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Fernández, T. R. (2009). Esbozo para una historia del sujeto desde Kant. En J. C. Loredo Narciandi, T. Sánchez Criado y D. López Gómez (Eds.), <italic>¿Dónde reside la acción? Agencia, Constructivismo y Psicología</italic> (pp. 73-89). UNED.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández</surname>
+							<given-names>T. R.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<chapter-title>Esbozo para una historia del sujeto desde Kant</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Loredo Narciandi</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez Criado</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>López Gómez</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<source>¿Dónde reside la acción? Agencia, Constructivismo y Psicología</source>
+					<fpage>73</fpage>
+					<lpage>89</lpage>
+					<publisher-name>UNED</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Gómez, C. (2018). El ámbito de la moralidad: Ética y moral. En C. Gómez y J. Muguerza (Eds.), <italic>La aventura de la moralidad. Paradigmas, fronteras y problemas de la Ética</italic> (pp. 19-52). Alianza Editorial.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gómez</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<chapter-title>El ámbito de la moralidad: Ética y moral</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Gómez</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Muguerza</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<source>La aventura de la moralidad. Paradigmas, fronteras y problemas de la Ética</source>
+					<fpage>19</fpage>
+					<lpage>52</lpage>
+					<publisher-name>Alianza Editorial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Leahey, T. H. (1998). <italic>Historia de la Psicología. Principales corrientes en el pensamiento psicológico</italic>. Prentice Hall Iberia.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Leahey</surname>
+							<given-names>T. H.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>Historia de la Psicología. Principales corrientes en el pensamiento psicológico</source>
+					<publisher-name>Prentice Hall Iberia</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Loredo, J. C. (2009). ¿Es la psicología un Aleph? En J. C. Loredo Narciandi, T. Sánchez Criado y D. López Gómez (Eds.), <italic>¿Dónde reside la acción? Agencia, Constructivismo y Psicología</italic> (pp. 15-30). UNED.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Loredo</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<chapter-title>¿Es la psicología un Aleph?</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Loredo Narciandi</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez Criado</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>López Gómez</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<source>¿Dónde reside la acción? Agencia, Constructivismo y Psicología</source>
+					<fpage>15</fpage>
+					<lpage>30</lpage>
+					<publisher-name>UNED</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Ortega y Gasset, J. (2021). <italic>Meditaciones del Quijote</italic>. Cátedra.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ortega y Gasset</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<source>Meditaciones del Quijote</source>
+					<publisher-name>Cátedra</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Pérez-Álvarez, M. (2018a). Para pensar la psicología más allá de la mente y el cerebro: un enfoque transteórico. <italic>Papeles del Psicólogo</italic>, <italic>39</italic>(3), 161-173. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2018.2875">https://doi.org/10.23923/pap.psicol2018.2875</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Álvarez</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2018a</year>
+					<article-title>Para pensar la psicología más allá de la mente y el cerebro: un enfoque transteórico</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>39</volume>
+					<issue>3</issue>
+					<fpage>161</fpage>
+					<lpage>173</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2018.2875</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Pérez-Álvarez, M. (2018b). Psychology as a Science of Subject and Comportment, beyond the Mind and Behavior. <italic>Integrative psychological and behavioral science</italic>, <italic>52</italic>, 25-51. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12124-017-9408-4">https://doi.org/10.1007/s12124-017-9408-4</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Álvarez</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2018b</year>
+					<article-title>Psychology as a Science of Subject and Comportment, beyond the Mind and Behavior</article-title>
+					<source>Integrative psychological and behavioral science</source>
+					<volume>52</volume>
+					<fpage>25</fpage>
+					<lpage>51</lpage>
+					<pub-id pub-id-type="doi">10.1007/s12124-017-9408-4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Pérez-Álvarez, M. (2019). La psicoterapia como ciencia humana, más que tecnológica. <italic>Papeles del Psicólogo</italic>, <italic>40</italic>(1), 1-14. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2019.2877">https://doi.org/10.23923/pap.psicol2019.2877</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Álvarez</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>La psicoterapia como ciencia humana, más que tecnológica</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>40</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>14</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2019.2877</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Pérez-Álvarez, M. (2021a). <italic>Ciencia y Pseudociencia en Psicología y Psiquiatría</italic>. Alianza Editorial.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Álvarez</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2021a</year>
+					<source>Ciencia y Pseudociencia en Psicología y Psiquiatría</source>
+					<publisher-name>Alianza Editorial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Pérez-Álvarez, M. (2021b). The Structure of Behavior as Unity of Psychology According to Mariano Yela. <italic>Psicothema</italic>, <italic>33</italic>(3), 372-377. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7334/psicothema2021.29">https://doi.org/10.7334/psicothema2021.29</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Álvarez</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2021b</year>
+					<article-title>The Structure of Behavior as Unity of Psychology According to Mariano Yela</article-title>
+					<source>Psicothema</source>
+					<volume>33</volume>
+					<issue>3</issue>
+					<fpage>372</fpage>
+					<lpage>377</lpage>
+					<pub-id pub-id-type="doi">10.7334/psicothema2021.29</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Ricoeur, P. (2019). Ética y moral. En C. Gómez (Ed.), <italic>Ética. Doce textos fundamentales del siglo XX</italic> (pp. 289-307). Alianza Editorial.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ricoeur</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<chapter-title>Ética y moral</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Gómez</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<source>Ética. Doce textos fundamentales del siglo XX</source>
+					<fpage>289</fpage>
+					<lpage>307</lpage>
+					<publisher-name>Alianza Editorial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Sánchez González, J. C. (2009a). Los límites del constructivismo. En J. C. Loredo Narciandi, T. Sánchez Criado y D. López Gómez (Eds.), <italic>¿Dónde reside la acción? Agencia, Constructivismo y Psicología</italic> (pp. 291-326). UNED.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez González</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2009a</year>
+					<chapter-title>Los límites del constructivismo</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Loredo Narciandi</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez Criado</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>López Gómez</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<source>¿Dónde reside la acción? Agencia, Constructivismo y Psicología</source>
+					<fpage>291</fpage>
+					<lpage>326</lpage>
+					<publisher-name>UNED</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Sánchez González, J. C. (2009b). Función y génesis. La idea de función en psicología y la especificidad del constructivismo. <italic>Estudios de Psicología</italic>, <italic>30</italic>(2), 131-149. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1174/021093909788347073">https://doi.org/10.1174/021093909788347073</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez González</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2009b</year>
+					<article-title>Función y génesis. La idea de función en psicología y la especificidad del constructivismo</article-title>
+					<source>Estudios de Psicología</source>
+					<volume>30</volume>
+					<issue>2</issue>
+					<fpage>131</fpage>
+					<lpage>149</lpage>
+					<pub-id pub-id-type="doi">10.1174/021093909788347073</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Sánchez González, J. C., y Loredo, J. C. (2007b). Para una crítica de los constructivismos contemporáneos. <italic>Revista de Historia de la Psicología</italic>, <italic>28</italic>(2-3), 35-41. Recuperado de <ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/254560346_Para_una_critica_de_los_constructivismos_contemporaneos">https://www.researchgate.net/publication/254560346_Para_una_critica_de_los_constructivismos_contemporaneos</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez González</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Loredo</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2007b</year>
+					<article-title>Para una crítica de los constructivismos contemporáneos</article-title>
+					<source>Revista de Historia de la Psicología</source>
+					<volume>28</volume>
+					<issue>2-3</issue>
+					<fpage>35</fpage>
+					<lpage>41</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/254560346_Para_una_critica_de_los_constructivismos_contemporaneos">https://www.researchgate.net/publication/254560346_Para_una_critica_de_los_constructivismos_contemporaneos</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Sánchez González, J. C. (2025). Psychogenesis in evolution and History. En J. Pérez-Jara e Í. Ongay (Eds.), <italic>Beyond nature and nurture. Perspectives on human multidimensionality</italic> (pp. 109-128). Springer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez González</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<chapter-title>Psychogenesis in evolution and History</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Pérez-Jara</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ongay</surname>
+							<given-names>Í.</given-names>
+						</name>
+					</person-group>
+					<source>Beyond nature and nurture. Perspectives on human multidimensionality</source>
+					<fpage>109</fpage>
+					<lpage>128</lpage>
+					<publisher-name>Springer</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Skinner, B. F. (1994). <italic>Sobre el conductismo</italic>. Planeta-De Agostini.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Skinner</surname>
+							<given-names>B. F.</given-names>
+						</name>
+					</person-group>
+					<year>1994</year>
+					<source>Sobre el conductismo</source>
+					<publisher-name>Planeta-De Agostini</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Spinoza, B. (2011). <italic>Ética</italic>. Alianza Editorial.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Spinoza</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Ética</source>
+					<publisher-name>Alianza Editorial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Watson, R. I. (1971). Prescriptions as operative in the history of psychology. <italic>Journal of the History of the Behavioral Sciences</italic>, <italic>7</italic>(4), 311-322. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/1520-6696(197110)7:4%3C311::AID-JHBS2300070402%3E3.0.CO;2-I">https://doi.org/10.1002/1520-6696(197110)7:4%3C311::AID-JHBS2300070402%3E3.0.CO;2-I</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Watson</surname>
+							<given-names>R. I.</given-names>
+						</name>
+					</person-group>
+					<year>1971</year>
+					<article-title>Prescriptions as operative in the history of psychology</article-title>
+					<source>Journal of the History of the Behavioral Sciences</source>
+					<volume>7</volume>
+					<issue>4</issue>
+					<fpage>311</fpage>
+					<lpage>322</lpage>
+					<pub-id pub-id-type="doi">10.1002/1520-6696(197110)7:4%3C311::AID-JHBS2300070402%3E3.0.CO;2-I</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Yela, M. (1996). La estructura de la conducta. Estímulo, situación y conciencia. <italic>Psicothema</italic>, <italic>8</italic>(Supl.), 89-147. Recuperado de <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/727/72780406.pdf">https://www.redalyc.org/pdf/727/72780406.pdf</ext-link> [6/04/2025].</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yela</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<article-title>La estructura de la conducta. Estímulo, situación y conciencia</article-title>
+					<source>Psicothema</source>
+					<volume>8</volume>
+					<supplement>Supl.</supplement>
+					<fpage>89</fpage>
+					<lpage>147</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/727/72780406.pdf">https://www.redalyc.org/pdf/727/72780406.pdf</ext-link>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-06">6/04/2025</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Zagaria, A., Ando’, A., y Zennaro, A. (2020). Psychology: A Giant with Feet of Clay. <italic>Integrative Psychology and Behavioral Science</italic>, <italic>54</italic>, 521-562. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12124-020-09524-5">https://doi.org/10.1007/s12124-020-09524-5</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zagaria</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ando’</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Zennaro</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Psychology: A Giant with Feet of Clay</article-title>
+					<source>Integrative Psychology and Behavioral Science</source>
+					<volume>54</volume>
+					<fpage>521</fpage>
+					<lpage>562</lpage>
+					<pub-id pub-id-type="doi">10.1007/s12124-020-09524-5</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>Como bien ha señalado uno de los revisores de este artículo, esta solución es tan farragosa como pedante y merecería, por sí sola, borrar el párrafo que la contiene; lo cual no la vuelve, sin embargo, menos ajustada a la realidad. Que la pedantería y la farragosidad interpelen y enfaden al lector, pues no es otro su propósito.</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>Es bien sabido que, a mayor tamaño de la muestra, menores han de ser las diferencias entre los grupos para resultar estadísticamente significativas.</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>Aunque algunos de estos principios del aprendizaje sí puedan, acaso, hacérsela más amena.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>Para ser justos, habría que decir lo mismo de cualquier otro científico; pues no es este un error exclusivo del psicólogo. Los científicos, como los curas, creen que la ciudad se ve mejor desde la cima de su propio campanario; de ahí sus tendencias reduccionistas. Ninguno puede resistirse, tampoco, a hacer sus <italic>pinitos</italic> filosóficos, ya sea adentrándose en los oscuros vericuetos de la cosmología o haciéndose ilusiones sobre el carácter ideal de los objetos matemáticos —por poner solo dos ejemplos de las que pasan por ser las ciencias más «puras»—.</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>Psicólogos contemporáneos, como <xref ref-type="bibr" rid="B15">Pérez-Álvarez (2021a)</xref>, son plenamente conscientes de la miopía que supone este rechazo ciego, abogando por el estudio y conocimiento profundo de la filosofía, y también de otras disciplinas, como requisito necesario para hacer buena psicología; porque, como le gusta recordar: el psicólogo que solo sabe de psicología, ni psicología sabe.</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>No obstante, no sería estúpido planteárselo. Muchos temas propios de la psicología tradicional se entienden mejor considerándolos como conflictos de valores o fines, empezando por buena parte de la psicopatología y de la psicoterapia. Los trastornos mentales tienen mucho de trastornos morales, cuando no, directamente, de desmoralización. Esto no significa que aquellos que los sufren sean personas malvadas. Yo no me considero malvado. Llamarlos <italic>morales</italic> es tanto como decir que tienen que ver con los <italic>mores</italic>, con las costumbres, con nuestros hábitos y con nuestro carácter; pero, sobre todo, con cómo esos hábitos y esos caracteres, esas formas de ser persona, entran en conflicto, por ejemplo, con las exigencias de la vida en sociedad.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

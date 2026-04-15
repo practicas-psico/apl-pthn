@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.70478/pap.psicol.2026.47.13</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Data-Informed Psychotherapy Training and Development Program: Personalizing Psychotherapy Through Systematic Outcome Monitoring, Therapeutic Preferences, and Clinical Supervision</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Programa de Formación y Entrenamiento en Psicoterapia Basado en Datos: Personalizando la Psicoterapia a Partir del Monitoreo Sistemático de Resultados, Preferencias Terapéuticas y Supervisión Clínica</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-5515-2923</contrib-id>
+					<name>
+						<surname>Santangelo</surname>
+						<given-names>Pablo Rafael</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Facultad de Psicología, Universidad Nacional de Mar del Plata, Argentina</institution>
+					<institution content-type="normalized">Universidad Nacional de Mar del Plata</institution>
+					<institution content-type="orgdiv1">Facultad de Psicología</institution>
+					<institution content-type="orgname">Universidad Nacional de Mar del Plata</institution>
+					<country country="AR">Argentina</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Correspondence: Pablo Rafael Santangelo <email>pablop6s@yahoo.com.ar</email>
+				</corresp>
+				<fn fn-type="con" id="fn1">
+					<label>Cite this article as</label>
+					<p>Santangelo, P. R. (2026). Data-informed psychotherapy training and development program: personalizing psychotherapy through systematic outcome monitoring, therapeutic preferences, and clinical supervision. <italic>Papeles del Psicólogo/Psychologist Papers, 47</italic>(2), 115-124. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.70478/pap.psicol.2026.47.13">https://doi.org/10.70478/pap.psicol.2026.47.13</ext-link>. This article is published under Creative Commons License 4.0 CC-BY-NC-ND</p>
+				</fn>
+				<fn fn-type="conflict" id="fn2">
+					<p>There are not conflict of interests.</p>
+				</fn>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>115</fpage>
+			<lpage>124</lpage>
+			<history>
+				<date date-type="received">
+					<day>19</day>
+					<month>09</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>05</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>The present paper describes the Psychotherapy Training and Development Program implemented at the School of Psychology of the University of Mar del Plata, which focuses on the strengthening of transtheoretical therapeutic competencies. The program is designed to overcome the limitations of traditional approaches grounded in a single theoretical orientation. It integrates a theoretical framework grounded in professional development models such as those proposed by Hill, and Rønnestad and Skovholt, which emphasize progressive learning, supervised experience, and the consolidation of a reflective and flexible professional identity. The fundamental role of clinical supervision is addressed as a key space for theory-practice integration, the promotion of therapist self-efficacy, and the refinement of therapeutic competencies. Finally, the importance of routine outcome monitoring and the active consideration of client preferences is highlighted as a means to client personalize and optimize therapeutic interventions. This comprehensive approach promotes the development of competent and reflective therapists, prepared to respond to clinical demands with scientific rigor and ethical sensitivity.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>El presente trabajo describe el Programa de Formación y Entrenamiento en Psicoterapia implementado en la Facultad de Psicología de la Universidad Nacional de Mar del Plata, orientado al fortalecimiento de competencias terapéuticas transteóricas. El programa está diseñado para superar las limitaciones de los enfoques tradicionales basados en una única orientación teórica. Integra un marco conceptual sustentado en modelos de desarrollo profesional, como los propuestos por Hill y por Rønnestad y Skovholt, que enfatizan el aprendizaje progresivo, la experiencia supervisada y la consolidación de una identidad profesional reflexiva y flexible. Se aborda el rol fundamental de la supervisión clínica como un espacio clave para la integración teoría-práctica, la promoción de la autoeficacia del terapeuta y el perfeccionamiento de las competencias terapéuticas. Finalmente, se destaca la importancia del monitoreo sistemático de resultados y de la consideración activa de las preferencias de los pacientes como vía para personalizar y optimizar las intervenciones terapéuticas. Este abordaje integral promueve la formación de terapeutas competentes y reflexivos, preparados para responder a las demandas clínicas con rigor científico y sensibilidad ética.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Psychotherapy training</kwd>
+				<kwd>Routine outcome monitoring</kwd>
+				<kwd>Therapeutic preferences</kwd>
+				<kwd>Clinical supervision</kwd>
+				<kwd>Psychotherapy personalization</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>XXX</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="58"/>
+				<page-count count="10"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>Psychotherapy training programs are arguably among the most influential interventions in the field, as they shape the kind of therapists their graduates become (<xref ref-type="bibr" rid="B7">Callahan &amp; Watkins, 2018</xref>; <xref ref-type="bibr" rid="B39">Orlinsky et al., 2024</xref>). It is uncommon for psychotherapy training programs to adopt transtheoretical and transdiagnostic approaches; rather, the field remains largely anchored in theoretical models that implicitly isolate and contrast different orientations (<xref ref-type="bibr" rid="B2">Babl et al., 2024</xref>; <xref ref-type="bibr" rid="B42">Rief et al., 2024</xref>).</p>
+			<p>Evidence-based training programs incorporate specific procedures designed to foster the development of therapeutic competencies. Among the most widely used methods to enhance therapist effectiveness are clinical supervision, continuing education, and outcome feedback systems (<xref ref-type="bibr" rid="B47">Rousmaniere et al., 2017</xref>). In current psychotherapy training programs, the transfer of theoretical knowledge to work with real clients is primarily based on role-playing exercises and supervised clinical practice (<xref ref-type="bibr" rid="B2">Babl et al., 2024</xref>).</p>
+			<p>Another procedure employed in therapist training is deliberate practice, which aims to refine specific clinical skills. This method involves observing the therapist's performance, receiving expert feedback, setting incremental learning goals that extend beyond current competence levels, engaging in repeated rehearsal of targeted skills, and undergoing continuous assessment (<xref ref-type="bibr" rid="B45">Rousmaniere, 2016</xref>, <xref ref-type="bibr" rid="B46">2019</xref>). Deliberate practice enables clinicians to gain confidence and expertise in the interventions they apply with their clients.</p>
+			<p>As previously mentioned, supervision is one of the most commonly used procedures and is essential for developing therapeutic competencies. <xref ref-type="bibr" rid="B6">Bernard and Goodyear (2019)</xref> argue that, as individuals practice interventions, these tend to become more deeply ingrained. This applies to both effective and ineffective interventions. Therefore, unless the practitioner receives guidance and feedback, the behavioral repertoire they consolidate may include ineffective or even harmful responses. The vast majority of training programs promote experiential, relationship-focused learning, including direct supervision of students’ clinical cases and case discussions with experts and peers (<xref ref-type="bibr" rid="B39">Orlinsky et al., 2024</xref>).</p>
+			<p>
+				<xref ref-type="bibr" rid="B33">Norcross and Lambert’s (2018)</xref> recommendations for competency-based training include, among others, strengthening therapists’ skills for managing the therapeutic relationship and tailoring treatment to individual clients, with attention to their cultural background, values, and beliefs. In this regard, we support the assertion that no single form of psychotherapy is effective for all clients, regardless of how effective it may be for some (<xref ref-type="bibr" rid="B34">Norcross &amp; Wampold, 2018</xref>), and that no therapeutic approach fits all cases, or even the same client at all times (<xref ref-type="bibr" rid="B10">Constantino et al., 2023</xref>).</p>
+			<p>Throughout the ten years of the Psychotherapy Training and Development Program, the working modality was adapted to meet the needs of both graduates and clients. Some of the competencies developed during the training process-such as case formulation, responsiveness, multicultural competence, and humility-as well as the tools employed-such as deliberate practice and supervision-and the contributions inspired by Fernández Álvarez’s work (<xref ref-type="bibr" rid="B20">Fernández-Álvarez &amp; García, 1998</xref>; <xref ref-type="bibr" rid="B21">Fernández-Álvarez et al., 2008</xref>; <xref ref-type="bibr" rid="B18">Fernández-Álvarez, 2008</xref>; <xref ref-type="bibr" rid="B19">Fernández-Álvarez, 2016</xref>), were presented in a previous paper (<xref ref-type="bibr" rid="B48">Santangelo, 2020</xref>). The present article constitutes a continuation and expansion of that work. Over these ten years, new resources have been incorporated, continuous training spaces have been created, and weekly clinical supervision sessions have been established. Deliberate practice procedures were also implemented, a system for assessing therapeutic preferences was developed, and various training strategies for systematic outcome monitoring were adopted.</p>
+			<p>What follows is a summary of some of the actions carried out throughout these years. Some activities have been present in every cohort, while others have been progressively integrated in response to emerging demands from daily clinical practice. The program is designed to support graduates in constructing their professional identity as therapists, fostering a sustained commitment to therapeutic relationships with adult clients, equipped with the interpersonal and reflective skills necessary to conduct them effectively.</p>
+		</sec>
+		<sec>
+			<title>Intake and Treatment</title>
+			<p>A brief overview of the therapeutic practice carried out by the therapists is provided below. All intake, conducted within the Program include open interviews and one structured interview in which the following questionnaires are administered: the Clinical Outcomes in Routine Evaluation - Outcome Measure (CORE-OM; Trujillo et al., 2016), the Argentine adaptation (<xref ref-type="bibr" rid="B50">Santangelo &amp; Conde, 2023</xref>) of the Psychotherapy Preferences and Experiences Questionnaire (PEX.P1; Clinton &amp; Sandell, 2011), and the Personality Inventory for DSM-5 (PID-5; Krueger et al., 2012).</p>
+			<p>Once the intake process is complete, if it is determined that the necessary resources are available to provide care and a referral is not required-and there is agreement regarding the treatment goals and the means to achieve them-the therapeutic process begins, consisting of no more than twelve sessions. Client progress is monitored using the CORE-OM during the third, eighth, and final treatment sessions.</p>
+			<p>All therapists also participate in two weekly spaces: a 90-minute group supervision session and a clinical case conference. In this space, in addition to presenting cases and working on specific theoretical-technical content, group dynamics and the individual characteristics of each graduate are addressed, including their needs, desires, values, and expectations. The aim is to foster a more flexible and personalized training process. In addition, they are required to complete two postgraduate courses: one on initial interviews in psychotherapy and another on interventions for people with common mental disorders.</p>
+		</sec>
+		<sec>
+			<title>Theoretical Models Underpinning the Program</title>
+			<p>Since its inception, the Training and Psychotherapy Practice Program (<xref ref-type="bibr" rid="B48">Santangelo, 2020</xref>) has been characterized by its nonadherence to any specific theoretical model. That is, it is not based on a single therapeutic approach but rather on empirical evidence. The program is designed to foster transtheoretical therapeutic competencies that enhance therapist performance.</p>
+			<p>Nevertheless, the program is grounded in transtheoretical and transdiagnostic models that guide the training process, such as the Therapist Development Model by <xref ref-type="bibr" rid="B43">Rønnestad and Skovholt (2013)</xref>, <xref ref-type="bibr" rid="B25">Hill’s Helping Skills Model (2020</xref>, <xref ref-type="bibr" rid="B27">2024)</xref>, principles for the development and training of therapeutic competencies, and the Transtheoretical Model of Change by <xref ref-type="bibr" rid="B41">Prochaska and Prochaska (2016)</xref>.</p>
+			<p>The first model provides a framework for identifying the characteristics of graduates at the time they enter the program, as well as a foundation for promoting the development of therapeutic competencies. <xref ref-type="bibr" rid="B25">Hill’s model (2020</xref>, <xref ref-type="bibr" rid="B27">2024)</xref> offers a precise distinction between basic and advanced helping skills, which allows the training to focus on their progressive development. Meanwhile, the work of <xref ref-type="bibr" rid="B8">Castonguay et al. (2023)</xref> presents a classification and description of the core competencies required to be an effective therapist. The Transtheoretical Model of Change, in turn, offers generic principles for deciding how to intervene, regardless of the client's specific presenting problem.</p>
+		</sec>
+		<sec>
+			<title>Therapist Development Model</title>
+			<p>The Program is structured around <xref ref-type="bibr" rid="B43">Rønnestad and Skovholt’s (2013)</xref> Therapist Development Model, which identifies five developmental phases: novice student, advanced student, novice professional, experienced professional, and senior professional (<xref ref-type="bibr" rid="B44">Rønnestad et al., 2019</xref>). The first two phases correspond to the stage traversed by the Program’s graduates, taking into account the structural differences between academic training in the United States and Argentina.</p>
+			<p>The novice-student phase spans from the start of postgraduate studies in helping disciplines to the second year of training and typically includes the initial practicum or its equivalents. The advanced student is in the final stage of postgraduate training and practices as a therapist in practica, internships, or placements while receiving formal, regular supervision (<xref ref-type="bibr" rid="B44">Rønnestad et al., 2019</xref>). Most graduates who enter the Program are in these two phases, and many begin their clinical experience during the Program itself, over one or two years depending on the cohort.</p>
+			<p>During the novice student phase, the graduate must integrate and make sense of the information acquired and demonstrate clinical competencies. In other words, they must face the discomfort and emotional reactions inherent in initial client encounters, remain receptive to new information, and begin to select intervention principles and techniques. The focus at this stage is on striving to become a competent therapist (<xref ref-type="bibr" rid="B43">Rønnestad &amp; Skovholt, 2013</xref>; <xref ref-type="bibr" rid="B44">Rønnestad et al., 2019</xref>).</p>
+			<p>Graduates commonly experience anxiety and threat in the face of the demand to master theory and articulate it with practice. Supervision plays a central role in this phase. The combination of dependence and vulnerability, together with the need for guidance and validation, makes supervision a critical learning space. Although graduates value clear and honest feedback, they may also feel exposed to negative evaluations (<xref ref-type="bibr" rid="B43">Rønnestad &amp; Skovholt, 2013</xref>). Lack of confidence and still-developing clinical skills can generate significant distress. The anxiety of working with clients for the first time may lead to excessive dependence on the supervisor, a constant need for approval, and a self-focused rather than client-focused orientation (<xref ref-type="bibr" rid="B6">Bernard &amp; Goodyear, 2019</xref>).</p>
+			<p>Supervision is highly valued across all phases of professional development-especially in the initial stage. Many therapists-in-training experience frustration and disillusionment at this point due to scant positive feedback from clients, supervisors, or peers. The combination of intense insecurity and the absence of positive reinforcement for a complex task can lead to a loss of motivation (<xref ref-type="bibr" rid="B43">Rønnestad &amp; Skovholt, 2013</xref>). Supervisors are therefore encouraged to provide clear, specific positive feedback on therapists’ performance and to foster reciprocal feedback exchange among peers.</p>
+			<p>According to <xref ref-type="bibr" rid="B43">Rønnestad and Skovholt (2013)</xref>, when the graduate meets the conceptual knowledge and procedural competence criteria established by the Program, they are considered ready to advance. This involves reasonably managing emotional reactions to clinical challenges while maintaining an open attitude, with a sufficiently well-defined technical repertoire. Upon fulfilling these requirements, the graduate can progress to the advanced student phase.</p>
+			<p>In this second phase, in addition to meeting the previous criteria, the trainee is expected to abandon idealized and perfectionistic representations of psychotherapy and the professional role. They are also expected to tolerate the inherent complexity of the therapeutic process. As in the previous phase, supervision remains a significant source of influence, and unsatisfactory supervision experiences can be particularly detrimental at this stage.</p>
+			<p>At the outset, trainees often hold very high aspirations, believing they can help all-or most-of their clients. Internalized standards of professional performance foster a tendency toward over-responsibility. Consequently, spontaneity is scarce, and clinical work is characterized by a serious, rigorous, appropriateness-centered style. Compared with therapists with decades of experience, those beginning their first practices tend to be less relaxed, less risk-taking, and less spontaneous (<xref ref-type="bibr" rid="B43">Rønnestad &amp; Skovholt, 2013</xref>).</p>
+			<p>During this stage, a progressive shift occurs in trainees’ perception of therapeutic responsibility and expectations about what clients can achieve in therapy. This shift is shaped by both direct experience and vicarious observation that not all clients improve and that reaching therapeutic goals may take longer than expected. Toward the end of the phase, the therapist-in-training develops a more elaborated understanding of the change process, with more realistic expectations about what can be achieved, in what time frame, and with what resources. They also begin to relativize exclusive responsibility for the client’s emotional well-being (<xref ref-type="bibr" rid="B43">Rønnestad &amp; Skovholt, 2013</xref>; <xref ref-type="bibr" rid="B44">Rønnestad et al., 2019</xref>).</p>
+			<p>Although the supervisor’s evaluation remains important-as it is interpreted as validation of professional performance-ambivalence toward the supervisory role, driven by the desire for autonomy, can modulate its impact. Supervisors should therefore remain attuned to these ambivalent reactions (<xref ref-type="bibr" rid="B43">Rønnestad &amp; Skovholt, 2013</xref>).</p>
+		</sec>
+		<sec>
+			<title>Competencies to be Developed and Trained</title>
+			<p>Therapeutic competencies can be understood as a set of knowledge, skills, and attitudes that together constitute an acceptable level of clinical performance (<xref ref-type="bibr" rid="B23">Fouad et al., 2009</xref>). Following the work of <xref ref-type="bibr" rid="B8">Castonguay et al. (2023)</xref>, we distinguish three categories of competencies: generic competencies, basic specific competencies, and metacompetencies.</p>
+			<p>Generic therapeutic competencies refer to foundational (though not necessarily simple) capacities that are relevant for most psychotherapists. They involve both the acquisition of knowledge and its practical application in areas such as assessment, case formulation, treatment planning, intervention delivery, and professional ethical conduct.</p>
+			<p>Assessment includes the ability to conduct a psychopathological diagnosis, evaluate nondiagnostic characteristics, and engage in the continuous assessment of the therapeutic alliance. Case formulation entails processing and integrating relevant information about the client’s difficulties and strengths, as well as the factors involved in the development and maintenance of their problems, to design an appropriate treatment plan (<xref ref-type="bibr" rid="B15">Eells, 2015</xref>). This formulation requires complementary skills such as collaborative work with clients (<xref ref-type="bibr" rid="B30">King &amp; Boswell, 2019</xref>) and the provision of clear, sensitive feedback (<xref ref-type="bibr" rid="B22">Finn, 2020</xref>).</p>
+			<p>Competencies related to intervention implementation include the knowledge, skills, and attitudes necessary to develop and maintain positive therapeutic relationships, foster client motivation, and incorporate a multicultural orientation. They also encompass routine monitoring of therapeutic progress and the establishment of collaborative relationships with other professionals (<xref ref-type="bibr" rid="B8">Castonguay et al., 2023</xref>).</p>
+			<p>Humility, although considered by some authors a virtue (<xref ref-type="bibr" rid="B40">Paine et al., 2015</xref>), is conceptualized in this Program as a therapeutic competency that can be trained and refined. Activities are designed to increase graduates’ awareness of their strengths and limitations. Following <xref ref-type="bibr" rid="B58">Watkins Jr. and Mosher (2020)</xref>, we foster the development of three forms of humility: relational, cultural, and intellectual.</p>
+			<p>Graduates are expected to cultivate humility in the therapeutic relationship with their clients and in the supervisory relationship with their supervisors. They are also encouraged to display openness, interest, and curiosity toward the cultural differences, beliefs, values, and viewpoints that emerge in treatment and supervision processes. Finally, they are guided to be humble regarding their own beliefs, ideas, and intellectual opinions (e.g., religious or political), recognizing their influence on clinical work and supervision.</p>
+			<p>Becoming a therapist also entails acquiring knowledge and attitudes related to ethical practice. Conceptually, this includes learning the profession’s ethical standards; interpersonally, it involves developing behaviors consistent with high standards of morality and professional decency.</p>
+			<p>Basic specific competencies of each theoretical approach encompass both conceptual knowledge and the application of technical resources inherent to each model (<xref ref-type="bibr" rid="B8">Castonguay et al., 2023</xref>)-for example, cognitive-behavioral, humanistic, or psychodynamic approaches. The Program’s training is guided by principles of intervention: in a case of depression, for instance, empirical evidence directs both the mode of intervention and the technical resources to be employed. These principles are grounded in findings from multiple theoretical models, and the focus remains on collaborating with the client to improve their situation.</p>
+			<p>Metacompetencies are general strategies that guide how the therapist implements competencies, as well as their subjective experience and conduct during the session. According to <xref ref-type="bibr" rid="B8">Castonguay et al. (2023)</xref>, meta-competencies enable therapists to decide how and when to use generic and specific competencies so that they are tailored to each client’s particular characteristics and needs. These include responsiveness, metacommunication, emotional regulation, and the ability to work from principles of change.</p>
+			<p>Based on the premise that learning is action, the Program fosters the development of the mentioned competencies through supervised practice, both in role-play contexts and in training clinical cases. Supervision constitutes a cornerstone in therapist education and training, as it allows experiences, skills, and reflections to be progressively and contextually integrated.</p>
+		</sec>
+		<sec>
+			<title>Clara Hill’s Helping Skills Facilitation Model</title>
+			<p>Another pillar of the Training and Psychotherapy Practice Program is the model proposed by <xref ref-type="bibr" rid="B25">Clara Hill (2020</xref>,<xref ref-type="bibr" rid="B27">2024)</xref>, which posits three fundamental competencies for becoming an effective therapist: the ability to use helping skills, self-awareness, and a facilitative attitude. <italic>Helping</italic>, according to Hill, can be defined as assisting another person in exploring feelings, creating new meaning, and making significant life changes.</p>
+			<p>Beyond mastering helping skills, therapists must be willing to engage in introspection and strive to develop genuine self-awareness regarding how they are perceived by others. Complementing this, cultivating a facilitative attitude toward clients is a necessary foundation for providing effective help. Such attitudes include empathy, warmth, authenticity, compassion, and nonjudgment (<xref ref-type="bibr" rid="B29">Hill &amp; Norcross, 2023</xref>).</p>
+			<p>
+				<xref ref-type="bibr" rid="B25">Hill’s model (2020</xref>,<xref ref-type="bibr" rid="B27">2024)</xref> groups basic helping skills into three types of interventions-exploration, insight, and action-each with specific goals:</p>
+			<p>
+				<list list-type="bullet">
+					<list-item>
+						<p><bold>Exploration:</bold> Its objective is to develop in the therapist the skills that facilitate the clent’s expression of thoughts and feelings related to their concerns. Nonverbal attentional resources and active listening skills are used, promoting awareness of internal experiences.</p>
+					</list-item>
+					<list-item>
+						<p><bold>Insight:</bold> Development and training of interventions aimed at facilitating a deeper understanding of the reasons underlying thoughts, emotions, and behaviors. At this stage, therapist and client are expected to construct meanings collaboratively.</p>
+					</list-item>
+					<list-item>
+						<p><bold>Action:</bold> This stage aims to support the professional in developing therapeutic skills that promote change in patients. As in the previous stages, the process is collaborative. The three stages are not linear but unfold dynamically throughout the therapeutic process.</p>
+					</list-item>
+				</list>
+			</p>
+			<p>Therapist self-efficacy is defined as beliefs about one’s ability to perform specific professional behaviors, such as using helping skills, managing therapy sessions, and confronting clinical challenges (<xref ref-type="bibr" rid="B37">Lent et al., 2003</xref>). In this model, self-efficacy comprises three dimensions:</p>
+			<p>
+				<list list-type="order">
+					<list-item>
+						<p><bold>Helping-skills self-efficacy</bold>, covering interventions oriented to exploration, insight, and action, fundamental in clinical practice.</p>
+					</list-item>
+					<list-item>
+						<p><bold>Session-management self-efficacy</bold> refers to the capacity to integrate these skills in typical session situations, adapting to various contexts.</p>
+					</list-item>
+					<list-item>
+						<p><bold>Challenge-coping self-efficacy</bold> is subdivided into (a) conflicts in the therapeutic relationship and (b) difficult problems. This dimension reflects a more advanced stage of professional development, as it requires higher-order skills.</p>
+					</list-item>
+				</list>
+			</p>
+			<p>In the current Program, self-efficacy is conceived as a central determinant of clinical performance. To operationalize this construct, the local adaptation of the Counselor Activity Self-Efficacy Scales (CASES; <xref ref-type="bibr" rid="B37">Lent et al., 2003</xref>; adaptation: <xref ref-type="bibr" rid="B52">Santangelo et al., 2023</xref>) is employed. The scale is administered three times a year. Outcome feedback provides the bridge between assessment and professional development: CASES reports are shared with supervisors, who triangulate this information with therapists. Self-efficacy data help identify learning profiles-for example, therapists with high confidence in exploration skills but low confidence in action skills-guiding focused training interventions such as targeted role-plays for action skills.</p>
+			<p>From a practical standpoint, this <italic>assessment-feedback-adjustment</italic> cycle offers at least four benefits:</p>
+			<p>
+				<list list-type="order">
+					<list-item>
+						<p>Personalized supervision, which allows supervisors to adjust the balance between directive and reflective support according to the level of self-efficacy reported, thereby optimizing the optimal learning window. This prevents both overprotection and premature withdrawal from clinical challenges.</p>
+					</list-item>
+					<list-item>
+						<p>Prevention of clinical errors, for example, persistently low self-efficacy scores signal a risk of avoiding complex tasks (e.g., intervening in intense emotions), enabling preventive interventions before these difficulties translate into therapeutic failures.</p>
+					</list-item>
+					<list-item>
+						<p>Reinforcement of deliberate practice: by linking CASES scores to specific objectives for the therapist to achieve, more focused deliberate practice is promoted, with clear metrics for progress.</p>
+					</list-item>
+					<list-item>
+						<p>Data-informed decision-making: the convergence between improvements in self-efficacy and advances in client outcome indicators provides local evidence regarding the program’s effectiveness.</p>
+					</list-item>
+				</list>
+			</p>
+		</sec>
+		<sec>
+			<title>Transtheoretical and Transdiagnostic Model of Change Proposed by Prochaska and Prochaska</title>
+			<p>Another conceptual pillar of the Program is the Transtheoretical Model (TTM) of Psychological Change. This model is pivotal for deciding <italic>which</italic> interventions to implement and which psychological processes to target, depending on the client’s stage of change.</p>
+			<p>
+				<xref ref-type="bibr" rid="B41">Prochaska and Prochaska (2016)</xref> identify six stages in the change process-pre-contemplation, contemplation, preparation, action, maintenance, and termination. Each stage has specific characteristics and is linked to particular psychological processes. Accurate identification of the client’s stage is therefore essential. Such assessment allows therapists to align interventions with the processes most relevant to each stage and to facilitate movement from one stage to the next in an effective, attuned manner. The TTM thus provides generic, theory-transcending intervention principles that focus on change as an evolutionary process rather than adherence to any single theoretical orientation.</p>
+		</sec>
+		<sec>
+			<title>Clinical Supervision and the Supervisory Relationship</title>
+			<p>
+				<xref ref-type="bibr" rid="B28">Hill and Knox (2023)</xref> distinguish psychotherapy training from clinical supervision. Training usually involves structured, often group-based education aimed at students or graduates, with helping-skills programs teaching specific verbal techniques. In contrast, clinical supervision is an individual or group process in which a supervisor works with a supervisee on specific clinical cases.</p>
+			<p>Although the Program maintains this conceptual distinction, training, and supervision are integrated within a single framework. For example, role-plays to hone a particular skill may take place during supervision, while clinical grand-rounds sometimes evolve into supervisory discussions of concrete difficulties. Experiential learning is a universal commitment across training programs worldwide; most include direct supervision of trainees’ clinical cases by experienced professionals and case discussions with experts and peers-the “common core” of psychotherapy training (<xref ref-type="bibr" rid="B39">Orlinsky et al., 2024</xref>).</p>
+			<p>
+				<xref ref-type="bibr" rid="B6">Bernard and Goodyear (2019)</xref> define supervision as an intervention provided by a more experienced professional to colleagues at earlier stages of development. This evaluative, hierarchical relationship is sustained over time and pursues three simultaneous aims: (1) improve the supervisee’s professional performance, (2) ensure the quality of care delivered to clients, and (3) safeguard the profession. Ethically, the supervisor’s primary responsibility is client welfare; whenever the supervisee and client's interests’ conflict, the latter must prevail.</p>
+			<p>A central element of clinical supervision is establishing an explicit agreement at the outset. Supervisees are expected to conduct sessions professionally, behave ethically, complete records promptly, and participate actively in supervision-all of which may provoke anxiety if not clearly understood (<xref ref-type="bibr" rid="B6">Bernard &amp; Goodyear, 2019</xref>; <xref ref-type="bibr" rid="B16">Ellis et al., 2002</xref>; <xref ref-type="bibr" rid="B31">Koçyiğit, 2020</xref>). The Program therefore formalizes a written supervision contract that spells out rights, duties, and mutual expectations. <xref ref-type="bibr" rid="B56">Watkins Jr. et al. (2024)</xref> conceptualize such contracts as documents informing supervisees about the essentials of the process and expected outcomes.</p>
+			<p>Supervision is driven by supervisee needs, key process tasks, the agreed contract, and ongoing feedback-elements essential for an effective Supervisory Relationship (SR). The SR comprises three dimensions:</p>
+			<p>
+				<list list-type="alpha-lower">
+					<list-item>
+						<p><bold>Secure Base:</bold> includes relational aspects such as collaboration, respect, acceptance, and emotional support, which encourage open expression of clinical and personal difficulties (<xref ref-type="bibr" rid="B36">Milne et al., 2011</xref>).</p>
+					</list-item>
+					<list-item>
+						<p><bold>Reflective Education:</bold> refers to the supervisor’s ability to integrate theoretical models, promote critical reflection on clinical practice, and attend to the supervision process. It also involves containing emerging emotions and anxieties. There is consensus that the educational function is a central pillar of evidence-based supervision (<xref ref-type="bibr" rid="B4">Beinart, 2012</xref>; <xref ref-type="bibr" rid="B6">Bernard &amp; Goodyear, 2019</xref>; <xref ref-type="bibr" rid="B35">Milne, 2017</xref>).</p>
+					</list-item>
+					<list-item>
+						<p><bold>Structure:</bold> alludes to organizational facets such as clear boundaries, session structuring, and process framing (<xref ref-type="bibr" rid="B5">Beinart &amp; Clohessy, 2017</xref>).</p>
+					</list-item>
+				</list>
+			</p>
+			<p>In the Program, the SR is regarded as the main engine of experiential learning. Its evaluation employs the brief version of the Supervisory Relationship Questionnaire (S-SRQ; <xref ref-type="bibr" rid="B9">Cliffe et al., 2016</xref>; local adaptation: <xref ref-type="bibr" rid="B49">Santangelo &amp; Conde, 2020</xref>), which probes the three dimensions above.</p>
+			<p>The S-SRQ is administered three times a year and results are shared transparently with supervisors and supervisees. This bidirectional feedback is triangulated with other training data, such as self-efficacy scores (CASES), to create an integrative map of the formative experience.</p>
+			<p>The practical implications of this evaluation-feedback-adjustment cycle are twofold. First, the adjustment of the supervisor’s style: for example, if low scores are detected in “secure base,” supervisors can increase warmth and validation behaviors; if the weakness lies in “reflective education,” more opportunities for modeling, role play, or analysis of recordings are incorporated. Second, the prevention of training stagnation: prolonged negative variations in relationship quality may be associated with higher anxiety and lower self-efficacy. Addressing these issues early prevents these variables from affecting the supervisees’ therapeutic relationship with their patients.</p>
+			<p>As <xref ref-type="bibr" rid="B5">Beinart and Clohessy (2017)</xref> note, supervision must adapt to supervise needs, which range from novice to advanced (Rønnestad et al., 2013). Anxiety about complex clinical situations is common and often linked to low self-efficacy (<xref ref-type="bibr" rid="B6">Bernard &amp; Goodyear, 2019</xref>; <xref ref-type="bibr" rid="B57">Watkins et al., 2022</xref>). Many supervisees assume supervisors hold negative views of their performance, undermining professional security (<xref ref-type="bibr" rid="B57">Watkins et al., 2022</xref>). <xref ref-type="bibr" rid="B6">Bernard and Goodyear (2019)</xref> argue that an optimal level of anxiety is beneficial for learning; supervisors must prevent anxiety from prompting avoidance. Effective supervision pushes supervisees beyond their comfort zone without overwhelming them (<xref ref-type="bibr" rid="B32">Koçyiğit, 2024</xref>).</p>
+			<p>In this regard, supervisors must be attentive to the individual characteristics and developmental needs of their supervisees, encourage open dialogue about these needs, and intervene when they identify that anxiety has become dysfunctional (<xref ref-type="bibr" rid="B32">Koçyiğit, 2024</xref>). Shifting the beginner’s belief from “No, I can’t” to “Yes, I can” is crucial for developing a professional therapy identity-and psychotherapy supervision ideally plays a fundamental role in that trajectory (<xref ref-type="bibr" rid="B55">Watkins, 2019</xref>).</p>
+		</sec>
+		<sec>
+			<title>Routine Outcome Monitoring</title>
+			<p>Another essential component of Program is Routine Outcome Monitoring (ROM). This is also referred to as Measurement-Based Care (<xref ref-type="bibr" rid="B3">Barber &amp; Resnick, 2022</xref>). Since 2018, we have implemented various monitoring modalities using standardized psychometric instruments such as the Outcome Rating Scale (ORS) and Session Rating Scale (SRS 3.0) (<xref ref-type="bibr" rid="B51">Santangelo et al., 2021</xref>), the Outcome Questionnaire-45 (OQ-45; <xref ref-type="bibr" rid="B54">Von Bergen &amp; De la Parra, 2002</xref>), and the Clinical Outcomes in Routine Evaluation - Outcome Measure (CORE-OM), both in its 34-item version and the abbreviated 10-item version; as well as idiographic instruments like the Goals Form (<xref ref-type="bibr" rid="B11">Cooper, 2015</xref>; <xref ref-type="bibr" rid="B12">Cooper &amp; Xu, 2023</xref>).</p>
+			<p>ROM typically involves three fundamental stages: (1) the systematic collection of client data throughout the therapeutic process; (2) feedback of this information to the therapist and, often, also to the client; and (3) adaptation of treatment based on this feedback, when clinically relevant (<xref ref-type="bibr" rid="B1">Barkham et al., 2023</xref>).</p>
+			<p>This approach, which places feedback at the core of the therapeutic process, allows the therapist to be alerted to the lack of progress or clinical deterioration of the client (<xref ref-type="bibr" rid="B38">Lutz et al., 2022</xref>). Moreover, the systematic use of ROM constitutes a tool that improves shared decision-making and may have an additive effect on the therapeutic impact of standard psychological treatments (<xref ref-type="bibr" rid="B1">Barkham et al., 2023</xref>). Additionally, its implementation can enrich the client’s experience in therapy, contributing, for example, to increased awareness regarding their problems and goals (<xref ref-type="bibr" rid="B14">Di Malta et al., 2019</xref>).</p>
+			<p>Among the practical and clinical implications of routinely incorporating ROM in the local context, it has facilitated the personalization of the intervention by providing real-time evidence on client progress, thereby optimizing the allocation of therapeutic resources. At the training level, it has enabled therapists in training to develop data-informed competencies, fostering clinical self-reflection and evidence-based decision-making. Furthermore, it strengthens the therapeutic alliance by inviting the client to actively participate in monitoring their own outcomes and goals.</p>
+			<p>In terms of public health implications at the local level, within the Argentine context, gaps in access to mental health services and considerable variability in the quality of care persist. In response to these challenges, ROM provides a standardized and cost-effective mechanism. It also enables the real-time monitoring of treatment effectiveness. Aggregated data can inform local and provincial health authorities about the relative efficacy of different care delivery models, allowing for the prioritization of funding and the design of evidence-based policies. Furthermore, the systematization of outcome indicators contributes to transparency and accountability in services, strengthening community trust in psychological interventions and facilitating the justification of training and professional supervision programs that directly impact the quality of care.</p>
+		</sec>
+		<sec>
+			<title>Therapeutic Preferences</title>
+			<p>In 2021, a system was implemented to assess clients' therapeutic activity preferences. Initially, these preferences were evaluated during the intake process through a locally adapted version of the Psychotherapy Preferences and Experiences Questionnaire PEX-1 (<xref ref-type="bibr" rid="B50">Santangelo &amp; Conde, 2023</xref>). In 2022, the evaluation of preferences was incorporated not only at the intake but also at the third and eighth treatment sessions, following suggestions from therapists in training who expressed that integrating preferences would be easier if assessed throughout the process rather than only at the beginning. Evidence indicates that considering client preferences and adjusting treatment accordingly leads to better clinical outcomes and significantly reduces premature termination rates (<xref ref-type="bibr" rid="B13">Delevry &amp; Le, 2019</xref>; <xref ref-type="bibr" rid="B53">Swift et al., 2018</xref>).</p>
+			<p>Working with therapeutic preferences has clinical and training implications. Systematic integration of client preferences promotes greater active participation in therapy and strengthens the therapeutic alliance from a collaborative perspective. At the training level, this practice contributes to developing core competencies such as therapist flexibility, cultural sensitivity, and the ability to adapt the therapeutic frame according to the individual needs and characteristics of each client. It also allows therapists in training to practice shared clinical decision-making and dynamic intervention adjustment, essential processes in contemporary client-centered care models.</p>
+			<p>Regarding implications for public health locally, our health system is characterized by limited resources and inequalities in access. Recognizing and integrating therapeutic preferences can significantly contribute to treatment adherence, reducing premature dropouts and optimizing available resources. Moreover, implementation can enhance the legitimacy and acceptance of mental health services by the community by aligning clinical practices with values of autonomy, respect for individuality, and client rights. At the macro level, data collected on preferences can guide public policies and program design strategies, facilitating the planning of services that respond more effectively to the subjective demands of the population.</p>
+		</sec>
+		<sec>
+			<title>Psychotherapy and Practice-Oriented Research</title>
+			<p>The Program has been linked with various research projects led by the author of this work. Research has been conducted in standard psychotherapy and practice-oriented research. In 2020, it was integrated with the project “Psychotherapy and Clinical Supervision: skills, therapeutic competencies, and treatment outcomes”; in 2021/22 with the project “Feedback-informed Psychotherapy, Therapeutic Preferences, and Clinical Supervision”; in 2023/24 with the project “Therapist Characteristics and Psychotherapy Outcomes”; and in the current year with the project “Measurement-Based Psychotherapy: evaluation of two routine outcome monitoring systems.” Both the Training and Development Program and the research projects depend on the School of Psychology at the University of Mar del Plata.</p>
+		</sec>
+		<sec>
+			<title>Limitations and Challenges in the Implementation of the Program</title>
+			<p>The implementation of the program encountered several structural, institutional, and cultural limitations that shaped its development. First, the establishment of weekly supervision sessions, deliberate practice activities, and a continuous outcome monitoring system required sustained investments of time, technological infrastructure, and faculty availability. However, public universities operate under chronic budgetary constraints that hinder the stable and high-quality maintenance of these components.</p>
+			<p>Clinical supervision, a central pillar of the training model, represented one of the main challenges. The availability of supervisors with specialized training in evidence-based approaches, clinical competencies, and outcome assessment remains limited in Argentina. Currently, only one formal postgraduate training opportunity in clinical supervision is identified in the country (Diplomatura Universitaria Superior en Supervisión Clínica, Fundación Aiglé), which restricts the possibility of expanding and diversifying the faculty.</p>
+			<p>Regarding training demands, the combination of theoretical coursework, weekly supervision, clinical practice, and systematic self-reflection activities imposed a substantial workload on recent graduates. This burden was particularly demanding for participants who concurrently managed academic or employment responsibilities, contributing to some cases of attrition linked to external factors rather than to the program itself.</p>
+			<p>Resistance to change was also observed among some graduates. The transition from traditional, predominantly theoretical instructional models to a competency-based training approach was not always smooth and required additional support. Moreover, adherence to systematic outcome monitoring varied considerably, highlighting challenges in incorporating this practice consistently into clinical routines.</p>
+			<p>Finally, cultural and contextual barriers emerged during the adaptation of training models originally developed in other countries. The successful transfer of these frameworks requires careful consideration of the characteristics of the Argentine healthcare system, the sociodemographic profile of the patient population, and the institutional conditions specific to public universities. These factors shaped the implementation process and underscored the need for context-sensitive adjustments to ensure the program’s relevance and feasibility in local settings.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusion</title>
+			<p>Recent developments in psychotherapy research have highlighted the need to move beyond training approaches focused exclusively on a single theoretical orientation, promoting instead competency-based, transtheoretical, and evidence-guided training. Psychotherapist education requires much more than the transmission of theoretical frameworks; it demands a progressive, experiential, and reflective process that accompanies the development of complex clinical competencies. The model presented in this article rests on robust conceptual and empirical frameworks, such as <xref ref-type="bibr" rid="B25">Hill’s developmental model (2020</xref>, <xref ref-type="bibr" rid="B27">2024)</xref>, which posits a progression from learning basic skills toward a flexible integration of clinical knowledge, and Prochaska’s approach to change. Additionally, it builds on the findings of <xref ref-type="bibr" rid="B43">Rønnestad and Skovholt (2013)</xref> regarding therapist professional development, emphasizing the central role of supervised experience, self-exploration, and professional identity as processes that consolidate over time.</p>
+			<p>From this perspective, the training program aims to foster transtheoretical competencies that allow flexible responses to client needs, moving beyond a restricted focus on a single therapeutic orientation. It incorporates the general change factors identified by <xref ref-type="bibr" rid="B24">Grawe (2007)</xref> -such as emotional activation, mobilization of personal resources, and the therapeutic relationship-and the principles proposed by <xref ref-type="bibr" rid="B17">Eubanks and Goldfried (2019)</xref>, including fostering motivation, corrective experiences, and strengthening the therapeutic alliance. This approach is complemented by competency-based teaching that integrates relevant academic knowledge (e.g., basic psychology) with practical skills such as case conceptualization, ethical reflection, and therapeutic process analysis.</p>
+			<p>Supervision holds a fundamental place as a privileged context to articulate theory and practice, fostering self-reflection, clinical sensitivity, and the sense of agency of the therapist in training. Following <xref ref-type="bibr" rid="B6">Bernard and Goodyear (2019)</xref>, supervision not only facilitates the development of clinical skills but also the consolidation of an authentic professional identity committed to continuous growth. In this regard, supervision instances allow for sustaining the emotionally challenging work with clients and reinforce therapist self-efficacy, an aspect <xref ref-type="bibr" rid="B27">Hill (2024)</xref> also identifies as a core axis of training development.</p>
+			<p>Furthermore, contemporary clinical training cannot do without routine outcome monitoring and active exploration of client preferences. These practices enable continuous, data-informed treatment adaptation, fostering more accurate clinical decisions, greater attunement to the client, and better therapeutic outcomes. Incorporating feedback tools and progress monitoring facilitates early detection of stagnation, identification of emerging needs, and promotion of collaborative adjustments. Likewise, considering client preferences increases treatment adherence, and maximizes the clinical relevance of interventions.</p>
+			<p>In summary, competency-based, evidence-informed training represents a promising approach for preparing clinicians. This approach focuses on the developing professional and addresses the complex challenges of psychotherapeutic practice. Integrating theory, experience, supervision, and self-reflection strengthens training. Added to this is sensitivity to the real therapeutic process. Altogether, these elements not only enhance clinical effectiveness but also foster the development of ethical, flexible professionals committed to the well-being of those they serve.</p>
+			<p>The implications for clinical practice are clear. Training therapists who integrate multiple sources of evidence requires coherent, progressive, and supervised programs. It also demands the promotion of flexible clinical competencies and an ethical, reflective stance toward human suffering. Competency-based training, with systematic monitoring and consideration of client preferences, enhances the quality of care. Furthermore, it prepares future psychotherapists to face the current challenges of practice.</p>
+			<p>Over the past ten years, the program has trained more than 50 therapists and provided care to over a thousand clients. These figures demonstrate the scope and continuity of the work carried out within the Psychotherapy Training and Development Program at the Faculty of Psychology, National University of Mar del Plata.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Aknowledgements</title>
+			<p>I wish to express my deep gratitude to Dr. Héctor Fernández Álvarez, who passed away in November 2023, whose guidance, dedication, and vision continue to inspire my work. Much of the spirit of the psychotherapy training and development program presented in this manuscript reflects the formative legacy he left us: his commitment to clinical excellence, his humanistic perspective, and his conviction in the value of a reflective, evidence-based practice. His influence remains decisive in my professional development.</p>
+			<p>I would like to express my sincere gratitude to Gabriela Millaman Rickert for their valuable assistance in reviewing and improving the English version of this manuscript.</p>
+		</ack>
+		<ref-list>
+			<title>References</title>
+			<ref id="B2">
+				<mixed-citation>Babl, A., Eubanks, C. F., &amp; Goldfried, M. R. (2024). A 21st century principle-based training approach to psychotherapy: A contribution to the momentum of transtheoretical work. <italic>Clinical Psychology in Europe</italic>, <italic>6</italic>(Spec Issue), e11925. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.32872/cpe.11925">https://doi.org/10.32872/cpe.11925</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Babl</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Eubanks</surname>
+							<given-names>C. F.</given-names>
+						</name>
+						<name>
+							<surname>Goldfried</surname>
+							<given-names>M. R.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>A 21st century principle-based training approach to psychotherapy: A contribution to the momentum of transtheoretical work</article-title>
+					<source>Clinical Psychology in Europe</source>
+					<volume>6</volume>
+					<issue>Spec Issue</issue>
+					<elocation-id>e11925</elocation-id>
+					<pub-id pub-id-type="doi">10.32872/cpe.11925</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Barber, J., &amp; Resnick, S. G. (2022). Collect, Share, Act: A Transtheoretical Clinical Model for Doing Measurement-Based Care in Mental Health Treatment. <italic>Psychological Services</italic>. Advance online publication. <ext-link ext-link-type="uri" xlink:href="https://dx.doi.org/10.1037/ser0000629">https://dx.doi.org/10.1037/ser0000629</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barber</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Resnick</surname>
+							<given-names>S. G.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Collect, Share, Act: A Transtheoretical Clinical Model for Doing Measurement-Based Care in Mental Health Treatment</article-title>
+					<source>Psychological Services</source>
+					<comment>Advance online publication</comment>
+					<pub-id pub-id-type="doi">10.1037/ser0000629</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B1">
+				<mixed-citation>Barkham, M., De Jong, K., Delgadillo, J., &amp; Lutz, W. (2023). Routine outcome monitoring (ROM) and feedback: Research review and recommendations. <italic>Psychotherapy Research</italic>, <italic>33</italic>(7), 841-855. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/10503307.2023.2181114">https://doi.org/10.1080/10503307.2023.2181114</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barkham</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>De Jong</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Delgadillo</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Lutz</surname>
+							<given-names>W.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Routine outcome monitoring (ROM) and feedback: Research review and recommendations</article-title>
+					<source>Psychotherapy Research</source>
+					<volume>33</volume>
+					<issue>7</issue>
+					<fpage>841</fpage>
+					<lpage>855</lpage>
+					<pub-id pub-id-type="doi">10.1080/10503307.2023.2181114</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Beinart, H. (2012). Models of supervision and the supervisory relationship. In I. Fleming &amp; L. Steen (Eds.), <italic>Supervision and clinical psychology: Theory, practice, and perspectives</italic> (pp. 47-62). Hove, UK: Routledge. <ext-link ext-link-type="uri" xlink:href="https://psycnet.apa.org/record/2011-03314-000">https://psycnet.apa.org/record/2011-03314-000</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Beinart</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<chapter-title>Models of supervision and the supervisory relationship</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Fleming</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Steen</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<source>Supervision and clinical psychology: Theory, practice, and perspectives</source>
+					<fpage>47</fpage>
+					<lpage>62</lpage>
+					<publisher-loc>Hove, UK</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://psycnet.apa.org/record/2011-03314-000">https://psycnet.apa.org/record/2011-03314-000</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Beinart, H., &amp; Clohessy, S. (2017). <italic>Effective Supervisory Relationships: Best Evidence and Practice</italic>. John Wiley &amp; Sons.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Beinart</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Clohessy</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>Effective Supervisory Relationships: Best Evidence and Practice</source>
+					<publisher-name>John Wiley &amp; Sons</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Bernard, J. M., &amp; Goodyear, R. K. 2019. <italic>Fundamentals of Clinical Supervision</italic>. 6th ed. New York: Pearson.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bernard</surname>
+							<given-names>J. M.</given-names>
+						</name>
+						<name>
+							<surname>Goodyear</surname>
+							<given-names>R. K.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<source>Fundamentals of Clinical Supervision</source>
+					<edition>6</edition>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Pearson</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Callahan, J. L., &amp; Watkins, E. C. (2018). Evidence-based training: The time has come. <italic>Training and Education in Professional Psychology</italic>, <italic>12</italic>(4), 211-218. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1037/tep0000204">http://dx.doi.org/10.1037/tep0000204</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Callahan</surname>
+							<given-names>J. L.</given-names>
+						</name>
+						<name>
+							<surname>Watkins</surname>
+							<given-names>E. C.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Evidence-based training: The time has come</article-title>
+					<source>Training and Education in Professional Psychology</source>
+					<volume>12</volume>
+					<issue>4</issue>
+					<fpage>211</fpage>
+					<lpage>218</lpage>
+					<pub-id pub-id-type="doi">10.1037/tep0000204</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Castonguay, L., Boswell, J. F., Caspar, F., Friedlander, M. L., Gómez, B., Hayes, A. M., Holtforth, M. G., Messer, S. B., Newman, M. G., &amp; Strauss, B. M. (2023). What competencies should therapists acquire and how should they acquire them? In L. G. Castonguay &amp; C. E. Hill (Eds.), <italic>Becoming better psychotherapists: Advancing training and supervision</italic> (pp. 13-29). American Psychological Association. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0000364-002">https://doi.org/10.1037/0000364-002</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castonguay</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Boswell</surname>
+							<given-names>J. F.</given-names>
+						</name>
+						<name>
+							<surname>Caspar</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Friedlander</surname>
+							<given-names>M. L.</given-names>
+						</name>
+						<name>
+							<surname>Gómez</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Hayes</surname>
+							<given-names>A. M.</given-names>
+						</name>
+						<name>
+							<surname>Holtforth</surname>
+							<given-names>M. G.</given-names>
+						</name>
+						<name>
+							<surname>Messer</surname>
+							<given-names>S. B.</given-names>
+						</name>
+						<name>
+							<surname>Newman</surname>
+							<given-names>M. G.</given-names>
+						</name>
+						<name>
+							<surname>Strauss</surname>
+							<given-names>B. M.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<chapter-title>What competencies should therapists acquire and how should they acquire them?</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castonguay</surname>
+							<given-names>L. G.</given-names>
+						</name>
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E.</given-names>
+						</name>
+					</person-group>
+					<source>Becoming better psychotherapists: Advancing training and supervision</source>
+					<fpage>13</fpage>
+					<lpage>29</lpage>
+					<publisher-name>American Psychological Association</publisher-name>
+					<pub-id pub-id-type="doi">10.1037/0000364-002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Cliffe, T., Beinart, H., &amp; Cooper, M. (2016). Development and validation of a short version of the supervisory relationship questionnaire. <italic>Clinical psychology &amp; psychotherapy</italic>, <italic>23</italic>(1), 77-86. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/cpp.1935">https://doi.org/10.1002/cpp.1935</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cliffe</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Beinart</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Cooper</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Development and validation of a short version of the supervisory relationship questionnaire</article-title>
+					<source>Clinical psychology &amp; psychotherapy</source>
+					<volume>23</volume>
+					<issue>1</issue>
+					<fpage>77</fpage>
+					<lpage>86</lpage>
+					<pub-id pub-id-type="doi">10.1002/cpp.1935</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Constantino, M. J., Coyne, A. E., Boswell, J. F., Goldfried, M. R., &amp; Castonguay, L. G. (2023). Training on context-responsive psychotherapy integration: An evidence-informed framework. In L. G. Castonguay &amp; C. E. Hill (Eds.), <italic>Becoming better psychotherapists: Advancing training and supervision</italic> (pp. 13-29). American Psychological Association. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0000364-002">https://doi.org/10.1037/0000364-002</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Constantino</surname>
+							<given-names>M. J.</given-names>
+						</name>
+						<name>
+							<surname>Coyne</surname>
+							<given-names>A. E.</given-names>
+						</name>
+						<name>
+							<surname>Boswell</surname>
+							<given-names>J. F.</given-names>
+						</name>
+						<name>
+							<surname>Goldfried</surname>
+							<given-names>M. R.</given-names>
+						</name>
+						<name>
+							<surname>Castonguay</surname>
+							<given-names>L. G.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<chapter-title>Training on context-responsive psychotherapy integration: An evidence-informed framework</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Castonguay</surname>
+							<given-names>L. G.</given-names>
+						</name>
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E.</given-names>
+						</name>
+					</person-group>
+					<source>Becoming better psychotherapists: Advancing training and supervision</source>
+					<fpage>13</fpage>
+					<lpage>29</lpage>
+					<publisher-name>American Psychological Association</publisher-name>
+					<pub-id pub-id-type="doi">10.1037/0000364-002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Cooper, M. (2015). <italic>The Goals Form</italic>. University of Roehampton. <ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/286928866_Goals_Form">https://www.researchgate.net/publication/286928866_Goals_Form</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cooper</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>The Goals Form</source>
+					<publisher-name>University of Roehampton</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/286928866_Goals_Form">https://www.researchgate.net/publication/286928866_Goals_Form</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Cooper, M., &amp; Xu, D. (2023). Goals Form: Reliability, validity, and clinical utility of an idiographic goal‐focused measure for routine outcome monitoring in psychotherapy. <italic>Journal of Clinical Psychology</italic>, <italic>79</italic>(3), 641-666. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/jclp.23344">https://doi.org/10.1002/jclp.23344</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cooper</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Xu</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Goals Form: Reliability, validity, and clinical utility of an idiographic goal‐focused measure for routine outcome monitoring in psychotherapy</article-title>
+					<source>Journal of Clinical Psychology</source>
+					<volume>79</volume>
+					<issue>3</issue>
+					<fpage>641</fpage>
+					<lpage>666</lpage>
+					<pub-id pub-id-type="doi">10.1002/jclp.23344</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Delevry, D., &amp; Le, Q. A. (2019). Effect of Treatment Preference in Randomized Controlled Trials: Systematic Review of the Literature and Meta-Analysis. <italic>The Patient-Patient-Centered Outcomes Research</italic>, <italic>12</italic>, 593-609. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s40271-019-00379-6">https://doi.org/10.1007/s40271-019-00379-6</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Delevry</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Le</surname>
+							<given-names>Q. A.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Effect of Treatment Preference in Randomized Controlled Trials: Systematic Review of the Literature and Meta-Analysis</article-title>
+					<source>The Patient-Patient-Centered Outcomes Research</source>
+					<volume>12</volume>
+					<fpage>593</fpage>
+					<lpage>609</lpage>
+					<pub-id pub-id-type="doi">10.1007/s40271-019-00379-6</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Di Malta, G., Oddli, H. W., &amp; Cooper, M. (2019). From intention to action: A mixed methods study of clients’ experiences of goal‐oriented practices. <italic>Journal of Clinical Psychology</italic>, <italic>75</italic>(10), 1770-1789. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/jclp.22821">https://doi.org/10.1002/jclp.22821</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Di Malta</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Oddli</surname>
+							<given-names>H. W.</given-names>
+						</name>
+						<name>
+							<surname>Cooper</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>From intention to action: A mixed methods study of clients’ experiences of goal‐oriented practices</article-title>
+					<source>Journal of Clinical Psychology</source>
+					<volume>75</volume>
+					<issue>10</issue>
+					<fpage>1770</fpage>
+					<lpage>1789</lpage>
+					<pub-id pub-id-type="doi">10.1002/jclp.22821</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Eells, T. D. (2015). <italic>Psychotherapy case formulation</italic>. American Psychological Association. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/14667-000">https://doi.org/10.1037/14667-000</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Eells</surname>
+							<given-names>T. D.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Psychotherapy case formulation</source>
+					<publisher-name>American Psychological Association</publisher-name>
+					<pub-id pub-id-type="doi">10.1037/14667-000</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Ellis, M. V., Krengel, M., &amp; Beck, M. (2002). Testing Self-Focused Attention Theory in Clinical Supervision: Effects of Supervisee Anxiety and Performance. <italic>Journal of Counseling Psychology</italic>, <italic>49</italic>(1): 101-116. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0022-0167.49.1.101">https://doi.org/10.1037/0022-0167.49.1.101</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ellis</surname>
+							<given-names>M. V.</given-names>
+						</name>
+						<name>
+							<surname>Krengel</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Beck</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<article-title>Testing Self-Focused Attention Theory in Clinical Supervision: Effects of Supervisee Anxiety and Performance</article-title>
+					<source>Journal of Counseling Psychology</source>
+					<volume>49</volume>
+					<issue>1</issue>
+					<fpage>101</fpage>
+					<lpage>116</lpage>
+					<pub-id pub-id-type="doi">10.1037/0022-0167.49.1.101</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Eubanks, C. F., &amp; Goldfried, M. R. (2019). A principle-based approach to psychotherapy integration. In J. C. Norcross &amp; M. R. Goldfried (Eds.), <italic>Handbook of psychotherapy integration</italic> (3rd ed., pp. 88-104). Oxford University Press. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/med-psych/9780190690465.003.0004">https://doi.org/10.1093/med-psych/9780190690465.003.0004</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Eubanks</surname>
+							<given-names>C. F.</given-names>
+						</name>
+						<name>
+							<surname>Goldfried</surname>
+							<given-names>M. R.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<chapter-title>A principle-based approach to psychotherapy integration</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Norcross</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Goldfried</surname>
+							<given-names>M. R.</given-names>
+						</name>
+					</person-group>
+					<source>Handbook of psychotherapy integration</source>
+					<edition>3</edition>
+					<fpage>88</fpage>
+					<lpage>104</lpage>
+					<publisher-name>Oxford University Press</publisher-name>
+					<pub-id pub-id-type="doi">10.1093/med-psych/9780190690465.003.0004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Fernández-Álvarez, H. (2008). <italic>Integración y salud mental: el proyecto Aiglé, 1977-2008</italic>. Desclee de Brouwer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández-Álvarez</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Integración y salud mental: el proyecto Aiglé, 1977-2008</source>
+					<publisher-name>Desclee de Brouwer</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Fernández-Álvarez, H. (2016). Reflections on supervision in psychotherapy. <italic>Psychotherapy research</italic>, <italic>26</italic>(1), 1-10. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/10503307.2015.1014009">https://doi.org/10.1080/10503307.2015.1014009</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández-Álvarez</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Reflections on supervision in psychotherapy</article-title>
+					<source>Psychotherapy research</source>
+					<volume>26</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<pub-id pub-id-type="doi">10.1080/10503307.2015.1014009</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Fernández-Álvarez, H., &amp; García, F. (1998). El estilo personal del terapeuta: Inventario para su evaluación. In S. Gril, A. Ibáñez, I. Mosca &amp; P. L. R. Sousa (eds.), <italic>Investigación en Psicoterapia</italic> (pp. 76-84). Educat.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández-Álvarez</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>García</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<chapter-title>El estilo personal del terapeuta: Inventario para su evaluación</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Gril</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ibáñez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Mosca</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Sousa</surname>
+							<given-names>P. L. R.</given-names>
+						</name>
+					</person-group>
+					<source>Investigación en Psicoterapia</source>
+					<fpage>76</fpage>
+					<lpage>84</lpage>
+					<publisher-name>Educat</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Fernández-Álvarez, H., Kirszman, D., &amp; Vega, E. (2008) in H. Fernández-Álvarez (Ed.). <italic>Integración y salud mental: el proyecto Aiglé, 1977-2008</italic>. Desclee de Brouwer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández-Álvarez</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Kirszman</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Vega</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Fernández-Álvarez</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<source>Integración y salud mental: el proyecto Aiglé, 1977-2008</source>
+					<publisher-name>Desclee de Brouwer</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Finn, S. E. (2020). <italic>In our clients’ shoes: Theory and techniques of therapeutic assessment</italic>. Routledge. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4324/9781003064459">https://doi.org/10.4324/9781003064459</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Finn</surname>
+							<given-names>S. E.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>In our clients’ shoes: Theory and techniques of therapeutic assessment</source>
+					<publisher-name>Routledge</publisher-name>
+					<pub-id pub-id-type="doi">10.4324/9781003064459</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Fouad, N. A., Grus, C. L., Hatcher, R. L., Kaslow, N. J., Smith Hutchings, P., Madson, M. B., Collins, F. L., Jr., &amp; Crossman, R. E. (2009). Competency benchmarks: A model for understanding and measuring competence in professional psychology across training levels. <italic>Training and Education in Professional Psychology</italic>, <italic>3</italic>(4, Suppl.), S5-S26. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/a0015832">https://doi.org/10.1037/a0015832</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fouad</surname>
+							<given-names>N. A.</given-names>
+						</name>
+						<name>
+							<surname>Grus</surname>
+							<given-names>C. L.</given-names>
+						</name>
+						<name>
+							<surname>Hatcher</surname>
+							<given-names>R. L.</given-names>
+						</name>
+						<name>
+							<surname>Kaslow</surname>
+							<given-names>N. J.</given-names>
+						</name>
+						<name>
+							<surname>Smith Hutchings</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Madson</surname>
+							<given-names>M. B.</given-names>
+						</name>
+						<name>
+							<surname>Collins</surname>
+							<given-names>F. L.</given-names>
+							<suffix>Jr.</suffix>
+						</name>
+						<name>
+							<surname>Crossman</surname>
+							<given-names>R. E.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Competency benchmarks: A model for understanding and measuring competence in professional psychology across training levels</article-title>
+					<source>Training and Education in Professional Psychology</source>
+					<volume>3</volume>
+					<issue>4</issue>
+					<supplement>Suppl</supplement>
+					<fpage>S5</fpage>
+					<lpage>S26</lpage>
+					<pub-id pub-id-type="doi">10.1037/a0015832</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Grawe, K. (2007). <italic>Neuropsychotherapy: How the neurosciences inform effective psychotherapy</italic>. Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Grawe</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Neuropsychotherapy: How the neurosciences inform effective psychotherapy</source>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Hill, C. E. (2020). <italic>Helping skills: Facilitating exploration, insight, and action</italic> (5<italic>th ed.).</italic> American Psychological Association. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0000147-000">https://doi.org/10.1037/0000147-000</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>Helping skills: Facilitating exploration, insight, and action</source>
+					<edition>5</edition>
+					<publisher-name>American Psychological Association</publisher-name>
+					<pub-id pub-id-type="doi">10.1037/0000147-000</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Hill, C. E. (2014) <italic>Helping Skills: Facilitating Exploration, Insight, and Action</italic>. Fourth Edition. American Psychological Association. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/14345-000">https://doi.org/10.1037/14345-000</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>Helping Skills: Facilitating Exploration, Insight, and Action</source>
+					<edition>Fourth</edition>
+					<publisher-name>American Psychological Association</publisher-name>
+					<pub-id pub-id-type="doi">10.1037/14345-000</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Hill, C. E., Chui, H., &amp; Gerstenblith, J. A. (2024). <italic>Helping skills: Facilitating exploration, insight, and action</italic> (6th ed.). American Psychological Association.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E.</given-names>
+						</name>
+						<name>
+							<surname>Chui</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Gerstenblith</surname>
+							<given-names>J. A.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<source>Helping skills: Facilitating exploration, insight, and action</source>
+					<edition>6</edition>
+					<publisher-name>American Psychological Association</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Hill, C. E, &amp; Knox, S. (2023). Psychotherapy training and supervision with undergraduate and graduate students. In L. G. Castonguay &amp; C. E. Hill (Eds.),<italic>Becoming better psychotherapists: Advancing training and supervision</italic> (pp. 31-53). American Psychological Association. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0000364-003">https://doi.org/10.1037/0000364-003</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E</given-names>
+						</name>
+						<name>
+							<surname>Knox</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<chapter-title>Psychotherapy training and supervision with undergraduate and graduate students</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Castonguay</surname>
+							<given-names>L. G.</given-names>
+						</name>
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E.</given-names>
+						</name>
+					</person-group>
+					<source>Becoming better psychotherapists: Advancing training and supervision</source>
+					<fpage>31</fpage>
+					<lpage>53</lpage>
+					<publisher-name>American Psychological Association</publisher-name>
+					<pub-id pub-id-type="doi">10.1037/0000364-003</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Hill, C. E., &amp; Norcross, J. C. (2023). Research evidence on psychotherapist skills and methods: Foreword and afterword. <italic>Psychotherapy Research</italic>, <italic>33</italic>(7), 821-840. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/10503307.2023.2186281">https://doi.org/10.1080/10503307.2023.2186281</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E.</given-names>
+						</name>
+						<name>
+							<surname>Norcross</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Research evidence on psychotherapist skills and methods: Foreword and afterword</article-title>
+					<source>Psychotherapy Research</source>
+					<volume>33</volume>
+					<issue>7</issue>
+					<fpage>821</fpage>
+					<lpage>840</lpage>
+					<pub-id pub-id-type="doi">10.1080/10503307.2023.2186281</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>King, B. R., &amp; Boswell, J. F. (2019). Therapeutic strategies and techniques in early cognitive-behavioral therapy. <italic>Psychotherapy</italic>, <italic>56</italic>(1), 35-40. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pst0000202">https://doi.org/10.1037/pst0000202</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>King</surname>
+							<given-names>B. R.</given-names>
+						</name>
+						<name>
+							<surname>Boswell</surname>
+							<given-names>J. F.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Therapeutic strategies and techniques in early cognitive-behavioral therapy</article-title>
+					<source>Psychotherapy</source>
+					<volume>56</volume>
+					<issue>1</issue>
+					<fpage>35</fpage>
+					<lpage>40</lpage>
+					<pub-id pub-id-type="doi">10.1037/pst0000202</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Koçyiğit, M. (2020). An Investigation of Group Supervision Process of Individual Counseling Practice Course. <italic>Journal of Qualitative Research in Education</italic>, <italic>8</italic>(4), 1-31. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.14689/issn.2148-2624.8c.4s.3m">https://doi.org/10.14689/issn.2148-2624.8c.4s.3m</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Koçyiğit</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>An Investigation of Group Supervision Process of Individual Counseling Practice Course</article-title>
+					<source>Journal of Qualitative Research in Education</source>
+					<volume>8</volume>
+					<issue>4</issue>
+					<fpage>1</fpage>
+					<lpage>31</lpage>
+					<pub-id pub-id-type="doi">10.14689/issn.2148-2624.8c.4s.3m</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Koçyiğit, M. (2024). Novice supervisees’ anxiety in counselling supervision: a phenomenological study. <italic>Studies in Continuing Education</italic>, <italic>46</italic>(1), 65-81. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/0158037X.2022.2161501">https://doi.org/10.1080/0158037X.2022.2161501</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Koçyiğit</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Novice supervisees’ anxiety in counselling supervision: a phenomenological study</article-title>
+					<source>Studies in Continuing Education</source>
+					<volume>46</volume>
+					<issue>1</issue>
+					<fpage>65</fpage>
+					<lpage>81</lpage>
+					<pub-id pub-id-type="doi">10.1080/0158037X.2022.2161501</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Lent, R. W., Hill, C. E., &amp; Hoffman, M. A. (2003). Development and validation of the Counselor Activity Self-Efficacy Scales. <italic>Journal of Counseling Psychology</italic>, <italic>50</italic>, 97-108. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0022-0167.50.1.97">https://doi.org/10.1037/0022-0167.50.1.97</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lent</surname>
+							<given-names>R. W.</given-names>
+						</name>
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E.</given-names>
+						</name>
+						<name>
+							<surname>Hoffman</surname>
+							<given-names>M. A.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Development and validation of the Counselor Activity Self-Efficacy Scales</article-title>
+					<source>Journal of Counseling Psychology</source>
+					<volume>50</volume>
+					<fpage>97</fpage>
+					<lpage>108</lpage>
+					<pub-id pub-id-type="doi">10.1037/0022-0167.50.1.97</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Lutz, W., Schwartz, B., &amp; Delgadillo, J. (2022). Measurementbased and data-informed psychological therapy. <italic>Annual Review of Clinical Psychology</italic>, <italic>18</italic>(1), 71-98. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev-clinpsy-071720-014821">https://doi.org/10.1146/annurev-clinpsy-071720-014821</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lutz</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Schwartz</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Delgadillo</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Measurementbased and data-informed psychological therapy</article-title>
+					<source>Annual Review of Clinical Psychology</source>
+					<volume>18</volume>
+					<issue>1</issue>
+					<fpage>71</fpage>
+					<lpage>98</lpage>
+					<pub-id pub-id-type="doi">10.1146/annurev-clinpsy-071720-014821</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Milne, D. L. (2017). <italic>Evidence-based CBT supervision: Principles and practice</italic>. John Wiley &amp; Sons.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Milne</surname>
+							<given-names>D. L.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>Evidence-based CBT supervision: Principles and practice</source>
+					<publisher-name>John Wiley &amp; Sons</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Milne, D., Sheikh, A., Pattison, S., &amp; Wilkinson, A. (2011). Evidence-based training for clinical supervisors: A systematic review of 11 controlled studies. <italic>The Clinical Supervisor</italic>, <italic>30</italic>(1), 53-71. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/07325223.2011.564955">https://doi.org/10.1080/07325223.2011.564955</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Milne</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Sheikh</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Pattison</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Wilkinson</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Evidence-based training for clinical supervisors: A systematic review of 11 controlled studies</article-title>
+					<source>The Clinical Supervisor</source>
+					<volume>30</volume>
+					<issue>1</issue>
+					<fpage>53</fpage>
+					<lpage>71</lpage>
+					<pub-id pub-id-type="doi">10.1080/07325223.2011.564955</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Norcross, J. C., &amp; Lambert, M. J. (2018). Psychotherapy relationships that work III. <italic>Psychotherapy</italic>, <italic>55</italic>(4), 303-315.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Norcross</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Lambert</surname>
+							<given-names>M. J.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Psychotherapy relationships that work III</article-title>
+					<source>Psychotherapy</source>
+					<volume>55</volume>
+					<issue>4</issue>
+					<fpage>303</fpage>
+					<lpage>315</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Norcross, J. C., &amp; Wampold, B. E. (2018). A new therapy for each patient: Evidence‐based relationships and responsiveness. <italic>Journal of Clinical Psychology</italic>, <italic>74</italic>(11), 1889-1906. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/jclp.22678">https://doi.org/10.1002/jclp.22678</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Norcross</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Wampold</surname>
+							<given-names>B. E.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>A new therapy for each patient: Evidence‐based relationships and responsiveness</article-title>
+					<source>Journal of Clinical Psychology</source>
+					<volume>74</volume>
+					<issue>11</issue>
+					<fpage>1889</fpage>
+					<lpage>1906</lpage>
+					<pub-id pub-id-type="doi">10.1002/jclp.22678</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Orlinsky, D. E., Messina, I., Hartmann, A., Willutzki, U., Heinonen, E., Rønnestad, M. H., ... &amp; Schröder, T. (2024). Ninety psychotherapy training programmes across the globe: Variations and commonalities in an international context. <italic>Counselling and Psychotherapy Research</italic>, <italic>24</italic>(2), 558-571. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/capr.12690">https://doi.org/10.1002/capr.12690</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Orlinsky</surname>
+							<given-names>D. E.</given-names>
+						</name>
+						<name>
+							<surname>Messina</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Hartmann</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Willutzki</surname>
+							<given-names>U.</given-names>
+						</name>
+						<name>
+							<surname>Heinonen</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Rønnestad</surname>
+							<given-names>M. H.</given-names>
+						</name>
+						<name>
+							<surname>Schröder</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Ninety psychotherapy training programmes across the globe: Variations and commonalities in an international context</article-title>
+					<source>Counselling and Psychotherapy Research</source>
+					<volume>24</volume>
+					<issue>2</issue>
+					<fpage>558</fpage>
+					<lpage>571</lpage>
+					<pub-id pub-id-type="doi">10.1002/capr.12690</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Paine, D. R., Sandage, S. J., Rupert, D., Devor, N. G., &amp; Bronstein, M. (2015). Humility as a psychotherapeutic virtue: Spiritual, philosophical, and psychological foundations. <italic>Journal of Spirituality in Mental Health</italic>, <italic>17</italic>(1), 3-25. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/19349637.2015.957611">https://doi.org/10.1080/19349637.2015.957611</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Paine</surname>
+							<given-names>D. R.</given-names>
+						</name>
+						<name>
+							<surname>Sandage</surname>
+							<given-names>S. J.</given-names>
+						</name>
+						<name>
+							<surname>Rupert</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Devor</surname>
+							<given-names>N. G.</given-names>
+						</name>
+						<name>
+							<surname>Bronstein</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Humility as a psychotherapeutic virtue: Spiritual, philosophical, and psychological foundations</article-title>
+					<source>Journal of Spirituality in Mental Health</source>
+					<volume>17</volume>
+					<issue>1</issue>
+					<fpage>3</fpage>
+					<lpage>25</lpage>
+					<pub-id pub-id-type="doi">10.1080/19349637.2015.957611</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Prochaska, J. O., &amp; Prochaska, J. M. (2016). <italic>Changing to thrive: using the stages of change to overcome the top threats to your health and happiness</italic>. Simon and Schuster.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Prochaska</surname>
+							<given-names>J. O.</given-names>
+						</name>
+						<name>
+							<surname>Prochaska</surname>
+							<given-names>J. M.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Changing to thrive: using the stages of change to overcome the top threats to your health and happiness</source>
+					<publisher-name>Simon and Schuster</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Rief, W., Wilhelm, M., Bleichhardt, G., Strauss, B., Frostholm, L., &amp; von Blanckenburg, P. (2024). Competence-based trainings for psychological treatments-A transtheoretical perspective. <italic>Clinical Psychology in Europe</italic>, <italic>6</italic>(Spec Issue), e13277. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.32872/cpe.13277">https://doi.org/10.32872/cpe.13277</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rief</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Wilhelm</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Bleichhardt</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Strauss</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Frostholm</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>von Blanckenburg</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Competence-based trainings for psychological treatments-A transtheoretical perspective</article-title>
+					<source>Clinical Psychology in Europe</source>
+					<volume>6</volume>
+					<issue>Spec Issue</issue>
+					<elocation-id>e13277</elocation-id>
+					<pub-id pub-id-type="doi">10.32872/cpe.13277</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Rønnestad, M. H., &amp; Skovholt, T. M. (2013). <italic>The developing practitioner growth and stagnation of therapists and counselors: Growth and stagnation of therapists and counselors</italic>. Taylor &amp; Francis.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rønnestad</surname>
+							<given-names>M. H.</given-names>
+						</name>
+						<name>
+							<surname>Skovholt</surname>
+							<given-names>T. M.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>The developing practitioner growth and stagnation of therapists and counselors: Growth and stagnation of therapists and counselors</source>
+					<publisher-name>Taylor &amp; Francis</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Rønnestad, M. H., Orlinsky, D. E., Schröder, T. A., Skovholt, T. M., &amp; Willutzki, U. (2019). The professional development of counsellors and psychotherapists: Implications of empirical studies for supervision, training and practice.<italic>Counselling and Psychotherapy Research</italic>,<italic>19</italic>(3), 214-230. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/capr.12198">https://doi.org/10.1002/capr.12198</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rønnestad</surname>
+							<given-names>M. H.</given-names>
+						</name>
+						<name>
+							<surname>Orlinsky</surname>
+							<given-names>D. E.</given-names>
+						</name>
+						<name>
+							<surname>Schröder</surname>
+							<given-names>T. A.</given-names>
+						</name>
+						<name>
+							<surname>Skovholt</surname>
+							<given-names>T. M.</given-names>
+						</name>
+						<name>
+							<surname>Willutzki</surname>
+							<given-names>U.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>The professional development of counsellors and psychotherapists: Implications of empirical studies for supervision, training and practice</article-title>
+					<source>Counselling and Psychotherapy Research</source>
+					<volume>19</volume>
+					<issue>3</issue>
+					<fpage>214</fpage>
+					<lpage>230</lpage>
+					<pub-id pub-id-type="doi">10.1002/capr.12198</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Rousmaniere, T. (2016). <italic>Deliberate practice for psychotherapists: A guide to improving clinical effectiveness</italic>. Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rousmaniere</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Deliberate practice for psychotherapists: A guide to improving clinical effectiveness</source>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Rousmaniere, T. (2019). <italic>Mastering the Inner skills of psychotherapy: A deliberate practice manual</italic>. Gold Lantern Books.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rousmaniere</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<source>Mastering the Inner skills of psychotherapy: A deliberate practice manual</source>
+					<publisher-name>Gold Lantern Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Rousmaniere, T., Goodyear, R. K., Miller, S. D., &amp; Wampold, B. E. (Eds.). (2017). <italic>The cycle of excellence: Using deliberate practice to improve supervision and training</italic>. John Wiley &amp; Sons.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Rousmaniere</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Goodyear</surname>
+							<given-names>R. K.</given-names>
+						</name>
+						<name>
+							<surname>Miller</surname>
+							<given-names>S. D.</given-names>
+						</name>
+						<name>
+							<surname>Wampold</surname>
+							<given-names>B. E.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>The cycle of excellence: Using deliberate practice to improve supervision and training</source>
+					<publisher-name>John Wiley &amp; Sons</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Santangelo, P. R. (2020). Programa de formación y entrenamiento en psicoterapia: Fundamentos teóricos e implementación. <italic>Revista de Psicoterapia</italic>, <italic>31</italic>(117), 331-346. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.33898/rdp.v31i117.377">https://doi.org/10.33898/rdp.v31i117.377</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santangelo</surname>
+							<given-names>P. R.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Programa de formación y entrenamiento en psicoterapia: Fundamentos teóricos e implementación</article-title>
+					<source>Revista de Psicoterapia</source>
+					<volume>31</volume>
+					<issue>117</issue>
+					<fpage>331</fpage>
+					<lpage>346</lpage>
+					<pub-id pub-id-type="doi">10.33898/rdp.v31i117.377</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Santangelo, P. R., &amp; Conde, K. (2020). Relación de Supervisión: Adaptación del S-SRQ en Psicoterapeutas Argentinos. <italic>Rev. CES Psico</italic>, <italic>13</italic>(3), 76-87. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21615/cesp.13.3.5">https://doi.org/10.21615/cesp.13.3.5</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santangelo</surname>
+							<given-names>P. R.</given-names>
+						</name>
+						<name>
+							<surname>Conde</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Relación de Supervisión: Adaptación del S-SRQ en Psicoterapeutas Argentinos</article-title>
+					<source>Rev. CES Psico</source>
+					<volume>13</volume>
+					<issue>3</issue>
+					<fpage>76</fpage>
+					<lpage>87</lpage>
+					<pub-id pub-id-type="doi">10.21615/cesp.13.3.5</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Santangelo, P. R., &amp; Conde, K. (2023). Preferencias Psicoterapéuticas: Versión argentina de las escalas PEX-1 y C-NIP-v1. 1. <italic>Revista de Psicología (PUCP)</italic>, <italic>41</italic>(1), 401-420. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.18800/psico.202301.015">http://dx.doi.org/10.18800/psico.202301.015</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santangelo</surname>
+							<given-names>P. R.</given-names>
+						</name>
+						<name>
+							<surname>Conde</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Preferencias Psicoterapéuticas: Versión argentina de las escalas PEX-1 y C-NIP-v1. 1</article-title>
+					<source>Revista de Psicología (PUCP)</source>
+					<volume>41</volume>
+					<issue>1</issue>
+					<fpage>401</fpage>
+					<lpage>420</lpage>
+					<pub-id pub-id-type="doi">10.18800/psico.202301.015</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<mixed-citation>Santangelo, P. R., Conde, K., Schupp, H., &amp; Paoloni, N. (2021). Evaluación en psicoterapia: Propiedades psicométricas de la versión Argentina de la Escala de Calificación de Resultados y la Escala de Calificación de Sesiones. <italic>Revista de Psicoterapia</italic>, <italic>32</italic>(119), 165-180. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.33898/rdp.v32i119.503">https://doi.org/10.33898/rdp.v32i119.503</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santangelo</surname>
+							<given-names>P. R.</given-names>
+						</name>
+						<name>
+							<surname>Conde</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Schupp</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Paoloni</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Evaluación en psicoterapia: Propiedades psicométricas de la versión Argentina de la Escala de Calificación de Resultados y la Escala de Calificación de Sesiones</article-title>
+					<source>Revista de Psicoterapia</source>
+					<volume>32</volume>
+					<issue>119</issue>
+					<fpage>165</fpage>
+					<lpage>180</lpage>
+					<pub-id pub-id-type="doi">10.33898/rdp.v32i119.503</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B52">
+				<mixed-citation>Santangelo, P. R., Currati, J. C., &amp; Yanni, V. (2023) Habilidades de Ayuda: Adaptación de la escala CASES en Psicólogos Argentinos. <italic>Enciclopedia Argentina de Salud Mental</italic>. 11 edición.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santangelo</surname>
+							<given-names>P. R.</given-names>
+						</name>
+						<name>
+							<surname>Currati</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Yanni</surname>
+							<given-names>V.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<chapter-title>Habilidades de Ayuda: Adaptación de la escala CASES en Psicólogos Argentinos</chapter-title>
+					<source>Enciclopedia Argentina de Salud Mental</source>
+					<edition>11</edition>
+				</element-citation>
+			</ref>
+			<ref id="B53">
+				<mixed-citation>Swift, J. K., Callahan, J. L., Cooper, M., &amp; Parkin, S. R. (2018). The impact of accommodating client preference in psychotherapy: A meta-analysis. <italic>Journal of Clinical Psychology</italic>, <italic>74</italic>(11), 1924-1937. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/jclp.22680">https://doi.org/10.1002/jclp.22680</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Swift</surname>
+							<given-names>J. K.</given-names>
+						</name>
+						<name>
+							<surname>Callahan</surname>
+							<given-names>J. L.</given-names>
+						</name>
+						<name>
+							<surname>Cooper</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Parkin</surname>
+							<given-names>S. R.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>The impact of accommodating client preference in psychotherapy: A meta-analysis</article-title>
+					<source>Journal of Clinical Psychology</source>
+					<volume>74</volume>
+					<issue>11</issue>
+					<fpage>1924</fpage>
+					<lpage>1937</lpage>
+					<pub-id pub-id-type="doi">10.1002/jclp.22680</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B54">
+				<mixed-citation>Von Bergen, A., &amp; de la Parra, G. (2002). OQ-45.2, Cuestionario para evaluación de resultados y evolución en psicoterapia: Adaptación, validación e indicaciones para su aplicación e interpretación. <italic>Terapia psicológica</italic>, <italic>20</italic>(2), 161-176.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Von Bergen</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>de la Parra</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<article-title>OQ-45.2, Cuestionario para evaluación de resultados y evolución en psicoterapia: Adaptación, validación e indicaciones para su aplicación e interpretación</article-title>
+					<source>Terapia psicológica</source>
+					<volume>20</volume>
+					<issue>2</issue>
+					<fpage>161</fpage>
+					<lpage>176</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B55">
+				<mixed-citation>Watkins, C. E., Jr. (2019). On disruption and construction, reflection and reorganization in psychotherapist development: A taxonomy of transformative learning outcomes. <italic>Journal of Transformative Education</italic>, <italic>20</italic>(4), 304-324. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177%2F1541344619864061">https://doi.org/10.1177%2F1541344619864061</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Watkins</surname>
+							<given-names>C. E.</given-names>
+							<suffix>Jr.</suffix>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>On disruption and construction, reflection and reorganization in psychotherapist development: A taxonomy of transformative learning outcomes</article-title>
+					<source>Journal of Transformative Education</source>
+					<volume>20</volume>
+					<issue>4</issue>
+					<fpage>304</fpage>
+					<lpage>324</lpage>
+					<pub-id pub-id-type="doi">10.1177%2F1541344619864061</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B56">
+				<mixed-citation>Watkins Jr, C. E., Cădariu, I. E., Vîşcu, L. I., &amp; Viliūnienė, R. (2024). Psychotherapy Supervision: An Invitational, Clarifying, Educational, Empowering, and Transparent (ICEE-T) Written Agreement. <italic>American Journal of Psychotherapy</italic>, <italic>77</italic>(4), 195-199. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1176/appi.psychotherapy.20230048">https://doi.org/10.1176/appi.psychotherapy.20230048</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Watkins</surname>
+							<given-names>C. E.</given-names>
+							<suffix>Jr</suffix>
+						</name>
+						<name>
+							<surname>Cădariu</surname>
+							<given-names>I. E.</given-names>
+						</name>
+						<name>
+							<surname>Vîşcu</surname>
+							<given-names>L. I.</given-names>
+						</name>
+						<name>
+							<surname>Viliūnienė</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Psychotherapy Supervision: An Invitational, Clarifying, Educational, Empowering, and Transparent (ICEE-T) Written Agreement</article-title>
+					<source>American Journal of Psychotherapy</source>
+					<volume>77</volume>
+					<issue>4</issue>
+					<fpage>195</fpage>
+					<lpage>199</lpage>
+					<pub-id pub-id-type="doi">10.1176/appi.psychotherapy.20230048</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B57">
+				<mixed-citation>Watkins, C., Edward Vîşcu, L. I., Cădariu, I. E., &amp; Žvelc, M. 2022. Problematic Self-Efficacy Inferences in Beginning Psychotherapy Supervisees: Identification and Management. <italic>Journal of Contemporary Psychotherapy</italic>, <italic>52</italic>(2), 109-116. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10879-021-09525-4">https://doi.org/10.1007/s10879-021-09525-4</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Watkins</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Edward Vîşcu</surname>
+							<given-names>L. I.</given-names>
+						</name>
+						<name>
+							<surname>Cădariu</surname>
+							<given-names>I. E.</given-names>
+						</name>
+						<name>
+							<surname>Žvelc</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Problematic Self-Efficacy Inferences in Beginning Psychotherapy Supervisees: Identification and Management</article-title>
+					<source>Journal of Contemporary Psychotherapy</source>
+					<volume>52</volume>
+					<issue>2</issue>
+					<fpage>109</fpage>
+					<lpage>116</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10879-021-09525-4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B58">
+				<mixed-citation>Watkins Jr, C. E., &amp; Mosher, D. K. (2020). Psychotherapy trainee humility and its impact: Conceptual and practical considerations. <italic>Journal of Contemporary Psychotherapy</italic>, <italic>50</italic>(3), 187-195. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10879-020-09454-8">https://doi.org/10.1007/s10879-020-09454-8</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Watkins</surname>
+							<given-names>C. E.</given-names>
+							<suffix>Jr</suffix>
+						</name>
+						<name>
+							<surname>Mosher</surname>
+							<given-names>D. K.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Psychotherapy trainee humility and its impact: Conceptual and practical considerations</article-title>
+					<source>Journal of Contemporary Psychotherapy</source>
+					<volume>50</volume>
+					<issue>3</issue>
+					<fpage>187</fpage>
+					<lpage>195</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10879-020-09454-8</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

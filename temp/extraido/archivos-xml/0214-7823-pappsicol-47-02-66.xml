@@ -1,0 +1,1773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.70478/pap.psicol.2026.47.08</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Devenir Trans: un Análisis Constructivista</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Becoming Trans: A Constructivist Analysis</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-4865-3655</contrib-id>
+					<name>
+						<surname>Sánchez González</surname>
+						<given-names>José Carlos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-9474-2464</contrib-id>
+					<name>
+						<surname>Loredo Narciandi</surname>
+						<given-names>José Carlos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
+					</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Universidad de Oviedo, España</institution>
+				<institution content-type="normalized">Universidad de Oviedo</institution>
+				<institution content-type="orgname">Universidad de Oviedo</institution>
+				<country country="ES">Spain</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">UNED, España</institution>
+				<institution content-type="orgname">UNED</institution>
+				<country country="ES">España</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">Autor de correspondencia: José Carlos Loredo Narciandi <email>jcloredo@psi.uned.es</email>
+				</corresp>
+				<fn fn-type="con" id="fn8">
+					<label>Citar como</label>
+					<p>Sánchez González, J. M., y Loredo Narciandi, J. C. (2026). Devenir trans: un análisis constructivista. <italic>Papeles del Psicólogo/Psychologist Papers, 47</italic>(2), 66-76. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.70478/pap.psicol.2026.47.08">https://doi.org/10.70478/pap.psicol.2026.47.08</ext-link>. Este artículo está publicado bajo Licencia Creative Commons 4.0 CC-BY-NC-ND</p>
+				</fn>
+				<fn fn-type="conflict" id="fn9">
+					<p>XXXX</p>
+				</fn>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>66</fpage>
+			<lpage>76</lpage>
+			<history>
+				<date date-type="received">
+					<day>07</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>19</day>
+					<month>01</month>
+					<year>2026</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>Este artículo ofrece un análisis del fenómeno trans desde una perspectiva psicológica constructivista que articula las dimensiones orgánica, operatoria y social de un sujeto humano. Se enfatiza el proceso de desarrollo por el que un sujeto, a través de tanteos, conflictos y decisiones, elabora y adopta una identidad trans como solución a un problema vital, bajo determinadas condiciones de influjo o mediación social e institucional. Se critica tanto la explicación en términos de “descubrimiento” de una identidad intrínseca o innata, como la de “contaminación” o mero influjo social, y se muestran las deficiencias conceptuales del discurso antinormativo <italic>queer</italic> en lo relativo al sexo, a la voluntad, a la función de la norma y al progreso normativo. Se examinan los efectos performativos de dicho influjo social en España, bajo la Ley Trans y su enfoque afirmativo, que acelera decisiones con consecuencias irreversibles a la vez que restringe precisamente el influjo social plural y racional, sobre el que las decisiones vitales de un sujeto y el progreso normativo se fundan.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>This paper offers an analysis of the trans phenomenon from a constructivist psychological perspective that articulates the organic, operative and social dimensions of a human subject. It emphasizes the developmental process through which a subject-through trial and error, conflicts, and decisions-elaborates and adopts a trans identity as a solution to a vital problem, under specific conditions of social and institutional influence or mediation. The paper critiques both the explanation based on the “discovery” of an intrinsic or innate identity and that of “contamination” or mere social influence, and it highlights the conceptual shortcomings of the queer antinormative discourse regarding sex, will, the function of norms, and normative progress. It examines the performative effects of such social influence in Spain under the Trans Law and its affirmative approach, which accelerates decisions with irreversible consequences while simultaneously restricting the very plural and rational social influence upon which a subject’s vital decisions and normative progress depend.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Constructivismo</kwd>
+				<kwd>Psicología del desarrollo</kwd>
+				<kwd>Transexualidad</kwd>
+				<kwd>Transgenerismo</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Constructivism</kwd>
+				<kwd>Developmental psychology</kwd>
+				<kwd>Transsexuality</kwd>
+				<kwd>Transgenderism</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="72"/>
+				<page-count count="11"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Entendemos por fenómeno trans el conjunto de realidades que convergen en la existencia de personas cuya experiencia de sí mismas no se ajusta a la distinción entre hombre y mujer, ya sea porque desean cambiar su condición de hombre a mujer, o viceversa, o porque desean cambiar a alguna otra condición no binaria. Confluyen en él realidades de niveles diversos. Algunas tienen que ver con el cuerpo, particularmente con sus caracteres sexuales primarios y, sobre todo, secundarios. Otras tienen que ver con el desarrollo psicológico propio del joven o el adolescente y con la formación del yo, de lo cual forman parte la socialización, la autopercepción, el conflicto de identidad y en ocasiones el drama. Y otras realidades, finalmente, tienen que ver con prácticas sociales e institucionales, vinculadas a costumbres y leyes. Aquí entran en juego los intereses ideológicos, políticos o económicos característicos de las últimas décadas de explosión de cultura identitaria y narcisista ligada al neoliberalismo en lo que llamamos Occidente.</p>
+			<p>El fenómeno mismo es confuso tanto en lo relativo a las argumentaciones que lo definen y justifican como en lo relativo al propio término, “trans” -en sí un mero prefijo-, que parece apelar a trans-cender cierta noción de sexo y cierta noción de género e, incluso, a trans-gredir toda norma o criterio que fundamente esas nociones. Nuestro objetivo en este trabajo es examinar la confusión y ofrecer un modelo de articulación de los niveles mencionados en al párrafo anterior, evitando reducir el fenómeno a (1) las exigencias del cuerpo o la genética (reduccionismo biológico), (2) el dictado de un “yo auténtico” o una voluntad incondicionada (reduccionismo psicológico) o (3) las presiones sociales, económicas, políticas e ideológicas (reduccionismo sociológico). Nos parece que desde tal modelo se comprende mejor el papel relevante que estas últimas han tenido en la multiplicación exponencial, a lo largo de la última década, de personas que se declaran “trans”, envueltas en un creciente enjambre ideológico donde ese y otros términos son más retóricos que denotativos (a veces funcionan como un <italic>shibolet</italic>, una contraseña de reconocimiento).</p>
+			<p>No en vano al fenómeno trans lo ha acompañado una intensa actividad medática y política, con enconadas polémicas donde abunda la bibliografía crítica (p.ej., <xref ref-type="bibr" rid="B2">Alarcón, 2022</xref>; <xref ref-type="bibr" rid="B4">Alsedo, 2024</xref>; <xref ref-type="bibr" rid="B29">Errasti y Pérez, 2022</xref>; <xref ref-type="bibr" rid="B42">López Moya, 2023</xref>; <xref ref-type="bibr" rid="B43">Lora, 2021</xref>; <xref ref-type="bibr" rid="B50">Mercado, 2022</xref>; <xref ref-type="bibr" rid="B52">Miyares, 2022</xref>; <xref ref-type="bibr" rid="B65">Shrier, 2021</xref>) y también la vindicativa (p.ej., <xref ref-type="bibr" rid="B3">Alegre <italic>et al</italic>., 2023</xref>; <xref ref-type="bibr" rid="B17">Butler, 2024</xref>; <xref ref-type="bibr" rid="B27">Duval, 2020</xref>; <xref ref-type="bibr" rid="B35">Gonzales y Rayne, 2019</xref>; <xref ref-type="bibr" rid="B40">Keo-Meier y Ehrensaft, 2018</xref>; <xref ref-type="bibr" rid="B51">Mittal, 2025</xref>; <xref ref-type="bibr" rid="B68">Stryker, 2017</xref>; <xref ref-type="bibr" rid="B69">Tompkins, 2023</xref>). En España la Ley Trans, aprobada en marzo de 2023, permite la autodeterminación de género desde los 12 años con permiso judicial, desde los 14 con autorización parental y desde los 16 libremente. Lo más discutido, aparte de la edad, es el hecho de que no se consideren necesarios informes de expertos. Por lo demás, la ley prohíbe las terapias de conversión (el intento de cambiar la orientación sexual o la identidad de género de una persona) y dispone medidas de intervención y educativas relacionadas con el mundo LGTBIQ+. Desde el punto de vista de la psicología, la postura oficial subraya la despatologización de la transexualidad y se alinea con la Ley Trans, aunque con el matiz de recomendar seguimiento clínico en algunos casos.<xref ref-type="fn" rid="fn1">
+					<sup>1</sup>
+				</xref> Pero existen voces que llaman a una mayor prudencia. La más conocida es la de <xref ref-type="bibr" rid="B29">José Errasti y Marino Pérez (2022)</xref>. A nuestro juicio, es la mejor argumentada. Estos autores analizan la propagación de la llamada ideología <italic>queer</italic> o trans en las escuelas, las empresas y la sociedad en general, y muestran otras opciones teóricas y terapéuticas para abordar el fenómeno. Defienden que el cuerpo y la identidad personal son inseparables, de modo que el malestar con el propio cuerpo es indisociable del malestar emocional, el cual depende del desarrollo psicosocial y los modelos de socialización culturalmente disponibles. Combinan el análisis y la denuncia, en este caso la de la imprudencia que supone dar por buena la autopercepción individual y la consiguiente posibilidad de intervenciones farmacológicas y quirúrgicas cuyos efectos son a menudo perjudiciales e irreversibles. Critican, pues, el llamado enfoque afirmativo.</p>
+			<p>Coincidiendo con este diagnóstico general, quisiéramos profundizar en la manera en que cabe entender el fenómeno trans desde un punto de vista psicológico basándonos en una tradición teórica, la constructivista, representada por clásicos tan conocidos como James Mark Baldwin, Lev Vygotski, Jean Piaget o Ignace Meyerson. Aunque es una tradición heterogénea y que por sí misma no lo resuelve todo, consideramos que ofrece algunas de las mejores herramientas para una comprensión cabal de lo que es un sujeto. Si tuviéramos que condensar en pocas palabras su núcleo, diríamos que trata la psicogénesis como un proceso que a la vez media en y es mediado por condiciones biológicas y sociohistóricas, pero es un proceso con su propia lógica (<xref ref-type="bibr" rid="B62">Sánchez-González, 2009</xref>; <xref ref-type="bibr" rid="B63">Sánchez-González, 2025</xref>; <xref ref-type="bibr" rid="B64">Sánchez-González y Loredo-Narciandi, 2009</xref>).</p>
+		</sec>
+		<sec>
+			<title>Norma y Construcción</title>
+			<p>El trasfondo teórico de la Ley Trans y la ideología <italic>queer</italic> en general (<xref ref-type="bibr" rid="B11">Bernini, 2018</xref>; <xref ref-type="bibr" rid="B15">Butler, 2007</xref>; <xref ref-type="bibr" rid="B33">Fuster - Ruiz de Apodaca <italic>et al</italic>., 2023</xref>; <xref ref-type="bibr" rid="B57">Preciado, 2020</xref>) tiende a albergar una concepción del yo como interioridad que se autodetermina. Hace abstracción de los procesos de influencia sociocultural, como si se absolutizaran el sentimiento y la elección individuales. A la vez, todo tiende a considerarse una construcción social donde lo instituido -la norma- queda ontológica y moralmente devaluado respecto a lo instituyente -la novedad-. Por supuesto, este trasfondo teórico no es monolítico y ha evolucionado. Así, <xref ref-type="bibr" rid="B17">Judith Butler (2024)</xref> se ha distanciado de la concepción de la construcción como algo puramente social o discursivo y se ha acercado a formas de materialismo que nosotros consideramos vitalistas y metafísicas, según las cuales, en el fondo, es la propia materia la que fundamenta el carácter diverso, siempre instituyente e incluso <italic>queer</italic> (mezclado, indefinido, extraño, antinormativo) de toda la realidad. De hecho, estos teóricos no tienen por qué reconocerse en la idea de que el género es una esencia interna, individual, aunque creemos que no les queda más remedio que suponerlo debido a que la concepción del sujeto que manejan es una mezcla de perspectiva psicodinámica y concepción foucaltiana del poder (<italic>cf</italic>. <xref ref-type="bibr" rid="B45">Loredo, en evaluación</xref>).</p>
+			<p>La idea de la performatividad de Butler supone que la identidad sexogenérica (de sexo y/o género) es lo que el cuerpo y su expresión instauran dentro de una red sociocultural determinada, pero en ningún momento termina de dejar claro cómo se construye la identidad personal articulando componentes filo, onto e historiogenéticos; ni por qué la identidad es tan importante en tanto que identidad sexual o de género y no, por ejemplo, social o nacional; ni cuál es la diferencia entre sexo y género; ni qué tipo de objetividad es la del sexo (por qué no podemos convertir los cromosomas XX en XY ni viceversa) y qué tipo de objetividad es la del género (¿como se impone, si es que se impone?, ¿cómo se elige, si es que se elige?). Recurrir a metafísicas vitalistas, potencialistas o procesualistas es, creemos, una huida hacia adelante para no enfrentarse al problema de qué significa exactamente la construcción del yo y la identidad personal, incluyendo la sexogenérica. Esa huida consiste en desplazar el <italic>nomos</italic> a la <italic>physis</italic>: se supone que la propia naturaleza avala o contiene ya en potencia la pluralidad indefinida de posibilidades que luego se acaba expresando en lo que no son tanto elecciones individuales propiamente dichas (“soy mujer”, “soy trans”, etc.) cuanto autorreconocimientos, tomas de conciencia de lo que uno ya era en el fondo, actualizaciones de potencialidades. Es esto lo que aboca a una concepción del género como esencia interna.</p>
+			<p>A veces se distingue entre transexualismo y remitiendo el primero al cambio de sexo y el segundo al de género, algo que obviamente sigue reproduciendo la dicotomía entre naturaleza o <italic>physis</italic> (lo dado, binario y rígido) y cultura o <italic>nomos</italic> (lo creado por nosotros, diverso y flexible). Gerard <xref ref-type="bibr" rid="B23">Coll-Planas y Miquel Missé (2015)</xref> constatan esa dicotomía entendiéndola como tensión entre la concepción de la identidad sexogenérica como una esencia o bien como una herramienta antiesencialista, enfrentada al canon de lo masculino y lo femenino. <xref ref-type="bibr" rid="B16">Butler (2015</xref>, <xref ref-type="bibr" rid="B17">2024)</xref> y otros teóricos de lo <italic>queer</italic>, como Paul B. <xref ref-type="bibr" rid="B58">Preciado (2022)</xref>, pretenden entenderla en el segundo sentido, que es el que casa con su punto de vista antinormativo, heredero de las filosofías de la liberación de mayo del 68.</p>
+			<p>Tanto Coll-Planas y Missé como Butler o Michel Foucault, aunque admiten que la norma es constitutiva de la subjetividad, parecen tender a concebirla como algo monolítico o al menos negativo, haciendo énfasis en su naturaleza represora y relegando su naturaleza productora. Reconocen que, a la vez que oprime, la norma constituye, pero parecen olvidar que, en la medida en que constituye, permite actuar. Recurriendo a la manida metáfora de Kant, la de la paloma que nota la resistencia del aire y cree que en el vacío volaría más rápido, nosotros diríamos que ver sólo el lado negativo de la norma es hacer como esa paloma. Es olvidar que el juego de opresión y liberación se da en el curso de acciones que se codeterminan entre sí y dependen de un contexto histórico caracterizado, para el caso que nos ocupa, por la universalización de la atención médica y psicológica, el surgimiento de nuevas subculturas urbanas, el ensanchamiento de la separación entre reproducción y sexo o la reducción del tamaño de las familias. Sin norma no hay libertad, sino vacío.<xref ref-type="fn" rid="fn2">
+					<sup>2</sup>
+				</xref> Y ese vacío se llena con el autorreconocimiento. La obsesión antinormativa, en efecto, desemboca en una interioridad subjetual auténtica, fuente de criterio de cómo vivir, a la que se opone una exterioridad social inauténtica, opresora.</p>
+			<p>Pero esa interioridad y esa exterioridad son puramente metafísicas. La interioridad primigenia que queda tras negar las normas en realidad no es nada, o no es nada más que un deseo ciego de seguir liberándose de todo indefinidamente; un deseo incapaz de discriminar lo que se considera más o menos valioso de la norma, puesto que la vive como un todo del que desembarazarse. La metafísica de la interioridad (dejar que emerja el yo y sea quien decida a través del deseo) y la de la exterioridad (luchar contra toda norma, destruir toda tradición, sospechar siempre) no sólo exigirían salirse del mundo para contemplar lo interior y lo exterior como totalidades enterizas, sino que además actúan <italic>de facto</italic> como criterio normativo: un criterio que prescribe ciegamente, sin reconocerlo ni justificarlo, <italic>la norma de acabar con toda norma</italic>.</p>
+			<p>Así, se adopta una concepción idealista de la noción de construcción, según la cual queda obturada cualquier referencia a la validez, estabilidad u objetividad de lo construido. El proceso de construcción tiende a remitirse al poder, entendido a su vez de forma metafísica. Las categorías médicas sobre la transexualidad se reducen a discurso médico patologizante que se impone a las personas. Si bien las categorías que definen la identidad personal se consideran, con razón, performativas en la medida en que no describen sino que participan en la producción de la subjetividad -restringen las posibilidades de lo no instituido y a la vez posibilitan lo que termina por instituirse-, lo que acaba existiendo cae inmediatamente bajo la sospecha de ser una imposición, una violación de lo que debería ser o haber sido. En lugar de entenderlo como una realidad con un determinado grado de consistencia, de valor para vivir, se entiende como producto de un opresivo ejercicio de poder. Lo constituido se contempla desde el punto de vista de sus limitaciones, de lo que pudo haber sido (constituido) y no fue (porque lo realmente constituido lo ha impedido) pero debería ser. Es como si lo constituido, lo construido, no contuviera por definición nada bueno. Todo lo que contiene es sospechoso de estar al servicio del poder, un poder cuyos intereses se supone que nunca coinciden con los del sujeto, pensado éste a la escala de un <italic>ello</italic> que es puro deseo, potencialidad creadora que no debería ser limitada por norma alguna. Así pues, el poder nos constituye como sujetos, pero esta constitución es siempre sombría, porque se da por contraste con lo que se supone que sería mejor, por contraposición a lo dado. Además, a menudo se piensa que lo que está o debería estar por venir es una recuperación de algo que ha sido reprimido por el cristianismo, el heteropatriarcado, el capitalismo, etc. (<xref ref-type="bibr" rid="B9">Barqui <italic>et al</italic>., 2018</xref>; <xref ref-type="bibr" rid="B58">Preciado, 2022</xref>; <xref ref-type="bibr" rid="B68">Stryker, 2017</xref>). También se puede concebir como aquello que ha estado ontogenéticamente reprimido, si es que se cree que la &quot;asignación&quot; de sexo al nacer impide la libertad de desarrollo de lo que se decantará, en ausencia de semejante imposición, como niño, niña o <italic>niñe</italic> (<xref ref-type="bibr" rid="B36">Green y Friedman, 2015</xref>).</p>
+		</sec>
+		<sec>
+			<title>Esencia Interior y Poder</title>
+			<p>Según la ideología <italic>queer</italic>, más que construcción propiamente dicha hay una <italic>resistencia</italic> sistemática a la norma. Y los procesos en virtud de los cuales la resistencia es mejor que la aceptación son siempre opacos. Parecen descansar en las vivencias de liberación de los interesados, que ni siquiera se contrastan con las vivencias que las &quot;viejas&quot; categorías posibilitaron un día y siguen posibilitando a los supuestamente dominados u oprimidos, los cuales aparecen entonces como una especie de pobres engañados o alienados en la oscuridad de la caverna (&quot;[y]a no podemos aprender nada de los sanos&quot;, advierte <xref ref-type="bibr" rid="B58">Preciado, 2022</xref>, p. 153). Quienes tratan de romper la norma emergen como adalides de un universalismo peculiar, no fundado en ningún criterio de superación o verdad, sino en la presunción de que su necesidad o su vivencia son la necesidad o la vivencia de todo el mundo, ya sea porque a todos interesa disfrutar de esa vivencia de desidentificación, ya sea porque abrir la posibilidad se considera en sí mismo valioso por ser un acto de rebeldía y “emancipación”.</p>
+			<p>La noción de construcción habitual en la ideología trans, cercana al socioconstruccionismo y anclada en la noción de resistencia, es pues vacía respecto a la validez de la construcción. Parece mantenerse sólo para evitar el esencialismo del yo, que se manifestaría a través una interioridad natural, sea neurobiológica o psíquica. El problema es que dudosamente lo evita, porque las razones de la superioridad de las vivencias de los adalides de la nueva norma (la buena) son formalmente indistinguibles de las propias de la norma anterior (la mala). El único criterio, en el fondo, es la vivencia y su contraste liberador respecto a los límites del pasado. La vivencia decide lo que vale contra la norma dada, pero no es posible saber de quién es la vivencia, ya que el sujeto está constituido por la norma. De modo que o bien no hay ningún sujeto, sino sólo una normatividad socialmente dada e interiorizada -en cuyo caso no se sabe quién es el que resiste-, o bien sí hay algo, un plus, un resto más allá de la norma constituyente, en cuyo caso, empero, si ese plus no puede entenderse de acuerdo con un sistema alternativo de normas que también lo fundan, entonces solamente puede ser un resto interior, intrapsíquico, una esencia que en última instancia se reduce a una ciega voluntad o deseo de resistencia, de decir no a lo dado, de desidentificarse. Así, &quot;la sociedad contrasexual se dedica a la deconstrucción sistemática de la naturalización de las prácticas sexuales y del sistema de género&quot; (<xref ref-type="bibr" rid="B56">Preciado, 2002, p. 19</xref>).</p>
+			<p>En suma, he aquí la paradoja esencial: o la construcción regresa a una interioridad sustancial e indeterminada (la voz de la negación) o es preciso mostrar de dónde y cómo salen alternativas mejores para ese yo supuestamente oprimido. Pero si es posible mostrar tal cosa es porque el yo <italic>no</italic> está completamente dominado, sino constituido en sentido estricto, positivo, esto es, dotado de recursos operatorios y herramientas de vida significativas y válidas en algún grado, dadas en su constitución actual y no potencial, en tensión sin duda con otras que habrán de poder ser juzgadas como menos válidas respecto de algún criterio, pero que están igualmente aquí y ahora, coexistiendo en su realidad constitutiva. El sujeto de carne y hueso no es un cuerpo invadido por un poder externo, sino un operador que hace lo posible por distinguir y contrastar unas normas con otras normas, transformándolas, en su caso, no desde una pura vivencia ajena a toda norma, como la mera voz de la negación, sino actuando en el aquí y ahora, siempre desde algún marco normativo, sin el cual no existiría como sujeto. El sujeto tiene algún grado de conciencia o competencia sobre lo real, sobre las contradicciones de lo real y sobre la pluralidad de referentes normativos y de valor que coexisten y se enfrentan. Por eso es capaz de transformar contextualmente lo real: no por negación desde una alteridad potencial, sino explorando las posibilidades de normas alternativas cuyo valor ya ha sido establecido, ejercido para vivir, en algún grado, por quienes le precedieron. La clave de la negación es también normativa, social, y es tan actual como potencial.</p>
+			<p>O nos conformamos con la voz de la negación, pues, o adoptamos una concepción dialéctica de la construcción, que es una construcción con lo que hay en el mundo y, por tanto, ha de ser plural y tener validez en diverso grado, en algún grado. Esto implica que la acción siempre está constituida normativamente -y por eso es posible- a la vez que siempre está en proceso de desarrollo y eventual transformación. Nunca alcanza el grado -puramente límite o metafísico- en que la única norma sea la negación de toda norma. No cabe la petición de principio de que lo existente es malo porque la alternativa es buena. En lo existente se halla el germen de lo bueno y de lo malo. Por tanto, hay que juzgar, y hay que explorar y discutir los propios criterios de bondad. Es esto lo que nos devuelve a la racionalidad de lo real, de lo actual, del presente, y nos saca de la pesadilla psicodinámica que enfrenta de modo enterizo el deseo con la norma, como si algunas normas no fuesen imprescindibles para seguir viviendo y discutiendo normas. También nos saca de la pesadilla foucaultiana según la cual todo poder es indeseable o sospechoso, como si no hubiese poderes imprescindibles para seguir viviendo, poderes que merece la pena sostener, como por ejemplo el poder de mando y coordinación efectiva de recursos durante una emergencia, el de perseguir y castigar la corrupción, o el de imponer la igualdad ante la ley.</p>
+		</sec>
+		<sec>
+			<title>Sexo y Género</title>
+			<p>La ciencia biológica o la tecnología médica no pueden reducirse a discursos opresores. Definen rasgos esenciales del sujeto humano como un animal linneano y darwiniano en el seno plural de una cultura. Y la cultura no nos saca de la naturaleza; de hecho, hay evolución biológica en parte gracias a las culturas animales. El sexo o -por ser más precisos- el dimorfismo sexual es condición de la existencia a lo largo del tiempo del animal humano, de nuestra especie. Va ligado a disposiciones que participan en el desarrollo ontogenético y que conducen de modo estadísticamente normal a la conducta típica de la morfología sexual, en el sentido del uso de los rasgos de individuos con gametos del sexo masculino para la fertilización de los individuos con gametos femeninos, aparte de la ulterior gestación, el parto y los comportamientos -mediados por procesos hormonales epigenéticamente identificables, por ejemplo- de apego y cuidado de las crías. Desde luego, no hay un “instinto”, una interioridad biológica o psicobiológica que regule todo el proceso o que contenga la identidad sexual o de género, sino un curso complejo de desarrollo en el que se constituyen (construyen) las pautas o hábitos sexuales y la “identidad sexual”, al menos en los lugares donde ésta haya llegado a existir como categoría.</p>
+			<p>Ninguna discusión racional sobre el tema debería dudar de la existencia del sexo (dual) en ese sentido, vinculado a las funciones reproductivas y con el dimorfismo sexual correspondiente. Hasta los planteamientos que, como el de Anne <xref ref-type="bibr" rid="B31">Fausto-Sterling (2006)</xref>, defienden que el sexo constituye un espectro y no una realidad binaria, exigen asumir dos polos entre los cuales se da toda la variedad del espectro. Es más, aun suponiendo que fuesen naturalmente posibles más de dos sexos biológicos, como empezó proponiendo la propia <xref ref-type="bibr" rid="B30">Fausto-Sterling (1993)</xref>, a día de hoy la norma estadística sigue siendo binaria y sin ella sería imposible la continuación de la especie incluso contando con tecnologías de reproducción asistida universalizadas, las cuales requieren la existencia de óvulos y espermatozoides.<xref ref-type="fn" rid="fn3">
+					<sup>3</sup>
+				</xref> Las excepciones embrio u ontogenéticas constituyen más bien confirmaciones de la regla: según la definición de la intersexualidad que se adopte, se estima que su prevalencia es de entre un 0'05 y un 1'7 % en la población general (<xref ref-type="bibr" rid="B8">Ballering <italic>et al</italic>., 2023</xref>).</p>
+			<p>Tampoco hay duda, científicamente hablando, de que el comportamiento sexual, en muchas especies, no se reduce a la copulación reproductiva. En el caso humano existen multitud de pautas sexuales institucionalizadas ajenas a la intención reproductora. La diversidad histórica y cultural de los usos del cuerpo y sus órganos sexuales es evidente, y es lo que caracteriza la noción de género sexual (es decir, no gramatical). Más allá de la dualización heterosexual convencional que prescribe ciertos patrones socioinstitucionales y psicológicos de hombre y mujer y que proscribe comportamientos desviados -en general homosexuales-, lo que importa es que éstos existen y son también un producto del desarrollo de los seres humanos, aunque estadísticamente sea menos frecuente. El deseo puede elaborarse, vehicularse, de modos diversos, y de hecho está siempre haciéndolo, dentro de determinados parámetros. Existe diversidad en el desarrollo del comportamiento sexual incluso en sociedades que la reprimen.</p>
+			<p>Tal y como lo contemplamos nosotros, el problema no es tanto el deseo de cambio de apariencia -y de reconocimiento social e institucional- cuanto la confusión de sexo y género y la proliferación de una ideología de liberación a través de la “transición” de un sexo al otro; una ideología que (A) o bien propone el cambio de sexo (transexualidad), en cuyo caso sigue habiendo dos sexos y dos géneros correspondientes, o bien (B) afirma una virtualmente infinita gama de situaciones sexogenéricas posibles (transgenerismo), ya sea porque (B1) niega la dualidad sexual de base o porque (B2), sin negarla, considera totalmente independiente de ella la identidad de género.<xref ref-type="fn" rid="fn4">
+					<sup>4</sup>
+				</xref> Sin ser una esencia, a día de hoy el sexo no se puede cambiar, y no es fácil imaginar una ingeniería capaz de transformar la dotación XX del total de billones de células de un individuo humano en XY o viceversa.</p>
+		</sec>
+		<sec>
+			<title>Elección e Institucionalización</title>
+			<p>Las preferencias de género no se eligen en un solo y definitivo acto de voluntad, sino que se constituyen a lo largo del desarrollo. La voluntad consiste más bien en una inevitable y continua toma de decisiones en contexto, bajo ciertos principios, normas o valores relativamente estables, a riesgo de error, tanto de la decisión como de los principios, que pueden verse revisados y corregidos por la experiencia vital o por cambios sociales, por ejemplo científicos. Que dichas preferencias de género sean variadas y posibles no implica que sean pura manifestación de una libertad o voluntad individual absoluta, ajena a toda mediación social y al proceso mismo de desarrollo. Es posible que un macho humano viva como si fuese una hembra humana, y ha ocurrido de modos diversos a lo largo de los siglos. Hacer constar en un documento oficial que se tiene el sexo distinto al “asignado” (por la sociedad, por el médico) en la partida de nacimiento, posee un sentido performativo: yo me autodetermino ahora como varón o mujer (o como ninguno de los dos) y pido al poder público que me lo refrende. Nótese que aquí sí se requiere -de hecho, se reclama activamente- el concurso del poder y, además, no de forma accidental sino sustantiva: la autopercepción personal por sí sola tiene un valor muy limitado mientras no se valide socialmente a través del Estado. Si fuera suficiente con vivir o intentar vivir de acuerdo con la identidad percibida o elegida, sin refrendo, respaldo o defensa alguna del poder o la sociedad, el problema práctico esencial de todo el movimiento trans casi se disolvería.</p>
+			<p>Incluso cuando uno ha perdido rasgos sexuales primarios (lo que tampoco implica haber adquirido todos los del otro sexo), la afirmación de sí mismo como sujeto del sexo opuesto no deja de ser una aceptación del reinado de la voluntad. Y el reconocimiento público afirmativo, sin más, supone un canto a la interioridad que se autodetermina, hasta tal punto que resulta políticamente incorrecto plantear siquiera la duda o problematizar el fenómeno. El transexual, según hemos indicado, no niega los sexos, sólo quiere cambiar de sexo y cree que su elección puede iniciar ese cambio. En realidad, el cambio consiste en vivir como si se fuera del otro sexo -habitualmente de acuerdo con el patrón heterosexual más convencional- en todos los aspectos posibles, incluyendo la modificación corporal hasta donde sea factible. El transgénero (B2) niega la dualidad sexual misma y supone que el transexual en el fondo es conservador, esto es, asume la norma existente (dos sexos y dos géneros). La voluntad, entonces, se convierte en monarca absoluto, pues la liberación va más allá de toda normatividad dada (la convencional, la binaria) y hasta de toda normatividad posible: se cree en una libertad total para producir todos los géneros que quepan en la diversidad de la experiencia -o ninguno, lo que viene a ser lo mismo-, una experiencia que acaba consistiendo, como ya apuntamos, en una generación constante de diferencias y una desidentificación perpetua, sin nada instituido y con todo en un incesante proceso instituyente.</p>
+			<p>La paradoja es que la desidentificación antinormativa exige fundar de inmediato una nueva normatividad, porque no se pide sólo libertad para vivir experiencias -privadamente o entre pares-, sino también, y ante todo, reconocimiento público e institucional al máximo nivel, con modificaciones normativas que van desde las leyes hasta el lenguaje y el habla, pasando por celebraciones, banderas en edificios oficiales, actos de homenaje, promoción de estudios e investigaciones académicas, creación de organismos oficiales y observatorios de toda índole, subvenciones y ayudas, intervenciones educativas, arquitectónicas -servicios-, participación deportiva en eventos del género elegido, etc. Se promueve una especie de realidad análoga a la vieja (la binaria) pero ampliada en extensión y profundidad: se considera natural -e <italic>invisibilizada</italic> hasta ahora- la existencia de niños, niñas, <italic>niñes</italic> y toda una lista de variantes que, combinando identidades sexogenéricas con orientaciones &quot;sexoafectivas&quot;, se acaban contando por centenares. La alteridad se convierte en una norma tanto o más férrea que la anterior; una norma constituyente de las nuevas identidades, bajo el supuesto de un acto de rebeldía contra el viejo estatus conservador y represor, amparado ideológicamente por la negación -en la estela foucaultiana- de toda consistencia epistémica a la dualidad sexual, ligada al abuso heteropatriarcal. El transgenerismo se apoya, negativamente, en el rechazo a la dualidad de sexo (sea para negar la dualidad de género que de ella dependería -B1-, sea para minimizar esa supuesta dependencia, de modo que el sexo se considera dual a la vez que irrelevante para la infinidad de géneros -B2-), y positivamente en una concepión de la norma, la experiencia individual y la “libre determinación” que constituye una mala teoría de la construcción psicológica, como esperamos haber mostrado.</p>
+			<p>La clave de los problemas, pues, no radica en la posibilidad de formas de vida sexual diversas, que después de todo quedarían incluídas en una concepción amplia de lo que es el género, sino en la imposición de una nueva normatividad institucionalizada, probablemente más dura que la antigua -por más explícita y burocratizada-, basada en un rechazo <italic>ad hoc</italic> de la dualidad sexual en que se que fundaba ésta. La nueva institucionalización implica la construcción de nuevos sujetos bajo nuevas normas, tomadas por válidas por su carácter liberador pero a la vez, según su propia lógica, colonizadoras del sujeto, y necesitadas por ende de alguna nueva subversión. A nuestro juicio, lo que ocurre es que, careciendo de fundamento la negación del sexo, todo el edificio se halla mal cimentado. La noción de construcción de la teoría <italic>queer</italic> está ella misma mal construida, y además puede hacer daño. La expansión de un mercado de la transición alimentado por la ideología según la cual tienes derecho a decidir sin interferencia -sin expertos, sin discusión, sin datos, sin una mediación plural de los otros que, por lo demás, es genéricamente constitutiva de todo desarrollo humano- ha producido un incremento significativo de jóvenes trans (<xref ref-type="bibr" rid="B70">Twenge <italic>et al</italic>., 2025</xref>) y, por supuesto, de clínicas de hormonación, que a menudo es un paso previo a la cirugía y es de por vida. La cuestión es que ese incremento no se debe a un desvelamiento, salvo que creamos que lo trans emerge de una autenticidad intrapsíquica natural. Y es aquí donde tenemos que detenernos en un examen del desarrollo, en esta línea constructivista, capaz de dar cuenta de la génesis de la identidad trans, incluyendo las modulaciones sociales que permiten entender dicho incremento.</p>
+		</sec>
+		<sec>
+			<title>Psicología y Desarrollo</title>
+			<p>Acercándonos a la bibliografía psicológica más o menos reciente sobre el tema, encontramos una variedad endiablada de temas y aproximaciones. Hallamos trabajos sobre el desarollo ontogenético de la identidad de género enfocados desde perspectivas diversas: psicodinámicas, clínicas, psicobiológicas, afirmativas, etc. (<xref ref-type="bibr" rid="B5">Aristegui <italic>et al</italic>., 2022</xref>; <xref ref-type="bibr" rid="B14">Bradford y Catalpa, 2019</xref>; <xref ref-type="bibr" rid="B19">Castañeda, 2015</xref>; <xref ref-type="bibr" rid="B20">Chen <italic>et al</italic>., 2018</xref>; <xref ref-type="bibr" rid="B24">Coyne <italic>et al</italic>., 2020</xref>; <xref ref-type="bibr" rid="B25">Diamond, 2020</xref>; <xref ref-type="bibr" rid="B67">Spivey y Edwards-Leeper, 2019</xref>; <xref ref-type="bibr" rid="B72">Withers, 2020</xref>). Hallamos discusiones sobre la patologización y la despatologización y sobre la conveniencia o no de la hormonación temprana (<xref ref-type="bibr" rid="B6">Ashley, 2019</xref>; <xref ref-type="bibr" rid="B9">Barqui <italic>et al</italic>., 2018</xref>; <xref ref-type="bibr" rid="B47">Marchand, 2017</xref>; <xref ref-type="bibr" rid="B55">Périer, 2020</xref>). Hallamos trabajos sobre la detransición y discusiones sobre si es mejor el tratamiento precoz o la espera vigilante (<xref ref-type="bibr" rid="B7">Ashley, 2022</xref>; <xref ref-type="bibr" rid="B32">Favero y Machado, 2019</xref>; <xref ref-type="bibr" rid="B34">Giordano, 2019</xref>). Hallamos trabajos sobre la función de los factores familiares y sociales (<xref ref-type="bibr" rid="B1">Abreu <italic>et al</italic>., 2019</xref>; <xref ref-type="bibr" rid="B38">Hafford-Letchfield <italic>et al</italic>., 2019</xref>; <xref ref-type="bibr" rid="B39">Kane, 2006</xref>; <xref ref-type="bibr" rid="B54">Olson <italic>et al</italic>., 2016</xref>). Y hallamos discusiones sobre cuestiones de ética y derechos humanos (<xref ref-type="bibr" rid="B49">Medjkane <italic>et al</italic>., 2021</xref>). Dentro de toda esa variedad, la presencia del enfoque afirmativo, que ha llegado a ser el oficial, o cuando menos el oficioso, es desde luego muy perceptible (lo representan a la perfección <xref ref-type="bibr" rid="B28">Edwards-Leeper <italic>et al</italic>., 2016</xref>; véase asimismo <xref ref-type="bibr" rid="B40">Keo-Meier y Ehrensaft, 2018</xref>, y la curiosa vuelta de tuerca de <xref ref-type="bibr" rid="B66">Singh, 2016</xref>, quien aboga por liberar al propio terapeuta). También es muy perceptible la idea de que las personas trans existen, sin más, como sujetos específicos, de manera natural (idea que, paradójicamente, puede conducir a la acusación de patologización, pues se les etiqueta como a quienes se ajustan a una categoría diagnóstica), idea que a veces persiste incluso cuando se intenta adoptar una mirada evolutiva, ontogenética o psicosocial (<xref ref-type="bibr" rid="B12">Bockting y Coleman, 2016</xref>; <xref ref-type="bibr" rid="B13">Boskey, 2014</xref>; <xref ref-type="bibr" rid="B26">Dunham y Olson, 2018</xref>; <xref ref-type="bibr" rid="B53">Pinto y Moleiro, 2015</xref>; <xref ref-type="bibr" rid="B60">Riggs, 2019</xref>).</p>
+			<p>Recientemente uno de nosotros (<xref ref-type="bibr" rid="B63">Sánchez-González, 2025</xref>) ha sistematizado algunos conceptos de la tradición constructivista relativos a la transmisión cultural entendida desde un punto de vista psicológico: los de <italic>mediación</italic> (el comportamiento de los miembros de un grupo es mediado, aunque no determinado, por los contenidos culturales disponibles), <italic>diagramado</italic> (existe un sistema de operaciones estabilizado que define los aspectos básicos, socialmente compartidos, de la realidad de esos contenidos), <italic>andamiaje</italic> (la influencia de los demás sujetos, intencionada o no, es a menudo decisiva para transmitir ese diagramado), <italic>apertura</italic> (las operaciones tienen su propia lógica de generación de novedad, intercalada con la biológica y la cultural pero no reductible completamente a ninguna de ellas) y <italic>pulso funcional de los artefactos</italic> (los contenidos culturales no existen autónomamente, sin el concurso de las operaciones recurrentes de los sujetos). Trasladando este esquema genérico al fenómeno trans con el fin de poner un mínimo orden, nos encontramos con lo que sigue.</p>
+			<p>En primer lugar, tenemos mediaciones culturales dependientes de medios de comunicación, leyes, dispositivos escolares y educativos, terapias afirmativas, modelos identitarios, prácticas de crianza, costumbres, etc. En segundo lugar, tenemos actividades que se van desplegando a lo largo del desarrollo del sujeto y que tienen que ver con los patrones de comportamiento sexual o de género en un contexto que, en determinados momentos, puede empujar a tomar decisiones que le decanten hacia una u otra estabilización identitaria. En tercer lugar, a lo largo de ese desarrollo, y con periodos críticos en la primera infancia y la adolescencia, las mencionadas actividades se están dando constantemente en interacción con las de los demás sujetos, algunas de las cuales -las de familia, educadores, expertos, amigos, redes- tienen una influencia incomparablemente mayor. Si le ofrecen modelos de deseabilidad trans, la decantación será más probable en esa dirección. En cuarto lugar, lo que hace el sujeto depende de lo que ha hecho, en el sentido de que va constituyendo una biografía, una &quot;personalidad&quot; que no es reducible a sus determinaciones biológicas o socioculturales. Esa personalidad, esa “identidad”, ese yo, está literalmente en construcción, organizado un “eje” funcionalmente estable (emocional, sexo-afectivo, vocacional, estético, ideológico…) en medio y a través de mútiples marcos de sentido (usando lo que sirve, integrando lo que puede, rechazando lo que no). Bajo determinados conflictos o inestabilidades, tenderá a polarizarse hacia el horizonte trans, en la medida en que logre así estabilidad, alivio, etc. Y, en quinto lugar, la exploración y uso de ese horizonte trans en sus dimensiones institucionales (sus prácticas, teorías, valores, redes de relación, etc.), permitirá la decantación identitaria como persona trans, lo que a su vez cierra el círculo y confiere realidad, densidad institucional, al fenómeno mismo.</p>
+			<p>El fenómeno trans se ha hecho objetivo, pues, porque se ha construido como tal, y de un modo peculiar. Se ha categorizado y producido -sobre todo en los Estados Unidos y su área de influencia- a través de la institucionalización de un entramado de dispositivos -clínicos, farmacéuticos, ideológicos, legales, etc.- que permite actos de identificación (<xref ref-type="bibr" rid="B61">Rosa y Blanco, 2007</xref>) con categorías identitarias que se van acumulando sin cesar y en torno a las cuales, además, parece cobrar sentido la biografía de quienes ejercen esos actos: bigénero, demigénero, dos espíritus, fluido, neutro, pangénero, agénero, poligénero, aporgénero, aliagénero, maverique... Desde una perspectiva sociológica, a menudo son categorías que dan forma a auténticas subculturas.</p>
+			<p>El mecanismo de los actos de identificación personal se ajusta a la de un efecto performativo bien conocido en las ciencias sociales y la filosofía, que Ian <xref ref-type="bibr" rid="B37">Hacking (1995)</xref> denominó &quot;efecto bucle”, según el cual a la experiencia de los sujetos y su comportamiento les afectan constitutiva y no accidentalmente las categorías empleadas para describirlos, que funcionan así como profecías autocumplidas. El libro de Abigail <xref ref-type="bibr" rid="B65">Shrier (2021)</xref>
+				<italic>Un daño irreversible</italic> puede leerse como una recopilación de ejemplos del efecto bucle relativos al fenómeno trans, dados en un contexto histórico y sociocultural cuyos componentes característicos incluyen la democracia liberal, la expansión de internet, los estilos de crianza hipervigilantes, el individualismo psicologista, etc., y cuyos agentes -lo que no es sinónimo de culpables- son , aparte de los propios adolescentes, las escuelas y universidades, los terapeutas, las familias, los sistemas de salud, los <italic>influencers</italic> y, en general, la promoción de la ideología afirmativa y celebratoria respecto a lo trans. El <italic>pack</italic> se suele presentar, además, completo y moralmente cerrado, de tal manera que quien no lo compre queda de inmediato descalificado como tránsfobo.</p>
+			<p>La influencia psicosocial performativa se pone de manifiesto incluso en algo tan admitido como la medicación temprana, en la medida en que encauza a los niños y adolescentes de tal manera que cada vez les resulta más difícil salir de la trayectoria de transición. Así lo señalan Christopher <xref ref-type="bibr" rid="B59">Richards y colaboradores (2019)</xref> o William <xref ref-type="bibr" rid="B46">Malone y colaboradores (2021)</xref> cuando advierten sobre los posibles efectos físicos negativos a largo plazo de los bloqueadores de la pubertad, por ejemplo sobre la densidad ósea, el neurodesarrollo o la fertilidad.<xref ref-type="fn" rid="fn5">
+					<sup>5</sup>
+				</xref> Según los primeros, la terapia hormonal supone caminar a ciegas. Alison <xref ref-type="bibr" rid="B22">Clayton (2022)</xref> habla literalmente de medicina peligrosa y compara la masectomía, enmascarada tras eufemismos como <italic>top surgery</italic> o <italic>chest contouring</italic>, con lo que en otros tiempos fueron prácticas como la lobotomía (la <italic>top surgery</italic> no es otra cosa que extirpar tejido sano). Por lo demás, hace ya tiempo Madeleine S.C. <xref ref-type="bibr" rid="B71">Wallien y Peggy T. Cohen-Kettenis (2008)</xref> mostraron que la mayoría de los niños con disforia de género no seguirán sufriéndola tras la pubertad, y con cierta probabilidad se resolverá en orientaciones homosexuales o bisexuales.</p>
+			<p>El efecto bucle no es ningún misterio desde un punto de vista psicológico. En términos de psicología social y del desarrollo, no cabe esperar otra cosa que influencia mutua y procesos performativos, porque es justo lo que permite que el sujeto se constituya como tal sujeto, con determinada personalidad o “identidad”. Shrier y otros autores no afirmativos parecen asumir que hay un porcentaje minúsculo de “trans reales” que no serían producto del “contagio social”. Ahora bien, la distinción entre trans “reales” y “contagidos” es incompatible con la perspectiva constructivista que estamos aplicando. Reproduce la distinción entre cultura (el contagio, la influencia social) y naturaleza (lo que parece llevar el trans “real” dentro de sí, como una esencia previa), y olvida que las interacciones sociales, las acciones de los otros conmigo, son parte intrínseca del desarrollo de la personalidad, del yo, de toda identidad. No son un accidente, ni “contaminan” algo previo y puro. Son parte del proceso de construcción de un resultado que no existe previamente, un resultado que se va tejiendo a través de la integración de las múltiples influencias sociales que lleva a cabo un sujeto humano y que tiene, sin duda, sus particularidades orgánicas y psicofísicas (una dotación genética, una morfología corporal, determinados umbrales sensoriales, etc.). Las condiciones orgánicas están siempre presentes (y se modifican dentro de sus grados de plasticidad correspondientes: se modifica la expresión de los genes a lo largo de la vida, la morfología corporal, la tolerancia al dolor, etc.), pero la interacción social se da siempre, no puede no darse. Si no se diese, el yo no sería nada con identidad específicamente humana, ni una persona trans, ni siquiera un yo. Si un sujeto es criado desde la infancia por lobos (otro tipo de interacción social), acaba por ser un mamífero cazador con un sistema de operaciones coordinadas con las de los lobos, pero no una “persona humana” entre lobos, porque no habría llegado a ser una persona humana (tampoco un “lobo de dos patas”).</p>
+			<p>¿Cómo reinterpretar, entonces, la distinción entre trans &quot;reales&quot; y &quot;contagiados&quot;? Simplemente, en términos de formas diferentes de modulación institucional del desarrollo. El influjo social unidireccional “pro-trans”, que ha crecido de modo exponencial, ha propiciado que se decanten como trans (para “salvarse” de sufrimientos genéricos relacionados con crisis de adolescencia, conflictos de percepción y aceptación del yo y del cuerpo, tensiones o indefiniciones sobre preferenecia sexual…) <italic>muchos más sujetos de los que lo harían en condiciones sociales de influjo plural</italic> (con información y asesoramiento sobre los problemas típicos de desarrollo y preferencia sexual a determinadas edades, sobre los pros y contras de la hormonación, sobre la posibilidad de un tiempo de espera, sobre experiencias diversas de otras personas, y por supuesto sobre su inescapable libertad para acabar decidiendo) <italic>y racionalmente fundado</italic> (capaz de explicitar las condiciones del desarrollo que aquí tratamos de explicar, crítico con las quimeras de una voluntad autónoma y absoluta, y realista con los límites objetivos del “cambio de sexo”). En estas condiciones sociales de influjo plural y racionalmente fundado es probable que una parte mayoritaria de las personas acaben por seguir cursos de desarrollo más o menos conocidos -por vía homosexual o heterosexual-, que no conducen al rechazo de su cuerpo ni a iniciar procesos de hormonación o cirugía. Ateniéndonos pues al desarrollo, sin esencialismo, podríamos decir entonces que el resto de sujetos simplemente necesita ser trans, en el sentido de que <italic>no encuentra un curso mejor</italic> que alivie su sufrimiento. No es que sean desde el principio “los auténticos”. Es que devienen trans después de tanteos, consideraciones y decisiones. Ante ellos el acompañamiento psicoterapéutico no puede empeñarse en realizar una &quot;conversión&quot;, porque les destruiría psicológicamente o les empujaría a la autodestrucción. La transexualidad sería entonces el curso de desarrollo más funcional para la estabilización identitaria, con sus costes orgánicos; el transgenerismo, sin ese tipo de costes.<xref ref-type="fn" rid="fn6">
+					<sup>6</sup>
+				</xref>
+			</p>
+			<p>La influencia social actúa a través de mediaciones macro y micro que tampoco tienen misterio alguno. El daño irreversible del que habla Shrier se produce sobre una población compuesta especialmente por niñas y chicas adolescentes y jóvenes. No es que sea una diana intencionada, aunque como parte del fenómeno no haya por qué excluir intereses comerciales, sino un efecto de la disponibilidad cultural de una determinada manera de estabilizar la identidad personal que, como dijimos, es igual de normativa que la binaria masculino-femenino (no puede no ser normativa). Lo que hace la ideología trans, mediante su discurso y su poder, es reemplazar la norma de un mundo donde hay niños y niñas por la norma de un mundo donde hay niños, niñas y <italic>niñes</italic>. Se supone que esta norma es mejor, más auténtica y liberadora que la otra, pero no se sabe por qué. En realidad, lo que hace es bloquear prácticas sociales que contribuían a estabilizar la identidad, lo que acarrea un salto en el vacío que, a su vez, ha de amortiguarse a través de dispositivos <italic>ad hoc</italic> que lo lleven en la dirección contraria al &quot;sexo asignado&quot; -pues la del sexo asignado es la conservadora-, siguiendo un típico mecanismo de profecía autocumplida.</p>
+			<p>El fenómeno trans seguramente es tan difícil de tratar -aunque no necesariamente de entender- porque en él confluyen factores socioculturales, psicológicos y biológicos, filo y ontogenéticos, y confluyen además de un modo que se acompasa con un activismo político -típicamente contemporáneo- basado en las identidades personales o colectivas y donde se da la paradójica circunstancia de que, a menudo, quienes se rebelan coinciden con quienes gobiernan (la ideología trans es oficial en muchos gobiernos, entre ellos el español cuando escribimos estas líneas). Lo que resulta extraño es que no se dé por hecha, dentro del gremio <italic>psi</italic>, la obligatoriedad profesional de informar a los adolescentes de la realidad compleja del desarrollo, para no apresarlos en la burbuja narcisista de la autodeterminación, que por otro lado es lo que alienta nuestra Ley Trans al proscribir toda resistencia a la voluntad del sujeto, como si esa voluntad no se encontrara previamente alimentada en este caso con una ideología arrolladora, que quiere funcionar como <italic>mediador único</italic> del desarrollo. En lugar de prevenir, acompañar y explicar lo que se sabe sobre la biología y el desarrollo humano, se crean expectativas de liberación y felicidad sin fundamento científico alguno.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusión</title>
+			<p>Por supuesto, no se trata de negar que existan personas trans. Se trata de saber cómo llegan a existir. Mucho menos se trata de dudar que sean sujetos de derecho como cualquier otro ciudadano. Se trata de apostar por comprender y regular el fenómeno sin acrecentarlo indebidamente, y de ampliar la toma de decisiones más allá de la persona afectada. Los expertos no tienen que despreciar el fenómeno, pero tampoco deberían, a nuestro juicio, darlo por natural, alentarlo o considerarlo motivo de celebración, aceptando sin más el enfoque afirmativo. Y ello aunque sólo sea porque, incluso en el mejor de los casos -cuando la transición desemboca en una vida funcional, satisfactoria-, el proceso acarrea un coste que, tratando el malestar inicial de otro modo, seguramente sería evitable o al menos reducible. Psicólogos, psiquiatras y profesionales <italic>psi</italic> en general no son agentes pasivos en la producción del fenómeno trans. La configuración cultural de éste, que es la que da forma a los malestares identitarios que se acaban encarnando en tal o cual persona con nombres y apellidos, debe mucho a los saberes <italic>psi</italic> contemporáneos.</p>
+			<p>Lo que hemos defendido aquí es, en primer lugar, la objetividad biológica del sexo, ligado a la reproducción y condición del desarrollo fisiológico dimórfico y la conducta sexual. Condición no significa instinto ni destino. Las condiciones se tejen o entretejen de formas variadas; por ejemplo, permitiendo prácticas homo y heterosexuales en muchas especies. En segundo lugar, hemos recordado que las prácticas culturales normalizan estándares de comportamiento sexual. Y, en tercer lugar, hemos destacado la realidad psicosocial del desarrollo, en este caso del desarrollo de la identidad y la conducta sexual o de género, donde se dan tensiones en cuyo seno se estabilizan la identidad y la orientación sexogenéricas. Tal estabilización no depende solamente del cuerpo (del cerebro; <italic>cf</italic>. <xref ref-type="bibr" rid="B44">Loredo, 2023</xref>) ni solamente del &quot;alma&quot; (la interioridad psíquica o las simas del yo), y puede traer consigo novedades que choquen con las normas hegemónicas, pero que no son mejores por el mero hecho de oponerse a las éstas (no en vano instauran otras) o de emerger del deseo o la libertad individual (que ni siquiera existen como un absoluto).</p>
+			<p>Sin querer pecar de ingenuos, nos preguntamos por qué no se hace más presente la voz de los psicólogos evolutivos y los psicólogos sociales para explicar que las mediaciones ontogenéticas y socioculturales son inherentes al yo, o la voz de más psicoterapeutas que expliquen que la gestión de los conflictos personales supone un sujeto ubicado en el mundo real, sociohistórico, entre otros sujetos que también padecen conflictos y cuyo comportamiento no siempre va a validar el nuestro. Quien tome la decisión de cambiar de género, ha de saber qué implica, qué es lo que está haciendo (un psicólogo no puede manejar una concepción de la voluntad que no sea empírica, como sistema de operaciones que, con el riesgo de error y en medio de la incertidumbre, no tiene más remedio que incorporar decisiones en determinados momentos, decisiones responsables, esto es, informadas). La metafísica trans, según hemos discutido, no es la mejor forma de comprender y manejar la situación, ni siquiera para las personas que están cerca de dar el paso.</p>
+			<p>Es verdad que a nosotros también se nos puede preguntar por qué el apoyo afirmativo es peor que la prudencia -esto es, que la escucha, la espera, la explicación, el consejo, el acompañamiento, la discusión o el descentramiento respecto a los malestares subjetivos-. Al fin y al cabo, se nos dirá, mecanismos como el efecto bucle son inespecíficos, no marcan ninguna diferencia entre lo que ocurría antes y lo que ocurre ahora: tan performativos son los procesos de identificación binarios (hombre/mujer) como los de los transexuales o los transgénero; simplemente han cambiado las circunstancias que hasta ahora habían estabilizado los dos sexos o los dos géneros. Es más, se añadirá- los efectos colaterales de la norma son asimismo inespecíficos, pues toda norma los provoca: el fenómeno trans implica sufrimiento, pero el mundo anterior tampoco era un oasis de felicidad. Más aún, ni siquiera son nuevas las modificaciones corporales que la transexualidad exige, químicas o mecánica: en otras épocas y culturas se han empleado y emplean drogas, se han hecho y hacen tatuajes, escarificaciones, alargamientos de cuello, vendado de pies, encorsetamientos, deformaciones craneales, limados dentales, perforaciones, castraciones...</p>
+			<p>Nuestra respuesta es que no todas esas prácticas tienen el mismo significado ni se las puede juzgar desde el punto de vista de Dios, esto es, desde fuera de la historia. Las técnicas de modificación de uno mismo cobran sentido en unos u otros contextos, sin duda, pero no por ello se justifican sin más. Primero, porque incluso dentro de cada contexto pueden existir conflictos y contradicciones -la ablación del clítoris, por ejemplo, no es una práctica aceptada totalmente dentro de la cultura islámica, sino discutida-; y segundo, porque la comparación y el juicio son inevitables cuando nuestro reino es de este mundo. Aunque no pueda dejar de hacerse desde una posición situada, es perfectamente legítimo, por no decir inevitable, condenar determinadas prácticas, y de hecho lo hacemos todo el rato, con independencia de que comprendamos -y es deseable comprenderla- su lógica cultural. Sin duda estamos tomando partido, aunque conscientes de que no hay una agarradera metafísica última que lo sustente, pero no la hay ni para nosotros ni para nadie, porque el único juicio posible es comparativo y precario, salvo que nuestro reino no sea de este mundo.</p>
+			<p>Lo que hace la concepción afirmativa del fenómeno trans, a través de su pretensión de mediación única, y sobre una concepción errada de la voluntad, la identidad y el desarrollo, es propiciar desarrollos trans probablemente innecesarios (mal gestados psicosocialemente, si vale la expresión), en un número asombroso, que probablemente acarrearán una asombrosa cantidad de problemas derivados y de sufrimiento. La alternativa, en la línea que hemos presentado, incluye tanto una perspectiva psicológica más clara y crítica (que permita comprender a la vez el devenir trans y la modulación irracional a la que éste se halla sometido en nuestro país, de la que en otros países se retractan<xref ref-type="fn" rid="fn7">
+					<sup>7</sup>
+				</xref>) como una decisión política comprometida a la vez con la racionalidad y la reducción del sufrimiento.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>Agradecemos a Manuel Abril López y Jorge Castro Tejerina sus observaciones y comentarios, que han contribuido significativamente a precisar nuestras ideas y a mejorar el texto. Por supuesto, no tienen por qué compartir nuestros planteamientos.</p>
+		</ack>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Abreu, R. L., Rosenkrantz, D. E., Ryser-Oatman, J. T., Rostosky, S. S., y Riggle, E. D. B. (2019). Parental reactions to transgender and gender diverse children: A literature review. <italic>Journal of GLBT Family Studies</italic>, <italic>15</italic>(5), 461-48.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abreu</surname>
+							<given-names>R. L.</given-names>
+						</name>
+						<name>
+							<surname>Rosenkrantz</surname>
+							<given-names>D. E.</given-names>
+						</name>
+						<name>
+							<surname>Ryser-Oatman</surname>
+							<given-names>J. T.</given-names>
+						</name>
+						<name>
+							<surname>Rostosky</surname>
+							<given-names>S. S.</given-names>
+						</name>
+						<name>
+							<surname>Riggle</surname>
+							<given-names>E. D. B.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Parental reactions to transgender and gender diverse children: A literature review</article-title>
+					<source>Journal of GLBT Family Studies</source>
+					<volume>15</volume>
+					<issue>5</issue>
+					<fpage>461</fpage>
+					<lpage>448</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Alarcón, D. (2022). Crítica filosófica de la Ley Trans. <italic>El Catoblepas</italic>, <italic>201</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.nodulo.org/ec/2022/n201p01.htm">https://www.nodulo.org/ec/2022/n201p01.htm</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alarcón</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Crítica filosófica de la Ley Trans</article-title>
+					<source>El Catoblepas</source>
+					<volume>201</volume>
+					<ext-link ext-link-type="uri" xlink:href="https://www.nodulo.org/ec/2022/n201p01.htm">https://www.nodulo.org/ec/2022/n201p01.htm</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Alegre, L., Pérez Sedeño, E., y Sánchez Madrid, N. (Dirs.) (2023). <italic>Enciclopedia crítica del género. Una cartografía contemporánea sobre los principales saberes y debates de los estudios de género</italic>. Arpa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alegre</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Pérez Sedeño</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez Madrid</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>Enciclopedia crítica del género. Una cartografía contemporánea sobre los principales saberes y debates de los estudios de género</source>
+					<publisher-name>Arpa</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Alsedo, Q. (2024). <italic>Víctimas de lo trans. Un viaje a las realidades de quienes han sufrido el ideario</italic> queer <italic>en sus propias carnes</italic>. Deusto.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alsedo</surname>
+							<given-names>Q.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<source>Víctimas de lo trans. Un viaje a las realidades de quienes han sufrido el ideario queer en sus propias carnes</source>
+					<publisher-name>Deusto</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Aristegui, I., Zalazar, V., Radusky, P. D., y Cardozo, N. (2022). De la psicopatología a la diversidad. Salud mental en personas trans adultas. <italic>Perspectivas en Psicología</italic>, <italic>17</italic>(1), 21-31.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aristegui</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Zalazar</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Radusky</surname>
+							<given-names>P. D.</given-names>
+						</name>
+						<name>
+							<surname>Cardozo</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>De la psicopatología a la diversidad. Salud mental en personas trans adultas</article-title>
+					<source>Perspectivas en Psicología</source>
+					<volume>17</volume>
+					<issue>1</issue>
+					<fpage>21</fpage>
+					<lpage>31</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Ashley, F. (2019). Thinking an ethics of gender exploration: Against delaying transition for transgender and gender creative youth. <italic>Clinical Child Psychology and Psychiatry</italic>, <italic>24</italic>(2), 223-236.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ashley</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Thinking an ethics of gender exploration: Against delaying transition for transgender and gender creative youth</article-title>
+					<source>Clinical Child Psychology and Psychiatry</source>
+					<volume>24</volume>
+					<issue>2</issue>
+					<fpage>223</fpage>
+					<lpage>236</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Ashley, F. (2022). The clinical irrelevance of “desistance” research for transgender and gender creative youth. <italic>Psychology of Sexual Orientation and Gender Diversity</italic>, <italic>9</italic>(4), 387-397.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ashley</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>The clinical irrelevance of “desistance” research for transgender and gender creative youth</article-title>
+					<source>Psychology of Sexual Orientation and Gender Diversity</source>
+					<volume>9</volume>
+					<issue>4</issue>
+					<fpage>387</fpage>
+					<lpage>397</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Ballering, A. V., Burke, S. M., Maeckelberghe, E. L. M., y Rosmalen, J. G. M. (2023). How to ensure inclusivity in large-scale general population cohort studies? Lessons learned with regard to including and assessing sex, gender, and sexual orientation. <italic>Archives of Sexual Behavior</italic>, <italic>52</italic>(5), 2163-2172.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ballering</surname>
+							<given-names>A. V.</given-names>
+						</name>
+						<name>
+							<surname>Burke</surname>
+							<given-names>S. M.</given-names>
+						</name>
+						<name>
+							<surname>Maeckelberghe</surname>
+							<given-names>E. L. M.</given-names>
+						</name>
+						<name>
+							<surname>Rosmalen</surname>
+							<given-names>J. G. M.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>How to ensure inclusivity in large-scale general population cohort studies? Lessons learned with regard to including and assessing sex, gender, and sexual orientation</article-title>
+					<source>Archives of Sexual Behavior</source>
+					<volume>52</volume>
+					<issue>5</issue>
+					<fpage>2163</fpage>
+					<lpage>2172</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Barqui, N., Genise, G., y Tolosa, D. O. (2018). <italic>Manual integrador hacia la despatologización de las identidades trans. Recursos teóricos y clínicos para profesionales de la salud y educación</italic>. Akadia.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barqui</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Genise</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Tolosa</surname>
+							<given-names>D. O.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Manual integrador hacia la despatologización de las identidades trans. Recursos teóricos y clínicos para profesionales de la salud y educación</source>
+					<publisher-name>Akadia</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Bell, D. (2020). First do no harm. <italic>The International Journal of Psychoanalysis</italic>, <italic>101</italic>(5), 1031-1038.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bell</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>First do no harm</article-title>
+					<source>The International Journal of Psychoanalysis</source>
+					<volume>101</volume>
+					<issue>5</issue>
+					<fpage>1031</fpage>
+					<lpage>1038</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Bernini, L. (2018). <italic>Las teorías</italic> queer<italic>. Una introducción</italic>. Egales.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bernini</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Las teorías queer. Una introducción</source>
+					<publisher-name>Egales</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Bockting, W., y Coleman, E. (2016). Developmental stages of the transgender coming-out process. En R. Ettner, S. Monstrey y E. Coleman (Eds.). <italic>Principles of transgender medicine and surgery</italic>, 2ª ed. Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bockting</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Coleman</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<chapter-title>Developmental stages of the transgender coming-out process</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ettner</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Monstrey</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Coleman</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<source>Principles of transgender medicine and surgery</source>
+					<edition>2</edition>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Boskey, E. R. (2014). Understanding transgender identity development in childhood and adolescence. <italic>American Journal of Sexuality Education</italic>, <italic>9</italic>(4), 445-463.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boskey</surname>
+							<given-names>E. R.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Understanding transgender identity development in childhood and adolescence</article-title>
+					<source>American Journal of Sexuality Education</source>
+					<volume>9</volume>
+					<issue>4</issue>
+					<fpage>445</fpage>
+					<lpage>463</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Bradford, N. J., y Catalpa, J. M. (2019). Social and psychological heterogeneity among binary transgender, non-binary transgender and cisgender individuals. <italic>Psychology &amp; Sexuality</italic>, <italic>10</italic>(1), 69-82.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bradford</surname>
+							<given-names>N. J.</given-names>
+						</name>
+						<name>
+							<surname>Catalpa</surname>
+							<given-names>J. M.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Social and psychological heterogeneity among binary transgender, non-binary transgender and cisgender individuals</article-title>
+					<source>Psychology &amp; Sexuality</source>
+					<volume>10</volume>
+					<issue>1</issue>
+					<fpage>69</fpage>
+					<lpage>82</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Butler, J. (2007). <italic>El género en disputa</italic>. Paidós.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Butler</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>El género en disputa</source>
+					<publisher-name>Paidós</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Butler, J. (2015). <italic>Mecanismos psíquicos del poder. Teorías sobre la sujeción</italic>. 5ª ed. Cátedra / Universitat de València.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Butler</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Mecanismos psíquicos del poder. Teorías sobre la sujeción</source>
+					<edition>5</edition>
+					<publisher-name>Cátedra / Universitat de València</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Butler, J. (2024). <italic>¿Quién teme al género?</italic> Paidós.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Butler</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<source>¿Quién teme al género?</source>
+					<publisher-name>Paidós</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Cass, H. (2024). <italic>Independent review of gender identity services for children and young people. Final report</italic>. National Health Service.</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cass</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<source>Independent review of gender identity services for children and young people. Final report</source>
+					<publisher-name>National Health Service</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Castañeda, C. (2015). Developing gender: The medical treatment of transgender young people. <italic>Social Science &amp; Medicine</italic>, <italic>143</italic>, 262-270.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castañeda</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Developing gender: The medical treatment of transgender young people</article-title>
+					<source>Social Science &amp; Medicine</source>
+					<volume>143</volume>
+					<fpage>262</fpage>
+					<lpage>270</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Chen, D., Edwards-Leeper, L., Stancin, T., y Tishelman, A. (2018). Advancing the practice of pediatric psychology with transgender youth: State of the science, ongoing controversies, and future directions. <italic>Clinical Practice in Pediatric Psychology</italic>, <italic>6</italic>(1), 73-83.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chen</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Edwards-Leeper</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Stancin</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Tishelman</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Advancing the practice of pediatric psychology with transgender youth: State of the science, ongoing controversies, and future directions</article-title>
+					<source>Clinical Practice in Pediatric Psychology</source>
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>73</fpage>
+					<lpage>83</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Clarke, A. E., y Haraway, D. (Eds.) (2018). <italic>Making kin, not population</italic>. Prickly Paradigm Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Clarke</surname>
+							<given-names>A. E.</given-names>
+						</name>
+						<name>
+							<surname>Haraway</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Making kin, not population</source>
+					<publisher-name>Prickly Paradigm Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Clayton, A. (2022). The gender affirmative treatment model for youth with gender dysphoria. A medical advance or dangerous medicine? <italic>Archives of Sexual Behavior</italic>, <italic>51</italic>(2), 691-698.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Clayton</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>The gender affirmative treatment model for youth with gender dysphoria. A medical advance or dangerous medicine?</article-title>
+					<source>Archives of Sexual Behavior</source>
+					<volume>51</volume>
+					<issue>2</issue>
+					<fpage>691</fpage>
+					<lpage>698</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Coll-Planas, G., y Missé, M. (2015). La identidad en disputa. Conflictos alrededor de la construcción de la transexualidad. <italic>Papers</italic>, <italic>100</italic>(1), 35-52.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Coll-Planas</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Missé</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>La identidad en disputa. Conflictos alrededor de la construcción de la transexualidad</article-title>
+					<source>Papers</source>
+					<volume>100</volume>
+					<issue>1</issue>
+					<fpage>35</fpage>
+					<lpage>52</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Coyne, C. A., Poquiz, J. L., Janssen, A., y Chen, D. (2020). Evidence-based psychological practice for transgender and non-binary youth. Defining the need, framework for treatment adaptation, and future directions. <italic>Evidence-Based Practice in Child and Adolescent Mental Health</italic>, <italic>5</italic>(3), 340-353.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Coyne</surname>
+							<given-names>C. A.</given-names>
+						</name>
+						<name>
+							<surname>Poquiz</surname>
+							<given-names>J. L.</given-names>
+						</name>
+						<name>
+							<surname>Janssen</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Evidence-based psychological practice for transgender and non-binary youth. Defining the need, framework for treatment adaptation, and future directions</article-title>
+					<source>Evidence-Based Practice in Child and Adolescent Mental Health</source>
+					<volume>5</volume>
+					<issue>3</issue>
+					<fpage>340</fpage>
+					<lpage>353</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Diamond, L. M. (2020). Gender fluidity and nonbinary gender identities among children and adolescents. <italic>Child Development Perspectives</italic>, <italic>14</italic>(2), 110-115.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Diamond</surname>
+							<given-names>L. M.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Gender fluidity and nonbinary gender identities among children and adolescents</article-title>
+					<source>Child Development Perspectives</source>
+					<volume>14</volume>
+					<issue>2</issue>
+					<fpage>110</fpage>
+					<lpage>115</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Dunham, Y., y Olson, K. R. (2018). Beyond discrete categories. Studying multiracial, intersex, and transgender children will strengthen basic developmental science. En V. K. Jaswal, N. Akhtar y J. A. Burack (Eds.), <italic>Building bridges. Cognitive development in typical and atypical populations</italic> (pp. 94-117). Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dunham</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Olson</surname>
+							<given-names>K. R.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<chapter-title>Beyond discrete categories. Studying multiracial, intersex, and transgender children will strengthen basic developmental science</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Jaswal</surname>
+							<given-names>V. K.</given-names>
+						</name>
+						<name>
+							<surname>Akhtar</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Burack</surname>
+							<given-names>J. A.</given-names>
+						</name>
+					</person-group>
+					<source>Building bridges. Cognitive development in typical and atypical populations</source>
+					<fpage>94</fpage>
+					<lpage>117</lpage>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Duval, E. (2020). <italic>Después de lo trans. Sexo y género entre la izquierda y lo identitario</italic>. La Caja Books.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Duval</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>Después de lo trans. Sexo y género entre la izquierda y lo identitario</source>
+					<publisher-name>La Caja Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Edwards-Leeper, L., Leibowitz, S., y Sangganjanavanich, V. F. (2016). Affirmative practice with transgender and gender nonconforming youth: Expanding the model. <italic>Psychology of Sexual Orientation and Gender Diversity</italic>, <italic>3</italic>(2), 165-172.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Edwards-Leeper</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Leibowitz</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Sangganjanavanich</surname>
+							<given-names>V. F.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Affirmative practice with transgender and gender nonconforming youth: Expanding the model</article-title>
+					<source>Psychology of Sexual Orientation and Gender Diversity</source>
+					<volume>3</volume>
+					<issue>2</issue>
+					<fpage>165</fpage>
+					<lpage>172</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Errasti, J., y Pérez, M. (2022). <italic>Nadie nace en un cuerpo equivocado. Éxito y miseria de la identidad de género</italic>. Deusto.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Errasti</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Pérez</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>Nadie nace en un cuerpo equivocado. Éxito y miseria de la identidad de género</source>
+					<publisher-name>Deusto</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Fausto-Sterling, A. (1993). The five sexes. <italic>The Sciences</italic>, marzo/abril.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fausto-Sterling</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<article-title>The five sexes</article-title>
+					<source>The Sciences</source>
+					<issue>marzo/abril</issue>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Fausto-Sterling, A. (2006). <italic>Cuerpos sexuados. La política de género y la construcción de la sexualidad</italic>. Melusina.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fausto-Sterling</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Cuerpos sexuados. La política de género y la construcción de la sexualidad</source>
+					<publisher-name>Melusina</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Favero, S., y Machado, P. S. (2019). Diagnçosticos benevolentes na infância: crianças trans e a suposta necessidade de um tratamento precoce. <italic>ReDoc: Revista Docência e Cibercultura</italic>, <italic>3</italic>(1), 102-126.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Favero</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Machado</surname>
+							<given-names>P. S.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Diagnçosticos benevolentes na infância: crianças trans e a suposta necessidade de um tratamento precoce</article-title>
+					<source>ReDoc: Revista Docência e Cibercultura</source>
+					<volume>3</volume>
+					<issue>1</issue>
+					<fpage>102</fpage>
+					<lpage>126</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Fuster - Ruiz de Apodaca, M. J., González-Recio, P., Pena, D., y Prats-Silvestre, C. (2023). La Ley Trans en España: un instrumento legal para la protección de derechos. <italic>Boletín de la Sociedad Científica Española de Psicología Social</italic>, <italic>30</italic>, 17-22.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fuster - Ruiz de Apodaca</surname>
+							<given-names>M. J.</given-names>
+						</name>
+						<name>
+							<surname>González-Recio</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Pena</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Prats-Silvestre</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>La Ley Trans en España: un instrumento legal para la protección de derechos</article-title>
+					<source>Boletín de la Sociedad Científica Española de Psicología Social</source>
+					<volume>30</volume>
+					<fpage>17</fpage>
+					<lpage>22</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Giordano, S. (2019). Importance of being persistent. Should transgender children be allowed to transition socially? <italic>Journal of Medical Ethics</italic>, <italic>45</italic>(10), 654-661.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Giordano</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Importance of being persistent. Should transgender children be allowed to transition socially?</article-title>
+					<source>Journal of Medical Ethics</source>
+					<volume>45</volume>
+					<issue>10</issue>
+					<fpage>654</fpage>
+					<lpage>661</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Gonzales, K., y Rayne, K. (2019). <italic>Trans+. Love, sex, romance and being you</italic>. Magination Press (Books for Kids from the American Psychological Association).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gonzales</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Rayne</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<source>Trans+. Love, sex, romance and being you</source>
+					<publisher-name>Magination Press (Books for Kids from the American Psychological Association)</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Green, F. J., y Friedman, M. (Eds.) (2015). <italic>Buscando el final del arcoíris. Una exploración de las prácticas de crianza desde la fluidez de género</italic>. Barcelona: Bellaterra.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Green</surname>
+							<given-names>F. J.</given-names>
+						</name>
+						<name>
+							<surname>Friedman</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Buscando el final del arcoíris. Una exploración de las prácticas de crianza desde la fluidez de género</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Bellaterra</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Hacking, I. (1995). The looping effects of human kinds. En D. Sperber, D. Premack y A. J. Premack (Eds.), <italic>Casual cognition: a multidisciplinary approach</italic> (pp. 351-354). Clarendon Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hacking</surname>
+							<given-names>I.</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<chapter-title>The looping effects of human kinds</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Sperber</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Premack</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Premack</surname>
+							<given-names>A. J.</given-names>
+						</name>
+					</person-group>
+					<source>Casual cognition: a multidisciplinary approach</source>
+					<fpage>351</fpage>
+					<lpage>354</lpage>
+					<publisher-name>Clarendon Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Hafford-Letchfield, T., Cocker, Ch., Rutter, D., y Manning, R. (2019). What do we know about transgender parenting? Findings from a systematic review. <italic>Health &amp; Social Care in the Community</italic>, <italic>27</italic>(5), 1111-1125.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hafford-Letchfield</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Cocker</surname>
+							<given-names>Ch.</given-names>
+						</name>
+						<name>
+							<surname>Rutter</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Manning</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>What do we know about transgender parenting? Findings from a systematic review</article-title>
+					<source>Health &amp; Social Care in the Community</source>
+					<volume>27</volume>
+					<issue>5</issue>
+					<fpage>1111</fpage>
+					<lpage>1125</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Kane, E. W. (2006). 'No way my boys are going to be like that!'. Parent's responses to children's gender nonconformity. <italic>Gender &amp; Society</italic>, <italic>20</italic>(2), 149-176.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kane</surname>
+							<given-names>E. W.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>'No way my boys are going to be like that!'. Parent's responses to children's gender nonconformity</article-title>
+					<source>Gender &amp; Society</source>
+					<volume>20</volume>
+					<issue>2</issue>
+					<fpage>149</fpage>
+					<lpage>176</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Keo-Meier, C., y Ehrensaft, D. (Eds.) (2018). <italic>The gender affirmative model. An interdisciplinary approach to supporting transgender and gender expansive children</italic>. American Psychological Association.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Keo-Meier</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ehrensaft</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>The gender affirmative model. An interdisciplinary approach to supporting transgender and gender expansive children</source>
+					<publisher-name>American Psychological Association</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Levine, S. B., y Abbruzzese, E. (2023). Current concerns about gender-affirming therapy in adolescents. <italic>Current Sexual Health Reports</italic>, <italic>15</italic>, 113-23.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Levine</surname>
+							<given-names>S. B.</given-names>
+						</name>
+						<name>
+							<surname>Abbruzzese</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Current concerns about gender-affirming therapy in adolescents</article-title>
+					<source>Current Sexual Health Reports</source>
+					<volume>15</volume>
+					<fpage>113</fpage>
+					<lpage>123</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>López Moya, C. (2023). <italic>La secta. El activismo trans y cómo nos manipula</italic>. Deusto.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>López Moya</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>La secta. El activismo trans y cómo nos manipula</source>
+					<publisher-name>Deusto</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Lora, P. de (2021). <italic>El laberinto del género. Sexo, identidad y feminismo</italic>. Alianza.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lora</surname>
+							<given-names>P. de</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<source>El laberinto del género. Sexo, identidad y feminismo</source>
+					<publisher-name>Alianza</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Loredo, J. C. (2023). El cerebro en pañales. ¿Puede estar el cerebro en un cuerpo equivocado? <italic>Papeles del Psicólogo</italic>, <italic>44</italic>(2), 64-70.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Loredo</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>El cerebro en pañales. ¿Puede estar el cerebro en un cuerpo equivocado?</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>44</volume>
+					<issue>2</issue>
+					<fpage>64</fpage>
+					<lpage>70</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Loredo, J. C. (en revisión). &quot;Saludar vuestro coraje&quot;. El hombre nuevo del poshumanismo.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Loredo</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<comment>en revisión</comment>
+					<article-title>&quot;Saludar vuestro coraje&quot;. El hombre nuevo del poshumanismo</article-title>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Malone, W., D’Angelo, R., Beck, S., Mason, J., y Evans, M. (2021). Puberty blockers for gender dysphoria. The science is far from settled. <italic>The Lancet. Child &amp; Adolescent Health</italic>, <italic>5</italic>(9) e33-e34.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Malone</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>D’Angelo</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Beck</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Mason</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Evans</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Puberty blockers for gender dysphoria. The science is far from settled</article-title>
+					<source>The Lancet. Child &amp; Adolescent Health</source>
+					<volume>5</volume>
+					<issue>9</issue>
+					<fpage>e33</fpage>
+					<lpage>e34</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Marchand, J. B. (2017). Transsexualisme/transgenderism: psychothérapie et trabsformation hormonale et chirurgicale. <italic>Annales Médico-Psychologiques. Revue Psyquiatrique</italic>, <italic>175</italic>(3), 210-216.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marchand</surname>
+							<given-names>J. B.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Transsexualisme/transgenderism: psychothérapie et trabsformation hormonale et chirurgicale</article-title>
+					<source>Annales Médico-Psychologiques. Revue Psyquiatrique</source>
+					<volume>175</volume>
+					<issue>3</issue>
+					<fpage>210</fpage>
+					<lpage>216</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Mas, J. (2015). Transexualidad y transgenerismo. Una aproximación teórica y etnográfica a dos paradigmas enfrentados. <italic>Revista de Dialectología y Tradiciones Populares</italic>, <italic>70</italic>(2), 485-501.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mas</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Transexualidad y transgenerismo. Una aproximación teórica y etnográfica a dos paradigmas enfrentados</article-title>
+					<source>Revista de Dialectología y Tradiciones Populares</source>
+					<volume>70</volume>
+					<issue>2</issue>
+					<fpage>485</fpage>
+					<lpage>501</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Medjkane, F., Besson, R., Bouvattier, C., Cartigny-Maciejewski, M., Hyvert, A., Catteau-Jonard, S., Kalfa, N., Leroy, C., Manouvrier, S., Notredame, C. E., y Mouriquand, P. (2021). Les enfants porteurs de Désordres du développement du sexe. Du devenir en termes de vécu de genre aux conditions d’assignation à la naissance. <italic>Neuropsychiatrie de l'Enfance et de l'Adolescence</italic>, <italic>69</italic>(2), 83-89.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Medjkane</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Besson</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Bouvattier</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Cartigny-Maciejewski</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Hyvert</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Catteau-Jonard</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Kalfa</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Leroy</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Manouvrier</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Notredame</surname>
+							<given-names>C. E.</given-names>
+						</name>
+						<name>
+							<surname>Mouriquand</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Les enfants porteurs de Désordres du développement du sexe. Du devenir en termes de vécu de genre aux conditions d’assignation à la naissance</article-title>
+					<source>Neuropsychiatrie de l'Enfance et de l'Adolescence</source>
+					<volume>69</volume>
+					<issue>2</issue>
+					<fpage>83</fpage>
+					<lpage>89</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Mercado, S. (2022). <italic>La estafa del transgenerismo. Memorias de una destransición</italic>. Tierra de Nadie.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mercado</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>La estafa del transgenerismo. Memorias de una destransición</source>
+					<publisher-name>Tierra de Nadie</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<mixed-citation>Mittal, S. (2025). Rethinking gender. Beyond the binary and into the unlnown. <italic>Integrative Psychological and Behavioral Science</italic>, <italic>50</italic>, 1-15.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mittal</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Rethinking gender. Beyond the binary and into the unlnown</article-title>
+					<source>Integrative Psychological and Behavioral Science</source>
+					<volume>50</volume>
+					<fpage>1</fpage>
+					<lpage>15</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B52">
+				<mixed-citation>Miyares, A. (2022). <italic>Delirio y misoginia trans. Del sujeto transgénero al transhumanismo</italic>. Los Libros de La Catarata.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Miyares</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>Delirio y misoginia trans. Del sujeto transgénero al transhumanismo</source>
+					<publisher-name>Los Libros de La Catarata</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B53">
+				<mixed-citation>Pinto, N., y Moleiro, C. (2015). Gender trajectories: Transsexual people coming to terms with their gender identities. <italic>Professional Psychology: Research and Practice</italic>, <italic>46</italic>(1), 12-20.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pinto</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Moleiro</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Gender trajectories: Transsexual people coming to terms with their gender identities</article-title>
+					<source>Professional Psychology: Research and Practice</source>
+					<volume>46</volume>
+					<issue>1</issue>
+					<fpage>12</fpage>
+					<lpage>20</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B54">
+				<mixed-citation>Olson, K. R., Durwood, L., y McLaughlin, K. A. (2016). Mental health of transgender children. Who are supported in their identities. <italic>Pediatrics</italic>, <italic>137</italic>(3), e20153223.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Olson</surname>
+							<given-names>K. R.</given-names>
+						</name>
+						<name>
+							<surname>Durwood</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>McLaughlin</surname>
+							<given-names>K. A.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Mental health of transgender children. Who are supported in their identities</article-title>
+					<source>Pediatrics</source>
+					<volume>137</volume>
+					<issue>3</issue>
+					<elocation-id>e20153223</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B55">
+				<mixed-citation>Périer, A. (2020). L'embarras du corps dans la construction identitaire transgenre à l'adolescence. <italic>Le Carnet Psy</italic>, <italic>239</italic>, 40-45.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Périer</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>L'embarras du corps dans la construction identitaire transgenre à l'adolescence</article-title>
+					<source>Le Carnet Psy</source>
+					<volume>239</volume>
+					<fpage>40</fpage>
+					<lpage>45</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B56">
+				<mixed-citation>Preciado, P. B. (2002). <italic>Manifiesto contrasexual</italic>. Anagrama.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Preciado</surname>
+							<given-names>P. B.</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>Manifiesto contrasexual</source>
+					<publisher-name>Anagrama</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B57">
+				<mixed-citation>Preciado, P. B. (2020). <italic>Yo soy el monstruo que os habla. Informe para una academia de psicoanalistas</italic>. Anagrama.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Preciado</surname>
+							<given-names>P. B.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>Yo soy el monstruo que os habla. Informe para una academia de psicoanalistas</source>
+					<publisher-name>Anagrama</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B58">
+				<mixed-citation>Preciado, P. B. (2022). Dysphoria mundi<italic>. El sonido del mundo derrumbándose</italic>. Anagrama.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Preciado</surname>
+							<given-names>P. B.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>Dysphoria mundi<italic>. El sonido del mundo derrumbándose</italic>
+					</source>
+					<publisher-name>Anagrama</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B59">
+				<mixed-citation>Richards, Ch., Maxwell, J., y McCune, N. (2019). Use of puberty blockers for gender dysphoria. A momentous step in the dark. <italic>Archives of Disease in Childhood</italic>, <italic>104</italic>(6), 611-612.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Richards</surname>
+							<given-names>Ch.</given-names>
+						</name>
+						<name>
+							<surname>Maxwell</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>McCune</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Use of puberty blockers for gender dysphoria. A momentous step in the dark</article-title>
+					<source>Archives of Disease in Childhood</source>
+					<volume>104</volume>
+					<issue>6</issue>
+					<fpage>611</fpage>
+					<lpage>612</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B60">
+				<mixed-citation>Riggs, D. W. (2019). <italic>Working with transgender young people and their families. A critical developmental approach</italic>. Palgrave Macmillan.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Riggs</surname>
+							<given-names>D. W.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<source>Working with transgender young people and their families. A critical developmental approach</source>
+					<publisher-name>Palgrave Macmillan</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B61">
+				<mixed-citation>Rosa, A., y Blanco, F. (2007). <italic>Actuations of identification in the games of identity</italic>. <ext-link ext-link-type="uri" xlink:href="http://www.europhd.net/sites/default/files/international_labs/12thinternationallab/actuations_of_identification.pdf">http://www.europhd.net/sites/default/files/international_labs/12thinternationallab/actuations_of_identification.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rosa</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Blanco</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<ext-link ext-link-type="uri" xlink:href="http://www.europhd.net/sites/default/files/international_labs/12thinternationallab/actuations_of_identification.pdf">http://www.europhd.net/sites/default/files/international_labs/12thinternationallab/actuations_of_identification.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B62">
+				<mixed-citation>Sánchez-González, J. C. (2009). Los límites del constructivismo. En J. C. Loredo-Narciandi, T. Sánchez-Criado y D. López-Gómez (Eds.), <italic>¿Dónde reside la acción? Agencia, constructivismo y psicología</italic> (pp. 291-326). UNED / Universidad de Murcia.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez-González</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<chapter-title>Los límites del constructivismo</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Loredo-Narciandi</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez-Criado</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>López-Gómez</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<source>¿Dónde reside la acción? Agencia, constructivismo y psicología</source>
+					<fpage>291</fpage>
+					<lpage>326</lpage>
+					<publisher-name>UNED / Universidad de Murcia</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B63">
+				<mixed-citation>Sánchez-González, J. C. (2025). Psychogenesis in evolution and history. En J. Pérez-Jara e Í. Ongay (Eds.), <italic>Beyond nature and nurture</italic> (pp. 109-128). Springer.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez-González</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<chapter-title>Psychogenesis in evolution and history</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Pérez-Jara</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ongay</surname>
+							<given-names>Í.</given-names>
+						</name>
+					</person-group>
+					<source>Beyond nature and nurture</source>
+					<fpage>109</fpage>
+					<lpage>128</lpage>
+					<publisher-name>Springer</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B64">
+				<mixed-citation>Sánchez-González, J. C., y Loredo-Narciandi, J. C. (2009). Constructivisms from a genetic point of view. A critical classification of current tendencies. <italic>Integrative Psychological and Behavioral Science</italic>, <italic>43</italic>(4), 332-349.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez-González</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Loredo-Narciandi</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Constructivisms from a genetic point of view. A critical classification of current tendencies</article-title>
+					<source>Integrative Psychological and Behavioral Science</source>
+					<volume>43</volume>
+					<issue>4</issue>
+					<fpage>332</fpage>
+					<lpage>349</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B65">
+				<mixed-citation>Shrier, A. (2021). <italic>Un daño irreversible. La locura transgénero que seduce a nuestras hijas</italic>. Deusto.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shrier</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<source>Un daño irreversible. La locura transgénero que seduce a nuestras hijas</source>
+					<publisher-name>Deusto</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B66">
+				<mixed-citation>Singh, A. A. (2016). Moving from affirmation to liberation in psychological practice with transgender and gender nonconforming clients. <italic>American Psychologist</italic>, <italic>71</italic>(8), 755-762.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Singh</surname>
+							<given-names>A. A.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Moving from affirmation to liberation in psychological practice with transgender and gender nonconforming clients</article-title>
+					<source>American Psychologist</source>
+					<volume>71</volume>
+					<issue>8</issue>
+					<fpage>755</fpage>
+					<lpage>762</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B67">
+				<mixed-citation>Spivey, L. A., y Edwards-Leeper, L. (2019). Future directions in affirmative psychological interventions with transgender children and adolescents. <italic>Journal of Clinical Child &amp; Adolescent Psychology</italic>, <italic>48</italic>(2), 343-356.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Spivey</surname>
+							<given-names>L. A.</given-names>
+						</name>
+						<name>
+							<surname>Edwards-Leeper</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Future directions in affirmative psychological interventions with transgender children and adolescents</article-title>
+					<source>Journal of Clinical Child &amp; Adolescent Psychology</source>
+					<volume>48</volume>
+					<issue>2</issue>
+					<fpage>343</fpage>
+					<lpage>356</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B68">
+				<mixed-citation>Stryker, S. (2017). <italic>Historia de lo trans. Las raíces de la revolución de hoy</italic>. Continta Me Tienes.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stryker</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>Historia de lo trans. Las raíces de la revolución de hoy</source>
+					<publisher-name>Continta Me Tienes</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B69">
+				<mixed-citation>Tompkins, Ch. (2023). <italic>Por una infancia aliada LGTBQI+. Una guía para cambiar los mensajes del patio</italic>. Dr. Buk.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tompkins</surname>
+							<given-names>Ch.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>Por una infancia aliada LGTBQI+. Una guía para cambiar los mensajes del patio</source>
+					<publisher-name>Dr. Buk</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B70">
+				<mixed-citation>Twenge, J. M., Wells, B. E., Le, J., y Rider, G. N. (2025). Increases in self-identifying as transgender among US adults, 2014-2022. <italic>Sexuality Research and Social Policy</italic>, <italic>22</italic>(2), 755-773.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Twenge</surname>
+							<given-names>J. M.</given-names>
+						</name>
+						<name>
+							<surname>Wells</surname>
+							<given-names>B. E.</given-names>
+						</name>
+						<name>
+							<surname>Le</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Rider</surname>
+							<given-names>G. N.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Increases in self-identifying as transgender among US adults, 2014-2022</article-title>
+					<source>Sexuality Research and Social Policy</source>
+					<volume>22</volume>
+					<issue>2</issue>
+					<fpage>755</fpage>
+					<lpage>773</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B71">
+				<mixed-citation>Wallien, M. S., y Cohen-Kettenis, P. T. (2008). Psychosexual outcome of gender-dysphoric children. <italic>Journal of the American Academy of Child &amp; Adolescent Psychiatry</italic>, <italic>47</italic>(12): 1413-1423.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wallien</surname>
+							<given-names>M. S.</given-names>
+						</name>
+						<name>
+							<surname>Cohen-Kettenis</surname>
+							<given-names>P. T.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Psychosexual outcome of gender-dysphoric children</article-title>
+					<source>Journal of the American Academy of Child &amp; Adolescent Psychiatry</source>
+					<volume>47</volume>
+					<issue>12</issue>
+					<fpage>1413</fpage>
+					<lpage>1423</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B72">
+				<mixed-citation>Withers, R. (2020). Transgender medicalization and the attempt to evade psychological distress. <italic>Journal of Analytical Psychology</italic>, <italic>65</italic>(5), 865-889.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Withers</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Transgender medicalization and the attempt to evade psychological distress</article-title>
+					<source>Journal of Analytical Psychology</source>
+					<volume>65</volume>
+					<issue>5</issue>
+					<fpage>865</fpage>
+					<lpage>889</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>El Consejo General de la Psicología de España, que agrupa a los colegios oficiales de psicólogos, pertenece a la red internacional I<italic>Psy</italic>Net (<italic>International Psychology Network for Lesbian, Gay, Bisexual, Transgender and Intersex Issues</italic>) vinculada a la <italic>American Psychological Association</italic> y promotora del apoyo afirmativo a la denominada diversidad sexual y de género.</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>Aparte de en tradiciones filosóficas como el marxismo (las prácticas sociales determinan la conciencia) o el pragmatismo (el pensamiento como participación en las normas del lenguaje y la discusión), la idea de las normas como constitutivas de la subjetividad está, dentro de la tradición psicológica constructivista, en las obras de los propios &quot;padres fundadores&quot;, como Baldwin (la construcción social del yo), Piaget (las estructuras normativizadas e incluso formalizadas como horizonte de la psicogénesis) y Vygotski (la <italic>zona de desarrollo próximo</italic> como camino hacia la norma o la doble formación de las funciones psicológicas, que supone que la internalización de lo dado es condición de posibilidad del pensamiento, aunque eso dado se transforme en el proceso de internalización). No hay yo sin relación con el otro y sin prácticas normativas que la pauten. En la ideología trans late más bien un esquema psicoanalítico donde lo auténtico es el ello, el superego censura y el yo, aplastado por ambos, es una especie de buscavidas.</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>Aunque desde posiciones afines a la teoría <italic>queer</italic> se defiende el
+					antinatalismo (<xref ref-type="bibr" rid="B21">Clarke y Haraway, 2018</xref>),
+					parece poco discutible que un Estado que no alcanza ni siquiera la tasa de
+					reposición camina hacia problemas demográficos, económicos y posiblemente
+					políticos, y que todos los estados soberanos han aplicado políticas tratando de
+					ajustar la natalidad para la subsistencia de la comunidad política misma. Dar la
+					espalda a esto implica asumir, con todas las consecuencias, que es irrelevante
+					la supervivencia de los propios estados-nación en los que se vive, lo cual
+					además implica un peculiar programa político claramente minoritario en el
+					planeta.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>Entre transexualismo y transgenerismo se da un enfrentamiento análogo al que se da entre los así llamados feminismo clásico y transfeminismo. Los transexualistas han acusado a los transgeneristas de obstaculizar la aceptación social, como hombres o mujeres, de las personas trans, mientras que los transgeneristas denuncian justamente que la aceptación pase por la asunción de la dualidad (<xref ref-type="bibr" rid="B48">Mas, 2015</xref>).</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>En la medicación previa a la cirugía, habitualmente se habla de dos fases: la administración de bloqueadores de la pubertad, que son péptidos que inhiben la producción de hormonas sexuales y cuyos efectos se presumen reversibles, y posteriormente la hormonación cruzada, es decir, la administración de testosterona a las mujeres y estrógenos a los hombres.</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>En un texto cuyo título es el lema hipocrático que impone al médico no dañar, David Bell
+					llega a sugerir que las verdaderas terapias de conversión son las que promueven
+					transiciones tempranas: &quot;A mi parecer, las decisiones rápidas sobre el
+					recurso a intervenciones médicas o quirúrgicas <italic>constituyen en sí
+						mismas</italic> una terapia de conversión. Al igual que en los antiguos
+					'tratamientos' de la homosexualidad, se busca remodelar el cuerpo como única
+					solución admisible ante los dolorosos conflictos relativos al género. Se
+					provocan transformaciones corporales para satisfacer agendas individuales,
+					familiares y sociales que a menudo no han sido suficientemente sopesadas&quot;
+						(<xref ref-type="bibr" rid="B10">Bell, 2020, p. 1035</xref>, traducción
+					nuestra). Este autor señala la paradoja de la ideología trans cuando ésta
+					interpreta el género como algo identitariamente bien definido y, a la vez,
+					considera que el cuerpo es fluido y moldeable. Nótese que es lo mismo, pero al
+					revés, que se hacía con la homosexualidad: el cuerpo de los homosexuales se
+					consideraba algo fijo que determinaba su identidad y ésta, cuando no se ajustaba
+					a esa determinación, debía moldearse para que se ajustara.</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>El llamado Informe Cass, de más de trescientas páginas, encargado por el servicio nacional de salud inglés a la pediatra Hilary Cass en 2020 (<xref ref-type="bibr" rid="B18">Cass, 2024</xref>), ha sido motor de esa marcha atrás -o al menos de reconsideraciones- en países como Finlandia, Suecia, Noruega, Australia o Francia, aparte del propio Reino Unido (para los casos de Finlandia, Suecia e Inglaterra, véase también la información que proporciona el artículo de <xref ref-type="bibr" rid="B41">Levine y Abbruzzese, 2023</xref>). Cass argumenta desde criterios de evidencia empírica y señala que no está claro que las intervenciones médicas mejoren a largo plazo la disforia de género. Apunta también a los factores psicosociales, que al menos en parte explicarían la gran cantidad de chicas adolescentes que muestran esa disforia. Frente al enfoque afirmativo y a la presión ideológica -la cual ella misma denuncia-, defiende una valoración integral de los niños y adolescentes que, basada en la psicoterapia, no descarte posibilidades y sea muy prudente con los bloqueadores de la pubertad y la hormonación.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>
