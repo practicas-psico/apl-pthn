@@ -14,17 +14,31 @@
     <div class="container mt-4">
         <a href="/" class="btn btn-secondary mb-3">← Volver</a>
         
-        {% if articulos %}
-            <h4>Archivos procesados: {{ articulos|length }}</h4>
-            {% for articulo in articulos %}
+        <h4>Archivos procesados: {{ resultados|length }}</h4>
+
+        {% if resultados %}
+            {% for r in resultados %}
             <div class="card mb-3">
-                <div class="card-header" style="background-color:rgb(11, 84, 161); color:white;">
-                    {{ articulo.archivo }}
+                <div class="card-header d-flex justify-content-between align-items-center" 
+                    style="background-color:rgb(11, 84, 161); color:white;">
+                    <span>{{ r.archivo }}</span>
+                    {% if r.insertado %}
+                        <span class="badge bg-success">✅ Insertado en BD</span>
+                    {% else %}
+                        <span class="badge bg-danger">❌ Error</span>
+                    {% endif %}
                 </div>
                 <div class="card-body">
-                    {% for parrafo in articulo.parrafos %}
-                        <p>{{ parrafo }}</p>
-                    {% endfor %}
+                    {% if r.error %}
+                        <div class="alert alert-danger">{{ r.error }}</div>
+                    {% endif %}
+                    <table class="table table-sm">
+                        <tr><th>Título en español</th><td>{{ r.datos.title_es }}</td></tr>
+                        <tr><th>Título en inglés</th><td>{{ r.datos.title_en }}</td></tr>
+                        <tr><th>DOI</th><td>{{ r.datos.doi }}</td></tr>
+                        <tr><th>Abstract español</th><td>{{ r.datos.abstract_es[:200] }}...</td></tr>
+                        <tr><th>Abstract inglés</th><td>{{ r.datos.abstract_en[:200] }}...</td></tr>
+                    </table>
                 </div>
             </div>
             {% endfor %}

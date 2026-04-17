@@ -19,6 +19,14 @@
             <div class="card-body">
                 <form action="/subir" method="post" enctype="multipart/form-data">
                     <div class="mb-3">
+                        <label class="form-label">Revista</label>
+                        <select name="journal_id" class="form-select">
+                            {% for journal in journals %}
+                                <option value="{{ journal }}">{{ journal }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="mb-3">
                         <label class="form-label">Sube un ZIP con archivos Word</label>
                         <input type="file" name="zip" accept=".zip" class="form-control">
                     </div>
