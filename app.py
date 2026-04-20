@@ -193,24 +193,42 @@ def subir():
     datos = procesar_word(ruta_docx)
 
     if datos['title_es'] and datos['doi']:
-        resultado_bd = insertar_en_bd(datos, journal_id)
-        resultados = [{
-            'archivo': archivo_word.filename,
-            'datos': datos,
-            'insertado': resultado_bd == True,
-            'error': resultado_bd if resultado_bd != True else '',
-            'comparacion': []
-        }]
-    else:
-        resultados = [{
-            'archivo': archivo_word.filename,
-            'datos': datos,
-            'insertado': False,
-            'error': 'No se encontró título en español o DOI',
-            'comparacion': []
-        }]
+        # Verificar si el DOI ya existe en la BD
+        doi_limpio = datos['doi'].replace('https://doi.org/', '')
+        try:
+            conexion = mysql.connector.connect(**config_db)
+            cursor = conexion.cursor()
+            cursor.execute("SELECT article_id FROM article WHERE doi = %s", (doi_limpio,))
+            existe = cursor.fetchone()
+            cursor.close()
+            conexion.close()
+        except:
+            existe = None
 
-    return render_template('resultado.html', resultados=resultados)
+        if existe:
+            resultados = [{
+                'archivo': archivo_word.filename,
+                'datos': datos,
+                'insertado': False,
+                'error': 'Este artículo ya existe en la BD con el DOI: ' + doi_limpio,
+                'comparacion': []
+            }]
+            return render_template('resultado.html', resultados=resultados)
+
+        resultado_bd = insertar_en_bd(datos, journal_id)
+        
+@app.route('/articulos')
+def articulos():
+    try:
+        conexion = mysql.connector.connect(**config_db)
+        cursor = conexion.cursor()
+        cursor.execute("SELECT article_id, article_title, article_title_trans, doi, journal_id, received, accepted FROM article ORDER BY article_id DESC")
+        articulos = cursor.fetchall()
+        cursor.close()
+        conexion.close()
+    except:
+        articulos = []
+    return render_template('articulos.html', articulos=articulos)
 
 if __name__ == '__main__':
     app.run(debug=True)
