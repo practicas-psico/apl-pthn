@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="book-review" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">00010</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Revisión de Libro</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Revisión de Libro</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>López Ríos</surname>
+						<given-names>Francisca</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Departamento de Psicología, Universidad de Almería, España</institution>
+					<institution content-type="normalized">Universidad de Almería</institution>
+					<institution content-type="orgdiv1">Departamento de Psicología</institution>
+					<institution content-type="orgname">Universidad de Almería</institution>
+					<country country="ES">Spain</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Autor de correpondencia: Francisca López Ríos <email>flrios@ual.es</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>147</fpage>
+			<lpage>148</lpage>
+			<product product-type="book">
+				<source>Tratando… violencia de género desde las terapias contextuales</source>, de <person-group person-group-type="author">
+					<name>
+						<surname>Vaca Ferrer</surname>
+						<given-names>Rosario</given-names>
+					</name>
+					<name>
+						<surname>Ferro García</surname>
+						<given-names>Rafael</given-names>
+					</name>
+					<name>
+						<surname>Valero Aguayo</surname>
+						<given-names>Luis</given-names>
+					</name>
+				</person-group>. <publisher-name>Pirámide</publisher-name>, <year>2024</year>).</product>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="0"/>
+				<page-count count="2"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>El libro que se presenta inicia su planteamiento describiendo brevemente la historia de cuatro protagonistas que han participado en el programa intervención grupal que se describe. Es un comienzo que pone cara, corazón y contexto a las condiciones en que se encuentran las mujeres que sufren violencia machista en su relación de pareja. Estas cuatro historias van desgajando características comunes como el aislamiento ligado a la vergüenza, a la falta de recursos económicos, formativos y sociales, y la connivencia del entorno conocedor lo que ocurre en el ámbito privado. Lo que trasciende son los problemas de ansiedad, las depresiones profundas, las dosis de medicación, las disociaciones e incluso despersonalizaciones, la falta de confianza en sí mismas y un largo etcétera de dificultades para poder desarrollar una vida digna. Lo que trasciende es que no son capaces ni cabales para comportarse como esposas y madres.</p>
+		<p>Tras presentar a las cuatro mujeres y sus historias de maltrato, en el capítulo 2 se desarrolla una introducción en la que se desgrana la evolución normativa en la consideración de la violencia de género (VdG), como una forma de violencia diferenciada, para luego describir las diferentes manifestaciones de dicha violencia. Como corresponde en una aproximación rigurosa, se abordan brevemente las consecuencias de la violencia de género sobre las víctimas, así como algunos modelos conceptuales que tratan de aportar explicaciones al fenómeno que nos ocupa. Se revisan desde postulados estrictamente psicológicos, que señalan variables biográficas (abusos en la infancia, trastornos de personalidad, modelos paternales de violencia, problemas de control de impulsos, etcétera), hasta teorías político-culturales como el modelo de la “rueda de poder y control” sobre las víctimas que aumenta su intensidad en los periodos en que hay riesgo de perder la capacidad de control sobre la mujer. Todo ello compatible con una perspectiva sociocultural y feminista más amplia donde las normas culturales van instaurando los roles de género y las estructuras sociales que fomentan estereotipos y legitiman el uso de la violencia.</p>
+		<p>En el mismo capítulo dos se revisa la intervención psicológica en mujeres víctimas de VdG que se ha desarrollado principalmente desde la Terapia Cognitivo Conductual, con resultados positivos en términos generales tanto a nivel individual como grupal, en ocasiones, adaptando intervenciones diseñadas para el trastorno por estrés postraumático más la restructuración cognitiva. También hay estudios sobre la aplicación de Terapia Dialéctica de Conducta (DBT) y Terapia de Aceptacion y Compromiso (ACT) y combinando elementos de diferentes terapias contextuales (ACT, Psicoterapia analítico funcional -FAP- y/o Activación Conductual -AC o Mindfulness).</p>
+		<p>El capítulo 3 entra de lleno en la fundamentación y descripción de las diferentes terapias contextuales. Este capítulo merece una atención especial para quienes no estén muy familiarizados con esta forma de concebir y de desarrollar la terapia psicológica. Se justifica su posición transdiagnóstica destacando la evitación experiencial, la hiperreflexibidad, los problemas del yo o el miedo a la intimidad como dimensiones relevantes en los problemas psicológicos en general y en los problemas que presentan las víctimas de VdG en particular, que pueden traducirse en sintomatogías muy diversas. A partir de ahí se describen con extraordinaria claridad los principios y características terapéuticas de FAP, ACT, DBT y AC, destacando sus énfasis diferenciales y su utilidad en problemas de víctimas de violencia.</p>
+		<p>En el capítulo 4 se desarrolla el programa llevado a cabo y objeto final de este libro, como guía de tratamiento que recoge componentes de las diferentes terapias contextuales señaladas. El programa se describe con minucioso detalle, lo que permite su replicación y su adaptación a realidades diversas. Encontramos información relevante sobre los criterios de participación, el número de mujeres por grupo, la frecuencia de sesiones, la evaluación y las fases de la intervención. Todo ello previo a la descripción detallada de cada una de las sesiones en las que se incorporan componentes de ACT como metáforas y valores, la identificación de conductas clínicamente relevantes y moldeamiento en sesión de FAP, la validación de DBT, las estrategias para manejar la depresión de la AC. En la primera fase, el objetivo es que las mujeres identifiquen el contexto socioverbal en que viven, repleto de creencias y normas de comportamiento que configuran el contexto en que se construyen las relaciones de pareja y que da cabida a la violencia. En la fase dos, el trabajo terapéutico se orienta hacia desarrollar la propia autonomía en las diferentes áreas vitales. Así se identifican los costes de la relación de pareja en la que las mujeres han vivido, los daños de la violencia y las formas de protección, ya que las amenazas y el riesgo pueden estar aún presentes. Se exploran los valores personales, cómo manejar la depresión, detectar la trampa de la autoestima como condición para tomar decisiones y avanzar; la ansiedad, qué es y cómo funciona, para finalmente moldear un nuevo concepto de amor. En resumen, es un programa que traza un camino hacia la autonomía y el autocuidado, que permite a las mujeres participantes tomar conciencia de sobre lo vivido, debilitar las barreras psicológicas que impiden avanzar, y decidir y actuar hacia una vida digna.</p>
+		<p>En el capítulo 5 se presentan los resultados de aplicación del programa en 13 grupos de mujeres de la provincia de Cádiz. Los datos se muestran tanto cuantitativa como cualitativamente, reparando en los cambios y la valoración llevada a cabo por las mujeres, algunas de cuyas historias se conocieron al inicio del libro. También se hace referencia al índice de abandono y se recogen historias de vida mujeres que dejaron de acudir a las sesiones con el fin de identificar algunas de las variables que las mantienen atrapadas en la espiral del maltrato. Finalmente, en el capítulo 6 se presentan adaptaciones del programa en poblaciones de mujeres jóvenes o adolescentes haciendo especial énfasis en la violencia en entornos virtuales. Se incluyen referencias a la adaptación del programa a mujeres víctimas de explotación sexual tanto de origen español como a mujeres migrantes.</p>
+		<p>En definitiva, la VdG es una muestra paradigmática del origen contextual de los problemas psicológicos, tanto sociohistórico, como político, como biográfico. Más aún, llama poderosamente la atención, la escasa investigación académica en relación con la VdG y las consecuencias psicológicas de dicha violencia (en todas sus formas) en las víctimas: mujeres, madres, hijos e hijas. Por todo ello el libro que se presenta es una obra rigurosa, útil y necesaria, que actuará como guía para la intervención contextual en VdG.</p>
+	</body>
+</article>

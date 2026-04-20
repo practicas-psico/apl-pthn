@@ -1,0 +1,1648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.70478/pap.psicol.2026.47.12</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Duodécima Evaluación de Test Editados en España</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Twelfth Review of Tests Published in Spain</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-0530-4404</contrib-id>
+					<name>
+						<surname>Recio Saboya</surname>
+						<given-names>Patricia</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Universidad Nacional de Educación a Distancia (UNED), España</institution>
+					<institution content-type="orgname">Universidad Nacional de Educación a Distancia (UNED)</institution>
+					<country country="ES">España</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Autor de correspondencia: Patricia Recio Saboya <email>reciop@psi.uned.es</email>
+				</corresp>
+				<fn fn-type="con" id="fn1">
+					<label>Citar como</label>
+					<p>Recio Saboya, P. (2026). Duodécima evaluación de test editados en España. <italic>Papeles del Psicólogo/Psychologist Papers, 47</italic>(2), 106-114. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.70478/pap.psicol.2026.47.12">https://doi.org/10.70478/pap.psicol.2026.47.12</ext-link>. Este artículo está publicado bajo Licencia Creative Commons 4.0 CC-BY-NC-ND</p>
+				</fn>
+				<fn fn-type="conflict" id="fn2">
+					<p>No hay conflicto de intereses.</p>
+				</fn>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>106</fpage>
+			<lpage>114</lpage>
+			<history>
+				<date date-type="received">
+					<day>24</day>
+					<month>10</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>09</day>
+					<month>02</month>
+					<year>2026</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>Desde 2010, la Comisión de test del Consejo General de la Psicología realiza anualmente una evaluación de los test publicados en España, con el propósito de ofrecer información rigurosa y accesible acerca de su calidad. El objetivo de este trabajo es presentar los resultados de la Duodécima Evaluación de Test Editados en España. En esta edición se evaluaron seis test de cuatro editoriales y un test no comercial, diseñados para medir variables como motivación, inteligencia general, deterioro cognitivo, bienestar emocional, personalidad en adolescentes, conciencia fonológica e inteligencia emocional en niños. Como en ediciones anteriores, se siguió un proceso sistemático de revisión por pares, utilizando el <italic>Cuestionario para la Evaluación de Test Revisado (CET-R v1.1)</italic>, se integraron las evaluaciones en un informe provisional y, teniendo en cuenta las alegaciones de las editoriales, se redactó el informe final. Los resultados siguen la misma línea de evaluaciones anteriores, mostrando que, en términos generales, la calidad de los test es adecuada, destacando la calidad de los materiales y documentación, las evidencias de validez de contenido y la consistencia interna, así como la calidad de los baremos. De cara al futuro sería deseable mejorar la consistencia entre revisores, y fomentar la formación continua en psicometría.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>Since 2010, the Test Commission of the General Council of Psychology has conducted an annual evaluation of the quality of tests published in Spain, with the aim of providing rigorous and accessible information regarding their quality. The purpose of this study is to present the results of the Twelfth Evaluation of Test Published in Spain. In this edition, six test from four different publishers and one non-commercial test were assessed. These instruments were designed to measure variables such as motivation, general intelligence, cognitive impairment, emotional well-being, adolescent personality, phonological awareness, and children’s emotional intelligence. As in previous editions, a systematic peer review process was followed, employing the <italic>Test Evaluation Questionnaire - Revised</italic> (CET-R v1.1). The evaluations were integrated into a provisional report and, after considering the claims of the publishers, a final report was prepared. The results are consistent with those of previous rounds, showing that, overall, the quality of the evaluated test is adequate, with particular strengths in the quality of materials and documentation, the evidence of content validity and internal consistency, and the quality of the norms. Looking ahead, it would be desirable to improve consistency among reviewers and to promote ongoing training in psychometrics.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Evaluación de test</kwd>
+				<kwd>Propiedades Psicométricas</kwd>
+				<kwd>CET-R</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Test evaluation</kwd>
+				<kwd>Psychometric properties</kwd>
+				<kwd>CET-R</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="2"/>
+				<table-count count="4"/>
+				<equation-count count="0"/>
+				<ref-count count="31"/>
+				<page-count count="9"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>En los distintos ámbitos de la Psicología, la evaluación mediante test constituye una práctica habitual, empleándose las puntuaciones derivadas de estos instrumentos para fines tan relevantes como el diagnóstico, la toma de decisiones, la orientación, la intervención o la selección de personal, entre otros.</p>
+		<p>La calidad psicométrica de los test es un aspecto crucial para garantizar que las decisiones basadas en sus resultados sean válidas, fiables y éticas. Un test que carezca de evidencias suficientes de validez, fiabilidad y adecuación normativa o relevancia cultural puede conducir a interpretaciones erróneas y, en consecuencia, a decisiones con efectos negativos para las personas evaluadas. Además, es importante tener en cuenta que ningún instrumento de medición psicológica es “universalmente válido” para cualquier uso, en cualquier momento y con cualquier población, ya que la validez depende del contexto, el propósito y las características de la muestra (<xref ref-type="bibr" rid="B5">Cohen y Swerdlik, 2018</xref>).</p>
+		<p>Aunque el mayor peso en el análisis de la calidad psicométrica de un test recaiga en el constructor de la prueba, en la séptima edición de los <italic>Standards for Educational and Psychological Testing</italic> (<xref ref-type="bibr" rid="B3">AERA, APA &amp; NCME, 2014</xref>), marco de referencia en cuanto a criterios para el desarrollo y la evaluación de pruebas, se destaca claramente la responsabilidad del profesional a la hora de seleccionar un test que mida de manera adecuada la variable de interés y cuente con una calidad métrica acreditada. El estándar 9.0 establece que el usuario del test debe conocer la evidencia de validez que sustenta las interpretaciones de las puntuaciones y asumir las consecuencias de su uso. Además, el estándar 9.1 especifica que solo individuos con la formación, credenciales y experiencia necesarias deben interpretar y aplicar los test, garantizando así su uso apropiado y ético. Por tanto, los estándares hacen explícito que la responsabilidad de un uso adecuado y ético no recae únicamente en los constructores o editores de los test, sino también en los psicólogos que los seleccionan y aplican.</p>
+		<p>En este contexto, disponer de información rigurosa y actualizada sobre la calidad de las pruebas es clave para que los profesionales de la Psicología puedan tomar decisiones informadas acerca de su utilización, ya que tendrán que analizar de manera crítica la calidad psicométrica de los test antes de su selección y aplicación. Para cubrir esta necesidad, en España se ha desarrollado un modelo sistemático de evaluación de test, el <italic>Cuestionario para la Evaluación de Test</italic> (CET; <xref ref-type="bibr" rid="B24">Prieto y Muñiz, 2000</xref>) y su versión revisada (CET-R; <xref ref-type="bibr" rid="B11">Hernández et al., 2016</xref>), que están basados en el modelo de revisión de test de la Federación Europea de Asociaciones de Psicología (EFPA; <xref ref-type="bibr" rid="B7">Evers et al., 2013</xref>).</p>
+		<p>Además de las evaluaciones técnicas, resulta fundamental conocer la opinión de los propios profesionales de la Psicología sobre el uso de los test. Con este propósito se han realizado tres encuestas nacionales a psicólogos colegiados. Los resultados de la tercera encuesta (<xref ref-type="bibr" rid="B19">Muñiz, et al., 2020</xref>), en la que participaron 1.248 profesionales, evidencian que los test se emplean de forma habitual en la práctica psicológica y que los psicólogos no cuestionan su utilidad cuando son aplicados de manera adecuada. No obstante, los resultados también muestran una clara demanda de mayor control y regulación en su uso, así como la necesidad de una formación más sólida en psicometría y evaluación.</p>
+		<p>Es en este marco donde cobra especial importancia contar con evaluaciones independientes y actualizadas de la calidad técnica de los test. En España, dicho propósito ha sido impulsado por la Comisión de Test del Consejo General de la Psicología (COP). Desde 2010, esta Comisión ha venido desarrollando un proyecto sistemático de evaluación de los test editados en España, habiendo ya once evaluaciones previas.</p>
+		<p>El objetivo principal de este trabajo es presentar los resultados obtenidos en la duodécima evaluación nacional de los test editados en España. La finalidad última es ayudar a los profesionales en la toma de decisiones de uso de los test, ya que esta iniciativa busca ofrecer a los profesionales información detallada sobre la calidad de los instrumentos que orienten su selección y uso adecuado (<xref ref-type="bibr" rid="B24">Prieto y Muñiz, 2000</xref>; <xref ref-type="bibr" rid="B21">Muñiz et al., 2011</xref>).</p>
+		<p>En la actualidad se supera el centenar de test evaluados, cuyos informes están disponibles para consulta y descarga gratuita en la página web del Consejo General de la Psicología en España (<ext-link ext-link-type="uri" xlink:href="https://www.cop.es/test/">https://www.cop.es/test/</ext-link>). En este mismo portal se incluyen los enlaces a los artículos que documentan el proceso de evaluación de cada edición, publicados en <italic>Papeles del Psicólogo</italic> desde la primera edición en 2010, lo que permite seguir la evolución histórica de este proyecto a través de las diferentes coordinaciones (<xref ref-type="bibr" rid="B21">Muñiz et al., 2011</xref>; <xref ref-type="bibr" rid="B23">Ponsoda y Hontangas, 2013</xref>; <xref ref-type="bibr" rid="B9">Hernández et al., 2015</xref>; <xref ref-type="bibr" rid="B6">Elosua y Geisinger, 2016</xref>; <xref ref-type="bibr" rid="B8">Fonseca-Pedrero y Muñiz, 2017</xref>; <xref ref-type="bibr" rid="B12">Hidalgo y Hernández, 2019</xref>; <xref ref-type="bibr" rid="B13">Gómez, 2019</xref>; <xref ref-type="bibr" rid="B31">Viladrich et al., 2021</xref>; <xref ref-type="bibr" rid="B15">Lozano, 2023</xref>; <xref ref-type="bibr" rid="B1">Abad, 2024</xref>; <xref ref-type="bibr" rid="B14">Guilera y Barrios, 2025</xref> ).</p>
+		<sec sec-type="methods">
+			<title>Método</title>
+			<sec>
+				<title>Test Evaluados</title>
+				<p>En esta duodécima edición se han evaluado siete test de cuatro editoriales de referencia, TEA, Pearson, Habilmind y Giunti Psychometrics, además de un instrumento no comercial, el Cuestionario de Pfeiffer de evaluación de deterioro cognitivo (SPMSQ). Estos test abordan un amplio rango de variables psicológicas, entre las que se incluyen la motivación, la inteligencia general, los rasgos de personalidad en adolescentes, el bienestar emocional, el deterioro cognitivo, la conciencia fonológica y la inteligencia emocional (ver <xref ref-type="table" rid="t1">Tabla 1</xref>). Además, presentan aplicaciones en diversos ámbitos profesionales, como la psicología educativa, clínica, forense, del trabajo y de las organizaciones, así como en investigación.</p>
+				<p>
+					<table-wrap id="t1">
+						<label>Tabla 1</label>
+						<caption>
+							<title>Listado de los Instrumentos de Medida Analizados en la Duodécima Evaluación de Test</title>
+						</caption>
+						<table>
+							<colgroup>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th align="center">Acrónimo</th>
+									<th align="center">Nombre</th>
+									<th align="center">Editorial</th>
+									<th align="center">Variable de interés</th>
+									<th align="center">Área de aplicación</th>
+									<th align="center">Soporte</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">APM</td>
+									<td align="left">Análisis de Perfiles Motivacionales</td>
+									<td align="left">TEA</td>
+									<td align="left">Motivación</td>
+									<td align="left">Psicología educativa, Psicología del trabajo y las organizaciones</td>
+									<td align="left">Papel y lápiz e informatizado</td>
+								</tr>
+								<tr>
+									<td align="left">Matrices-TAI</td>
+									<td align="left">Test Adaptativo de Inteligencia General (online)</td>
+									<td align="left">TEA</td>
+									<td align="left">Inteligencia general</td>
+									<td align="left">Psicología clínica, Psicología forense, Psicología del trabajo y las organizaciones</td>
+									<td align="left">Informatizado</td>
+								</tr>
+								<tr>
+									<td align="left">MACI-II</td>
+									<td align="left">Inventario Clínico para adolescentes Millon-II</td>
+									<td align="left">Pearson</td>
+									<td align="left">Rasgos de personalidad y síndromes clínicos en adolescentes</td>
+									<td align="left">Psicología clínica, Psicología educativa, Psicología forense, investigación</td>
+									<td align="left">Papel y lápiz e informatizado</td>
+								</tr>
+								<tr>
+									<td align="left">SBE</td>
+									<td align="left">Screening de bienestar emocional para niños y adolescentes</td>
+									<td align="left">Habilmind</td>
+									<td align="left">Bienestar emocional</td>
+									<td align="left">Psicología educativa</td>
+									<td align="left">Informatizado</td>
+								</tr>
+								<tr>
+									<td align="left">SPMSQ</td>
+									<td align="left">Cuestionario de Pfeiffer de evaluación de deterioro cognitivo</td>
+									<td align="left">No comercial</td>
+									<td align="left">Deterioro cognitivo</td>
+									<td align="left">Neuropsicología, escalas clínicas</td>
+									<td align="left">Administración oral</td>
+								</tr>
+								<tr>
+									<td align="left">TECO</td>
+									<td align="left">Prueba para la evaluación del conocimiento fonológico</td>
+									<td align="left">Giunti Psychometrics</td>
+									<td align="left">Conciencia fonológica</td>
+									<td align="left">Psicología educativa</td>
+									<td align="left">Papel y lápiz / administración oral</td>
+								</tr>
+								<tr>
+									<td align="left">THINEME</td>
+									<td align="left">Test de Inteligencia Emocional</td>
+									<td align="left">Giunti Psychometrics</td>
+									<td align="left">Inteligencia emocional</td>
+									<td align="left">Psicología educativa Psicología clínica</td>
+									<td align="left">Papel y lápiz e informatizado</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+				<p>El cuestionario Análisis del Perfil Motivacional (APM) (<xref ref-type="bibr" rid="B30">Valderrama et al., 2015</xref>) es un instrumento de autoinforme compuesto por 80 ítems con formato Likert, organizados en diez escalas que conforman la denominada rueda de motivos (<xref ref-type="bibr" rid="B28">Valderrama, 2010</xref>; <xref ref-type="bibr" rid="B29">2018</xref>). Estas escalas se agrupan en cinco pares complementarios: afiliación-autonomía, cooperación-poder, hedonismo-logro, seguridad-exploración y conservación-contribución. Se orienta a la evaluación de los motivos que influyen en el rendimiento y en la conducta laboral, con aplicaciones en contextos de orientación profesional, crecimiento personal, selección de personal y gestión del talento y la diversidad.</p>
+				<p>La adaptación española del Inventario Clínico para Adolescentes Millon-II (MACI-II) (<xref ref-type="bibr" rid="B10">Hernández et al., 2023</xref>) es un instrumento autoinformado dirigido a la evaluación de rasgos de personalidad y síndromes clínicos en adolescentes de 13 a 18 años. La prueba integra tres tipos de información: rasgos de personalidad (patrones estables), preocupaciones subjetivas (malestar psicológico) y síndromes clínicos (de carácter agudo o transitorio. Consta de 160 ítems de respuesta verdadero/falso que requieren aproximadamente 25 minutos de aplicación. Sus usos incluyen la planificación del tratamiento psicoterapéutico, la evaluación neuropsicológica y psicoeducativa, así como su utilización en investigación.</p>
+				<p>El Test Adaptativo de Inteligencia General (Matrices-TAI) (<xref ref-type="bibr" rid="B2">Abad, et al, 2020</xref>) es una versión informatizada y adaptativa del test de Matrices de TEA (<xref ref-type="bibr" rid="B27">Sánchez-Sánchez, Santamaría y Abad, 2015</xref>), diseñado para evaluar la inteligencia general mediante razonamiento abstracto no verbal. Puede aplicarse en una amplia franja edad (6 a 74 años) y en contextos clínicos, forenses, organizacionales y educativos. Su formato, basado en ítems de matrices gráficas incompletas (3x3), minimiza la influencia del lenguaje y está disponible en español, catalán e inglés, incorporando ayudas visuales y auditivas.</p>
+				<p>El Screening de Bienestar Emocional (SBE) (<xref ref-type="bibr" rid="B4">Blanco et al., 2023</xref>) es un cuestionario informatizado de 65 ítems tipo Likert, diseñado para evaluar el bienestar emocional en población infantil y adolescente (3-18 años). Evalúa trece subdimensiones agrupadas en tres bloques: emociones causales (gestión de miedo, tristeza, ira y ansiedad/estrés), factores de protección emocional (optimismo, autoestima, motivación y expresión emocional) y manifestaciones conductuales (alteraciones del sueño, abuso de pantallas, agresividad/disruptividad y aislamiento social). Ofrece versiones adaptadas por nivel evolutivo: de 3 a 8 años cumplimentado por padres o cuidadores, y de 9 a 18 años en formato de autoinforme.</p>
+				<p>El Cuestionario de Pfeiffer para detectar la existencia de deterioro cognitivo (SPMSQ-VE) (<xref ref-type="bibr" rid="B16">Martínez de la Iglesia et al., 2001</xref>) es la adaptación española del Short Portable Mental Status Questionnaire (SPMSQ) (<xref ref-type="bibr" rid="B22">Pfeiffer, 1975</xref>). Es un instrumento breve de cribado del deterioro cognitivo en personas mayores de 65 años. El cuestionario consta de 10 ítems de respuesta abierta que evalúan orientación, memoria, información sobre hechos cotidianos y capacidad de cálculo seriado. La puntuación se basa en el número de errores cometidos, con un rango de 0 a 10. Es de aplicación sencilla y rápida por profesionales sanitarios en atención primaria, y ha sido recomendado por el Sistema Nacional de Salud como prueba de referencia en la detección de demencias.</p>
+				<p>El Test de Evaluación de la Conciencia Fonológica (TECO) (<xref ref-type="bibr" rid="B26">Ramos et al., 2023</xref>) es una revisión del PECO (<xref ref-type="bibr" rid="B25">Ramos y Cuadrado, 2006</xref>) orientado a la evaluación de la conciencia fonológica en el proceso inicial de aprendizaje de la lectura en español. Evalúa los niveles silábico y fonémico mediante seis actividades (22 ítems) que implican tareas de identificación, adición y omisión de unidades fonológicas. Las dos primeras actividades pueden aplicarse de forma colectiva y las cuatro restantes se aplican de forma individual. Su población objetivo es el alumnado del último curso de Educación Infantil, primer ciclo de Educación Primaria y en cursos superiores cuando existen dificultades de lectoescritura. Su uso principal es educativo, aunque también tiene aplicaciones en investigación psicolingüística y psicoeducativa.</p>
+				<p>El Test de Inteligencia Emocional (THINEME) (<xref ref-type="bibr" rid="B18">Merchán, et al., 2023</xref>) es una prueba de ejecución destinada a evaluar la inteligencia emocional en población infantil (8-12 años), siguiendo el modelo de <xref ref-type="bibr" rid="B17">Mayer y Salovey (1997)</xref>. El test se compone de 30 ítems y proporciona una puntuación global y puntuaciones específicas en cuatro ramas: percepción, facilitación, comprensión y regulación emocional. Las posibilidades de utilización van desde la orientación educativa, al ámbito clínico, psicopedagógico, y detección de perfiles emocionales en niños y niñas.</p>
+			</sec>
+			<sec>
+				<title>Revisores Participantes</title>
+				<p>En esta edición se contactó con 18 posibles revisores, de los cuales cuatro rechazaron participar en el proceso por distintos motivos, por lo que finalmente participaron 14 revisores, dos por cada prueba evaluada (ver <xref ref-type="table" rid="t2">Tabla 2</xref>). La selección de los revisores se realizó teniendo en cuenta que cada test debía ser evaluado por dos expertos, uno en Psicometría y otro en el área específica abordada por el instrumento. Cuando fue posible, se procuró que el experto en Psicometría contara también con publicaciones relacionadas con la variable medida por el test, y que el especialista en el área evaluada por el test hubiera publicado trabajos en los que se evalúen las propiedades psicométricas de alguna prueba.</p>
+				<p>Todos los revisores pertenecen al ámbito universitario. La mayoría adscritos al área de Metodología de las Ciencias del Comportamiento, aunque, debido al ámbito de aplicación de los test, también participaron evaluadores del área de Personalidad, Evaluación y Tratamientos Psicológicos, de Psicología Básica y de Psicología Evolutiva y de la Educación.</p>
+				<p>
+					<table-wrap id="t2">
+						<label>Tabla 2</label>
+						<caption>
+							<title>Listado de Revisores de la Duodécima Evaluación de Test</title>
+						</caption>
+						<table>
+							<colgroup>
+								<col/>
+								<col/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th align="center">Revisor/a</th>
+									<th align="center">Departamento</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">Jesús Mª Alvarado Izquierdo</td>
+									<td align="left">Psicobiología y Metodología en Ciencias del Comportamiento de la Universidad Complutense de Madrid (UCM)</td>
+								</tr>
+								<tr>
+									<td align="left">Isabel Benítez Baena</td>
+									<td align="left">Metodología de las Ciencias del Comportamiento de la Universidad de Granada (UGR)</td>
+								</tr>
+								<tr>
+									<td align="left">Sergio Escorial Martín</td>
+									<td align="left">Psicobiología y Metodología en Ciencias del Comportamiento de la Universidad Complutense de Madrid (UCM)</td>
+								</tr>
+								<tr>
+									<td align="left">Silvia Fernández Rivas</td>
+									<td align="left">Psicología Básica, Psicobiología y Metodología de las Ciencias del Comportamiento de la Universidad de Salamanca (USAL)</td>
+								</tr>
+								<tr>
+									<td align="left">Juana Gómez Benito</td>
+									<td align="left">Psicología Social y Psicología Cuantitativa de la Universidad de Barcelona (UB)</td>
+								</tr>
+								<tr>
+									<td align="left">Isabel Gómez Veiga</td>
+									<td align="left">Psicología Evolutiva y de la Educación de la Universidad Nacional de Educación a Distancia (UNED)</td>
+								</tr>
+								<tr>
+									<td align="left">Marcela Paz González Brignardello</td>
+									<td align="left">Psicología de la Personalidad, Evaluación y Tratamiento Psicológico de la Universidad Nacional de Educación a Distancia (UNED)</td>
+								</tr>
+								<tr>
+									<td align="left">Georgina Guilera Ferré</td>
+									<td align="left">Psicología Social y Psicología Cuantitativa de la Universidad de Barcelona (UB)</td>
+								</tr>
+								<tr>
+									<td align="left">Elena Navarro González</td>
+									<td align="left">Psicología de la Personalidad, Evaluación y Tratamiento Psicológico de la Universidad de Granada (UGR)</td>
+								</tr>
+								<tr>
+									<td align="left">Francisco José Rivera de los Santos</td>
+									<td align="left">Psicología Experimental de la Universidad de Sevilla (US)</td>
+								</tr>
+								<tr>
+									<td align="left">Encarnación Sarriá Sánchez</td>
+									<td align="left">Metodología de las Ciencias del Comportamiento de la Universidad Nacional de Educación a Distancia (UNED)</td>
+								</tr>
+								<tr>
+									<td align="left">Miguel Ángel Sorrel Luján</td>
+									<td align="left">Psicología Social y Metodología de la Universidad Autónoma de Madrid (UAM)</td>
+								</tr>
+								<tr>
+									<td align="left">Purificación Sierra García</td>
+									<td align="left">Psicología Evolutiva y de la Educación de la Universidad Nacional de Educación a Distancia (UNED)</td>
+								</tr>
+								<tr>
+									<td align="left">Rodrigo Schames Kreitchmann</td>
+									<td align="left">Metodología de las Ciencias del Comportamiento de la Universidad Nacional de Educación a Distancia (UNED)</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+			</sec>
+			<sec>
+				<title>Descripción del Instrumento Utilizado Para la Evaluación</title>
+				<p>Para realizar las evaluaciones de los test se utilizó el Cuestionario para la Evaluación de los Test Revisado (CET-R; <xref ref-type="bibr" rid="B11">Hernández et al., 2016</xref>) que se basa en el modelo de evaluación de test elaborado por la <italic>European Federation of Psychologists’ Associations</italic> (EFPA, <xref ref-type="bibr" rid="B7">Evers et al., 2013</xref>).</p>
+				<p>El cuestionario consta de tres bloques principales:</p>
+				<p>
+					<list list-type="order">
+						<list-item>
+							<p>Descripción general del test: compuesto por 28 ítems cuyo objetivo es obtener información básica y objetiva sobre el instrumento, incluyendo datos editoriales, autores, fechas de publicación, área de aplicación, formato de ítems, poblaciones destinatarias, modalidades de aplicación y corrección, escalas empleadas, documentación disponible y precios de los materiales.</p>
+						</list-item>
+						<list-item>
+							<p>Valoración de las características del test: examina en detalle la fundamentación y propiedades psicométricas de la prueba. Este bloque se organiza en cuatro apartados, finalizando cada uno de ellos con una pregunta abierta para sintetizar las evidencias encontradas, justificar las puntuaciones, y señalar las fortalezas y debilidades de la prueba.</p>
+							<list list-type="bullet">
+								<list-item>
+							<p><italic>Características generales</italic>: analiza aspectos como calidad de materiales, documentación, fundamentación teórica, adaptación, redacción y desarrollo de ítems, así como la claridad de instrucciones y bibliografía utilizada.</p>
+						</list-item>
+						<list-item>
+							<p><italic>Validez</italic>: se evalúan las evidencias disponibles basadas en el contenido, en la relación entre las puntuaciones del test y otras variables (incluidos estudios con criterios externos, análisis de diferencias entre grupos, validez convergente, discriminante y basadas en la estructura interna del test (p. ej., análisis factorial y funcionamiento diferencial de los ítems).</p>
+						</list-item>
+						<list-item>
+							<p><italic>Fiabilidad</italic>: incluye distintos enfoques para valorar la precisión de las puntuaciones, como equivalencia entre formas paralelas, consistencia interna, estabilidad temporal, estimaciones desde la Teoría de Respuesta a los Ítems y fiabilidad interjueces.</p>
+						</list-item>
+						<list-item>
+							<p><italic>Baremos e interpretación de puntuaciones</italic>: evalúa la calidad y actualización de los baremos en interpretaciones normativas y la adecuación de los procedimientos empleados para establecer puntos de corte en pruebas referidas a criterio.</p>
+						</list-item>
+							</list>
+						</list-item>
+						<list-item>
+							<p>Valoración global del test: en este apartado se solicita una evaluación cualitativa, en la que se informe de las principales fortalezas, limitaciones, recomendaciones de uso y aspectos susceptibles de mejora. Asimismo, se completa una tabla resumen con los promedios obtenidos en los distintos apartados, lo que permite una valoración cuantitativa global del instrumento.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>El CET-R V1.1 está disponible en la web del Colegio Oficial de Psicólogos (<ext-link ext-link-type="uri" xlink:href="https://www.cop.es/test/">https://www.cop.es/test/</ext-link>).</p>
+			</sec>
+			<sec>
+				<title>Proceso de Evaluación</title>
+				<p>El procedimiento de evaluación seguido en esta edición fue similar al de convocatorias anteriores. La Comisión de Test, en colaboración con las editoriales participantes (Giunti Psychometrics, Habilmind, Pearson y TEA) seleccionó las pruebas que serían sometidas a evaluación. En esta duodécima edición se evaluaron seis cuestionarios de carácter comercial y, además, la Comisión de Test incluyó la evaluación de un test no comercial, el Cuestionario de Pfeiffer de Evaluación de Deterioro Cognitivo (SPMSQ).</p>
+				<p>Una vez seleccionadas las pruebas a evaluar, la Comisión de Test designó a la persona responsable de Coordinar la Evaluación de esta edición. Entre julio y septiembre de 2023 el COP envió los test provenientes de las editoriales a la coordinadora. Según fueron llegando los test se abordó su lectura para comenzar la selección de los revisores. Para cada test se buscó la colaboración de 2 expertos, uno en Psicometría y otro en el constructo o área específica evaluada por la prueba.</p>
+				<p>En octubre, la coordinadora contactó con los posibles revisores mediante un primer mensaje de correo electrónico informando sobre la prueba asignada y sobre el instrumento de revisión que debían utilizar (CET-R v1.1). Aquellos que aceptaron la colaboración recibieron posteriormente las instrucciones detalladas de la tarea (básicamente revisar la documentación del test y cumplimentar el CET-R) y el plazo de entrega, fijado para enero de 2024. El COP envió a cada revisor todo el material relacionado con la evaluación del test asignado (manual, hojas de respuesta, láminas, cuadernillos, entre otros) por correo postal.</p>
+				<p>En el caso de la prueba no comercial, la coordinadora recopiló y envió por email a los revisores los artículos relevantes sobre su desarrollo, adaptación y/o propiedades psicométricas del Cuestionario de Pfeiffer de evaluación de deterioro cognitivo para que pudieran llevar a cabo la revisión. Se consideró como artículo principal para hacer la revisión el estudio de <xref ref-type="bibr" rid="B16">Martínez et al. (2001)</xref>, al ser la adaptación al español utilizada en nuestro país y tratarse de un trabajo muy completo en cuanto al estudio de sus propiedades psicométricas. Además, se envió el artículo original de <xref ref-type="bibr" rid="B22">Pfeiffer (1975)</xref>, y cuatro artículos cuyo objetivo fue proporcionar información sobre la calidad psicométrica del test con muestra española, con una pequeña explicación de por qué podría ser relevante para realizar la revisión. Como material complementario se envió un listado de 37 artículos de aplicaciones del Cuestionario en muestra española, en el que estaban marcados los que aportaban algún dato relacionado con la calidad métrica de la prueba. De este último listado no se enviaron los trabajos completos porque, a priori, no aportan información adicional, pero la coordinadora quedó a disposición para enviar y comentar cualquiera de ellos.</p>
+				<p>Durante el periodo de revisión la coordinadora estuvo disponible para resolver las dudas surgidas en el proceso de revisión de los test.</p>
+				<p>Para realizar el informe provisional de cada uno de los test se integraron las evaluaciones realizadas por los dos revisores. En los apartados cualitativos del CET-R se sintetizó la información considerando las aportaciones de los dos expertos y la evaluación realizada por la coordinadora. En los apartados cuantitativos cuando existían discrepancias leves en las puntuaciones numéricas, se utilizó la media aritmética. En los casos en que las diferencias eran mayores, la coordinadora estableció la puntuación final valorando los argumentos de los revisores y la información disponible en el manual. Si se detectaba algún error evidente en una de las evaluaciones, la puntuación definitiva se obtenía mediante la media entre la calificación del otro revisor y la de la propia coordinadora.</p>
+				<p>Los informes provisionales fueron enviados al COP entre marzo y abril, desde donde se remitieron a las distintas editoriales y a los autores de la adaptación (en el caso del test no comercial).</p>
+				<p>Las editoriales tuvieron un mes de plazo para realizar las alegaciones que estimaron oportunas a los informes provisionales. En algunos casos aportaron información adicional que se tuvo en cuenta para el informe final. La coordinadora revisó las alegaciones para la elaboración del informe definitivo de cada una de las pruebas. Finalmente, un miembro de la Comisión de test del COP revisó los informes finales, antes del envío definitivo para su publicación.</p>
+				<p>En la <xref ref-type="fig" rid="f1">Figura 1</xref> se esquematiza el proceso de evaluación.</p>
+				<p>
+					<fig id="f1">
+						<label>Figura 1</label>
+						<caption>
+							<title>Proceso de la Duodécima Evaluación de Test Editados en España</title>
+						</caption>
+						<graphic xlink:href="0214-7823-pappsicol-47-02-106-gf1.jpg"/>
+					</fig>
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="results">
+			<title>Resultados</title>
+			<p>En la <xref ref-type="table" rid="t3">Tabla 3</xref> se recogen las valoraciones promedio obtenidas por los distintos test en cada una de las dimensiones analizadas. El rango de puntuaciones oscila entre 1 (Inadecuado) y 5 (Excelente), contemplándose además dos opciones diferenciadas para los casos en los que no se aporta información: N/A (no se aporta información, pero no es fundamental dada la finalidad del test) y 0 (no se aporta información y ésta se considera fundamental dada la finalidad del test).</p>
+			<p>En conjunto, la mayor parte de las calificaciones se sitúan por encima de 3,5, lo que las ubica en un nivel entre adecuado y bueno, siendo frecuentes las puntuaciones iguales o superiores a 4. Al comparar los resultados de esta duodécima edición con el histórico de evaluaciones previas, se observa una continuidad en la tendencia general, con ligeras variaciones en algunos apartados concretos (ver <xref ref-type="table" rid="t3">Tabla 3</xref>).</p>
+			<p>
+				<table-wrap id="t3">
+					<label>Tabla 3</label>
+					<caption>
+						<title>Puntuaciones Obtenidas por los Test Analizados en la Duodécima Evaluación</title>
+					</caption>
+					<table>
+						<colgroup>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="center">Característica evaluada</th>
+								<th align="center">APM</th>
+								<th align="center">Matrices-TAI</th>
+								<th align="center">MACI-II</th>
+								<th align="center">SBE</th>
+								<th align="center">SPMSQ</th>
+								<th align="center">TECO</th>
+								<th align="center">THINEME</th>
+								<th align="center">Media</th>
+								<th align="center">Histórico</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="left">Materiales y documentación</td>
+								<td align="center">4.2</td>
+								<td align="center">5</td>
+								<td align="center">4.5</td>
+								<td align="center">4</td>
+								<td align="center">3</td>
+								<td align="center">4.5</td>
+								<td align="center">3</td>
+								<td align="center">4.0</td>
+								<td align="center">4.3</td>
+							</tr>
+							<tr>
+								<td align="left">Fundamentación teórica</td>
+								<td align="center">4</td>
+								<td align="center">5</td>
+								<td align="center">4</td>
+								<td align="center">2.5</td>
+								<td align="center">2.5</td>
+								<td align="center">4</td>
+								<td align="center">4</td>
+								<td align="center">3.7</td>
+								<td align="center">4.1</td>
+							</tr>
+							<tr>
+								<td align="left">Adaptación</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">4.5</td>
+								<td align="center">---</td>
+								<td align="center">4</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">4.3</td>
+								<td align="center">4.2</td>
+							</tr>
+							<tr>
+								<td align="left">Análisis de ítems</td>
+								<td align="center">3</td>
+								<td align="center">5</td>
+								<td align="center">---</td>
+								<td align="center">3.5</td>
+								<td align="center">3</td>
+								<td align="center">4</td>
+								<td align="center">3</td>
+								<td align="center">3.6</td>
+								<td align="center">3.8</td>
+							</tr>
+							<tr>
+								<td align="left">Validez: Contenido</td>
+								<td align="center">4</td>
+								<td align="center">5</td>
+								<td align="center">3.5</td>
+								<td align="center">3.5</td>
+								<td align="center">---</td>
+								<td align="center">2.5</td>
+								<td align="center">4</td>
+								<td align="center">3.8</td>
+								<td align="center">3.7</td>
+							</tr>
+							<tr>
+								<td align="left">Validez: Relación con otras variables</td>
+								<td align="center">3.1</td>
+								<td align="center">4.5</td>
+								<td align="center">3.5</td>
+								<td align="center">0</td>
+								<td align="center">3.8</td>
+								<td align="center">3.5</td>
+								<td align="center">2.8</td>
+								<td align="center">3.0</td>
+								<td align="center">3.6</td>
+							</tr>
+							<tr>
+								<td align="left">Validez: Estructura interna</td>
+								<td align="center">3.8</td>
+								<td align="center">4.8</td>
+								<td align="center">---</td>
+								<td align="center">4</td>
+								<td align="center">---</td>
+								<td align="center">2</td>
+								<td align="center">4</td>
+								<td align="center">3.7</td>
+								<td align="center">3.7</td>
+							</tr>
+							<tr>
+								<td align="left">Validez: Análisis del DIF</td>
+								<td align="center">3.5</td>
+								<td align="center">4.5</td>
+								<td align="center">---</td>
+								<td align="center">3</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">3.7</td>
+								<td align="center">4.1</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad: Equivalencia</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad: Consistencia interna</td>
+								<td align="center">4</td>
+								<td align="center">5</td>
+								<td align="center">3.5</td>
+								<td align="center">4.5</td>
+								<td align="center">3</td>
+								<td align="center">4</td>
+								<td align="center">2.8</td>
+								<td align="center">3.8</td>
+								<td align="center">4.2</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad: Estabilidad</td>
+								<td align="center">---</td>
+								<td align="center">4</td>
+								<td align="center">3</td>
+								<td align="center">3.5</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">3.5</td>
+								<td align="center">3.4</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad: TRI</td>
+								<td align="center">---</td>
+								<td align="center">5</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">5.0</td>
+								<td align="center">---</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad Interjueces</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">5</td>
+								<td align="center">---</td>
+								<td align="center">2.5</td>
+								<td align="center">3.8</td>
+								<td align="center">---</td>
+							</tr>
+							<tr>
+								<td align="left">Baremos e interpretación puntuaciones</td>
+								<td align="center">4</td>
+								<td align="center">5</td>
+								<td align="center">4</td>
+								<td align="center">4</td>
+								<td align="center">3.7</td>
+								<td align="center">3.7</td>
+								<td align="center">3</td>
+								<td align="center">3.9</td>
+								<td align="center">4</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p>Nota. Las puntuaciones de la tabla siguen una escala de 0 a 5. El símbolo --- indica que no se aporta información o no procede; Histórico es la puntuación media en las ediciones anteriores.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>El primer bloque corresponde a los aspectos generales relacionados con el desarrollo de las pruebas. En el apartado de Materiales y documentación las valoraciones son elevadas, con una media de 4,0 y varias pruebas con puntuaciones entre buenas y excelentes (Matrices-TAI = 5,0; TECO = 4,5). En Fundamentación teórica los resultados son algo más dispares, con puntuaciones que oscilan entre 2,5 y 5,0, lo que se traduce en una media de 3,7, ligeramente inferior al valor histórico. En cuanto a la Adaptación, las pruebas que ofrecen información alcanzan valores de bueno a excelente (MACI-II = 4,5; SPMSQ = 4,0).</p>
+			<p>En relación con las evidencias de validez, las puntuaciones en Validez de contenido son en su mayoría adecuadas o buenas (media = 3,8), aunque se aprecia cierta heterogeneidad entre pruebas. En la evidencia sobre la Relación con otras variables las puntuaciones están entre adecuado y bueno excepto dos pruebas (una con alta valoración y otra muy baja). Respecto a la Estructura interna, la media se sitúa en 3,7, en línea con ediciones anteriores, aunque con valores desiguales (p.ej., TECO = 2,0 frente a Matrices-TAI = 4,8). En cuanto al análisis del DIF, las valoraciones son positivas (media = 3,7), aunque no siempre se recoge información de este tipo.</p>
+			<p>En el bloque de fiabilidad, los resultados muestran que la Consistencia interna es el indicador más utilizado y mejor valorado, con una media de 3,8, aunque algunas pruebas obtienen puntuaciones solo adecuadas. Los datos de Estabilidad son más limitados y presentan valores intermedios (media = 3,5). En el caso en el que se aplican análisis con la TRI (Matrices-TAI) la calificación es excelente (5,0). También se han recogido algunas valoraciones en Fiabilidad interjueces, con resultados muy dispares.</p>
+			<p>Finalmente, en el apartado de Baremos e interpretación de puntuaciones las medias alcanzan un nivel bueno (3,9), no habiendo ningún test evaluado por debajo de la puntuación 3 (adecuado).</p>
+			<p>En conjunto, los resultados reflejan un patrón relativamente estable respecto a evaluaciones previas, como se puede apreciar en la <xref ref-type="table" rid="t4">Tabla 4</xref> y también en la <xref ref-type="fig" rid="f2">Figura 2</xref>, donde se presenta la evolución de los principales bloques evaluados (aspectos generales, validez, fiabilidad y baremos). Cabe destacar que hay que interpretar este tipo de datos con cautela, ya que el número de pruebas a evaluar en cada edición no es demasiado alto, por lo que las valoraciones medias de las evaluaciones en las que ha habido alguna prueba con puntuaciones excepcionalmente altas o bajas pueden distorsionar la media de esa evaluación. Además, debe tenerse en cuenta que en las cuatro primeras evaluaciones se utilizó el CET (en lugar de la versión revisada), en la que variaban algunos epígrafes, por ejemplo, no había apartado de fiabilidad bajo la Teoría de Respuesta al Ítem.</p>
+			<p>
+				<table-wrap id="t4">
+					<label>Tabla 4</label>
+					<caption>
+						<title>Puntuaciones Promedio Obtenidas por los Test Analizados en Cada una de las Evaluaciones</title>
+					</caption>
+					<table>
+						<colgroup>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="center">Característica evaluada</th>
+								<th align="center">1ª</th>
+								<th align="center">2º</th>
+								<th align="center">3ª</th>
+								<th align="center">4ª</th>
+								<th align="center">5ª</th>
+								<th align="center">6ª</th>
+								<th align="center">7ª</th>
+								<th align="center">8ª</th>
+								<th align="center">9ª</th>
+								<th align="center">10ª</th>
+								<th align="center">11ª</th>
+								<th align="center">12ª</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="left">Materiales y documentación</td>
+								<td align="center">4.3</td>
+								<td align="center">4.3</td>
+								<td align="center">4.1</td>
+								<td align="center">4.0</td>
+								<td align="center">4.5</td>
+								<td align="center">4.6</td>
+								<td align="center">4.1</td>
+								<td align="center">4.3</td>
+								<td align="center">4.5</td>
+								<td align="center">4.5</td>
+								<td align="center">4.5</td>
+								<td align="center">4.0</td>
+							</tr>
+							<tr>
+								<td align="left">Fundamentación teórica</td>
+								<td align="center">4.1</td>
+								<td align="center">4.0</td>
+								<td align="center">3.6</td>
+								<td align="center">3.6</td>
+								<td align="center">4.7</td>
+								<td align="center">4.6</td>
+								<td align="center">3.9</td>
+								<td align="center">4.7</td>
+								<td align="center">3.9</td>
+								<td align="center">4.2</td>
+								<td align="center">3.7</td>
+								<td align="center">3.7</td>
+							</tr>
+							<tr>
+								<td align="left">Adaptación</td>
+								<td align="center">4.1</td>
+								<td align="center">4.3</td>
+								<td align="center">3.9</td>
+								<td align="center">3.8</td>
+								<td align="center">4.7</td>
+								<td align="center">4.2</td>
+								<td align="center">4.5</td>
+								<td align="center">4.8</td>
+								<td align="center">4.4</td>
+								<td align="center">4.3</td>
+								<td align="center">3.3</td>
+								<td align="center">4.3</td>
+							</tr>
+							<tr>
+								<td align="left">Análisis de ítems</td>
+								<td align="center">3.6</td>
+								<td align="center">3.9</td>
+								<td align="center">3.7</td>
+								<td align="center">3.7</td>
+								<td align="center">4.2</td>
+								<td align="center">4.2</td>
+								<td align="center">3.8</td>
+								<td align="center">3.6</td>
+								<td align="center">3.7</td>
+								<td align="center">3.8</td>
+								<td align="center">3.8</td>
+								<td align="center">3.6</td>
+							</tr>
+							<tr>
+								<td align="left">Validez: Contenido</td>
+								<td align="center">4.1</td>
+								<td align="center">3.5</td>
+								<td align="center">3.6</td>
+								<td align="center">3.3</td>
+								<td align="center">4.2</td>
+								<td align="center">4.3</td>
+								<td align="center">3.3</td>
+								<td align="center">4.0</td>
+								<td align="center">4.0</td>
+								<td align="center">3.8</td>
+								<td align="center">3.3</td>
+								<td align="center">3.8</td>
+							</tr>
+							<tr>
+								<td align="left">Validez: Relación con otras variables</td>
+								<td align="center">3.6</td>
+								<td align="center">3.6</td>
+								<td align="center">3.6</td>
+								<td align="center">3.2</td>
+								<td align="center">3.6</td>
+								<td align="center">3.8</td>
+								<td align="center">3.7</td>
+								<td align="center">3.3</td>
+								<td align="center">3.6</td>
+								<td align="center">3.7</td>
+								<td align="center">3.8</td>
+								<td align="center">3.0</td>
+							</tr>
+							<tr>
+								<td align="left">Validez: Estructura interna</td>
+								<td align="center">3.7</td>
+								<td align="center">4.2</td>
+								<td align="center">3.8</td>
+								<td align="center">3.6</td>
+								<td align="center">3.8</td>
+								<td align="center">4.5</td>
+								<td align="center">3.6</td>
+								<td align="center">3.1</td>
+								<td align="center">4.2</td>
+								<td align="center">3.1</td>
+								<td align="center">3.4</td>
+								<td align="center">3.7</td>
+							</tr>
+							<tr>
+								<td align="left">Validez: Análisis del DIF</td>
+								<td align="center">---</td>
+								<td align="center">5.0</td>
+								<td align="center">4.3</td>
+								<td align="center">2.0</td>
+								<td align="center">4.0</td>
+								<td align="center">5.0</td>
+								<td align="center">4.0</td>
+								<td align="center">5.0</td>
+								<td align="center">3.3</td>
+								<td align="center">3.7</td>
+								<td align="center">5.0</td>
+								<td align="center">3.7</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad: Equivalencia</td>
+								<td align="center">4.0</td>
+								<td align="center">4.0</td>
+								<td align="center">---</td>
+								<td align="center">3.0</td>
+								<td align="center">3.0</td>
+								<td align="center">---</td>
+								<td align="center">4.5</td>
+								<td align="center">3.0</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad: Consistencia interna</td>
+								<td align="center">3.8</td>
+								<td align="center">4.2</td>
+								<td align="center">3.6</td>
+								<td align="center">4.2</td>
+								<td align="center">4.4</td>
+								<td align="center">4.4</td>
+								<td align="center">4.8</td>
+								<td align="center">4.3</td>
+								<td align="center">4.6</td>
+								<td align="center">4.0</td>
+								<td align="center">4.0</td>
+								<td align="center">3.8</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad: Estabilidad</td>
+								<td align="center">3.8</td>
+								<td align="center">3.4</td>
+								<td align="center">3.0</td>
+								<td align="center">3.1</td>
+								<td align="center">3.7</td>
+								<td align="center">3.6</td>
+								<td align="center">4.1</td>
+								<td align="center">3.1</td>
+								<td align="center">4.0</td>
+								<td align="center">3.3</td>
+								<td align="center">3.2</td>
+								<td align="center">3.5</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad: TRI</td>
+								<td align="left">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">4.8</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">4.2</td>
+								<td align="center">4.0</td>
+								<td align="center">3.5</td>
+								<td align="center">5.0</td>
+							</tr>
+							<tr>
+								<td align="left">Fiabilidad Interjueces</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">5.0</td>
+								<td align="center">4.0</td>
+								<td align="center">---</td>
+								<td align="center">---</td>
+								<td align="center">3.0</td>
+								<td align="center">4.0</td>
+								<td align="center"/>
+								<td align="center">3.8</td>
+							</tr>
+							<tr>
+								<td align="left">Baremos e interpretación puntuaciones</td>
+								<td align="center">4.0</td>
+								<td align="center">3.9</td>
+								<td align="center">4.0</td>
+								<td align="center">3.7</td>
+								<td align="center">4.2</td>
+								<td align="center">4.4</td>
+								<td align="center">4.4</td>
+								<td align="center">4.1</td>
+								<td align="center">3.8</td>
+								<td align="center">4.0</td>
+								<td align="center">3.6</td>
+								<td align="center">3.9</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			</p>
+			<p>Como se puede ver en la <xref ref-type="table" rid="t4">Tabla 4</xref>, en la mitad de las evaluaciones no hay ningún test que aporte evidencias de fiabilidad utilizando formas paralelas, fiabilidad interjueces o proporcionando la función de información bajo la Teoría de Respuesta al ítem (TRI).</p>
+			<p>En la <xref ref-type="fig" rid="f2">figura 2</xref> se observa que los promedios obtenidos en los cuatro bloques principales del CET-R, a lo largo de las 12 evaluaciones realizadas hasta la fecha, se sitúan en un rango de 3 (aceptable) a 4.5 (bueno-excelente) lo que refleja, en términos generales, la buena calidad de los test evaluados.</p>
+			<p>
+				<fig id="f2">
+					<label>Figura 2</label>
+					<caption>
+						<title>Puntuaciones Obtenidas en cada una de las Evaluaciones en los Cuatro Bloques Generales</title>
+					</caption>
+					<graphic xlink:href="0214-7823-pappsicol-47-02-106-gf2.jpg"/>
+				</fig>
+			</p>
+		</sec>
+		<sec sec-type="discussion">
+			<title>Discusión</title>
+			<p>La evaluación de la calidad de los test psicológicos es una condición imprescindible para asegurar que las decisiones que se derivan de su aplicación sean válidas, fiables y éticas. Los criterios métricos de calidad fundamentales (validez y fiabilidad) no son atributos universales ni permanentes de un instrumento, sino que dependen de las características de la población, el contexto de uso y los fines para los que se aplican (<xref ref-type="bibr" rid="B3">AERA, APA &amp; NCME, 2014</xref>). Bajo esta premisa, las evaluaciones periódicas de los test publicados en España constituyen un recurso fundamental, pues permiten identificar fortalezas y limitaciones técnicas de los instrumentos disponibles, además de prevenir interpretaciones erróneas y a proteger de ellas a los usuarios, lo que refuerza la confianza en los test por parte de los profesionales de la Psicología (<xref ref-type="bibr" rid="B19">Muñiz et al., 2020</xref>).</p>
+			<p>En la actualidad, ya se ha superado el centenar de test evaluados, una cifra que refleja la consolidación de este proyecto desde sus primeras ediciones (<xref ref-type="bibr" rid="B21">Muñiz et al., 2011</xref>; <xref ref-type="bibr" rid="B23">Ponsoda y Hontangas, 2013</xref>; <xref ref-type="bibr" rid="B9">Hernández, Tomás, Ferreres, y Lloret, 2015</xref>), lo que pone de manifiesto tanto el compromiso de la Comisión de Test del Consejo General de la Psicología como el interés de la comunidad científica por disponer de un sistema independiente y riguroso de revisión. Desde una perspectiva aplicada, el que los informes estén disponibles en abierto en la web del COP (<ext-link ext-link-type="uri" xlink:href="https://www.cop.es/test/">https://www.cop.es/test/</ext-link>) constituye un recurso de gran valor, al facilitar que cualquier profesional pueda acceder a información contrastada sobre la calidad psicométrica de los instrumentos antes de decidir su aplicación. Ahora bien, la consolidación del proyecto no garantiza por sí misma que los psicólogos aprovechen plenamente este recurso.</p>
+			<p>En este sentido, la encuesta realizada a profesionales de la Psicología (<xref ref-type="bibr" rid="B19">Muñiz et al., 2020</xref>), puso de manifiesto que, aunque los test se emplean de manera generalizada y se reconoce su utilidad, existe una clara demanda de mayor regulación en su uso y de una formación más sólida en psicometría. A la vez, se evidenció un conocimiento limitado del trabajo de la Comisión de Test, lo que subraya la necesidad de intensificar las labores de difusión y transferencia de este recurso al ámbito profesional.</p>
+			<p>Desde el punto de vista metodológico, la utilización del Cuestionario para la Evaluación de Test (CET; <xref ref-type="bibr" rid="B24">Prieto y Muñiz, 2000</xref>) y de su versión revisada (CET-R; <xref ref-type="bibr" rid="B20">Muñiz, Hernández y Ponsoda, 2015</xref>), en todas las evaluaciones realizadas hasta el momento permite establecer comparaciones entre ediciones y detectar tendencias en la calidad de los test editados en España. No obstante, los revisores han señalado ciertas dificultades prácticas en la aplicación del instrumento. Una de las más destacadas se refiere a la valoración de los tamaños muestrales en contextos complejos, especialmente cuando la utilización de varias muestras induce a dudas sobre qué análisis se han basado en cada una de ellas. Otra dificultad habitual consiste en diferenciar entre los casos en los que “no se aporta información, pero no es fundamental dada la finalidad del test” y aquellos en los que “no se aporta información y esta se considera fundamental”, distinción clave porque en el primer caso la valoración es N/A, mientras que en el segundo debe puntuarse con 0. En este punto, los revisores expertos en el contenido del test tienden a experimentar mayor inseguridad, dada la exigencia de conocimientos psicométricos necesarios para tomar esta decisión. Asimismo, se observan discrepancias entre revisores, que en algunos casos podrían deberse a diferencias en la interpretación de los criterios de valoración. Ante esta situación, la elaboración de una guía práctica con ejemplos concretos podría facilitar el trabajo de los revisores y aumentar la consistencia de las evaluaciones.</p>
+			<p>Ya se han realizado 12 procesos de evaluación, lo que confirma la solidez del proyecto de evaluación de test en España y su valor como herramienta de apoyo a la práctica profesional. La información recopilada no solo facilita la elección fundamentada de instrumentos, sino que también ofrece a editores y autores indicaciones claras sobre aspectos susceptibles de mejora. De cara al futuro, sería conveniente desarrollar guías prácticas que faciliten la aplicación consistente del CET-R en aquellos aspectos metodológicos que generan mayor dificultad entre los revisores, contribuyendo así a mejorar la consistencia inter-revisores. Asimismo, el desarrollo de una versión digital del CET-R que permita su aplicación en línea permitiría automatizar el cálculo de las puntuaciones finales a partir de las valoraciones parciales, reduciendo la carga de trabajo y los posibles errores asociados al proceso manual de cumplimentación. Finalmente, reforzar la difusión de los resultados y promover una formación continua en psicometría y evaluación de test permitirá que los profesionales en Psicología aprovechen plenamente este recurso y lo integren de manera efectiva en su práctica, contribuyendo a una práctica profesional más rigurosa, responsable y ajustada a las exigencias éticas de la disciplina.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>En primer lugar, quiero expresar mi agradecimiento a los profesores de las distintas universidades que participaron como revisores, cuya labor ha sido fundamental para el desarrollo de esta evaluación. También agradezco a los miembros de la Comisión de Test, especialmente a Ana Hernández, por su constante apoyo y orientación a lo largo de todo el proceso. Mi reconocimiento se extiende al personal administrativo del COP y a las casas editoriales implicadas. La colaboración y disposición de todos ellos fueron esenciales para la realización de la duodécima evaluación de test editados en España.</p>
+		</ack>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Abad, F. J. (2024). Décima evaluación de test editados en España: Incorporando información sobre test no comerciales. <italic>Papeles del Psicólogo</italic>, <italic>45</italic>(2), 56-64. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol.3033">https://doi.org/10.23923/pap.psicol.3033</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abad</surname>
+							<given-names>F. J.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Décima evaluación de test editados en España: Incorporando información sobre test no comerciales</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>45</volume>
+					<issue>2</issue>
+					<fpage>56</fpage>
+					<lpage>64</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol.3033</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Abad, F. J., Sánchez-Sánchez, F., y Santamaría, P. (2020). <italic>Matrices-TAI: Test adaptativo de inteligencia general</italic>. Hogrefe TEA Ediciones.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abad</surname>
+							<given-names>F. J.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez-Sánchez</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Santamaría</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>Matrices-TAI: Test adaptativo de inteligencia general</source>
+					<publisher-name>Hogrefe TEA Ediciones</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>American Educational Research Association, American Psychological Association y National Council on Measurement in Education. (2014). <italic>Standards for educational and psychological testing</italic> (7th ed.). American Educational Research Association. <ext-link ext-link-type="uri" xlink:href="https://www.apa.org/science/programs/testing/standards">https://www.apa.org/science/programs/testing/standards</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>American Educational Research Association</collab>
+						<collab>American Psychological Association</collab>
+						<collab>National Council on Measurement in Education</collab>
+					</person-group>
+					<year>2014</year>
+					<source>Standards for educational and psychological testing</source>
+					<edition>7</edition>
+					<publisher-name>American Educational Research Association</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://www.apa.org/science/programs/testing/standards">https://www.apa.org/science/programs/testing/standards</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Blanco, I., Morón, A., Minaya, N., y Machaca-Luna, R. (2023). <italic>Screening de Bienestar Emocional (SBE)</italic>. Habilmind.</mixed-citation>
+				<element-citation publication-type="software">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Blanco</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Morón</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Minaya</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Machaca-Luna</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>Screening de Bienestar Emocional (SBE)</source>
+					<publisher-name>Habilmind</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Cohen, R. J., y Swerdlik, M. E. (2018). <italic>Psychological testing and assessment: An introduction to test and measurement</italic> (9th ed.). New York, NY: McGraw-Hill Education.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cohen</surname>
+							<given-names>R. J.</given-names>
+						</name>
+						<name>
+							<surname>Swerdlik</surname>
+							<given-names>M. E.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Psychological testing and assessment: An introduction to test and measurement</source>
+					<edition>9</edition>
+					<publisher-loc>New York, NY</publisher-loc>
+					<publisher-name>McGraw-Hill Education</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Elosua, P., y Geisinger, K. F. (2016). Cuarta evaluación de test editados en España: Forma y fondo. <italic>Papeles del Psicólogo</italic>, <italic>37</italic>(3), 82-88. <ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/2693.pdf">https://www.papelesdelpsicologo.es/pdf/2693.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Elosua</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Geisinger</surname>
+							<given-names>K. F.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Cuarta evaluación de test editados en España: Forma y fondo</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>37</volume>
+					<issue>3</issue>
+					<fpage>82</fpage>
+					<lpage>88</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/2693.pdf">https://www.papelesdelpsicologo.es/pdf/2693.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Evers, A., Muñiz, J., Hagemeister, C., Hstmælingen, A., Lindley, P., Sjöberg, A., y Bartram, D. (2013). Assessing the quality of test: Revision of the EFPA review model. <italic>Psicothema</italic>, <italic>25</italic>(3), 283-291. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7334/psicothema2013.97">https://doi.org/10.7334/psicothema2013.97</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Evers</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Muñiz</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Hagemeister</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Hstmælingen</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Lindley</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Sjöberg</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Bartram</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Assessing the quality of test: Revision of the EFPA review model</article-title>
+					<source>Psicothema</source>
+					<volume>25</volume>
+					<issue>3</issue>
+					<fpage>283</fpage>
+					<lpage>291</lpage>
+					<pub-id pub-id-type="doi">10.7334/psicothema2013.97</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Fonseca-Pedrero, E., y Muñiz, J. (2017). Quinta evaluación de test editados en España: Mirando hacia atrás, construyendo el futuro. <italic>Papeles del Psicólogo</italic>, <italic>38</italic>(3), 161-168. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2017.2844">https://doi.org/10.23923/pap.psicol2017.2844</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fonseca-Pedrero</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Muñiz</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Quinta evaluación de test editados en España: Mirando hacia atrás, construyendo el futuro</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>38</volume>
+					<issue>3</issue>
+					<fpage>161</fpage>
+					<lpage>168</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2017.2844</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Hernández, A., Tomás, J. M., Ferreres, A., y Lloret, S. (2015). Tercera evaluación de test editados en España. <italic>Papeles del Psicólogo</italic>, <italic>36</italic>(1), 1-8. <ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/2484.pdf">https://www.papelesdelpsicologo.es/pdf/2484.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hernández</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Tomás</surname>
+							<given-names>J. M.</given-names>
+						</name>
+						<name>
+							<surname>Ferreres</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Lloret</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Tercera evaluación de test editados en España</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>36</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>8</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/2484.pdf">https://www.papelesdelpsicologo.es/pdf/2484.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Hernández, A., Paradell, È., Saavedra, L., y Vallar, F. (2023). <italic>MACI-II: Adaptación española del Millon Adolescent Clinical Inventory-II</italic>. Pearson Educación.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hernández</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Paradell</surname>
+							<given-names>È.</given-names>
+						</name>
+						<name>
+							<surname>Saavedra</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Vallar</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>MACI-II: Adaptación española del Millon Adolescent Clinical Inventory-II</source>
+					<publisher-name>Pearson Educación</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Hernández, A., Ponsoda, V., Muñiz, J., Prieto, G., y Elosua, P. (2016). Revisión del modelo para evaluar la calidad de los test utilizados en España. <italic>Papeles del Psicólogo</italic>, <italic>37</italic>(1), 192-197. <ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/2775.pdf">https://www.papelesdelpsicologo.es/pdf/2775.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hernández</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ponsoda</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Muñiz</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Prieto</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Elosua</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Revisión del modelo para evaluar la calidad de los test utilizados en España</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>37</volume>
+					<issue>1</issue>
+					<fpage>192</fpage>
+					<lpage>197</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/2775.pdf">https://www.papelesdelpsicologo.es/pdf/2775.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Hidalgo, M. D., y Hernández, A. (2019). Sexta evaluación de test editados en España: Resultados e impacto del modelo en docentes y editoriales. <italic>Papeles del Psicólogo</italic>, <italic>40</italic>(1), 21-30. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2019.2886">https://doi.org/10.23923/pap.psicol2019.2886</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hidalgo</surname>
+							<given-names>M. D.</given-names>
+						</name>
+						<name>
+							<surname>Hernández</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Sexta evaluación de test editados en España: Resultados e impacto del modelo en docentes y editoriales</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>40</volume>
+					<issue>1</issue>
+					<fpage>21</fpage>
+					<lpage>30</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2019.2886</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Gómez, L. E. (2019). Séptima evaluación de test editados en España. <italic>Papeles del Psicólogo</italic>, <italic>40</italic>(3), 205-210. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2019.2909">https://doi.org/10.23923/pap.psicol2019.2909</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gómez</surname>
+							<given-names>L. E.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Séptima evaluación de test editados en España</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>40</volume>
+					<issue>3</issue>
+					<fpage>205</fpage>
+					<lpage>210</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2019.2909</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Guilera, G., y Barrios, M. (2025). Undécima evaluación de test editados en España. <italic>Papeles del Psicólogo</italic>, <italic>46</italic>(3), 158-166. <ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/resumen?pii=3069">https://www.papelesdelpsicologo.es/resumen?pii=3069</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Guilera</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Barrios</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Undécima evaluación de test editados en España</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>46</volume>
+					<issue>3</issue>
+					<fpage>158</fpage>
+					<lpage>166</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/resumen?pii=3069">https://www.papelesdelpsicologo.es/resumen?pii=3069</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Lozano, L. M. (2023). Novena evaluación de los test editados en España. <italic>Papeles del Psicólogo</italic>, <italic>44</italic>(1), 1-7. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol.3004">https://doi.org/10.23923/pap.psicol.3004</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lozano</surname>
+							<given-names>L. M.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Novena evaluación de los test editados en España</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>44</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>7</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol.3004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Martínez de la Iglesia, J., Dueñas-Herrero, R., Onís Vilches, M. C., Aguado-Taberné, C., Colomer, C., y Luque-Luque, R. (2001). Adaptación y validación al castellano del cuestionario de Pfeiffer (SPMSQ) para detectar la existencia de deterioro cognitivo en personas mayores de 65 años. <italic>Medicina Clínica</italic>, <italic>117</italic>(4): 129-134. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0025-7753(01)72040-4">https://doi.org/10.1016/S0025-7753(01)72040-4</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martínez de la Iglesia</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Dueñas-Herrero</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Onís Vilches</surname>
+							<given-names>M. C.</given-names>
+						</name>
+						<name>
+							<surname>Aguado-Taberné</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Colomer</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Luque-Luque</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<article-title>Adaptación y validación al castellano del cuestionario de Pfeiffer (SPMSQ) para detectar la existencia de deterioro cognitivo en personas mayores de 65 años</article-title>
+					<source>Medicina Clínica</source>
+					<volume>117</volume>
+					<issue>4</issue>
+					<fpage>129</fpage>
+					<lpage>134</lpage>
+					<pub-id pub-id-type="doi">10.1016/S0025-7753(01)72040-4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Mayer, J. D., y Salovey, P. (1997). What is emotional intelligence? En P. Salovey y D. J. Sluyter (Eds.), <italic>Emotional development and emotional intelligence: Implications for educators</italic> (pp. 3-31). Basic Books.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mayer</surname>
+							<given-names>J. D.</given-names>
+						</name>
+						<name>
+							<surname>Salovey</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>1997</year>
+					<chapter-title>What is emotional intelligence?</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Salovey</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Sluyter</surname>
+							<given-names>D. J.</given-names>
+						</name>
+					</person-group>
+					<source>Emotional development and emotional intelligence: Implications for educators</source>
+					<fpage>3</fpage>
+					<lpage>31</lpage>
+					<publisher-name>Basic Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Merchán, I. M., González, J. D., y Ramos, J. L. (2023). <italic>THINEME: Test de Habilidad en Inteligencia Emocional: Manual técnico</italic>. Giunti Psychometrics.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Merchán</surname>
+							<given-names>I. M.</given-names>
+						</name>
+						<name>
+							<surname>González</surname>
+							<given-names>J. D.</given-names>
+						</name>
+						<name>
+							<surname>Ramos</surname>
+							<given-names>J. L.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>THINEME: Test de Habilidad en Inteligencia Emocional: Manual técnico</source>
+					<publisher-name>Giunti Psychometrics</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Muñiz, J., Hernández, A., y Fernández-Hermida, J. R. (2020). Utilización de los test en España: El punto de vista de los psicólogos. <italic>Papeles del Psicólogo</italic>, <italic>41</italic>(1), 1-15. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2020.2921">https://doi.org/10.23923/pap.psicol2020.2921</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muñiz</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Hernández</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Fernández-Hermida</surname>
+							<given-names>J. R.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Utilización de los test en España: El punto de vista de los psicólogos</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>41</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>15</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2020.2921</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Muñiz, J., Hernández, A., y Ponsoda, V. (2015). Quinta evaluación de test editados en España: Mirando hacia atrás, construyendo el futuro. <italic>Papeles del Psicólogo</italic>, <italic>38</italic>(3), 161-168. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2017.2844">https://doi.org/10.23923/pap.psicol2017.2844</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muñiz</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Hernández</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ponsoda</surname>
+							<given-names>V.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Quinta evaluación de test editados en España: Mirando hacia atrás, construyendo el futuro</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>38</volume>
+					<issue>3</issue>
+					<fpage>161</fpage>
+					<lpage>168</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2017.2844</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Muñiz, J., Fernández-Hermida, J. R., Fonseca-Pedrero, E., Campillo-Álvarez, Á., y Peña-Suárez, E. (2011). Primera evaluación de test editados en España. <italic>Papeles del Psicólogo</italic>, <italic>32</italic>(2), 113-128. <ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/1947.pdf">https://www.papelesdelpsicologo.es/pdf/1947.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muñiz</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Fernández-Hermida</surname>
+							<given-names>J. R.</given-names>
+						</name>
+						<name>
+							<surname>Fonseca-Pedrero</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Campillo-Álvarez</surname>
+							<given-names>Á.</given-names>
+						</name>
+						<name>
+							<surname>Peña-Suárez</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Primera evaluación de test editados en España</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>32</volume>
+					<issue>2</issue>
+					<fpage>113</fpage>
+					<lpage>128</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/1947.pdf">https://www.papelesdelpsicologo.es/pdf/1947.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Pfeiffer, E. (1975). A short portable mental status questionnaire for the assessment of organic brain deficit in elderly patients. <italic>Journal of the American Geriatrics Society</italic>, <italic>23</italic>(10), 433-441. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1532-5415.1975.tb00927.x">https://doi.org/10.1111/j.1532-5415.1975.tb00927.x</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pfeiffer</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>1975</year>
+					<article-title>A short portable mental status questionnaire for the assessment of organic brain deficit in elderly patients</article-title>
+					<source>Journal of the American Geriatrics Society</source>
+					<volume>23</volume>
+					<issue>10</issue>
+					<fpage>433</fpage>
+					<lpage>441</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1532-5415.1975.tb00927.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Ponsoda, V., y Hontangas, P. (2013). Segunda evaluación de test editados en España. <italic>Papeles del Psicólogo</italic>, <italic>34</italic>(2), 82-90. <ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/2232.pdf">https://www.papelesdelpsicologo.es/pdf/2232.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ponsoda</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Hontangas</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Segunda evaluación de test editados en España</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>34</volume>
+					<issue>2</issue>
+					<fpage>82</fpage>
+					<lpage>90</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/pdf/2232.pdf">https://www.papelesdelpsicologo.es/pdf/2232.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Prieto, G., y Muñiz, J. (2000). Un modelo para evaluar la calidad de los test utilizados en España. <italic>Papeles del Psicólogo</italic>, <italic>77</italic>, 65-77. <ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/resumen?pii=1102">https://www.papelesdelpsicologo.es/resumen?pii=1102</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Prieto</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Muñiz</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Un modelo para evaluar la calidad de los test utilizados en España</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>77</volume>
+					<fpage>65</fpage>
+					<lpage>77</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.papelesdelpsicologo.es/resumen?pii=1102">https://www.papelesdelpsicologo.es/resumen?pii=1102</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Ramos, J. L., y Cuadrado, I. (2006). <italic>PECO - Prueba para la Evaluación del Conocimiento Fonológico</italic>. EOS.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramos</surname>
+							<given-names>J. L.</given-names>
+						</name>
+						<name>
+							<surname>Cuadrado</surname>
+							<given-names>I.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>PECO - Prueba para la Evaluación del Conocimiento Fonológico</source>
+					<publisher-name>EOS</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Ramos, J. L., González, A. I., y Gutiérrez, R. (2023). <italic>TECO - Test de Evaluación de la Conciencia Fonológica</italic>. Giunti Psychometrics.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramos</surname>
+							<given-names>J. L.</given-names>
+						</name>
+						<name>
+							<surname>González</surname>
+							<given-names>A. I.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>TECO - Test de Evaluación de la Conciencia Fonológica</source>
+					<publisher-name>Giunti Psychometrics</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Sánchez-Sánchez, F., Santamaría, P., y Abad, F. J. (2015). <italic>Matrices: Test de inteligencia general</italic>. TEA Ediciones.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez-Sánchez</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Santamaría</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Abad</surname>
+							<given-names>F. J.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Matrices: Test de inteligencia general</source>
+					<publisher-name>TEA Ediciones</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Valderrama, B. (2010). <italic>Motivación inteligente</italic>. Madrid: Prentice Hall.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Valderrama</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Motivación inteligente</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Prentice Hall</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Valderrama, B. (2018). La rueda de motivos: Hacia una tabla periódica de la motivación humana. <italic>Papeles del Psicólogo</italic>, <italic>39</italic>(1), 60-67. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2018.2855">https://doi.org/10.23923/pap.psicol2018.2855</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Valderrama</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>La rueda de motivos: Hacia una tabla periódica de la motivación humana</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>39</volume>
+					<issue>1</issue>
+					<fpage>60</fpage>
+					<lpage>67</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2018.2855</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Valderrama, B., Escorial, S., y Luceño, L. (2015). <italic>APM. Análisis del Perfil Motivacional</italic>. TEA Ediciones.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Valderrama</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Escorial</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Luceño</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>APM. Análisis del Perfil Motivacional</source>
+					<publisher-name>TEA Ediciones</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Viladrich, C., Doval, E., Penelo, E., Aliaga, C., Espelt, A., García-Rueda, B., y Angulo-Brunet, A. (2021). Octava evaluación de test editados en España: Una experiencia participativa. <italic>Papeles del Psicólogo</italic>, <italic>42</italic>(1), 1-9. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2020.2937">https://doi.org/10.23923/pap.psicol2020.2937</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Viladrich</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Doval</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Penelo</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Aliaga</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Espelt</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>García-Rueda</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Angulo-Brunet</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Octava evaluación de test editados en España: Una experiencia participativa</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>42</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>9</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2020.2937</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

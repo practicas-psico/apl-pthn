@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.70478/pap.psicol.2026.47.16</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Debate</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Inteligencia Humana e Inteligencia Artificial: la Dependencia de los Procesos Emocionales y Corporales en la Construcción de la Conciencia y sus Límites en la Replicación Tecnológica</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Human Intelligence and Artificial Intelligence: The Dependence on Emotional and Bodily Processes in the Construction of Consciousness and its Limits in Technological Replication</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-0359-8370</contrib-id>
+					<name>
+						<surname>Diaz Leiva</surname>
+						<given-names>Javier</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Servicio Navarro de Salud-Osasunbidea, España</institution>
+					<institution content-type="normalized">Servicio Navarro de Salud-Osasunbidea</institution>
+					<institution content-type="orgname">Servicio Navarro de Salud-Osasunbidea</institution>
+					<country country="ES">Spain</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Autor de correspondencia: Javier Diaz Leiva <email>jdiaz.psy@gmail.com</email>
+				</corresp>
+				<fn fn-type="con" id="fn1">
+					<label>Citar como</label>
+					<p>Diaz Leiva, J. (2026). Inteligencia humana e inteligencia artificial: la dependencia de los procesos emocionales y corporales en la construcción de la conciencia y sus límites en la replicación tecnológica. <italic>Papeles del Psicólogo/Psychologist Papers, 47</italic>(2), 144-146. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.70478/pap.psicol.2026.47.16">https://doi.org/10.70478/pap.psicol.2026.47.16</ext-link>. Este artículo está publicado bajo Licencia Creative Commons 4.0 CC-BY-NC-ND</p>
+				</fn>
+				<fn fn-type="conflict" id="fn2">
+					<p>El autor declara la ausencia de conflictos de intereses en relación con el contenido tratado en este artículo.</p>
+				</fn>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>144</fpage>
+			<lpage>146</lpage>
+			<history>
+				<date date-type="received">
+					<day>30</day>
+					<month>04</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>15</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>Este artículo explora el papel que desempeñan los procesos corporales y emocionales en la construcción de la conciencia y el pensamiento racional, a partir de la obra de Antonio Damasio y sus desarrollos posteriores. Frente al dualismo cartesiano, se argumenta que la racionalidad humana está enraizada en los procesos biológicos que la sustentan, lo que plantea serios límites a la posibilidad de replicar la mente humana mediante inteligencia artificial (IA). Se reflexiona además sobre las implicaciones de estos hallazgos en el ejercicio de la psicología, en un momento de expansión tecnológica acelerada y de presencia creciente de sistemas inteligentes en contextos sanitarios. Por último, se revisan las posibilidades y límites de la denominada inteligencia artificial corporizada (<italic>embodied AI</italic>), sugiriendo que el horizonte más fecundo para los profesionales de la salud mental no es la sustitución, sino la colaboración crítica entre mente humana y sistemas técnicos.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>This article examines the role of bodily and emotional processes in shaping consciousness and rational thought, drawing on Antonio Damasio’s work and its subsequent developments. Rejecting the traditional mind-body split, it is argued that human rationality is grounded in the biological processes that sustain it, which raises significant limitations for the feasibility of replicating the human mind through artificial intelligence (AI). Clinical implications of these findings are discussed, particularly within the context of rapid technological growth and the increasing presence of intelligent systems in healthcare. Lastly, the article assesses the potential and limitations of embodied AI, proposing that the most fruitful path for mental health professionals lies not in substitution, but in critical collaboration between human minds and technical systems.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Marcador somático</kwd>
+				<kwd>Cognición corporizada</kwd>
+				<kwd>Conciencia</kwd>
+				<kwd>Inteligencia artificial</kwd>
+				<kwd>Psicología clínica</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Somatic marker</kwd>
+				<kwd>Embodied cognition</kwd>
+				<kwd>Consciousness</kwd>
+				<kwd>Artificial intelligence</kwd>
+				<kwd>Clinical psychology</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="10"/>
+				<page-count count="3"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec>
+			<title>Inteligencia Humana, Inteligencia Artificial</title>
+			<p><italic>El error de Descartes</italic> (<xref ref-type="bibr" rid="B4">Damasio, 1994</xref>), es una obra fundamental en neurociencia y filosofía de la mente, que replantea la relación entre emoción, cuerpo y razón. Su tesis central es que el dualismo cartesiano -la idea de que la mente y el cuerpo son entidades separadas- es erróneo: la racionalidad no puede entenderse sin los procesos emocionales y corporales que la sustentan. Esta tesis se articula en torno a tres ideas principales, referidas a:</p>
+			<p>
+				<list list-type="order">
+					<list-item>
+						<p><bold>Los procesos emocionales y el pensamiento racional:</bold> Las emociones no son un obstáculo para la racionalidad, sino su requisito. Pacientes con daño en la corteza prefrontal ventromedial conservan intactas sus capacidades cognitivas en tareas formales (lenguaje, memoria, lógica), pero pierden la capacidad de tomar decisiones efectivas en la vida cotidiana. Damasio ilustra este fenómeno con el caso clínico de Elliot, paciente a quien se extirpó un tumor en dicha región. Tras la intervención, comenzó a mostrar una desconcertante indiferencia afectiva y era incapaz de priorizar tareas o anticipar las consecuencias prácticas de su conducta. Este y otros estudios clínicos muestran que las respuestas emocionales anticipatorias, registradas mediante indicadores fisiológicos como la actividad electrodérmica o la variación de la frecuencia cardíaca, predicen decisiones exitosas incluso en ausencia de razonamiento consciente.</p>
+					</list-item>
+					<list-item>
+						<p><bold>La hipótesis del marcador somático:</bold> El cuerpo contribuye al pensamiento racional mediante señales fisiológicas (viscerales, hormonales y musculares) asociadas a experiencias pasadas. Estas señales actúan como atajos emocionales que guían la toma de decisiones complejas, sin necesidad de proceder a análisis lógicos exhaustivos. Estudios con neuroimagen funcional han mostrado activación diferencial en estructuras como la ínsula, la corteza orbitofrontal o la amígdala en tareas de toma de decisiones bajo incertidumbre. La validez clínica de esta hipótesis es también relevante: trastornos de ansiedad, cuadros de evitación o inhibición conductual pueden entenderse como perturbaciones en la lectura o codificación de estos marcadores.</p>
+					</list-item>
+					<list-item>
+						<p><bold>La interconexión mente-cuerpo:</bold> Damasio defiende un modelo en el que los estados mentales resultan inseparables de los estados corporales. La mente se forma <italic>con</italic> y <italic>desde</italic> el cuerpo. Esta visión anticipa lo que hoy se conoce como cognición corporizada -<italic>embodied cognition</italic>-, presente también en teorías como el “yo corporal mínimo” (<xref ref-type="bibr" rid="B7">Metzinger, 2010</xref>), el “enactivismo” (<xref ref-type="bibr" rid="B9">Varela et al., 1991</xref>), o la noción de interocepción desarrollada por <xref ref-type="bibr" rid="B3">Craig (2002)</xref>. En este marco, la conciencia no es un epifenómeno cerebral, sino la forma de orientación sentida de un organismo que actúa en un entorno dinámico.</p>
+					</list-item>
+				</list>
+			</p>
+			<p>Son varios los mecanismos implicados en la hipótesis del marcador somático, en general implicando regiones fronto-límbicas y estructuras del tronco encefálico. Todas ellas intervienen en la representación del cuerpo, la evaluación emocional y el mantenimiento de la sensación integrada de que <italic>tenemos</italic> y <italic>somos</italic> un cuerpo. La homeostasis, entendida como autorregulación biológica, aparece como una condición previa al pensamiento, y no como su consecuencia. En <italic>El extraño orden de las cosas</italic> (<xref ref-type="bibr" rid="B5">Damasio, 2017</xref>), el autor amplió esta visión al considerar la homeostasis como el principio organizador de la vida y la cultura, situando el sentimiento como una forma adaptativa clave en la evolución. La conciencia emerge de procesos biológicos graduales, pero estos procesos no incluyen únicamente la actividad cerebral ni somatosensorial, sino toda la actividad visceral de sustento y mantenimiento homeostático. Estos desarrollos han tenido impacto no solo en neurociencia, sino también en la práctica clínica. La comprensión de los síntomas como experiencias encarnadas, el papel del cuerpo en los trastornos emocionales y la necesidad de una psicoterapia que incluya la dimensión visceral y afectiva del paciente, son líneas que derivan directamente de estas teorías. La toma de decisiones, la regulación emocional o el juicio clínico, no pueden separarse de sus bases corporales.</p>
+			<p>Con el auge de la inteligencia artificial (IA), se ha reactivado con fuerza el debate sobre la naturaleza de la mente. Si decimos que la IA carece de un cuerpo sometido a procesos biológicos y emociones encarnadas, ¿podrá venir a sustituir a la mente humana en el futuro? La cuestión no es solo técnica. Desde el marco de la <italic>IA débil</italic>, disponemos ya de sistemas que superan a los humanos en tareas específicas. Asistentes como ChatGPT, NotebookLM, Tandem Health y otros modelos predictivos, pueden superar las capacidades humanas en dominios concretos como el diagnóstico por imagen, el análisis sintáctico o la predicción estadística. ¿Pero qué ocurre con la conciencia, el juicio moral o la creatividad? Para autores clásicos como Damasio o <xref ref-type="bibr" rid="B6">LeDoux (1999)</xref>, estas propiedades son insustituibles si no se replican también los sustratos somáticos y emocionales que hacen posible una mente con sentido y autoconciencia. Dicho de otro modo: si los procesos homeostáticos son condición necesaria para el pensamiento, la conciencia y la racionalidad plena, entonces la IA no va a replicar nuestra humanidad.</p>
+			<p>La teoría de la <italic>IA fuerte</italic>, en cambio, plantea el desarrollo de sistemas que no solo procesan datos, sino que son conscientes, sintientes y autónomos. Algunos investigadores plantean la construcción de la <italic>Embodied AI</italic>, esto es: robots con cuerpos que interactúan con el mundo físico, integrando señales sensoriales y motoras (<xref ref-type="bibr" rid="B1">Brooks, 2003</xref>; <xref ref-type="bibr" rid="B2">Clark, 2016</xref>). En teoría, esto podría aproximarlos a una forma de inteligencia más parecida a la humana. Ejemplos como <italic>Optimus</italic> (el robot humanoide de Tesla), los <italic>Soft Robots</italic> (IA combinada con redes neuronales para generar movimiento) o los modelos computacionales recientes de aprendizaje sensoriomotor autónomo, muestran el avance hacia una inteligencia artificial capaz de percibir, moverse y adaptarse al entorno (<xref ref-type="bibr" rid="B10">Yifan et al., 2025</xref>). Pero incluso con un cuerpo físico, sigue faltando un sistema de presión biológica real. La IA será poderosa y fuerte en rapidez, integración y generación de trillones de datos, pero se mantendrá moralmente débil si no puede desarrollar una preferencia real entre existir o no, entre un resultado u otro. Podrá “simular” que prefiere algo, pero no “tomar” la decisión con genuina preferencia, ya que para ello tendría que experimentar su propia fragilidad. Sin algo que proteger -la búsqueda del goce, la evitación del dolor y la pérdida- no puede haber un interés en seguir existiendo.</p>
+			<p>Para el ejercicio de la psicología esta diferencia es clave, e implica actualizar el modo en que se evalúa y aborda el sufrimiento humano. El paciente que acude a consulta porque su pensamiento está imbuido de memorias o emociones dolorosas o porque teme afrontar algo que le desborda, está vivenciando un malestar que es fruto de su condición ontológica y que la IA no puede experimentar. Sin esa vivencia, no hay sufrimiento ni sistema moral que guíe la toma de decisiones vitales, lo que aplica también a la persona del terapeuta. Si la ética, como señala <xref ref-type="bibr" rid="B8">Nussbaum (2001)</xref>, emerge de la posibilidad de ser herido, no basta entonces con reestructurar cogniciones; hay que recuperar la experiencia sentida, esa que se encarna en cada encuentro terapeuta-paciente. Es de este modo que los psicólogos pueden -y deben- participar en el debate sobre la IA desde su especificidad clínica: qué significa estar vivo, qué significa cambiar, qué significa decidir desde la vulnerabilidad.</p>
+			<p>En lugar de preguntarnos si la IA llegará a ser como nosotros, tal vez debamos plantearnos cómo queremos relacionarnos con ella. La inteligencia aumentada, que implica la colaboración entre mentes humanas y sistemas artificiales, ofrece un horizonte más realista y útil. En contextos clínicos, esto podría traducirse en herramientas que ayuden a registrar y evaluar síntomas o a detectar patrones de conducta, pero sin sustituir el juicio, la empatía y el contacto humano. Porque lo que nos hace singulares no está en los datos, sino en la forma en que estos nos afectan. En este sentido, la psicología no debe temer a la IA, sino contribuir a definir los límites de su aplicación desde una comprensión más a fondo lo que significa ser humano.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Brooks, R. A. (2003). <italic>Carnes y máquinas: La revolución robótica</italic> (M. Acosta, Trad.). Ediciones Robinbook.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Brooks</surname>
+							<given-names>R. A.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>Carnes y máquinas: La revolución robótica</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Acosta</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<publisher-name>Ediciones Robinbook</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Clark, A. (2016). <italic>Surfing uncertainty: Prediction, action, and the embodied mind</italic>. Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Clark</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Surfing uncertainty: Prediction, action, and the embodied mind</source>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Craig, A. D. (2002). How do you feel? Interoception: the sense of the physiological condition of the body. <italic>Nature Reviews Neuroscience</italic>, <italic>3</italic>(8), 655-666. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nrn894">https://doi.org/10.1038/nrn894</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Craig</surname>
+							<given-names>A. D.</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<article-title>How do you feel? Interoception: the sense of the physiological condition of the body</article-title>
+					<source>Nature Reviews Neuroscience</source>
+					<volume>3</volume>
+					<issue>8</issue>
+					<fpage>655</fpage>
+					<lpage>666</lpage>
+					<pub-id pub-id-type="doi">10.1038/nrn894</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Damasio, A. (1994). <italic>El error de Descartes: La emoción, la razón y el cerebro humano</italic> (J. A. Soriano, Trad.). Editorial Destino.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Damasio</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>1994</year>
+					<source>El error de Descartes: La emoción, la razón y el cerebro humano</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Soriano</surname>
+							<given-names>J. A.</given-names>
+						</name>
+					</person-group>
+					<publisher-name>Editorial Destino</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Damasio, A. (2017). <italic>El extraño orden de las cosas: La vida, los sentimientos y la creación de las culturas</italic> (J. A. Soriano, Trad.). Editorial Destino.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Damasio</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>El extraño orden de las cosas: La vida, los sentimientos y la creación de las culturas</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Soriano</surname>
+							<given-names>J. A.</given-names>
+						</name>
+					</person-group>
+					<publisher-name>Editorial Destino</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>LeDoux, J. (1999). <italic>El cerebro emocional: Los misteriosos fundamentos de la vida emocional</italic> (M. Hermida, Trad.). Editorial Ariel.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>LeDoux</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<source>El cerebro emocional: Los misteriosos fundamentos de la vida emocional</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Hermida</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<publisher-name>Editorial Ariel</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Metzinger, T. (2010). <italic>El túnel del yo: Ciencia de la mente y mito del sujeto</italic> (C. Jara, Trad.). Katz Editores.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Metzinger</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>El túnel del yo: Ciencia de la mente y mito del sujeto</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Jara</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<publisher-name>Katz Editores</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Nussbaum, M. C. (2001). <italic>Upheavals of Thought: The Intelligence of Emotions</italic>. Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nussbaum</surname>
+							<given-names>M. C.</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<source>Upheavals of Thought: The Intelligence of Emotions</source>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Varela, F. J., Thompson, E., y Rosch, E. (1991). <italic>The embodied mind: Cognitive science and human experience</italic>. MIT Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Varela</surname>
+							<given-names>F. J.</given-names>
+						</name>
+						<name>
+							<surname>Thompson</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Rosch</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<source>The embodied mind: Cognitive science and human experience</source>
+					<publisher-name>MIT Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Yifan, C., Wei, M., Wang, X., Liu, Y., Wang, J., Song, H., Ma, L., Di, D., Sun, C., Liu, K., … Zhang, W. (2025). Embodied AI: A Survey on the Evolution from Perceptive to Behavioral Intelligence. <italic>SmartBot</italic>, <italic>1</italic>(3), e70003. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/smb2.70003">https://doi.org/10.1002/smb2.70003</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yifan</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Wei</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Song</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Ma</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Di</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Sun</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>W.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Embodied AI: A Survey on the Evolution from Perceptive to Behavioral Intelligence</article-title>
+					<source>SmartBot</source>
+					<volume>1</volume>
+					<issue>3</issue>
+					<elocation-id>e70003</elocation-id>
+					<pub-id pub-id-type="doi">10.1002/smb2.70003</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

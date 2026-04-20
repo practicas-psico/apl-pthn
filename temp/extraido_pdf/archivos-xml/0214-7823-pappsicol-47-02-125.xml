@@ -1,0 +1,2250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.70478/pap.psicol.2026.47.14</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Prevención, Intervención y Posvención del Suicidio en el Contexto Universitario: Retos y Propuestas para una Respuesta Integral</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Suicide Prevention, Intervention, and Postvention in the University: Challenges and Proposals for a Comprehensive Response</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Muela</surname>
+						<given-names>Alexander</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>García-Ormaza</surname>
+						<given-names>Jon</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Universidad del País Vasco, España</institution>
+				<institution content-type="normalized">Universidad del País Vasco</institution>
+				<institution content-type="orgname">Universidad del País Vasco</institution>
+				<country country="ES">Spain</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Red de Salud Mental de Bizkaia, España</institution>
+				<institution content-type="orgname">Red de Salud Mental de Bizkaia</institution>
+				<country country="ES">España</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">Autor de correspondencia: Alexander Muela <email>alexander.muela@ehu.eus</email>
+				</corresp>
+				<fn fn-type="con" id="fn2">
+					<label>Citar como</label>
+					<p>Muela, A., y García-Ormaza, J. (2026). Prevención, intervención y posvención del suicidio en el contexto universitario: retos y propuestas para una respuesta integral. <italic>Papeles del Psicólogo/Psychologist Papers, 47</italic>(2), 125-133. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.70478/pap.psicol.2026.47.14">https://doi.org/10.70478/pap.psicol.2026.47.14</ext-link>. Este artículo está publicado bajo Licencia Creative Commons 4.0 CC-BY-NC-ND</p>
+				</fn>
+				<fn fn-type="conflict" id="fn3">
+					<p>Los autores declaran no tener ningún conflicto de intereses.</p>
+				</fn>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>125</fpage>
+			<lpage>133</lpage>
+			<history>
+				<date date-type="received">
+					<day>13</day>
+					<month>05</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>17</day>
+					<month>10</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>La conducta suicida representa un problema de salud pública creciente en el contexto universitario, con una alta prevalencia de ideación suicida, autolesiones y malestar emocional entre el estudiantado. Este artículo revisa las principales estrategias de prevención, intervención en crisis y posvención en el ámbito universitario, integrando evidencia nacional e internacional. Se analiza el papel crucial de los Servicios de Atención Psicológica, que a menudo constituyen la primera línea de apoyo, aunque enfrentan desigualdades en su dotación y limitaciones estructurales. Asimismo, se destaca la utilidad del entrenamiento gatekeeper, que capacita a agentes universitarios clave para detectar señales de alarma y derivar a recursos especializados. Se subraya la importancia de implementar intervenciones psicológicas breves, basadas en la evidencia, focalizadas en la conducta suicida, y de contar con protocolos efectivos para el manejo de crisis. Además, se aboga por establecer un sistema nacional de seguimiento de muertes por suicidio en estudiantes y por mejorar las políticas institucionales conforme a lo previsto en la LOSU. Finalmente, se pone en valor la posvención como estrategia esencial para apoyar a la comunidad universitaria tras una muerte por suicidio. Se concluye que es necesario adoptar un enfoque integral, sostenido y adaptado a las particularidades del entorno universitario.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>Suicidal behavior represents a growing public health concern in the university context, with a high prevalence of suicidal ideation, nonsuicidal self-injury, and emotional distress among students. This article reviews the main prevention, crisis intervention, and postvention strategies in universities, integrating national and international evidence. It examines the critical role of university counseling centers, which often constitute the first line of support, despite inequalities in their provision and structural limitations. It also highlights the usefulness of gatekeeper training, which trains key university personnel to detect warning signs of suicide and refer students to specialized resources. The importance of implementing brief, evidence-based psychological interventions focused on suicidal behavior and effective crisis management protocols is emphasized. The article also advocates for the establishment of a national system for monitoring deaths by suicide among students and for improving institutional policies in accordance with the provisions of the LOSU. Finally, the value of postvention is highlighted as an essential strategy for supporting the community after a death by suicide. Therefore, it is necessary to adopt a comprehensive, sustained approach that is adapted to the particularities of the university environment.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Suicidio</kwd>
+				<kwd>Universidad</kwd>
+				<kwd>Prevención</kwd>
+				<kwd>Posvención</kwd>
+				<kwd>Servicio de atención psicológica</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Suicide</kwd>
+				<kwd>University</kwd>
+				<kwd>Prevention</kwd>
+				<kwd>Postvention</kwd>
+				<kwd>University counseling centers</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group award-type="contract">
+					<funding-source>Gobierno Vasco</funding-source>
+					<award-id>IT1450-22</award-id>
+				</award-group>
+				<funding-statement>Gobierno Vasco (IT1450-22)</funding-statement>
+			</funding-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="66"/>
+				<page-count count="9"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>El suicidio constituye un problema de salud pública que afecta a personas de todas las edades, géneros y países. En España, en el año 2023 se registraron 4.118 muertes por suicidio (<xref ref-type="bibr" rid="B27">Instituto Nacional de Estadística, 2024</xref>), lo que lo convierte en una de las principales causas de mortalidad en el país. Esta cifra equivale a una tasa de 8,47 suicidios por cada 100.000 habitantes, con una prevalencia significativamente mayor en hombres (12,79; 3.046 fallecidos) que en mujeres (4,32; 1.072 fallecidas). Ante esta realidad, se hace imprescindible impulsar nuevas estrategias de prevención.</p>
+		<p>La salud mental del estudiantado universitario ha cobrado una relevancia creciente en los últimos años (<xref ref-type="bibr" rid="B5">Auerbach et al., 2018</xref>; <xref ref-type="bibr" rid="B41">Mitchell, 2023</xref>). Diversos estudios evidencian niveles preocupantemente bajos de bienestar emocional, así como una alta prevalencia de síntomas ansioso-depresivos e ideación suicida, situación que se ha visto agravada tras la pandemia de la COVID-19 (<xref ref-type="bibr" rid="B40">Ministerio de Universidades, 2023</xref>; <xref ref-type="bibr" rid="B66">Zhou et al., 2021</xref>). Estas condiciones no solo afectan a la salud del alumnado, sino que también comprometen su experiencia universitaria e incrementa el riesgo de abandono académico. Por ejemplo, la iniciativa internacional <italic>World Mental Health International College Student</italic> (WMH-ICS) indica que el 35% del alumnado de primer curso presenta algún trastorno mental a lo largo de su vida (<xref ref-type="bibr" rid="B5">Auerbach et al., 2018</xref>), y el 17,7% ha realizado autolesiones no suicidas (<xref ref-type="bibr" rid="B29">Kiekens et al., 2023</xref>).</p>
+		<p>La población universitaria presenta una sobrerrepresentación de factores de estrés que impactan negativamente en su salud física, psicológica y emocional (<xref ref-type="bibr" rid="B41">Mitchell, 2023</xref>). Entre los principales estresores se encuentran las preocupaciones académicas, identificadas como una fuente significativa de estrés agudo (<xref ref-type="bibr" rid="B2">American College Health Association, 2024</xref>), y asociadas a un mayor riesgo de ansiedad, depresión e ideación o conducta suicida (<xref ref-type="bibr" rid="B13">Cheng et al., 2020</xref>; <xref ref-type="bibr" rid="B62">Yao et al., 2025</xref>). Otros factores incluyen la presión económica, la salud de familiares, y las relaciones afectivas y familiares (<xref ref-type="bibr" rid="B51">Sheldon et al., 2021</xref>; <xref ref-type="bibr" rid="B62">Yao et al., 2025</xref>). En consecuencia, hoy se reconoce al estudiantado universitario como una población especialmente vulnerable a la ideación y conducta suicida. En este sentido, se han documentado tasas de prevalencia a lo largo de la vida del 22,4% para ideación suicida, del 6,1% para planificación y del 3,2% para intentos de suicidio (<xref ref-type="bibr" rid="B42">Mortier et al., 2018</xref>). En algunos países, el suicidio constituye la segunda causa de muerte entre universitarios (<xref ref-type="bibr" rid="B50">Schwartz, 2006</xref>).</p>
+		<p>Recientemente, el Ministerio de Sanidad ha aprobado el primer Plan de Acción Nacional para la Prevención del Suicidio en España (<xref ref-type="bibr" rid="B39">Ministerio de Sanidad, 2025</xref>). Asimismo, la Ley Orgánica del Sistema Universitario (LOSU) establece la obligación de que las universidades dispongan de servicios de prevención, orientación psicopedagógica y promoción del bienestar en sus campus. En este contexto, el presente estudio tiene como objetivo reflexionar sobre el estado actual de la prevención y el abordaje de la conducta suicida en el entorno universitario estatal, así como proponer posibles iniciativas de implementación.</p>
+		<sec>
+			<title>La Conducta Suicida en el Entorno Universitario</title>
+			<p>Uno de los estudios más exhaustivos sobre suicidio en campus universitarios es el <italic>Big Ten Study</italic> (<xref ref-type="bibr" rid="B52">Silverman et al., 1997</xref>), llevado a cabo en Estados Unidos, con el objetivo de corregir limitaciones estadísticas y epidemiológicas presentes en investigaciones previas. Este estudio reveló que el mayor número de suicidios, tanto en hombres como en mujeres, se concentra en el grupo de edad de 20 a 24 años (46%), y entre estudiantes de posgrado (32%). Esta elevada prevalencia de suicidios en población de posgrado ha sido confirmada en investigaciones más recientes realizadas en otros países (<xref ref-type="bibr" rid="B13">Cheng et al., 2020</xref>; <xref ref-type="bibr" rid="B37">Marutani et al., 2024</xref>).</p>
+			<p>
+				<xref ref-type="bibr" rid="B52">Silverman y colaboradores (1997)</xref> hallaron que la tasa de suicidio en varios campus estadounidenses era aproximadamente un 50% inferior a la media nacional para grupos de edad y género comparables, situándose en 7,5 por cada 100.000 estudiantes. Asimismo, concluyeron que el riesgo de suicidio es mayor en el estudiantado de 25 años o más. Una de las explicaciones ofrecidas por los autores es que las universidades proporcionan entornos más protectores, con mayor acceso a servicios sanitarios y de salud mental, así como redes de apoyo entre iguales y mentores, factores que podrían reducir el riesgo suicida respecto al conjunto de la población general. Esta hipótesis ha sido respaldada por investigaciones posteriores: a pesar de que la tasa de suicidio en la población estadounidense general creció un 35% entre 1999 y 2018 (<xref ref-type="bibr" rid="B24">Hedegaard et al., 2020</xref>), en los campus del <italic>Big Ten</italic> disminuyó un 25,3% en los últimos 30 años (<xref ref-type="bibr" rid="B38">Mendizabal y King, 2020</xref>). Concretamente, la media anual de suicidios en universidades entre 2009 y 2018 fue de 5,60 por cada 100.000 estudiantes, con un porcentaje de varones (67,53%; 6,37/100.000), mayor a la de su representación en el campus (51,18%).</p>
+			<p>Por otra parte, diversos estudios internacionales y revisiones han reportado elevados niveles de ideación y conducta suicida (planificación, intentos de suicidio, etc.) en el contexto universitario tanto en grado (<xref ref-type="bibr" rid="B32">Lageborn et al., 2023</xref>; <xref ref-type="bibr" rid="B33">Lew et al., 2020</xref>; <xref ref-type="bibr" rid="B66">Zhou et al., 2021</xref>) como en posgrado (<xref ref-type="bibr" rid="B45">Poli et al., 2025</xref>). Un metanálisis destacado, realizado por <xref ref-type="bibr" rid="B42">Mortier et al. (2018)</xref> con una muestra de 634.662 estudiantes de Norteamérica, Asia, Europa y África, encontró tasas de prevalencia a lo largo de la vida del 22,3% para la ideación suicida, del 6,1% para la planificación, y del 3,2% para los intentos. Según este estudio, aproximadamente uno de cada cuatro universitarios ha experimentado ideación suicida en algún momento, y el 65% de ellos la han tenido en el año previo a la evaluación. Además, las tasas de ideación y conducta suicida en población universitaria superan sistemáticamente a las de la población adulta general, situándose entre el 17% y el 38%, frente al 7-18% en la población general (<xref ref-type="bibr" rid="B33">Lew et al., 2020</xref>; <xref ref-type="bibr" rid="B42">Mortier et al., 2018</xref>; <xref ref-type="bibr" rid="B53">Sivertsen et al., 2019</xref>).</p>
+			<p> Estos datos permiten concluir que el estudiantado universitario representa una población especialmente vulnerable. No obstante, algunos trabajos recientes han señalado que, aunque la tasa de muerte por suicidio es proporcionalmente más alta en estudiantes de posgrado (<xref ref-type="bibr" rid="B52">Silverman et al., 1997</xref>), la ideación y conducta suicida resultan más frecuentes entre el alumnado de grado (<xref ref-type="bibr" rid="B45">Poli et al., 2025</xref>). Este patrón sugiere que los niveles de sufrimiento psicológico y las trayectorias hacia la conducta suicida pueden diferir según la etapa académica y las condiciones del entorno educativo.</p>
+			<p>Conviene precisar que los distintos estudios no ofrecen resultados contradictorios, sino que analizan fenómenos diferentes dentro del continuo suicida. Mientras investigaciones clásicas como la de <xref ref-type="bibr" rid="B52">Silverman et al. (1997)</xref> se centraron en las muertes por suicidio -un evento poco frecuente, pero de enorme gravedad-, trabajos posteriores como los de <xref ref-type="bibr" rid="B42">Mortier et al. (2018)</xref> o <xref ref-type="bibr" rid="B45">Poli et al. (2025)</xref> evalúan la prevalencia de la ideación y la conducta suicida, que son manifestaciones mucho más habituales y sensibles a las condiciones psicosociales del entorno universitario. A ello se suman las diferencias en los periodos de estudio, los instrumentos utilizados y los contextos culturales y educativos, que dificultan las comparaciones directas. En conjunto, estas divergencias metodológicas explican las variaciones en las tasas observadas y refuerzan la necesidad de interpretar los datos a la luz del tipo de fenómeno suicida evaluado y del momento histórico en que fue medido.</p>
+			<p>En España no se dispone aún de estudios que estimen de forma directa la tasa de suicidios en el ámbito universitario, aunque sí existen aproximaciones a partir de la investigación en salud mental (<xref ref-type="bibr" rid="B17">Estupiñá et al., 2024</xref>; <xref ref-type="bibr" rid="B40">Ministerio de Universidades, 2023</xref>; <xref ref-type="bibr" rid="B46">Prieto-Vila et al., 2024</xref>). El estudio más amplio realizado hasta la fecha fue impulsado por el <xref ref-type="bibr" rid="B40">Ministerio de Universidades (2023)</xref>, con la participación de 59.605 estudiantes, lo que representa más del 3,5% del estudiantado matriculado en el sistema universitario español. La investigación, desarrollada en dos fases, reveló que la mitad de los y las estudiantes presentaban ansiedad moderada o grave, y sintomatología depresiva, y que uno de cada cinco había experimentado pensamientos suicidas en las dos semanas anteriores a la encuesta. Este tipo de muestreo implica que los resultados podrían estar sobredimensionados, ya que es plausible que quienes atraviesan un mayor malestar emocional tengan una mayor propensión a participar en este tipo de estudios.</p>
+			<p>El estudio también señaló diferencias por género: las mujeres manifestaron mayores niveles de síntomas depresivos, ansiedad e insomnio clínico o grave, mientras que los hombres presentaron un porcentaje más elevado de consumo de riesgo de alcohol. Además, un 17% del alumnado informó haber recibido prescripción médica de psicofármacos (ansiolíticos, antidepresivos o hipnóticos) en el último cuatrimestre, aunque solo una minoría accedió a atención profesional, a pesar de que más del 50% había consultado previamente con personal sanitario por problemas de salud mental.</p>
+			<p>En la misma línea, un estudio reciente realizado en España con más de mil estudiantes de doctorado (<xref ref-type="bibr" rid="B17">Estupiñá et al., 2024</xref>) mostró que entre el 50% y el 60% podría presentar algún trastorno psicológico común, y que cerca del 19% refería ideación suicida pasiva. La salud mental negativa se asoció especialmente con ser mujer, cursar más años de doctorado, menor satisfacción vital y mayores dificultades en la regulación emocional (<xref ref-type="bibr" rid="B17">Estupiñá et al., 2024</xref>).</p>
+			<p>Estos hallazgos refuerzan la urgencia de desarrollar e implementar estrategias eficaces de promoción de la salud mental y prevención de la conducta suicida en el entorno universitario. La magnitud del problema evidencia que, en gran medida, los enfoques actuales no están resultando suficientes para proteger a esta población vulnerable (<xref ref-type="bibr" rid="B42">Mortier et al., 2018</xref>).</p>
+		</sec>
+		<sec>
+			<title>Estrategias de Prevención, Intervención y Posvención de la Conducta Suicida</title>
+			<p>El suicidio es un fenómeno complejo y multicausal. La prevención del suicidio requiere un enfoque integral que combine múltiples estrategias para reducir el riesgo y reforzar los factores de protección a nivel individual, relacional, comunitario y social. Por ello, una medida fundamental es aplicar una amplia respuesta de salud pública al suicidio en la que participen todos los sectores de la sociedad entre los que se incluyen el gobierno, los sistemas de atención sanitaria, las empresas, las instituciones educativas, las organizaciones comunitarias, las organizaciones de la sociedad civil y las ONG.</p>
+			<p>Por lo tanto, para ser eficaces, los programas universitarios de prevención de suicidio deben ser sistemáticos, multidisciplinares e integrales, e implicar a toda la organización. Reducir el suicidio de estudiantes universitarios pasa por reducir el estigma de la salud mental; aumentar y/o crear comunidades universitarias inclusivas y receptivas; educar sobre el suicidio; aumentar la búsqueda de ayuda; prevenir el suicidio a través de la detección de <italic>hotspots</italic>; formar a la comunidad universitaria en la identificación y derivación a valoración de los estudiantes de riesgo; y disponer de servicios de atención psicológica eficaces. No obstante, son escasas las universidades españolas que cuentan con un plan eficaz de prevención, intervención y posvención de la conducta suicida. Además, a pesar de la urgente necesidad de desarrollar y aplicar programas preventivos, todavía hay mucha incertidumbre en torno a lo que constituye un plan solvente para estudiantes en entornos universitarios (<xref ref-type="bibr" rid="B60">Wolitzky-Taylor et al., 2020</xref>).</p>
+			<p>A continuación, se presentan algunas medidas que han obtenido respaldo empírico y deberían contar en todo plan de prevención, intervención y posvención de la conducta suicida en el contexto universitario.</p>
+		</sec>
+		<sec>
+			<title>Restricción de Medios Letales</title>
+			<p>Una de las estrategias con mayor respaldo empírico en la prevención del suicidio es la restricción del acceso a medios letales (<xref ref-type="bibr" rid="B36">Mann et al., 2021</xref>; <xref ref-type="bibr" rid="B64">Zalsman et al., 2016</xref>). Si bien existen múltiples trayectorias que pueden conducir de la ideación al intento de suicidio, se ha demostrado que muchas crisis suicidas son breves, con un intervalo promedio de menos de diez minutos entre la decisión de actuar y el intento de suicidio (<xref ref-type="bibr" rid="B6">Barber y Miller, 2014</xref>). Además, incluso en presencia de una intención suicida intensa, las personas suelen experimentar ambivalencia respecto a su deseo de morir.</p>
+			<p>En contra de la opinión general de que restringir el acceso a un método letal provoca la sustitución por otro igualmente peligroso, la evidencia muestra que esto no suele ocurrir (<xref ref-type="bibr" rid="B14">Daigle, 2005</xref>). Por tanto, introducir barreras físicas o temporales entre la persona en riesgo y los medios letales puede suponer una diferencia crucial en la prevención. Limitar el acceso inmediato a estos medios durante una crisis suicida puede marcar la diferencia entre la vida y la muerte.</p>
+			<p>En este sentido, resulta fundamental que cada centro universitario realice un análisis específico para identificar los denominados <italic>hotspots</italic> o puntos sensibles -lugares donde podría facilitarse el acceso a medios letales- con el fin de implementar medidas de seguridad adecuadas. Esta labor preventiva debe ser parte integral de cualquier estrategia institucional de promoción de la salud mental y prevención de la conducta suicida.</p>
+		</sec>
+		<sec>
+			<title>Entrenamiento Gatekeeper Para la Prevención del Suicidio</title>
+			<p>En la última década, las universidades españolas han intensificado sus esfuerzos para informar al estudiantado sobre cómo y dónde acceder a ayuda ante situaciones de malestar emocional, tanto dentro como fuera del campus. Sin embargo, la realidad muestra que muchos estudiantes con problemas de salud mental y/o ideación o conducta suicida no buscan ayuda profesional antes de que se produzca una crisis (<xref ref-type="bibr" rid="B7">Barnett et al., 2024</xref>; <xref ref-type="bibr" rid="B65">Zhao et al., 2025</xref>). De hecho, más de la mitad de quienes presentan pensamientos suicidas o se autolesionan no reciben ningún tipo de atención durante su etapa universitaria, con tasas aún más bajas entre los varones y los grupos étnicos minoritarios (<xref ref-type="bibr" rid="B7">Barnett et al., 2024</xref>).</p>
+			<p>Entre los principales obstáculos señalados por los propios estudiantes para solicitar ayuda se encuentran: la preferencia por resolver los problemas de manera autónoma, la falta de tiempo, el desconocimiento de los recursos disponibles y la percepción de que su situación no requiere atención profesional (<xref ref-type="bibr" rid="B65">Zhao et al., 2025</xref>). A esto se suman factores como el estigma; la normalización del malestar en la vida universitaria; las dudas sobre la gravedad de los síntomas; la desconfianza en la efectividad de los tratamientos; la esperanza de que los problemas se resuelvan por sí solos; la preocupación por la privacidad; y la creencia de que el apoyo de su entorno social es suficiente (<xref ref-type="bibr" rid="B15">Drum y Denmark, 2012</xref>).</p>
+			<p>Incluso cuando los estudiantes conocen los recursos disponibles, muchos siguen mostrando reticencias a utilizarlos, temiendo reconocer que atraviesan dificultades emocionales (<xref ref-type="bibr" rid="B16">Eisenberg et al., 2007</xref>). En este sentido, <xref ref-type="bibr" rid="B19">Gallagher (2014)</xref> encontró que menos del 20% de los estudiantes que murieron por suicidio habían acudido previamente al Servicio de Atención Psicológica (SAP) de su universidad. Esta baja utilización de los servicios, unida a los retrasos en la búsqueda de ayuda y a la elevada prevalencia de la ideación suicida, incrementa el riesgo de suicidio en este grupo.</p>
+			<p>Por todo ello, una de las estrategias prioritarias en la prevención universitaria es la identificación temprana de estudiantes en situación de riesgo y su derivación a los recursos adecuados. En este proceso, el personal universitario está asumiendo un papel cada vez más relevante en el apoyo emocional al alumnado (<xref ref-type="bibr" rid="B26">Hughes et al., 2018</xref>), y se ha señalado su función como <italic>gatekeepers</italic>, es decir, personas capaces de identificar señales de alarma, ofrecer orientación inicial y canalizar a los estudiantes hacia los servicios pertinentes, siempre respetando los límites de su rol (<xref ref-type="bibr" rid="B21">Gulliver et al., 2018</xref>; <xref ref-type="bibr" rid="B25">Hews-Girard et al., 2024</xref>).</p>
+			<p>El entrenamiento de <italic>gatekeepers</italic> (GKT) es una de las intervenciones más extendidas en la prevención comunitaria del suicidio. Su objetivo es dotar a estas personas de competencias para detectar situaciones de riesgo, brindar una primera ayuda y facilitar el acceso a recursos especializados (<xref ref-type="bibr" rid="B18">Gabilondo et al., 2024</xref>). Aunque la evidencia sobre su impacto directo en la reducción de las tasas de suicidio no es concluyente (<xref ref-type="bibr" rid="B63">Yonemoto et al., 2019</xref>; <xref ref-type="bibr" rid="B64">Zalsman et al., 2016</xref>), sí se reconoce su utilidad para difundir conocimientos clave en entornos donde la desinformación o el estigma dificultan la prevención (<xref ref-type="bibr" rid="B18">Gabilondo et al., 2024</xref>; <xref ref-type="bibr" rid="B54">Spafford et al., 2025</xref>).</p>
+			<p>En general, el GKT ha mostrado buenos resultados en contextos universitarios (<xref ref-type="bibr" rid="B43">Muela et al., 2025</xref>; <xref ref-type="bibr" rid="B60">Wolitzky-Taylor et al., 2020</xref>), favoreciendo un mayor uso de los servicios de salud mental por parte de estudiantes con factores de riesgo suicida (<xref ref-type="bibr" rid="B12">Center for Collegiate Mental Health, 2024</xref>; <xref ref-type="bibr" rid="B15">Drum y Denmark, 2012</xref>). Aunque no siempre se traduce en una búsqueda activa de ayuda, se ha observado que hasta un 70% del estudiantado con depresión, ansiedad o ideación suicida expresa una mayor intención de solicitar apoyo (<xref ref-type="bibr" rid="B65">Zhao et al., 2025</xref>).</p>
+			<p>En el contexto universitario, los <italic>gatekeepers</italic> pueden incluir personal docente e investigador (PDI), estudiantado, y otros miembros de la comunidad universitaria como responsables de residencias o personal de administración y servicios (PTGAS). Estas personas, al estar en contacto frecuente con el alumnado, tienen un potencial preventivo crítico, sobre todo con aquellos estudiantes que aún no han accedido a los servicios clínicos. Por ello, su formación en identificación del riesgo y derivación eficaz representa una vía prometedora para ampliar el alcance de las intervenciones preventivas.</p>
+			<p>Finalmente, algunos estudios recientes destacan el valor del apoyo virtual para aquellos estudiantes que no se sienten cómodos buscando ayuda presencial o compartiendo su malestar con personal del PDI o con sus compañeros y compañeras (<xref ref-type="bibr" rid="B25">Hews-Girard et al., 2024</xref>). Ampliar las vías de acceso puede reducir barreras y dar respuesta a las necesidades de estudiantes para quienes las estrategias tradicionales de atención psicológica resultan insuficientes o inaccesibles. En esta línea, resulta alentador que la Organización Mundial de la Salud haya impulsado el <italic>World Mental Health Surveys International College Student Project</italic> (2015), un proyecto internacional de seguimiento longitudinal que analiza la salud mental del estudiantado a lo largo de su formación universitaria, con especial atención al comportamiento de búsqueda de ayuda.</p>
+		</sec>
+		<sec>
+			<title>Tratamiento de la Ideación y la Conducta Suicida</title>
+			<p>Las universidades españolas, aunque con niveles de implantación desiguales (<xref ref-type="bibr" rid="B49">Saúl et al., 2009</xref>; <xref ref-type="bibr" rid="B57">Tejedo, 2019</xref>), cuentan desde hace más de tres décadas con Servicios de Atención Psicológica (SAP) orientados a la promoción del bienestar emocional y la salud mental, así como con servicios psicopedagógicos destinados a la orientación académica y profesional. Actualmente, la Ley Orgánica del Sistema Universitario (LOSU) obliga a las universidades a ofrecer de forma permanente y gratuita servicios de atención psicológica y pedagógica al estudiantado.</p>
+			<p>Los SAP, en muchos casos, constituyen la primera línea de atención en salud mental para un número creciente de estudiantes -y otros miembros de la comunidad universitaria- que presentan ideación suicida. No obstante, persisten importantes desigualdades en su configuración y funcionamiento (<xref ref-type="bibr" rid="B49">Saúl et al., 2009</xref>), lo que se traduce en una notable disparidad entre universidades, falta de personal especializado, ratios elevadas, listas de espera prolongadas y saturación de los servicios. Tanto el Consejo de Estudiantes Universitarios del Estado (CEUNE) como la <xref ref-type="bibr" rid="B4">Asociación Española de Servicios Psicológicos y Psicopedagógicos Universitarios (AESPPU, 2025)</xref> han subrayado la necesidad de que la aplicación de la LOSU venga acompañada de una reforma normativa que delimite claramente funciones, recursos, perfiles profesionales y estándares mínimos de calidad y accesibilidad.</p>
+			<p>Una revisión de los estudios sobre la demanda atendida por los SAP sugiere que la conducta suicida no ha sido abordada de forma prioritaria, o bien no se ha visibilizado como problemática clínica específica, ya que no figura entre los motivos de consulta en los estudios disponibles (<xref ref-type="bibr" rid="B3">Arco et al., 2005</xref>; <xref ref-type="bibr" rid="B31">Labrador et al., 2016</xref>; <xref ref-type="bibr" rid="B48">Salaberría et al., 2016</xref>; <xref ref-type="bibr" rid="B57">Tejedo, 2019</xref>). En general, se ha constatado que la mayoría de los casos atendidos están relacionados con sintomatología ansioso-depresiva o trastornos adaptativos, siendo más frecuentes en mujeres (alrededor del 68%) que en hombres. Sin embargo, estos datos contrastan con los resultados del estudio del <xref ref-type="bibr" rid="B40">Ministerio de Universidades (2023)</xref>, en el que uno de cada cinco estudiantes declaró haber tenido pensamientos suicidas en las dos semanas previas a la encuesta. A nivel internacional, la ideación suicida ya se reconoce como un motivo recurrente de consulta en los SAP y uno de los principales indicadores de malestar emocional (<xref ref-type="bibr" rid="B20">Gorman et al., 2017</xref>; <xref ref-type="bibr" rid="B12">Center for Collegiate Mental Health, 2024</xref>).</p>
+			<p>Trabajar con población universitaria ofrece ventajas relevantes, ya que se trata de una población joven, con altos niveles de alfabetización y, en general, escasa cronicidad psicopatológica, lo que favorece la adquisición de habilidades para afrontar los desafíos vitales (<xref ref-type="bibr" rid="B48">Salaberría et al., 2016</xref>). Sin embargo, diversos estudios han advertido que la salud mental del estudiantado universitario se ha deteriorado considerablemente en los últimos años, y que los SAP se enfrentan a casos más complejos, con recursos limitados, una demanda creciente y listas de espera cada vez más extensas (<xref ref-type="bibr" rid="B61">Xiao et al., 2017</xref>). Además, se ha registrado un aumento de estudiantes que presentan ideación suicida incluso en las semanas previas a su primera cita de admisión (<xref ref-type="bibr" rid="B61">Xiao et al., 2017</xref>). En este sentido, el uso de los dispositivos de atención urgente -que garantizan una cita en 1 a 5 días para casos en crisis- ha aumentado en un 28% (<xref ref-type="bibr" rid="B11">Center for Collegiate Mental Health, 2017</xref>).</p>
+			<p>Desde esta perspectiva, la doble tendencia del incremento en la demanda y en la gravedad de los casos puede no deberse únicamente a un cambio en los perfiles del estudiantado, sino a la insuficiencia estructural de los SAP, que presentan serias dificultades para adaptarse de manera proactiva a las necesidades actuales. Por ello, resulta prioritario dotar a estos servicios de más recursos humanos, materiales y organizativos.</p>
+			<p>A pesar de esta necesidad, actualmente no existe un enfoque clínico consensuado para el tratamiento de la ideación y la conducta suicida en los SAP, una carencia también observada a nivel internacional (<xref ref-type="bibr" rid="B44">Pistorello et al., 2017</xref>). En este contexto, cabe preguntarse: ¿cómo debería abordarse el tratamiento de la conducta suicida en el ámbito universitario? Un metanálisis reciente sobre la investigación en suicidio en los últimos 50 años (Franklin et al., 2017) ha evidenciado que los enfoques tradicionales centrados en la reducción de factores de riesgo, y/o basados en modelos psiquiátricos sindrómicos tienen una eficacia limitada. Por el contrario, se han propuesto tratamientos centrados específicamente en la conducta suicida, como la terapia cognitivo-conductual breve (Brief Cognitive Behavioral Therapy for Suicide Prevention, BCBT), que han mostrado reducciones de entre el 50% y el 60% en intentos de suicidio (<xref ref-type="bibr" rid="B10">Bryan y Rudd, 2018</xref>), la terapia dialéctico-conductual (DBT; <xref ref-type="bibr" rid="B34">Linehan, 1993</xref>) o el modelo <italic>Collaborative Assessment and Management of Suicidality</italic> (CAMS; <xref ref-type="bibr" rid="B28">Jobes, 2023</xref>).</p>
+			<p>En el contexto español, diversos estudios han señalado que la intervención psicológica en los SAP suele limitarse a entre 8 y 12 sesiones (<xref ref-type="bibr" rid="B31">Labrador et al., 2016</xref>; <xref ref-type="bibr" rid="B48">Salaberría et al., 2016</xref>), por lo que una vía de mejora sería implementar tratamientos breves y focalizados específicamente en la conducta suicida. Existen experiencias internacionales prometedoras en esta línea, como el proyecto <italic>The Comprehensive Adaptive Multisite Prevention of University Student Suicide</italic> (CAMPUS; <xref ref-type="bibr" rid="B9">Blalock et al., 2025</xref>), que está evaluando modelos de intervención breve en estudiantes universitarios. Los primeros resultados han mostrado una alta aceptabilidad por parte de profesionales y estudiantes, y se considera que su implementación en los SAP podría contribuir a que estudiantes con ideación y conducta suicida permanezcan activos en su vida académica y universitaria (<xref ref-type="bibr" rid="B44">Pistorello et al., 2017</xref>).</p>
+		</sec>
+		<sec>
+			<title>Intervención en Crisis</title>
+			<p>El riesgo suicida ocupa un lugar central en muchas valoraciones de urgencia en salud mental en población universitaria (<xref ref-type="bibr" rid="B22">Han et al., 2016</xref>). Sin embargo, los estudios realizados sobre los Servicios de Atención Psicológica (SAP) en España apenas abordan las intervenciones en crisis. Solo el estudio de <xref ref-type="bibr" rid="B48">Salaberría et al. (2016)</xref> menciona que aproximadamente un 10% de las personas que acudían al SAP se encontraban en una situación de crisis, aunque no se especifican las características de dichas crisis emocionales. En contraste, la encuesta nacional estadounidense <xref ref-type="bibr" rid="B58"><italic>Healthy Minds Study 2023-2024</italic> (2025)</xref> indica que un 3% del estudiantado universitario utilizó servicios de emergencia psiquiátrica y alrededor del 5% informó haber sido hospitalizado por motivos de salud mental.</p>
+			<p>Las directrices más recientes de la <xref ref-type="bibr" rid="B56"><italic>Substance Abuse and Mental Health Services Administration</italic> (SAMHSA, 2025)</xref> establecen tres componentes esenciales para una atención eficaz en crisis: contar con alguien con quien comunicarse, disponer de una respuesta inmediata y contar con un lugar seguro al que acudir. Estos elementos son fundamentales para ofrecer una respuesta adecuada ante crisis suicidas en el entorno universitario, ya que permiten prevenir la escalada del riesgo, coordinar la atención de manera integral, mejorar la efectividad de los planes de prevención y reducir la probabilidad de fallecimientos por suicidio.</p>
+			<p>En consecuencia, es imprescindible que todo el estudiantado conozca los recursos que el campus ofrece para afrontar una situación de crisis, independientemente de los ofrecidos por el sistema sanitario nacional. Esta responsabilidad recae en los propios centros universitarios, que deben garantizar una comunicación clara y accesible sobre los servicios disponibles en situaciones de urgencia.</p>
+			<p>Las universidades que han desarrollado protocolos de gestión de crisis aseguran que sus políticas y procedimientos están alineados con la atención a estudiantes en riesgo (<xref ref-type="bibr" rid="B8">Baumhauer et al., 2025</xref>). En los últimos años, muchos campus han comenzado a rediseñar sus servicios de crisis en salud mental, incorporando opciones como citas urgentes, líneas telefónicas de atención fuera del horario habitual, equipos locales de respuesta inmediata y mecanismos de derivación a los servicios de urgencia del sistema público (<xref ref-type="bibr" rid="B35">Lipson et al., 2022</xref>).</p>
+			<p>En el caso concreto de la conducta suicida, resulta fundamental que el personal clínico de los SAP cuente con formación específica para implementar planes de seguridad como herramienta de gestión de crisis (<xref ref-type="bibr" rid="B30">Knapp, 2023</xref>). Un plan de seguridad es una lista personalizada de estrategias de afrontamiento y fuentes de apoyo que el estudiante puede utilizar antes o durante una crisis suicida. Su elaboración implica una colaboración estrecha entre terapeuta y consultante, y destaca por su brevedad y sencillez. La investigación ha demostrado que la inclusión de planes de seguridad en el abordaje de la conducta suicida conlleva la reducción significativa del riesgo de conducta suicida y de hospitalizaciones (<xref ref-type="bibr" rid="B30">Knapp, 2023</xref>; <xref ref-type="bibr" rid="B55">Stanley et al., 2016</xref>).</p>
+			<p>Además, para los y las estudiantes que hayan atravesado una crisis suicida, es imprescindible ofrecer apoyo académico y contemplar adaptaciones curriculares, tanto a corto como a largo plazo, con el fin de favorecer su continuidad educativa y bienestar general.</p>
+		</sec>
+		<sec>
+			<title>Posvención del Suicidio</title>
+			<p>La muerte por suicidio de un miembro de la comunidad universitaria puede tener un impacto profundo en el bienestar físico, emocional y psicológico de quienes le rodean. De hecho, se ha señalado que el efecto del suicidio en el contexto universitario puede ser incluso más amplio y disruptivo que en otros entornos comunitarios, debido a la estrecha convivencia y la interconectividad del campus (<xref ref-type="bibr" rid="B1">Allie et al., 2023</xref>).</p>
+			<p>La posvención se define como una respuesta estructurada que proporciona apoyo a las personas afectadas por un suicidio, al tiempo que previene la aparición de nuevos casos (<xref ref-type="bibr" rid="B59">Universities UK, 2022</xref>). Las intervenciones posventivas incluyen el acompañamiento en el proceso de duelo y adaptación, el manejo del trauma tanto inmediato como a largo plazo, y el apoyo emocional a estudiantes, profesorado y personal universitario. Asimismo, buscan estabilizar la situación tras la crisis, reducir el riesgo de suicidios en cadena o conductas de imitación, y facilitar la recuperación paulatina del tejido universitario afectado.</p>
+			<p>Además, la posvención también implica un análisis reflexivo del suceso para extraer aprendizajes que permitan mejorar los protocolos de prevención, intervención y respuesta ante futuras situaciones. En este sentido, es fundamental que las universidades cuenten con protocolos sólidos y detallados para afrontar estos acontecimientos de forma coordinada, empática y eficaz.</p>
+			<p>Estos protocolos deben contemplar, entre otros aspectos: cómo comunicar un suicidio a la comunidad universitaria; cómo informar y acompañar a la familia de la persona fallecida; cómo brindar apoyo psicológico al alumnado y al personal afectado; y cómo gestionar los memoriales para evitar efectos indeseados. Igualmente, deben establecer la creación de equipos de respuesta ante crisis suicidas y disponer de un plan específico de actuación para el caso de un suicidio en el campus.</p>
+			<p>Disponer de estos procedimientos organizados permite a la comunidad universitaria responder de manera metódica y contenida, evitando reacciones improvisadas o descoordinadas que puedan aumentar el sufrimiento o el riesgo en la población afectada. La integración de la posvención como parte de las políticas institucionales de salud mental refuerza el compromiso con una atención integral, sensible y preventiva ante el fenómeno del suicidio.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>La conducta suicida en el entorno universitario representa un desafío de salud pública urgente y complejo que exige una respuesta integral, coordinada y sostenida por parte de las instituciones de educación superior. A lo largo de este artículo se ha argumentado, con base en la evidencia nacional e internacional, que el estudiantado universitario constituye un grupo especialmente vulnerable, tanto por las características evolutivas de esta etapa de la vida, como por las crecientes demandas académicas, económicas, sociales y personales que enfrentan.</p>
+			<p>Los datos recogidos por estudios recientes muestran una alta prevalencia de sintomatología ansioso-depresiva, autolesiones e ideación suicida en esta población, con tasas superiores a las de la población general adulta. A ello se suma una baja tendencia a buscar ayuda profesional, especialmente entre los varones y algunos grupos minoritarios. Factores como el estigma; la normalización del malestar; la falta de información sobre los recursos disponibles; la desconfianza en la eficacia de los tratamientos; y la tendencia a afrontar los problemas en solitario, dificultan el acceso temprano a servicios de apoyo. La brecha que existe entre las necesidades reales del estudiantado y el uso efectivo de los servicios de salud mental universitarios es una cuestión crítica que debe ser abordada de forma urgente.</p>
+			<p>En este contexto, el papel de los <italic>gatekeepers</italic> se presenta como una estrategia prometedora. Formar a personal docente, administrativo, responsables de residencias y al propio estudiantado para que puedan detectar señales de riesgo, ofrecer una primera ayuda y derivar a recursos especializados contribuye a generar una red de apoyo más eficaz y cercana. Si bien todavía no existe evidencia concluyente sobre la reducción directa de las tasas de suicidio a partir de este tipo de entrenamientos, sí se ha documentado su impacto positivo en el aumento del conocimiento, la disminución del estigma y la mejora de las competencias de identificación y acompañamiento. Por ello, el entrenamiento en competencias <italic>gatekeeper</italic> debería ser una línea estratégica a implementar, reforzar y evaluar dentro de los planes de acción universitarios.</p>
+			<p>Otro aspecto destacado es el papel crucial de los Servicios de Atención Psicológica (SAP) como primera línea de apoyo ante el malestar emocional y la conducta suicida. No obstante, el análisis revela una preocupante desigualdad en la dotación, estructura y funcionamiento de estos servicios a nivel nacional, lo que limita su capacidad de respuesta ante una demanda creciente y una complejidad clínica en aumento. Las ratios elevadas de atención, las largas listas de espera y la escasez de recursos humanos especializados comprometen su eficacia. Además, se ha detectado una escasa visibilización de la conducta suicida como motivo de consulta prioritaria en la literatura académica sobre los SAP en España, lo cual contrasta con los datos epidemiológicos más recientes.</p>
+			<p>Frente a esta situación, resulta urgente dotar a los SAP de los recursos necesarios para responder de forma proactiva y específica a la problemática suicida. La implementación de tratamientos psicológicos breves, focalizados en la conducta suicida y basados en la evidencia, como la BCBT, la DBT o el enfoque CAMS, se configura como una línea de mejora ineludible. La brevedad de los tratamientos, su adaptabilidad y su aceptabilidad entre profesionales y estudiantes hacen de estos enfoques herramientas especialmente pertinentes en el contexto universitario, donde los recursos y el tiempo suelen ser limitados.</p>
+			<p>Asimismo, la intervención en crisis debe ocupar un lugar central en la estrategia preventiva. La identificación temprana, la atención inmediata y la disposición de espacios seguros son pilares fundamentales de una respuesta eficaz ante situaciones de alto riesgo. Las recomendaciones de organismos internacionales como SAMHSA ofrecen una guía clara para el diseño de servicios de crisis, destacando la necesidad de garantizar que todo el estudiantado sepa a quién acudir, reciba una respuesta adecuada y disponga de un entorno protegido. La formación en planes de seguridad, que permiten a la persona en crisis disponer de un conjunto de estrategias personalizadas de afrontamiento, también ha demostrado su eficacia para reducir el riesgo de suicidio y el número de hospitalizaciones.</p>
+			<p>En este sentido, uno de los retos estructurales más relevantes es el desarrollo de un sistema nacional de seguimiento longitudinal continuo que permita identificar y monitorizar las muertes por suicidio de estudiantes universitarios. Actualmente, en España no existen registros específicos que permitan conocer con precisión la magnitud de este fenómeno dentro del ámbito universitario, lo que limita la posibilidad de diseñar estrategias de prevención basadas en datos robustos y actualizados. Contar con un sistema de vigilancia fiable y con indicadores comunes entre universidades permitiría tomar decisiones más informadas, establecer alertas tempranas y evaluar el impacto real de las medidas implementadas.</p>
+			<p>También resulta necesario reforzar el compromiso institucional a través de políticas claras que prioricen el bienestar del estudiantado. En este sentido, la Ley Orgánica del Sistema Universitario (LOSU) ha supuesto un paso relevante al establecer la obligatoriedad de disponer de servicios de atención psicológica permanentes y gratuitos. Estas medidas deben acompañarse de programas de formación para el profesorado y de servicios de apoyo accesibles para el estudiantado. La LOSU incorpora además la creación de ciclos psicopedagógicos de orientación y ayuda, así como el desarrollo de sistemas de mentoría entre estudiantes, en los que alumnos y alumnas de cursos avanzados acompañen a quienes inician su trayectoria universitaria. Estas iniciativas no solo pueden facilitar la adaptación académica y social, sino también fortalecer la red de apoyo emocional y reducir el aislamiento, uno de los factores de riesgo asociados al suicidio.</p>
+			<p>A estas medidas se suman recursos nacionales como la línea 024, un servicio gratuito 24/7 para la atención a personas en crisis suicida, que recientemente ha incorporado un chat a sus vías de contacto. Este canal puede actuar como puente entre quienes necesitan ayuda y los servicios especializados, superando barreras relacionadas con el miedo o la vergüenza a pedir apoyo.</p>
+			<p>Finalmente, el artículo ha puesto el foco en la importancia de la posvención, una dimensión a menudo olvidada en los planes de salud mental universitarios. La muerte por suicidio de un miembro de la comunidad universitaria genera un fuerte impacto emocional y puede aumentar el riesgo de nuevos casos si no se gestiona adecuadamente. Contar con protocolos específicos de respuesta, equipos de intervención y estrategias de acompañamiento y comunicación cuidadosa es esencial para apoyar a las personas afectadas, contener el riesgo y fortalecer la resiliencia comunitaria. La posvención no solo es una respuesta a la pérdida, sino también una oportunidad para revisar, aprender y mejorar las políticas institucionales de prevención.</p>
+			<p>En conjunto, la evidencia recogida en este trabajo apunta a la necesidad de un enfoque integral, sostenido y adaptado a las particularidades del contexto universitario. La prevención del suicidio en la universidad no puede ni debe sostenerse únicamente desde los servicios sanitarios públicos, ni limitarse a campañas informativas puntuales. Exige una transformación estructural que atraviese las políticas institucionales, los servicios de apoyo, la formación del personal y el propio modelo de convivencia universitaria. Solo desde una mirada intersectorial y comprometida con la salud mental del estudiantado será posible construir entornos verdaderamente seguros, accesibles y humanos, donde pedir ayuda no sea una excepción, sino una práctica normalizada, promovida y protegida.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Allie S., Bantjes J., y Andriessen K. (2023). Suicide postvention for staff and students on university campuses: a scoping review. <italic>BMJ Open</italic>, <italic>13</italic>, e068730. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1136/bmjopen-2022-068730">https://doi.org/10.1136/bmjopen-2022-068730</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Allie</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Bantjes</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Andriessen</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Suicide postvention for staff and students on university campuses: a scoping review</article-title>
+					<source>BMJ Open</source>
+					<volume>13</volume>
+					<elocation-id>e068730</elocation-id>
+					<pub-id pub-id-type="doi">10.1136/bmjopen-2022-068730</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>American College Health Association (2024). <italic>American College Health Association-National College Health Assessment III: Reference Group Executive Summary Spring 2024</italic>. Silver Spring, MD: American College Health Association. Recuperado el 2 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.acha.org/wp-content/uploads/NCHA-IIIb_SPRING_2024_REFERENCE_GROUP_EXECUTIVE_SUMMARY.pdf">https://www.acha.org/wp-content/uploads/NCHA-IIIb_SPRING_2024_REFERENCE_GROUP_EXECUTIVE_SUMMARY.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>American College Health Association</collab>
+					</person-group>
+					<year>2024</year>
+					<source>American College Health Association-National College Health Assessment III: Reference Group Executive Summary Spring 2024</source>
+					<publisher-loc>Silver Spring, MD</publisher-loc>
+					<publisher-name>American College Health Association</publisher-name>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-02">2 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 2 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.acha.org/wp-content/uploads/NCHA-IIIb_SPRING_2024_REFERENCE_GROUP_EXECUTIVE_SUMMARY.pdf">https://www.acha.org/wp-content/uploads/NCHA-IIIb_SPRING_2024_REFERENCE_GROUP_EXECUTIVE_SUMMARY.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Arco, J. L., Fernandez, F. D., Heilborn, V. A., y Lopez, S. (2005). Demographic, academic and psychological profile of students attending counselling services at the University of Granada (Spain). <italic>International Journal for the Advancement of Counselling</italic>, <italic>27</italic>(1), 71-85. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10447-005-2249-8">https://doi.org/10.1007/s10447-005-2249-8</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arco</surname>
+							<given-names>J. L.</given-names>
+						</name>
+						<name>
+							<surname>Fernandez</surname>
+							<given-names>F. D.</given-names>
+						</name>
+						<name>
+							<surname>Heilborn</surname>
+							<given-names>V. A.</given-names>
+						</name>
+						<name>
+							<surname>Lopez</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Demographic, academic and psychological profile of students attending counselling services at the University of Granada (Spain)</article-title>
+					<source>International Journal for the Advancement of Counselling</source>
+					<volume>27</volume>
+					<issue>1</issue>
+					<fpage>71</fpage>
+					<lpage>85</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10447-005-2249-8</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Asociación Española de Servicios Psicológicos y Psicopedagógicos Universitarios (2025). Recuperado el 25 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://blogs.ua.es/aesppu/2025/04/aesppu-participa-en-el-pleno-del-consejo-de-estudiantes-universitarios-del-estado/">https://blogs.ua.es/aesppu/2025/04/aesppu-participa-en-el-pleno-del-consejo-de-estudiantes-universitarios-del-estado/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Asociación Española de Servicios Psicológicos y Psicopedagógicos Universitarios</collab>
+					</person-group>
+					<year>2025</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-25">25 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 25 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://blogs.ua.es/aesppu/2025/04/aesppu-participa-en-el-pleno-del-consejo-de-estudiantes-universitarios-del-estado/">https://blogs.ua.es/aesppu/2025/04/aesppu-participa-en-el-pleno-del-consejo-de-estudiantes-universitarios-del-estado/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Auerbach, R. P., Mortier, P., Bruffaerts, R., Alonso, J., Benjet, C., Cuijpers, P., ... y Kessler, R. C. (2018). WHO World Mental Health Surveys International College Student Project: Prevalence and distribution of mental disorders. <italic>Journal of Abnormal Psychology</italic>, <italic>127</italic>(7), 623-638. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/abn0000362">https://doi.org/10.1037/abn0000362</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Auerbach</surname>
+							<given-names>R. P.</given-names>
+						</name>
+						<name>
+							<surname>Mortier</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Bruffaerts</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Alonso</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Benjet</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Cuijpers</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Kessler</surname>
+							<given-names>R. C.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>WHO World Mental Health Surveys International College Student Project: Prevalence and distribution of mental disorders</article-title>
+					<source>Journal of Abnormal Psychology</source>
+					<volume>127</volume>
+					<issue>7</issue>
+					<fpage>623</fpage>
+					<lpage>638</lpage>
+					<pub-id pub-id-type="doi">10.1037/abn0000362</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Barber, C. W., y Miller, M. J. (2014). Reducing a suicidal person’s access to lethal means of suicide: a research agenda. <italic>American Journal of Preventive Medicine</italic>, <italic>47</italic>(3), S264-S272. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.amepre.2014.05.028">https://doi.org/10.1016/j.amepre.2014.05.028</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barber</surname>
+							<given-names>C. W.</given-names>
+						</name>
+						<name>
+							<surname>Miller</surname>
+							<given-names>M. J.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Reducing a suicidal person’s access to lethal means of suicide: a research agenda</article-title>
+					<source>American Journal of Preventive Medicine</source>
+					<volume>47</volume>
+					<issue>3</issue>
+					<fpage>S264</fpage>
+					<lpage>S272</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.amepre.2014.05.028</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Barnett, P., Tickell, A., Osborn, T., Delamain, H., Fonagy, P., Pilling, S., y Gibbon, L. (2024). Help-Seeking and Disclosure in University Students with Suicidal Thoughts and Self-Harm: A Systematic Review. <italic>International Journal of Mental Health and Addiction</italic>, <italic>24</italic>, 623-700. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11469-024-01416-8">https://doi.org/10.1007/s11469-024-01416-8</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barnett</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Tickell</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Osborn</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Delamain</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Fonagy</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Pilling</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Gibbon</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Help-Seeking and Disclosure in University Students with Suicidal Thoughts and Self-Harm: A Systematic Review</article-title>
+					<source>International Journal of Mental Health and Addiction</source>
+					<volume>24</volume>
+					<fpage>623</fpage>
+					<lpage>700</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11469-024-01416-8</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Baumhauer, J., Mortenson, L. Y., Rion, E., y Hong, V. (2025). Management of College Student Mental Health Emergencies. <italic>Current Psychiatry Reports</italic>, <italic>27</italic>, 337-346. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11920-025-01603-x">https://doi.org/10.1007/s11920-025-01603-x</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Baumhauer</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Mortenson</surname>
+							<given-names>L. Y.</given-names>
+						</name>
+						<name>
+							<surname>Rion</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Hong</surname>
+							<given-names>V.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Management of College Student Mental Health Emergencies</article-title>
+					<source>Current Psychiatry Reports</source>
+					<volume>27</volume>
+					<fpage>337</fpage>
+					<lpage>346</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11920-025-01603-x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Blalock, K., Pistorello, J., Rizvi, S. L., Seeley, J. R., Kassing, F., Sinclair, J., Oshin, L. A., Gallop, R. J., Fry, C. M., Snyderman, T., Jobes, D. A., Crumlish, J., Krall, H. R., Stadelman, S., Gözenman-Sapin, F., Davies, K., Steele, D., Goldston, D. B., y Compton, S. N. (2025). The Comprehensive Adaptive Multisite Prevention of University Student Suicide Trial: Protocol for a Randomized Controlled Trial. <italic>JMIR Research Protocols</italic>, <italic>14</italic>, e68441. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2196/68441">https://doi.org/10.2196/68441</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Blalock</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Pistorello</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Rizvi</surname>
+							<given-names>S. L.</given-names>
+						</name>
+						<name>
+							<surname>Seeley</surname>
+							<given-names>J. R.</given-names>
+						</name>
+						<name>
+							<surname>Kassing</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Sinclair</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Oshin</surname>
+							<given-names>L. A.</given-names>
+						</name>
+						<name>
+							<surname>Gallop</surname>
+							<given-names>R. J.</given-names>
+						</name>
+						<name>
+							<surname>Fry</surname>
+							<given-names>C. M.</given-names>
+						</name>
+						<name>
+							<surname>Snyderman</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Jobes</surname>
+							<given-names>D. A.</given-names>
+						</name>
+						<name>
+							<surname>Crumlish</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Krall</surname>
+							<given-names>H. R.</given-names>
+						</name>
+						<name>
+							<surname>Stadelman</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Gözenman-Sapin</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Davies</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Steele</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Goldston</surname>
+							<given-names>D. B.</given-names>
+						</name>
+						<name>
+							<surname>Compton</surname>
+							<given-names>S. N.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>The Comprehensive Adaptive Multisite Prevention of University Student Suicide Trial: Protocol for a Randomized Controlled Trial</article-title>
+					<source>JMIR Research Protocols</source>
+					<volume>14</volume>
+					<elocation-id>e68441</elocation-id>
+					<pub-id pub-id-type="doi">10.2196/68441</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Bryan, C. J., y Rudd, M. D. (2018). <italic>Brief cognitive-behavioral therapy for suicide prevention</italic>. Guilford Publications.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bryan</surname>
+							<given-names>C. J.</given-names>
+						</name>
+						<name>
+							<surname>Rudd</surname>
+							<given-names>M. D.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Brief cognitive-behavioral therapy for suicide prevention</source>
+					<publisher-name>Guilford Publications</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Center for Collegiate Mental Health. (2017). <italic>2016 Annual Report</italic>
+ <italic>(Publication No.</italic> 
+ <italic>STA 17-74</italic>). <ext-link ext-link-type="uri" xlink:href="https://ccmh.psu.edu/assets/docs/2016-Annual-Report-FINAL_2016_01_09-1gc2hj6.pdf">https://ccmh.psu.edu/assets/docs/2016-Annual-Report-FINAL_2016_01_09-1gc2hj6.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Center for Collegiate Mental Health</collab>
+					</person-group>
+					<year>2017</year>
+					<source>2016 Annual Report</source>
+					<pub-id pub-id-type="other">STA 17-74</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="https://ccmh.psu.edu/assets/docs/2016-Annual-Report-FINAL_2016_01_09-1gc2hj6.pdf">https://ccmh.psu.edu/assets/docs/2016-Annual-Report-FINAL_2016_01_09-1gc2hj6.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Center for Collegiate Mental Health. (2024). <italic>2023 Annual Report</italic>. Recuperado el 1 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://ccmh.psu.edu/assets/docs/2023_Annual%20Report.pdf">https://ccmh.psu.edu/assets/docs/2023_Annual%20Report.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Center for Collegiate Mental Health</collab>
+					</person-group>
+					<year>2024</year>
+					<source>2023 Annual Report</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-01">1 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 1 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://ccmh.psu.edu/assets/docs/2023_Annual%20Report.pdf">https://ccmh.psu.edu/assets/docs/2023_Annual%20Report.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Cheng, Y., Zhang, X. M., Ye, S. Y., Jin, H. M., y Yang, X. H. (2020). Suicide in Chinese graduate students: A review from 2000 to 2019. <italic>Frontiers in Psychiatry</italic>, <italic>11</italic>, 579745. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fpsyt.2020.579745">https://doi.org/10.3389/fpsyt.2020.579745</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cheng</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>X. M.</given-names>
+						</name>
+						<name>
+							<surname>Ye</surname>
+							<given-names>S. Y.</given-names>
+						</name>
+						<name>
+							<surname>Jin</surname>
+							<given-names>H. M.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>X. H.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Suicide in Chinese graduate students: A review from 2000 to 2019</article-title>
+					<source>Frontiers in Psychiatry</source>
+					<volume>11</volume>
+					<elocation-id>579745</elocation-id>
+					<pub-id pub-id-type="doi">10.3389/fpsyt.2020.579745</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Daigle, M. S. (2005). Suicide prevention through means restriction: Assessing the risk of substitution: A critical review and synthesis. <italic>Accident Analysis &amp; Prevention</italic>, <italic>37</italic>(4), 625-632. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.aap.2005.03.004">https://doi.org/10.1016/j.aap.2005.03.004</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Daigle</surname>
+							<given-names>M. S.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Suicide prevention through means restriction: Assessing the risk of substitution: A critical review and synthesis</article-title>
+					<source>Accident Analysis &amp; Prevention</source>
+					<volume>37</volume>
+					<issue>4</issue>
+					<fpage>625</fpage>
+					<lpage>632</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.aap.2005.03.004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Drum, D. J., y Denmark, A. B. (2012). Campus suicide prevention: Bridging paradigms and forging partnerships. <italic>Harvard Review of Psychiatry</italic>, <italic>20</italic>(4), 209-221. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3109/10673229.2012.712841">https://doi.org/10.3109/10673229.2012.712841</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Drum</surname>
+							<given-names>D. J.</given-names>
+						</name>
+						<name>
+							<surname>Denmark</surname>
+							<given-names>A. B.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Campus suicide prevention: Bridging paradigms and forging partnerships</article-title>
+					<source>Harvard Review of Psychiatry</source>
+					<volume>20</volume>
+					<issue>4</issue>
+					<fpage>209</fpage>
+					<lpage>221</lpage>
+					<pub-id pub-id-type="doi">10.3109/10673229.2012.712841</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Eisenberg, D., Golberstein, E., y Gollust, S. E. (2007). Help-seeking and access to mental health care in a university student population. <italic>Medical Care</italic>, <italic>45</italic>(7), 594-601.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Eisenberg</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Golberstein</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Gollust</surname>
+							<given-names>S. E.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Help-seeking and access to mental health care in a university student population</article-title>
+					<source>Medical Care</source>
+					<volume>45</volume>
+					<issue>7</issue>
+					<fpage>594</fpage>
+					<lpage>601</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Estupiñá, F. J., Santalla, A., Prieto-Vila, M., Sanz, A., y Larroy, C. (2024). Mental health in doctoral students: individual, academic, and organizational predictors. <italic>Psicothema</italic>, <italic>36</italic>(2), 123-132. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7334/psicothema2023.156">https://doi.org/10.7334/psicothema2023.156</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Estupiñá</surname>
+							<given-names>F. J.</given-names>
+						</name>
+						<name>
+							<surname>Santalla</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Prieto-Vila</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Sanz</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Larroy</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Mental health in doctoral students: individual, academic, and organizational predictors</article-title>
+					<source>Psicothema</source>
+					<volume>36</volume>
+					<issue>2</issue>
+					<fpage>123</fpage>
+					<lpage>132</lpage>
+					<pub-id pub-id-type="doi">10.7334/psicothema2023.156</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Gabilondo, A., Muela, A., Belarra, B., De Sayas, A., García, J., López, P., Reich, H., y Iruin, Á. (2024). Evaluación de BIZI, nuevo programa en línea en español para prevenir el suicidio desde la comunidad. <italic>Revista Panamericana de Salud Pública</italic>, <italic>48</italic>, e20. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.26633/RPSP.2024.20">https://doi.org/10.26633/RPSP.2024.20</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gabilondo</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Muela</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Belarra</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>De Sayas</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>García</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>López</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Reich</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Iruin</surname>
+							<given-names>Á.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Evaluación de BIZI, nuevo programa en línea en español para prevenir el suicidio desde la comunidad</article-title>
+					<source>Revista Panamericana de Salud Pública</source>
+					<volume>48</volume>
+					<elocation-id>e20</elocation-id>
+					<pub-id pub-id-type="doi">10.26633/RPSP.2024.20</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Gallagher, R. P. (2014). <italic>National Survey of College Counseling Centers 2014</italic>. American College Counseling Association. <ext-link ext-link-type="uri" xlink:href="http://d-scholarship.pitt.edu/28178/1/survey_2014.pdf">http://d-scholarship.pitt.edu/28178/1/survey_2014.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gallagher</surname>
+							<given-names>R. P.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>National Survey of College Counseling Centers 2014</source>
+					<publisher-name>American College Counseling Association</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="http://d-scholarship.pitt.edu/28178/1/survey_2014.pdf">http://d-scholarship.pitt.edu/28178/1/survey_2014.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Gorman, K., Bershad, C., y LeViness, P. (2017). <italic>The Association for University and College Counseling Center Directors Annual Survey</italic>. The Association for University and College Counseling Center Directors. <ext-link ext-link-type="uri" xlink:href="https://www.aucccd.org/assets/documents/Governance/2017%20aucccd%20survey-public-apr26.pdf">https://www.aucccd.org/assets/documents/Governance/2017%20aucccd%20survey-public-apr26.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gorman</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Bershad</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>LeViness</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>The Association for University and College Counseling Center Directors Annual Survey</source>
+					<publisher-name>The Association for University and College Counseling Center Directors</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://www.aucccd.org/assets/documents/Governance/2017%20aucccd%20survey-public-apr26.pdf">https://www.aucccd.org/assets/documents/Governance/2017%20aucccd%20survey-public-apr26.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Gulliver, A., Farrer, L., Bennett, K., Ali, K., Hellsing, A., Katruss, N., y Griffiths, K. M. (2018). University staff experiences of students with mental health problems and their perceptions of staff training needs. <italic>Journal of Mental Health</italic>, <italic>27</italic>(3), 247-256.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gulliver</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Farrer</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Bennett</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Ali</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Hellsing</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Katruss</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Griffiths</surname>
+							<given-names>K. M.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>University staff experiences of students with mental health problems and their perceptions of staff training needs</article-title>
+					<source>Journal of Mental Health</source>
+					<volume>27</volume>
+					<issue>3</issue>
+					<fpage>247</fpage>
+					<lpage>256</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Han, B., Compton, W. M., Eisenberg, D., Milazzo-Sayre, L., McKeon, R., y Hughes, A. (2016). Prevalence and mental health treatment of suicidal ideation and behavior among college students aged 18-25 years and their non-college-attending peers in the United States. <italic>Journal of Clinical Psychiatry</italic>, <italic>77</italic>(6), 815-824.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Han</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Compton</surname>
+							<given-names>W. M.</given-names>
+						</name>
+						<name>
+							<surname>Eisenberg</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Milazzo-Sayre</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>McKeon</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Hughes</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Prevalence and mental health treatment of suicidal ideation and behavior among college students aged 18-25 years and their non-college-attending peers in the United States</article-title>
+					<source>Journal of Clinical Psychiatry</source>
+					<volume>77</volume>
+					<issue>6</issue>
+					<fpage>815</fpage>
+					<lpage>824</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Hashimoto, N., Takeda, H., Fujii, Y., Suzuki, Y., Kato, T. A., Fujisawa, D., ... y Kusumi, I. (2021). Effectiveness of suicide prevention gatekeeper training for university teachers in Japan. <italic>Asian Journal of Psychiatry</italic>, <italic>60</italic>, 102661. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.ajp.2021.102661">https://doi.org/10.1016/j.ajp.2021.102661</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hashimoto</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Takeda</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Fujii</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Suzuki</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Kato</surname>
+							<given-names>T. A.</given-names>
+						</name>
+						<name>
+							<surname>Fujisawa</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Kusumi</surname>
+							<given-names>I.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Effectiveness of suicide prevention gatekeeper training for university teachers in Japan</article-title>
+					<source>Asian Journal of Psychiatry</source>
+					<volume>60</volume>
+					<elocation-id>102661</elocation-id>
+					<pub-id pub-id-type="doi">10.1016/j.ajp.2021.102661</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Hedegaard, H., Curtin, S. C., y Warner, M. (2020). <italic>Increase in suicide mortality in the United States, 1999-2018</italic>. National Center for Health Statistics. (NCHS Data Brief No. 362). Recuperado el 4 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.cdc.gov/nchs/products/databriefs/db362.htm">https://www.cdc.gov/nchs/products/databriefs/db362.htm</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hedegaard</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Curtin</surname>
+							<given-names>S. C.</given-names>
+						</name>
+						<name>
+							<surname>Warner</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>Increase in suicide mortality in the United States, 1999-2018</source>
+					<publisher-name>National Center for Health Statistics</publisher-name>
+					<pub-id pub-id-type="other">NCHS Data Brief No. 362</pub-id>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-04">4 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 4 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.cdc.gov/nchs/products/databriefs/db362.htm">https://www.cdc.gov/nchs/products/databriefs/db362.htm</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Hews-Girard, J., Leslie, R. D., So, A. Y., Patten, S., Ramirez Pineda, A., Saini, H. K., … Dimitropoulos, G. (2024). Developing recommendations to improve identification, prevention, and response to suicide thoughts and behaviours among post-secondary students: A mixed methods study. <italic>Journal of American College Health</italic>, <italic>73</italic>(6), 2631-2642. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/07448481.2024.2325924">https://doi.org/10.1080/07448481.2024.2325924</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hews-Girard</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Leslie</surname>
+							<given-names>R. D.</given-names>
+						</name>
+						<name>
+							<surname>So</surname>
+							<given-names>A. Y.</given-names>
+						</name>
+						<name>
+							<surname>Patten</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ramirez Pineda</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Saini</surname>
+							<given-names>H. K.</given-names>
+						</name>
+						<name>
+							<surname>Dimitropoulos</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Developing recommendations to improve identification, prevention, and response to suicide thoughts and behaviours among post-secondary students: A mixed methods study</article-title>
+					<source>Journal of American College Health</source>
+					<volume>73</volume>
+					<issue>6</issue>
+					<fpage>2631</fpage>
+					<lpage>2642</lpage>
+					<pub-id pub-id-type="doi">10.1080/07448481.2024.2325924</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Hughes, G., Panjwani, M., Tulcidas, P., y Byrom, N. (2018). <italic>Student mental health: The role and experiences of academics</italic>. Student Minds. Recuperado el 25 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.studentminds.org.uk/uploads/3/7/8/4/3784584/180129_student_mental_health__the_role_and_experience_of_academics__student_minds_pdf.pdf">https://www.studentminds.org.uk/uploads/3/7/8/4/3784584/180129_student_mental_health__the_role_and_experience_of_academics__student_minds_pdf.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hughes</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Panjwani</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Tulcidas</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Byrom</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Student mental health: The role and experiences of academics</source>
+					<publisher-name>Student Minds</publisher-name>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-25">25 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 25 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.studentminds.org.uk/uploads/3/7/8/4/3784584/180129_student_mental_health__the_role_and_experience_of_academics__student_minds_pdf.pdf">https://www.studentminds.org.uk/uploads/3/7/8/4/3784584/180129_student_mental_health__the_role_and_experience_of_academics__student_minds_pdf.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Instituto Nacional de Estadística (2024). <italic>Defunciones por causa de muerte</italic>. Recuperado el 4 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.ine.es/dyngs/Prensa/pEDCM2023.htm">https://www.ine.es/dyngs/Prensa/pEDCM2023.htm</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="database">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Estadística</collab>
+					</person-group>
+					<year>2024</year>
+					<source>Defunciones por causa de muerte</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-04">4 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 4 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.ine.es/dyngs/Prensa/pEDCM2023.htm">https://www.ine.es/dyngs/Prensa/pEDCM2023.htm</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Jobes, D. A. (2023). <italic>Managing suicidal risk: A collaborative approach</italic>. Guilford Publications.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jobes</surname>
+							<given-names>D. A.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>Managing suicidal risk: A collaborative approach</source>
+					<publisher-name>Guilford Publications</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Kiekens, G., Hasking, P., Bruffaerts, R., Alonso, J., Auerbach, R. P., Bantjes, J., ... y WMH-ICS Collaborators. (2023). Non-suicidal self-injury among first-year college students and its association with mental disorders: Results from the World Mental Health International College Student (WMH-ICS) initiative. <italic>Psychological Medicine</italic>, <italic>53</italic>, 875-886. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0033291721002245">https://doi.org/10.1017/S0033291721002245</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kiekens</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Hasking</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Bruffaerts</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Alonso</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Auerbach</surname>
+							<given-names>R. P.</given-names>
+						</name>
+						<name>
+							<surname>Bantjes</surname>
+							<given-names>J.</given-names>
+						</name>
+						<collab>WMH-ICS Collaborators</collab>
+					</person-group>
+					<year>2023</year>
+					<article-title>Non-suicidal self-injury among first-year college students and its association with mental disorders: Results from the World Mental Health International College Student (WMH-ICS) initiative</article-title>
+					<source>Psychological Medicine</source>
+					<volume>53</volume>
+					<fpage>875</fpage>
+					<lpage>886</lpage>
+					<pub-id pub-id-type="doi">10.1017/S0033291721002245</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Knapp, S. (2023). The essentials of creating effective safety planning-type interventions for suicidal patients. <italic>Practice Innovations</italic>, <italic>8</italic>(2), 131-140. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pri0000205">https://doi.org/10.1037/pri0000205</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Knapp</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>The essentials of creating effective safety planning-type interventions for suicidal patients</article-title>
+					<source>Practice Innovations</source>
+					<volume>8</volume>
+					<issue>2</issue>
+					<fpage>131</fpage>
+					<lpage>140</lpage>
+					<pub-id pub-id-type="doi">10.1037/pri0000205</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Labrador, F. J., Bernaldo-de-Quirós, M., García-Fernández, G., Estupiná, F., Fernández-Arias, I., y Labrador-Méndez, M. (2016). Characteristics of demand and psychological treatments in a university clinic. <italic>Clínica y Salud</italic>, <italic>27</italic>(1), 7-14. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.clysa.2016.01.002">https://doi.org/10.1016/j.clysa.2016.01.002</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Labrador</surname>
+							<given-names>F. J.</given-names>
+						</name>
+						<name>
+							<surname>Bernaldo-de-Quirós</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>García-Fernández</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Estupiná</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Fernández-Arias</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Labrador-Méndez</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Characteristics of demand and psychological treatments in a university clinic</article-title>
+					<source>Clínica y Salud</source>
+					<volume>27</volume>
+					<issue>1</issue>
+					<fpage>7</fpage>
+					<lpage>14</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.clysa.2016.01.002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Lageborn, C. T., Bjureberg, J., Song, J., et al. (2023). Risk of suicide and self-harm in university students entering different university programs - a national register-based cohort study in Sweden. <italic>Social Psychiatry and Psychiatric Epidemiology</italic>, <italic>58</italic>, 1139-1149. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00127-023-02484-2">https://doi.org/10.1007/s00127-023-02484-2</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lageborn</surname>
+							<given-names>C. T.</given-names>
+						</name>
+						<name>
+							<surname>Bjureberg</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Song</surname>
+							<given-names>J.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2023</year>
+					<article-title>Risk of suicide and self-harm in university students entering different university programs - a national register-based cohort study in Sweden</article-title>
+					<source>Social Psychiatry and Psychiatric Epidemiology</source>
+					<volume>58</volume>
+					<fpage>1139</fpage>
+					<lpage>1149</lpage>
+					<pub-id pub-id-type="doi">10.1007/s00127-023-02484-2</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Lew, B., Osman, A., Huen, J. M. Y., Siau, C. S., Talib, M. A., Cunxian, J., Mei, C., Chan, H., y Leung, A. N. M. (2020). A comparison between American and Chinese college students on suicide-related behavior parameters. <italic>International Journal of Clinical and Health Psychology</italic>, <italic>20</italic>(2), 108-117. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.ijchp.2020.03.005">https://doi.org/10.1016/j.ijchp.2020.03.005</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lew</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Osman</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Huen</surname>
+							<given-names>J. M. Y.</given-names>
+						</name>
+						<name>
+							<surname>Siau</surname>
+							<given-names>C. S.</given-names>
+						</name>
+						<name>
+							<surname>Talib</surname>
+							<given-names>M. A.</given-names>
+						</name>
+						<name>
+							<surname>Cunxian</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Mei</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Chan</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Leung</surname>
+							<given-names>A. N. M.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>A comparison between American and Chinese college students on suicide-related behavior parameters</article-title>
+					<source>International Journal of Clinical and Health Psychology</source>
+					<volume>20</volume>
+					<issue>2</issue>
+					<fpage>108</fpage>
+					<lpage>117</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.ijchp.2020.03.005</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Linehan, M. M. (1993). <italic>Cognitive behavioral therapy of borderline personality disorder</italic>. Guilford Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Linehan</surname>
+							<given-names>M. M.</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<source>Cognitive behavioral therapy of borderline personality disorder</source>
+					<publisher-name>Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Lipson, S. K., Zhou, S., Abelson, S., Heinze, J., Jirsa, M., Morigney, J., ... y Eisenberg, D. (2022). Trends in college student mental health and help-seeking by race/ethnicity: Findings from the national healthy minds study, 2013-2021. <italic>Journal of Affective Disorders</italic>, <italic>306</italic>, 138-147. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jad.2022.03.038">https://doi.org/10.1016/j.jad.2022.03.038</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lipson</surname>
+							<given-names>S. K.</given-names>
+						</name>
+						<name>
+							<surname>Zhou</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Abelson</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Heinze</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Jirsa</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Morigney</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Eisenberg</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Trends in college student mental health and help-seeking by race/ethnicity: Findings from the national healthy minds study, 2013-2021</article-title>
+					<source>Journal of Affective Disorders</source>
+					<volume>306</volume>
+					<fpage>138</fpage>
+					<lpage>147</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jad.2022.03.038</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Mann, J. J., Michel, C. A., y Auerbach, R. P. (2021). Improving suicide prevention through evidence-based strategies: a systematic review. <italic>American Journal of Psychiatry</italic>, <italic>178</italic>(7), 611-624. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1176/appi.ajp.2020.20060864">https://doi.org/10.1176/appi.ajp.2020.20060864</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mann</surname>
+							<given-names>J. J.</given-names>
+						</name>
+						<name>
+							<surname>Michel</surname>
+							<given-names>C. A.</given-names>
+						</name>
+						<name>
+							<surname>Auerbach</surname>
+							<given-names>R. P.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Improving suicide prevention through evidence-based strategies: a systematic review</article-title>
+					<source>American Journal of Psychiatry</source>
+					<volume>178</volume>
+					<issue>7</issue>
+					<fpage>611</fpage>
+					<lpage>624</lpage>
+					<pub-id pub-id-type="doi">10.1176/appi.ajp.2020.20060864</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Marutani, T., Yasumi, K., Saito, K., Ibaraki, T., y Takayama, J. Y. (2024). Suicide among national university graduate students in Japan from 2002 to 2021. <italic>PCN reports: Psychiatry and Clinical Neurosciences</italic>, <italic>3</italic>(1), e180. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/pcn5.180">https://doi.org/10.1002/pcn5.180</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marutani</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Yasumi</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Saito</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Ibaraki</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Takayama</surname>
+							<given-names>J. Y.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Suicide among national university graduate students in Japan from 2002 to 2021</article-title>
+					<source>PCN reports: Psychiatry and Clinical Neurosciences</source>
+					<volume>3</volume>
+					<issue>1</issue>
+					<elocation-id>e180</elocation-id>
+					<pub-id pub-id-type="doi">10.1002/pcn5.180</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Mendizabal, R., y King, M. (2020). <italic>The Rate of Student Death from Suicide from the Big Ten Counseling Centers: 2009-2018</italic>. Recuperado el 1 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK567374/">https://www.ncbi.nlm.nih.gov/books/NBK567374/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mendizabal</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>King</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>The Rate of Student Death from Suicide from the Big Ten Counseling Centers: 2009-2018</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-01">1 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 1 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK567374/">https://www.ncbi.nlm.nih.gov/books/NBK567374/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Ministerio de Sanidad (2025). <italic>Plan de acción para la prevención del suicidio 2025-2027</italic>. Gobierno de España.</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Ministerio de Sanidad</collab>
+					</person-group>
+					<year>2025</year>
+					<source>Plan de acción para la prevención del suicidio 2025-2027</source>
+					<publisher-name>Gobierno de España</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Ministerio de Universidades. (2023). <italic>La salud mental en el estudiantado de las universidades españolas</italic>. Gobierno de España.</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Ministerio de Universidades</collab>
+					</person-group>
+					<year>2023</year>
+					<source>La salud mental en el estudiantado de las universidades españolas</source>
+					<publisher-name>Gobierno de España</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Mitchell, S. L. (2023). The work of college counseling centers in the early 21st century. <italic>The American Psychologist</italic>, <italic>78</italic>(9), 1125-1136. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/amp0001249">https://doi.org/10.1037/amp0001249</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mitchell</surname>
+							<given-names>S. L.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>The work of college counseling centers in the early 21st century</article-title>
+					<source>The American Psychologist</source>
+					<volume>78</volume>
+					<issue>9</issue>
+					<fpage>1125</fpage>
+					<lpage>1136</lpage>
+					<pub-id pub-id-type="doi">10.1037/amp0001249</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Mortier, P., Cuijpers, P., Kiekens, G., Auerbach, R. P., Demyttenaere, K., Green, J. G., ... y Bruffaerts, R. (2018). The prevalence of suicidal thoughts and behaviours among college students: A meta-analysis. <italic>Psychological Medicine</italic>, <italic>48</italic>(4), 554-565. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0033291717002215">https://doi.org/10.1017/S0033291717002215</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mortier</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Cuijpers</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Kiekens</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Auerbach</surname>
+							<given-names>R. P.</given-names>
+						</name>
+						<name>
+							<surname>Demyttenaere</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Green</surname>
+							<given-names>J. G.</given-names>
+						</name>
+						<name>
+							<surname>Bruffaerts</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>The prevalence of suicidal thoughts and behaviours among college students: A meta-analysis</article-title>
+					<source>Psychological Medicine</source>
+					<volume>48</volume>
+					<issue>4</issue>
+					<fpage>554</fpage>
+					<lpage>565</lpage>
+					<pub-id pub-id-type="doi">10.1017/S0033291717002215</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Muela, A., García-Ormaza, J., Sistiaga, A., Insúa, P. (2025). <italic>Suicide prevention in the university through Gatekeeper training: a preliminary study</italic>. Documento no publicado.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muela</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>García-Ormaza</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Sistiaga</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Insúa</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<source>Suicide prevention in the university through Gatekeeper training: a preliminary study</source>
+					<comment>Documento no publicado</comment>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Pistorello, J., Jobes, D. A., Compton, S. N., Locey, N. S., Walloch, J. C., Gallop, R., et al. (2017). Developing adaptive treatment strategies to address suicidal risk in college students: A pilot sequential, multiple assignment, randomized trial (SMART). <italic>Archives of Suicide Research</italic>, <italic>22</italic>(4), 644-664.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pistorello</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Jobes</surname>
+							<given-names>D. A.</given-names>
+						</name>
+						<name>
+							<surname>Compton</surname>
+							<given-names>S. N.</given-names>
+						</name>
+						<name>
+							<surname>Locey</surname>
+							<given-names>N. S.</given-names>
+						</name>
+						<name>
+							<surname>Walloch</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Gallop</surname>
+							<given-names>R.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2017</year>
+					<article-title>Developing adaptive treatment strategies to address suicidal risk in college students: A pilot sequential, multiple assignment, randomized trial (SMART)</article-title>
+					<source>Archives of Suicide Research</source>
+					<volume>22</volume>
+					<issue>4</issue>
+					<fpage>644</fpage>
+					<lpage>664</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Poli, M., Russotto, S., Fornaro, M., Gonda, X., Lopez-Castroman, J., Madeddu, F., Zeppegno, P., Gramaglia, C., y Calati, R. (2025). Suicide risk among residents and PhD students: A systematic review of the literature. <italic>Journal of Psychiatric Research</italic>, <italic>181</italic>, 433-462. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jpsychires.2024.12.013">https://doi.org/10.1016/j.jpsychires.2024.12.013</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Poli</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Russotto</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Fornaro</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Gonda</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Lopez-Castroman</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Madeddu</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Zeppegno</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Gramaglia</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Calati</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Suicide risk among residents and PhD students: A systematic review of the literature</article-title>
+					<source>Journal of Psychiatric Research</source>
+					<volume>181</volume>
+					<fpage>433</fpage>
+					<lpage>462</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jpsychires.2024.12.013</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Prieto-Vila, M., Estupiñá, F. J., Aparicio-García, M. E., Santalla, Á., Sanz, A., y Larroy, C. (2024). Diferencias de género y problemas de salud mental entre estudiantes de doctorado. <italic>Ansiedad y Estrés</italic>, <italic>30</italic>(2), 117-122. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5093/anyes2024a15">https://doi.org/10.5093/anyes2024a15</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Prieto-Vila</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Estupiñá</surname>
+							<given-names>F. J.</given-names>
+						</name>
+						<name>
+							<surname>Aparicio-García</surname>
+							<given-names>M. E.</given-names>
+						</name>
+						<name>
+							<surname>Santalla</surname>
+							<given-names>Á.</given-names>
+						</name>
+						<name>
+							<surname>Sanz</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Larroy</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Diferencias de género y problemas de salud mental entre estudiantes de doctorado</article-title>
+					<source>Ansiedad y Estrés</source>
+					<volume>30</volume>
+					<issue>2</issue>
+					<fpage>117</fpage>
+					<lpage>122</lpage>
+					<pub-id pub-id-type="doi">10.5093/anyes2024a15</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Rallis, B. A., Esposito-Smythers, C., Disabato, D. J., Mehlenbeck, R. S., Kaplan, S., Geer, L., ... y Meehan, B. (2018). A brief peer gatekeeper suicide prevention training: Results of an open pilot trial. <italic>Journal of Clinical Psychology</italic>, <italic>74</italic>(7), 1106-1116. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/jclp.22590">https://doi.org/10.1002/jclp.22590</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rallis</surname>
+							<given-names>B. A.</given-names>
+						</name>
+						<name>
+							<surname>Esposito-Smythers</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Disabato</surname>
+							<given-names>D. J.</given-names>
+						</name>
+						<name>
+							<surname>Mehlenbeck</surname>
+							<given-names>R. S.</given-names>
+						</name>
+						<name>
+							<surname>Kaplan</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Geer</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Meehan</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>A brief peer gatekeeper suicide prevention training: Results of an open pilot trial</article-title>
+					<source>Journal of Clinical Psychology</source>
+					<volume>74</volume>
+					<issue>7</issue>
+					<fpage>1106</fpage>
+					<lpage>1116</lpage>
+					<pub-id pub-id-type="doi">10.1002/jclp.22590</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Salaberría, K., Polo-López, R., Ruiz-Iriondo, M., Cruz-Sáez, S., y Echeburúa, E. (2016). Análisis de la demanda en una unidad universitaria de asistencia psicológica. <italic>Revista Argentina de Clínica Psicológica</italic>, <italic>25</italic>(3), 299-308.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salaberría</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Polo-López</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Ruiz-Iriondo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Cruz-Sáez</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Echeburúa</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Análisis de la demanda en una unidad universitaria de asistencia psicológica</article-title>
+					<source>Revista Argentina de Clínica Psicológica</source>
+					<volume>25</volume>
+					<issue>3</issue>
+					<fpage>299</fpage>
+					<lpage>308</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Saúl, L. A., López-González, M. A., y Bermejo, B. G. (2009). Revisión de los servicios de atención psicológica y psicopedagógica en las universidades españolas. <italic>Acción Psicológica</italic>, <italic>6</italic>, 17-40.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Saúl</surname>
+							<given-names>L. A.</given-names>
+						</name>
+						<name>
+							<surname>López-González</surname>
+							<given-names>M. A.</given-names>
+						</name>
+						<name>
+							<surname>Bermejo</surname>
+							<given-names>B. G.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Revisión de los servicios de atención psicológica y psicopedagógica en las universidades españolas</article-title>
+					<source>Acción Psicológica</source>
+					<volume>6</volume>
+					<fpage>17</fpage>
+					<lpage>40</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Schwartz, A. J. (2006). College student suicide in the United States: 1990-1991 through 2003-2004. <italic>Journal of American College Health</italic>, <italic>54</italic>, 341-352. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3200/JACH.54.6.341-352">https://doi.org/10.3200/JACH.54.6.341-352</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schwartz</surname>
+							<given-names>A. J.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>College student suicide in the United States: 1990-1991 through 2003-2004</article-title>
+					<source>Journal of American College Health</source>
+					<volume>54</volume>
+					<fpage>341</fpage>
+					<lpage>352</lpage>
+					<pub-id pub-id-type="doi">10.3200/JACH.54.6.341-352</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<mixed-citation>Sheldon, E., Simmonds-Buckley, M., Bone, C., Mascarenhas, T., Chan, N., Wincott, M., et al. (2021). Prevalence and risk factors for mental health problems in university undergraduate students: A systematic review with meta-analysis. <italic>Journal of Affective Disorders</italic>, <italic>287</italic>, 282-292. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jad.2021.03.054">https://doi.org/10.1016/j.jad.2021.03.054</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sheldon</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Simmonds-Buckley</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Bone</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Mascarenhas</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Chan</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Wincott</surname>
+							<given-names>M.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2021</year>
+					<article-title>Prevalence and risk factors for mental health problems in university undergraduate students: A systematic review with meta-analysis</article-title>
+					<source>Journal of Affective Disorders</source>
+					<volume>287</volume>
+					<fpage>282</fpage>
+					<lpage>292</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jad.2021.03.054</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B52">
+				<mixed-citation>Silverman, M. M., Meyer, P. M., Sloane, F., Raffel, M., y Pratt, D. M. (1997). The Big Ten Student Suicide Study: A 10-year study of suicides on midwestern university campuses. <italic>Suicide and Life-Threatening Behavior</italic>, <italic>27</italic>(3), 285-303.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Silverman</surname>
+							<given-names>M. M.</given-names>
+						</name>
+						<name>
+							<surname>Meyer</surname>
+							<given-names>P. M.</given-names>
+						</name>
+						<name>
+							<surname>Sloane</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Raffel</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Pratt</surname>
+							<given-names>D. M.</given-names>
+						</name>
+					</person-group>
+					<year>1997</year>
+					<article-title>The Big Ten Student Suicide Study: A 10-year study of suicides on midwestern university campuses</article-title>
+					<source>Suicide and Life-Threatening Behavior</source>
+					<volume>27</volume>
+					<issue>3</issue>
+					<fpage>285</fpage>
+					<lpage>303</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B53">
+				<mixed-citation>Sivertsen, B., Hysing, M., Knapstad, M., Harvey, A. G., Reneflot, A., Lønning, K. J., y O’Connor, R. C. (2019). Suicide attempts and non-suicidal self-harm among university students: Prevalence study. <italic>BJPsych Open</italic>, <italic>5</italic>(2), e26. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1192/bjo.2019.4">https://doi.org/10.1192/bjo.2019.4</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sivertsen</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Hysing</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Knapstad</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Harvey</surname>
+							<given-names>A. G.</given-names>
+						</name>
+						<name>
+							<surname>Reneflot</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Lønning</surname>
+							<given-names>K. J.</given-names>
+						</name>
+						<name>
+							<surname>O’Connor</surname>
+							<given-names>R. C.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Suicide attempts and non-suicidal self-harm among university students: Prevalence study</article-title>
+					<source>BJPsych Open</source>
+					<volume>5</volume>
+					<issue>2</issue>
+					<elocation-id>e26</elocation-id>
+					<pub-id pub-id-type="doi">10.1192/bjo.2019.4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B54">
+				<mixed-citation>Spafford, S. G., Silverman, M. M., y Gutierrez, P. M. (2025). What is known about suicide prevention gatekeeper training and directions for future research. <italic>Suicide and Life-Threatening Behavior</italic>, <italic>55</italic>, e13130. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/sltb.13130">https://doi.org/10.1111/sltb.13130</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Spafford</surname>
+							<given-names>S. G.</given-names>
+						</name>
+						<name>
+							<surname>Silverman</surname>
+							<given-names>M. M.</given-names>
+						</name>
+						<name>
+							<surname>Gutierrez</surname>
+							<given-names>P. M.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>What is known about suicide prevention gatekeeper training and directions for future research</article-title>
+					<source>Suicide and Life-Threatening Behavior</source>
+					<volume>55</volume>
+					<elocation-id>e13130</elocation-id>
+					<pub-id pub-id-type="doi">10.1111/sltb.13130</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B55">
+				<mixed-citation>Stanley, B., Chaudhury, S. R., Chesin, M., Pontoski, K., Bush, A. M., Knox, K. L., y Brown, G. K. (2016). An emergency department intervention and follow-up to reduce suicide risk in the VA: Acceptability and effectiveness. <italic>Psychiatric Services</italic>, <italic>67</italic>(6), 680-683.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stanley</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Chaudhury</surname>
+							<given-names>S. R.</given-names>
+						</name>
+						<name>
+							<surname>Chesin</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Pontoski</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Bush</surname>
+							<given-names>A. M.</given-names>
+						</name>
+						<name>
+							<surname>Knox</surname>
+							<given-names>K. L.</given-names>
+						</name>
+						<name>
+							<surname>Brown</surname>
+							<given-names>G. K.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>An emergency department intervention and follow-up to reduce suicide risk in the VA: Acceptability and effectiveness</article-title>
+					<source>Psychiatric Services</source>
+					<volume>67</volume>
+					<issue>6</issue>
+					<fpage>680</fpage>
+					<lpage>683</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B56">
+				<mixed-citation>Substance Abuse and Mental Health Services Administration. (2025). <italic>National Guidelines for a Behavioral Health Coordinated System of Crisis Care</italic>. Recuperado el 16 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://library.samhsa.gov/sites/default/files/national-guidelines-crisis-care-pep24-01-037.pdf">https://library.samhsa.gov/sites/default/files/national-guidelines-crisis-care-pep24-01-037.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Substance Abuse and Mental Health Services Administration</collab>
+					</person-group>
+					<year>2025</year>
+					<source>National Guidelines for a Behavioral Health Coordinated System of Crisis Care</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-16">16 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 16 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://library.samhsa.gov/sites/default/files/national-guidelines-crisis-care-pep24-01-037.pdf">https://library.samhsa.gov/sites/default/files/national-guidelines-crisis-care-pep24-01-037.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B57">
+				<mixed-citation>Tejedo, A. (2019). Condicionantes del diagnóstico en la demanda de ayuda psicológica en una unidad de atención psicológica en un campus universitario. <italic>Revista de Psicoterapia</italic>, <italic>30</italic>(113), 213-237.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tejedo</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Condicionantes del diagnóstico en la demanda de ayuda psicológica en una unidad de atención psicológica en un campus universitario</article-title>
+					<source>Revista de Psicoterapia</source>
+					<volume>30</volume>
+					<issue>113</issue>
+					<fpage>213</fpage>
+					<lpage>237</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B58">
+				<mixed-citation>The Healthy Minds Study. (2025). <italic>2023-2024 Data Report</italic>. Healthy Minds Network. Recuperado el 12 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://healthymindsnetwork.org/wp-content/uploads/2024/09/HMS_national_report_090924.pdf">https://healthymindsnetwork.org/wp-content/uploads/2024/09/HMS_national_report_090924.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>The Healthy Minds Study</collab>
+					</person-group>
+					<year>2025</year>
+					<source>2023-2024 Data Report</source>
+					<publisher-name>Healthy Minds Network</publisher-name>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-12">12 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 12 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://healthymindsnetwork.org/wp-content/uploads/2024/09/HMS_national_report_090924.pdf">https://healthymindsnetwork.org/wp-content/uploads/2024/09/HMS_national_report_090924.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B59">
+				<mixed-citation>Universities UK. (2022). <italic>How to respond to student suicide: Suicide safer guidance on postvention</italic>. Recuperado el 22 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.universitiesuk.ac.uk/sites/default/files/uploads/Reports/postvention-main-guidance.pdf">https://www.universitiesuk.ac.uk/sites/default/files/uploads/Reports/postvention-main-guidance.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Universities UK</collab>
+					</person-group>
+					<year>2022</year>
+					<source>How to respond to student suicide: Suicide safer guidance on postvention</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-22">22 de abril de 2025</date-in-citation>
+					<comment>Recuperado el 22 de abril de 2025, de <ext-link ext-link-type="uri" xlink:href="https://www.universitiesuk.ac.uk/sites/default/files/uploads/Reports/postvention-main-guidance.pdf">https://www.universitiesuk.ac.uk/sites/default/files/uploads/Reports/postvention-main-guidance.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B60">
+				<mixed-citation>Wolitzky-Taylor, K., LeBeau, R. T., Perez, M., Gong-Guy, E., y Fong, T. (2020). Suicide prevention on college campuses: What works and what are the existing gaps? A systematic review and meta-analysis. <italic>Journal of American College Health</italic>, <italic>68</italic>(4), 419-429. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/07448481.2019.1577861">https://doi.org/10.1080/07448481.2019.1577861</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wolitzky-Taylor</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>LeBeau</surname>
+							<given-names>R. T.</given-names>
+						</name>
+						<name>
+							<surname>Perez</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Gong-Guy</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Fong</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Suicide prevention on college campuses: What works and what are the existing gaps? A systematic review and meta-analysis</article-title>
+					<source>Journal of American College Health</source>
+					<volume>68</volume>
+					<issue>4</issue>
+					<fpage>419</fpage>
+					<lpage>429</lpage>
+					<pub-id pub-id-type="doi">10.1080/07448481.2019.1577861</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B61">
+				<mixed-citation>Xiao, H., Carney, D. M., Youn, S. J., Janis, R. A., Castonguay, L. G., Hayes, J. A., et al. (2017). Are we in crisis? National mental health and treatment trends in college counseling centers. <italic>Psychological Services</italic>, <italic>14</italic>(4), 407-415.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Xiao</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Carney</surname>
+							<given-names>D. M.</given-names>
+						</name>
+						<name>
+							<surname>Youn</surname>
+							<given-names>S. J.</given-names>
+						</name>
+						<name>
+							<surname>Janis</surname>
+							<given-names>R. A.</given-names>
+						</name>
+						<name>
+							<surname>Castonguay</surname>
+							<given-names>L. G.</given-names>
+						</name>
+						<name>
+							<surname>Hayes</surname>
+							<given-names>J. A.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2017</year>
+					<article-title>Are we in crisis? National mental health and treatment trends in college counseling centers</article-title>
+					<source>Psychological Services</source>
+					<volume>14</volume>
+					<issue>4</issue>
+					<fpage>407</fpage>
+					<lpage>415</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B62">
+				<mixed-citation>Yao, Z. Y., Xu, X. M., Kou, C. G., Wang, X. T., Liu, B. P., Cheng, S. L., ... y Jia, C. X. (2025). Comparison of suicidal behavior among Chinese university students before and during the COVID-19 pandemic: Findings from a two-wave cross-sectional study. <italic>Death Studies</italic>, 1-16. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/07481187.2025.2476981">https://doi.org/10.1080/07481187.2025.2476981</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yao</surname>
+							<given-names>Z. Y.</given-names>
+						</name>
+						<name>
+							<surname>Xu</surname>
+							<given-names>X. M.</given-names>
+						</name>
+						<name>
+							<surname>Kou</surname>
+							<given-names>C. G.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>X. T.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>B. P.</given-names>
+						</name>
+						<name>
+							<surname>Cheng</surname>
+							<given-names>S. L.</given-names>
+						</name>
+						<name>
+							<surname>Jia</surname>
+							<given-names>C. X.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Comparison of suicidal behavior among Chinese university students before and during the COVID-19 pandemic: Findings from a two-wave cross-sectional study</article-title>
+					<source>Death Studies</source>
+					<fpage>1</fpage>
+					<lpage>16</lpage>
+					<pub-id pub-id-type="doi">10.1080/07481187.2025.2476981</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B63">
+				<mixed-citation>Yonemoto, N., Kawashima, Y., Endo, K., y Yamada, M. (2019). Gatekeeper training for suicidal behaviors: A systematic review. <italic>Journal of Affective Disorders</italic>, <italic>246</italic>, 506-514. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jad.2018.12.052">https://doi.org/10.1016/j.jad.2018.12.052</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yonemoto</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Kawashima</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Endo</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Yamada</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Gatekeeper training for suicidal behaviors: A systematic review</article-title>
+					<source>Journal of Affective Disorders</source>
+					<volume>246</volume>
+					<fpage>506</fpage>
+					<lpage>514</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jad.2018.12.052</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B64">
+				<mixed-citation>Zalsman, G., Hawton, K., Wasserman, D., van Heeringen, K., Arensman, E., Sarchiapone, M., ... y Zohar, J. (2016). Suicide prevention strategies revisited: 10-year systematic review. <italic>The Lancet Psychiatry</italic>, <italic>3</italic>(7), 646-659. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S2215-0366(16)30030-X">https://doi.org/10.1016/S2215-0366(16)30030-X</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zalsman</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Hawton</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Wasserman</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>van Heeringen</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Arensman</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Sarchiapone</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Zohar</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Suicide prevention strategies revisited: 10-year systematic review</article-title>
+					<source>The Lancet Psychiatry</source>
+					<volume>3</volume>
+					<issue>7</issue>
+					<fpage>646</fpage>
+					<lpage>659</lpage>
+					<pub-id pub-id-type="doi">10.1016/S2215-0366(16)30030-X</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B65">
+				<mixed-citation>Zhao, R., Amanvermez, Y., Pei, J., Castro-Ramirez, F., Rapsey, C., Garcia, C., ... y Cuijpers, P. (2025). Research Review: Help-seeking intentions, behaviors, and barriers in college students - a systematic review and meta-analysis. <italic>Journal of Child Psychology and Psychiatry</italic>, <italic>66</italic>(10), 1593-1605. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/jcpp.14145">https://doi.org/10.1111/jcpp.14145</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhao</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Amanvermez</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Pei</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Castro-Ramirez</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Rapsey</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Garcia</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Cuijpers</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Research Review: Help-seeking intentions, behaviors, and barriers in college students - a systematic review and meta-analysis</article-title>
+					<source>Journal of Child Psychology and Psychiatry</source>
+					<volume>66</volume>
+					<issue>10</issue>
+					<fpage>1593</fpage>
+					<lpage>1605</lpage>
+					<pub-id pub-id-type="doi">10.1111/jcpp.14145</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B66">
+				<mixed-citation>Zhou, S. J., Wang, L. L., Qi, M., Yang, X. J., Gao, L., Zhang, S. Y., ... y Chen, J. X. (2021). Depression, Anxiety, and Suicidal Ideation in Chinese University Students During the COVID-19 Pandemic. <italic>Frontiers in Psychology</italic>, <italic>12</italic>, 669833. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fpsyg.2021.669833">https://doi.org/10.3389/fpsyg.2021.669833</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhou</surname>
+							<given-names>S. J.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>L. L.</given-names>
+						</name>
+						<name>
+							<surname>Qi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>X. J.</given-names>
+						</name>
+						<name>
+							<surname>Gao</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>S. Y.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>J. X.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Depression, Anxiety, and Suicidal Ideation in Chinese University Students During the COVID-19 Pandemic</article-title>
+					<source>Frontiers in Psychology</source>
+					<volume>12</volume>
+					<elocation-id>669833</elocation-id>
+					<pub-id pub-id-type="doi">10.3389/fpsyg.2021.669833</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<title>Financiación</title>
+			<fn fn-type="financial-disclosure" id="fn1">
+				<p>Este trabajo ha sido financiado por el Gobierno Vasco (IT1450-22).</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

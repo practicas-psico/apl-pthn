@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.70478/pap.psicol.2026.47.09</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>El Narcisismo Académico: Cómo la Universidad También Busca <italic>Likes</italic></article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Academic Narcissism: How Universities Also Chase Likes</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-8106-6594</contrib-id>
+					<name>
+						<surname>Secades-Villa</surname>
+						<given-names>Roberto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-3906-156X</contrib-id>
+					<name>
+						<surname>Pérez-Álvarez</surname>
+						<given-names>Marino</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Universidad de Oviedo, España</institution>
+				<institution content-type="normalized">Universidad de Oviedo</institution>
+				<institution content-type="orgname">Universidad de Oviedo</institution>
+				<country country="ES">Spain</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Academia de Psicología de España, España</institution>
+				<institution content-type="orgname">Academia de Psicología de España</institution>
+				<country country="ES">España</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">Autor de correspondencia: Roberto Secades <email>secades@uniovi.es</email>
+				</corresp>
+				<fn fn-type="con" id="fn1">
+					<label>Citar como</label>
+					<p>Secades-Villa, R., y Pérez-Álvarez, M. (2026). El narcisismo académico: cómo la universidad también busca <italic>likes</italic>. <italic>Papeles del Psicólogo/Psychologist Papers, 47</italic>(2), 77-83. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.70478/pap.psicol.2026.47.09">https://doi.org/10.70478/pap.psicol.2026.47.09</ext-link>. Este artículo está publicado bajo Licencia Creative Commons 4.0 CC-BY-NC-ND</p>
+				</fn>
+				<fn fn-type="conflict" id="fn2">
+					<p>Los autores declaran que no existe conflicto de intereses.</p>
+				</fn>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>77</fpage>
+			<lpage>83</lpage>
+			<history>
+				<date date-type="received">
+					<day>01</day>
+					<month>11</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>15</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El presente artículo analiza la emergencia del narcisismo académico como manifestación específica del narcisismo cultural en el contexto universitario contemporáneo. Partiendo del concepto de narcisismo normativo, se examina cómo la lógica de la visibilidad, la autoexposición y la búsqueda de reconocimiento se han integrado en las prácticas docentes e investigadoras, transformando la identidad profesional y los modos de producción del conocimiento. La cultura de las métricas, los indicadores de impacto y la presencia digital ha convertido la universidad en un escenario de representación, donde el prestigio depende no tanto del saber si no sobre todo de la exposición. A partir de ejemplos del contexto español, se discuten los efectos de los criterios de evaluación académica en la generación de dinámicas competitivas, envidias institucionales y pérdida de cooperación. Finalmente, se proponen orientaciones para reorientar la visibilidad hacia una cultura del reconocimiento con propósito, basada en la calidad, la colaboración y la integridad intelectual.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>This article examines the emergence of academic narcissism as a specific manifestation of cultural narcissism within the contemporary university context. Drawing on the concept of normative narcissism, we explore how the logic of visibility, self-exposure, and the pursuit of recognition has been integrated into teaching and research practices, transforming professional identity and modes of knowledge production. The culture of metrics, impact indicators, and digital presence has turned the university into a stage of representation, where prestige depends less on knowledge and more on exposure. Using examples from the Spanish context, the article discusses the effects of academic evaluation criteria on the generation of competitive dynamics, institutional envy, and a decline in cooperation. Finally, guidelines are proposed to redirect visibility toward a culture of purposeful recognition, grounded in quality, collaboration, and intellectual integrity.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Narcisismo académico</kwd>
+				<kwd>Cultura digital</kwd>
+				<kwd>Universidad</kwd>
+				<kwd>Visibilidad</kwd>
+				<kwd>Reconocimiento</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Academic narcissism</kwd>
+				<kwd>Digital culture</kwd>
+				<kwd>University</kwd>
+				<kwd>Visibility</kwd>
+				<kwd>Recognition</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="28"/>
+				<page-count count="7"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>Vivimos en una época en la que el yo ha adquirido una centralidad inédita. Las sociedades contemporáneas, impulsadas por la cultura digital y el imperativo de la visibilidad, han convertido la autoimagen y el reconocimiento en valores dominantes. En este contexto, el concepto de narcisismo ha trascendido su origen clínico y ya no se refiere únicamente a un trastorno de personalidad (<xref ref-type="bibr" rid="B27">Ronningstam, 2022</xref>) o una característica individual caracterizada por grandiosidad, excesivo enfoque en uno mismo y falta de empatía, sino que se ha consolidado como un fenómeno sociocultural que trasciende el ámbito psicológico. Durante los últimos años, las investigaciones científicas sobre el narcisismo han aumentado de manera significativa, ampliando el alcance del concepto y evidenciando su relevancia para entender las dinámicas sociales contemporáneas. Desde que en torno a 1980 fuera descrito el narcisismo cultural (<xref ref-type="bibr" rid="B21">Lasch, 1979/ 2023</xref>; <xref ref-type="bibr" rid="B22">Lipovetsky, 1983/2006</xref>), este no ha dejado de crecer al extremo de ser hoy un signo de los tiempos. El narcisismo cultural se caracteriza por una forma de organización social en la que los valores, las prácticas y las identidades giran en torno a la exaltación del yo, la autoimagen y la búsqueda de reconocimiento. Se trata de un espíritu de los tiempos que privilegia la visibilidad, la autoexpresión y el éxito personal en detrimento de los vínculos comunitarios y proyectos colectivos.</p>
+		<p>En la actualidad, el auge global de la llamada “cultura <italic>geek</italic>” (o friki) ha ofrecido a muchas personas un espacio propicio para construir y exhibir identidades específicas, contribuyendo a la expansión del narcisismo cultural. La cultura <italic>geek</italic> presenta características particularmente atractivas para individuos con tendencias narcisistas, como el potencial para ser percibidos como excepcionales o geniales y la posibilidad de participar en universos de ficción donde la realidad es flexible y fácilmente moldeable (<xref ref-type="bibr" rid="B5">Campbell y Crist, 2022</xref>).</p>
+		<p>En paralelo a este fenómeno, la ideología <italic>woke</italic>, a través de sus expresiones de activismo identitario, ampara otro escenario donde la autoafirmación pública ocupa un lugar central. En este marco, la identidad se convierte no solo en un rasgo personal, sino en un elemento que debe ser reconocido y validado socialmente, integrándose como parte esencial del bienestar individual (<xref ref-type="bibr" rid="B4">Braunstein, 2024</xref>; <xref ref-type="bibr" rid="B9">Doyle, 2022</xref>). Esta dinámica, basada en la necesidad de visibilizar la propia identidad y obtener confirmación externa de su legitimidad sitúa a ciertos discursos <italic>woke</italic> dentro de la misma lógica del narcisismo cultural señalada anteriormente.</p>
+		<p>El discurso <italic>woke</italic> propicia la aparición de una forma particular de narcisismo comunal, concepto desarrollado en la psicología de la personalidad. El narcisismo comunal se refiere a individuos que sostienen una autoimagen grandiosa basada en su supuesta bondad, altruismo, moralidad y activismo prosocial, en contraste con el narcisismo agentivo, centrado en el estatus, el éxito o el poder (<xref ref-type="bibr" rid="B13">Gebauer y Sedikides, 2018</xref>). No obstante, la evidencia indica que los narcisistas comunales no son objetivamente ni más ni menos prosociales que los demás narcisistas. Su rasgo distintivo radica en que tienden a percibirse a sí mismos como extraordinariamente prosociales, mostrando una autoexaltación elevada de sus virtudes comunitarias (<xref ref-type="bibr" rid="B24">Nehrlich et al., 2019</xref>).</p>
+		<p>El narcisismo comunal de corte <italic>woke</italic> puede observarse en fenómenos conocidos como postureo o <italic>virtue signaling</italic>, esto es, la exhibición pública de posturas políticamente correctas destinadas a proyectar una supuesta superioridad moral y a resaltar lo virtuoso, progresista o éticamente intachable que uno sería. Prácticas como cancelaciones, autocancelaciones, autocensura o la denominada <italic>transfobofobia</italic>, el temor a ser acusado de transfobia si no se manifiesta adhesión explícita a la ideología transgenerista (<xref ref-type="bibr" rid="B11">Errasti y Pérez-Álvarez, 2022</xref>), constituyen ejemplos, entre otros, de este tipo de performatividad moral tipo narcisismo comunal.</p>
+		<p>El narcisismo comunal académico puede entenderse como una modalidad en la que los profesores exhiben una autoimagen engrandecida de conciencia social, compromiso ético y sensibilidad <italic>woke</italic>. Este postureo, o <italic>virtue signaling</italic>, se caracteriza porque la búsqueda de superioridad ética, política o simbólicamente progresista cobra mayor relevancia que el conocimiento, el debate argumentado y el examen crítico, virtudes propiamente universitarias.</p>
+		<p>El problema del narcisismo ya no es que se haya extendido y normalizado, sino que se está convirtiendo en normativo, funcional y adaptativo (<xref ref-type="bibr" rid="B25">Pérez-Álvarez, en prensa</xref>). El narcisismo normativo no se circunscribe a ciertas edades, como acaso la adolescencia, ni ecosistemas como las redes sociales (<xref ref-type="bibr" rid="B7">Casale y Banchi, 2020</xref>; <xref ref-type="bibr" rid="B14">Gnambs y Appel, 2018</xref>), las corporaciones (<xref ref-type="bibr" rid="B6">Campbell et al., 2011</xref>) o la política (<xref ref-type="bibr" rid="B16">Hatemi y Fazekas, 2018</xref>; <xref ref-type="bibr" rid="B26">Post, 2015</xref>). La universidad es ya un ecosistema de narcisismo normativo, tanto por lo que toca a los estudiantes como a los profesores e investigadores. En relación con los estudiantes bastaría con señalar cuatro aspectos convergentes en el narcisismo: el estudiante como cliente que siempre tiene razón, ha de ser adulado y cuya satisfacción se convierte en un indicador de éxito institucional; la universidad como espacio seguro, de manera que nada contravenga sus opiniones, dando lugar a cancelaciones y advertencias sobre posibles palabras y temas que pudieran suscitar malestar y hasta traumas; la política del bienestar emocional por la que la institución asume la responsabilidad de proteger a los estudiantes de toda forma de malestar (<xref ref-type="bibr" rid="B17">Haidt y Lukianoff, 2018/2019</xref>) y, así, la infantilización institucionalizada (<xref ref-type="bibr" rid="B12">Furedi, 2018</xref>; <xref ref-type="bibr" rid="B18">Hayward, 2024</xref>). Por lo que a este artículo respecta, se centrará en el narcisismo académico referido a profesores e investigadores, analizando cómo la búsqueda de reconocimiento y visibilidad han transformado la identidad y las prácticas universitarias.</p>
+		<sec>
+			<title>El “yo Académico”. La Academia Como Escenario</title>
+			<p>Vivimos en una época en la que el yo se ha convertido en un proyecto de marketing personal. Las redes sociales no solo nos permiten comunicarnos: nos impulsan a exhibirnos, a medirnos, a compararnos. La visibilidad funciona como una moneda simbólica que define pertenencia y éxito. Cada perfil digital es una vitrina, cada publicación una forma de reclamar atención. Como señalan <xref ref-type="bibr" rid="B7">Casale y Banchi (2020)</xref>, las plataformas digitales refuerzan rasgos de autoexposición y búsqueda de admiración, configurando entornos donde la validación externa se convierte en una necesidad psicológica. Pero este deseo de ser visto y reconocido no se limita al ámbito personal: también se cuela en los espacios que, tradicionalmente, debían sostener la reflexión crítica. Entre ellos, la universidad.</p>
+			<p>Durante décadas, la universidad fue concebida como un refugio del pensamiento, un espacio protegido frente a las lógicas del mercado y los imperativos de la visibilidad. La legitimidad académica se construía sobre el mérito intelectual, la contribución al conocimiento y la pertenencia a una comunidad de pares. Sin embargo, en los últimos años, esa imagen ha comenzado a resquebrajarse. El avance de la cultura digital, la presión por la productividad y la colonización de la vida universitaria por métricas cuantitativas han transformado radicalmente el ecosistema académico. Hoy, los investigadores, docentes e instituciones se ven empujados a destacar en un entorno saturado de información y competencia.</p>
+			<p>La academia ha dejado de ser únicamente un espacio de producción de saber para convertirse también en un escenario de representación, donde la identidad profesional depende de la exposición pública. Las plataformas digitales (X, LinkedIn, ResearchGate, Google Scholar, Academia.edu o incluso Instragram o Facebook) actúan como vitrinas en las que cada académico proyecta una versión cuidadosamente preentadade sí mismo. La universidad ha incorporado los mecanismos del <italic>self-promotion</italic> y el <italic>branding</italic>, sustituyendo en muchos casos el ideal de colaboración por la lógica de la competencia por la atención (<xref ref-type="bibr" rid="B2">Bartram, 2020</xref>). Los académicos experimentan una presión cada vez mayor para participar en prácticas de autopromoción, particularmente a medida que las universidades se orientan cada vez más al mercado (<xref ref-type="bibr" rid="B10">Duffy y Pooley, 2017</xref>). Estas formas de autopromoción e imagen de marca se materializan en conductas ya normalizadas en la vida universitaria: la gestión cuidadosa de perfiles en redes académicas y profesionales; el anuncio público y recurrente de cualquier logro (artículos aceptados, becas, congresos); la circulación de fotografías y mensajes destinados a reforzar la identidad profesional; o la autopresentación inflada mediante listados de méritos en ponencias y actividades públicas. También prácticas como el uso estratégico de <italic>hashtags</italic> para maximizar la visibilidad o la creación de narrativas personales sobre productividad o impacto de las publicaciones muestran hasta qué punto las lógicas del marketing personal se han integrado en la cultura académica contemporánea. Al final, lo que se reconoce no es la solidez del conocimiento, sino una validez aparente, sustentada más en la visibilidad que en la sustancia.</p>
+			<p>Esta teatralización de la vida académica está profundamente vinculada con lo que <xref ref-type="bibr" rid="B20">Khamis et al. (2017)</xref> describen como la cultura de la “microcelebridad”: la capacidad de gestionar la propia visibilidad como un recurso simbólico y profesional. En la medida en que el prestigio se asocia cada vez más a la presencia digital, la comunicación científica se entrelaza con estrategias de posicionamiento personal en el mundo digital. El profesor, el investigador o el doctorando no solo deben producir conocimiento, sino también “producirse” a sí mismos como figuras reconocibles en el circuito mediático-académico.</p>
+			<p>La universidad, por tanto, se convierte en un espacio híbrido en el que confluyen dos dimensiones que se retroalimentan: un lugar de creación intelectual y un escenario de representación. Si antes la institución universitaria se definía por la producción de conocimiento y la búsqueda de verdad, hoy se ve atravesada por las mismas lógicas de autoexposición y visibilidad que dominan las redes sociales y la cultura digital.</p>
+			<p>Las conferencias, los seminarios y las redes sociales académicas operan como dispositivos de visibilidad donde el éxito se mide tanto por el alcance del mensaje como por su contenido. La búsqueda de reconocimiento, legitimada institucionalmente a través de rankings, índices de impacto y reputación digital, refuerza la idea de que el valor académico es inseparable de su capacidad de circular públicamente.</p>
+			<p>Esta transformación ha generado un desplazamiento sutil pero profundo: del saber como bien común al conocimiento como marca personal. En la medida en que la universidad adopta los códigos del marketing, la investigación se convierte en una narrativa que debe ser vendida, y el profesor en un agente de su propia promoción. Como apunta <xref ref-type="bibr" rid="B2">Bartram (2020)</xref>, este proceso no solo redefine la identidad académica, sino que altera la forma en que se produce y se comparte el conocimiento, privilegiando la exposición rápida sobre la reflexión sostenida.</p>
+			<p>Así, la academia del siglo XXI se asemeja cada vez más a un escenario global donde la visibilidad se confunde con la relevancia. El riesgo es que la institución, en su esfuerzo por ser vista, pierda su capacidad de mirar críticamente. Si la lógica del aplauso reemplaza a la del argumento, la universidad deja de ser un lugar de pensamiento para convertirse en un espectáculo de prestigio.</p>
+		</sec>
+		<sec>
+			<title>Del Conocimiento al Reconocimiento</title>
+			<p>El narcisismo académico adopta la forma del ego desmedido institucionalizado. Se trata de una lógica que valora la apariencia de productividad por encima del proceso de investigación. Publicar rápido, acumular citas, mantener presencia en ResearchGate o Google Scholar, o ganar seguidores en X y LinkedIn se han vuelto signos de prestigio. Tal como describen <xref ref-type="bibr" rid="B20">Khamis et al. (2017)</xref>, las lógicas del self-branding y la microcelebridad, nacidas en las redes sociales, se han filtrado en profesiones tradicionalmente vocacionales, transformando la identidad académica en un proyecto de marketing continuo. El académico contemporáneo ya no solo produce conocimiento, produce su propia imagen. El antiguo ideal del saber desinteresado se ve desplazado por un modelo en donde la exposición es el éxito, donde la visibilidad cuenta tanto como el contenido. Lo importante no es solo descubrir, aportar nuevo conocimiento, sino aparecer en índices, acumular métricas, recolectar <italic>likes</italic> y felicitaciones.</p>
+			<p>La obsesión por la visibilidad y las métricas puede derivar en prácticas extremas, éticamente cuestionables e, incluso, abiertamente fraudulentas. Entre ellas se encuentran la fabricación de estudios diseñados <italic>ad hoc</italic> o el inflado del curriculum mediante la publicación de artículos en revistas “zombies” o “depredadoras” (<xref ref-type="bibr" rid="B3">Biosca, 2025</xref>), denominadas así por que su objetivo principal es lucrarse a través del cobro de elevadas tarifas a los autores, sin garantizar un proceso riguroso de revisión por pares. La proliferación de estas revistas ha contribuído a socavar la confianza en la ciencia y a distorsionar los indicadores de productividad de los investigadores.</p>
+			<p>En este contexto, la búsqueda de métricas se convierte en un fin en sí mismo, desplazando los valores tradicionales de la academia, como la reflexión crítica, la rigurosidad metodológica y la integridad investigadora. Dentro de esta lógica, todos parecen salir ganando: los autores suman publicaciones, las revistas obtienen ingresos, y las instituciones y universidades mejoran su posición en los rankings.</p>
+			<p>En este marco resulta especialmente pertinente la metáfora del “miedo al exilio” propuesta por <xref ref-type="bibr" rid="B15">Hafermalz (2021)</xref>, que ayuda a explicar por qué la presencia digital se experimenta más como una obligación que como una elección. Las plataformas digitales funcionan como espacios en los que el académico busca asegurar su pertenencia, evitando quedar al margen de las redes de reconocimiento que gobiernan los sistemas de evaluación. Estas infraestructuras no solo amplifican logros, sino que también actúan como mecanismos defensivos: tecnologías de afiliación que permiten “no desaparecer” a los ojos de colegas, comunidades disciplinares y, sobre todo, de quienes gestionan becas, acreditaciones y oportunidades laborales. La visibilidad continua se convierte en indispensable, mientras que la ausencia o inactividad corren el riesgo de interpretarse como una retirada o un exilio figurado dentro del propio campo académico.</p>
+			<p>En este nuevo ecosistema, la actividad académica (investigar, enseñar, publicar) se ve contaminada por la puesta en escena. Cada docente, investigador o estudiante se ve interpelado a construir una identidad pública, a proyectar una imagen de competencia, originalidad o prestigio. Las plataformas digitales, que funcionan como vitrinas globales, hacen del académico un “performer” que debe mantener su relevancia en un entorno saturado de discursos, métricas y comparaciones constantes. Así, la universidad se convierte en un teatro del mérito, donde la visibilidad reemplaza parcialmente a la profundidad y donde el reconocimiento se mide tanto en citas y seguidores como en aportes al saber.</p>
+			<p>Como señala <xref ref-type="bibr" rid="B28">Wong (2024)</xref>, la figura del “<italic>PhD influencer</italic>” encarna este nuevo modelo: investigadores que documentan su vida académica como contenido y cuya popularidad se mide por su capacidad de generar atención. Los logros profesionales se comunican en tiempo real, se intentan difundir públicamente sin sentido, sin reflexión ni propósito más allá de la visibilidad. Cada artículo aceptado o premio obtenido se anuncia con fotografías y agradecimientos públicos en las redes sociales, en una especie de ritual de autoafirmación digital. Lo que antes era un logro íntimo de una carrera profesional, hoy se convierte en un acto público de autoafirmación. Y hasta en los congresos y seminarios esta lógica se replica y la autoexhibición se normaliza: no es raro que una ponencia o una charla en un curso comience con una diapositiva repleta de credenciales, como si antes de compartir las ideas fuera necesario exhibir los méritos y los logros, como si la autoridad se derivara más de la fama que del pensamiento. La academia adopta así los códigos del <italic>influencer</italic>: el valor de lo que se dice depende del reconocimiento acumulado por quien lo pronuncia.</p>
+			<p>En la era digital, el prestigio y la legitimidad del investigador se han hibridado con el capital mediático. La lógica de los algoritmos premia la frecuencia y la exposición, no necesariamente la calidad o la originalidad. Morris (2021) advierte que la necesidad de “ser primero” en la ciencia y la presión por la primacía publicitaria alimentan conductas de autopromoción que distorsionan la colaboración y la ética investigadora. Ser citado en un artículo o mencionado en redes sociales adquiere un valor simbólico similar: ambos otorgan visibilidad, aunque no siempre conocimiento. Esta cultura del prestigio transforma el saber en un producto comunicable, más atento a su forma que a su fondo.</p>
+			<p>En este contexto, la cultura del currículum, los indicadores de impacto y las métricas de reputación digital construyen un entorno donde ser visible equivale a existir. Y en ese proceso se erosionan valores esenciales de la vida académica: la cooperación, la humildad intelectual y el pensamiento crítico.</p>
+		</sec>
+		<sec>
+			<title>La Envidia Académica: el Espejo del Otro</title>
+			<p>Si el narcisismo impulsa a mostrarse, la envidia impulsa a compararse. Ambas emociones son caras de una misma moneda: la búsqueda de reconocimiento en un sistema que premia la exposición. En la cultura académica contemporánea, los logros ajenos pueden despertar sentimientos de inferioridad y competencia que, con frecuencia, se traducen en una autopromoción desmedida como mecanismo compensatorio. En lugar de inspirar colaboración o admiración, el éxito del otro se convierte en un recordatorio de la propia insuficiencia percibida, alimentando la necesidad de visibilizarse para no desaparecer. Las redes y los indicadores digitales intensifican esta dinámica, ya que transforman los logros académicos en espectáculos públicos de validación. Así, la envidia tiende a manifestarse en contextos donde la comparación es constante y los recursos simbólicos (como el prestigio, la atención o la reputación) se perciben como escasos, y se activa especialmente cuando el estatus propio se considera amenazado (<xref ref-type="bibr" rid="B8">Crusius y Lange, 2016</xref>). De ahí que la autopromoción excesiva no siempre responda a la ambición, sino al miedo a desaparecer del campo de lo visible. La envidia revela la fragilidad del yo en un entorno donde el valor depende de la mirada ajena.</p>
+			<p>De este modo, la autopromoción excesiva no solo responde a la ambición individual, sino también a la presión psicológica de la comparación continua. Frente a este panorama. recomponer la función genuina de creación de conocimiento del trabajo académico es fundamental para reconstruir comunidades universitarias más cooperativas, donde la valoración mutua sustituya a la competencia por la mirada del otro.</p>
+		</sec>
+		<sec sec-type="cases">
+			<title>El Caso Español: Liderazgo, Visibilidad y la Paradoja del Mérito</title>
+			<p>En el contexto español, esta lógica comparativa se ve reforzada por los criterios de acreditación de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA), especialmente en las figuras de profesor titular y catedrático. En los últimos años, la agencia ha puesto un énfasis creciente en el denominado <italic>liderazgo académico</italic>, un apartado que incluye méritos como la dirección de equipos docentes, la coordinación de grupos de investigación o el desempeño de cargos académicos. En concreto, para la acreditación a Catedrático/a de Universidad, la ANECA estipula que “se requerirá que las personas solicitantes aporten evidencias significativas de una trayectoria de liderazgo” (<xref ref-type="bibr" rid="B1">ANECA, 2024</xref>). En la actualidad, muchos profesores han visto rechazada su solicitud de acreditación para catedrático debido a la falta o escasez del mencionado liderazgo académico.</p>
+			<p>Sin embargo, muchos de estos méritos no dependen directamente del esfuerzo ni del rendimiento académico individual, sino de factores contextuales o relacionales, como la oportunidad de acceder a determinadas posiciones o redes de poder dentro de la universidad. Dado que este tipo de responsabilidades son, por definición, limitadas y no siempre accesibles, su sobrerrepresentación en los criterios de evaluación está generando competencia interna improductiva, tensiones y envidias entre el profesorado, así como dinámicas de poder que poco tienen que ver con la excelencia académica. Por ejemplo, el simple hecho de figurar como coordinador de una asignatura genera disputas y problemas personales, convirtiendo lo que debería ser una función académica de carácter técnico y colaborativo en un símbolo de estatus y control dentro de la jerarquía universitaria.</p>
+			<p>Por otra parte, esta orientación evaluadora provoca que investigadores y docentes altamente cualificados queden en desventaja simplemente por no haber ocupado determinados cargos de gestión o no haber formado parte de estructuras jerárquicas institucionales. Basta con imaginar que Manjul Bhargava, ganador de la medalla Fields, el máximo galardón en el campo de las matemáticas (el “Premio Nobel” de las matemáticas), presentara su solicitud para acreditarse como catedrático en España. Difícilmente la obtendría, ya que sus contribuciones matemáticas de alcance mundial no compensarían la carencia de méritos de gestión, innovación docente o liderazgo institucional. No habría coordinado asignaturas, ni dirigido departamentos, ni participado en comisiones universitarias locales. Manjul Bhargava es catedrático en la Universidad de Princeton (EEUU), la Universidad que ocupa el primer puesto en el ranking de Shanghai, dentro del campo de las matemáticas, pero sería poco probable que lo fuera en la Universidad de Oviedo, situada entre las posiciones 401 y 500 en ese mismo ranking y campo. En el sistema universitario español, incluso la genialidad necesita un cargo.</p>
+			<p>Además de los criterios de liderazgo para la promoción a profesor titular y catedrático, la ANECA tiene en cuenta la calidad de la actividad docente, valorada en buena medida a partir de las encuestas de satisfacción de los estudiantes. Este modelo evaluador resulta especialmente llamativo en el contexto español, pues constituye una singularidad dentro del conjunto de la función pública. En ningún otro ámbito de la administración (ni en la sanidad, la justicia, la inspección laboral o la administración tributaria), la promoción o evaluación de los funcionarios depende de la opinión o la satisfacción de los usuarios. Solo en la universidad se traslada a los estudiantes, considerados implícitamente como clientes, la capacidad de influir en la carrera profesional del docente.</p>
+			<p>Este enfoque, pensado para promover la mejora pedagógica, acaba generando efectos contraproducentes y perversos sobre el profesorado ya que, en la práctica, incentiva a los profesores a orientar su docencia hacia el agrado más que hacia el aprendizaje. La necesidad de obtener evaluaciones positivas puede conducir a una pedagogía complaciente, ya que el profesor se ve empujado a moderar su autoridad, a reducir la exigencia académica, a la simplificación excesiva de los contenidos o a la adopción de dinámicas “lúdicas” e infantilizantes que buscan captar la simpatía del estudiante más que incrementar sus conocimientos o desarrollar su pensamiento crítico. Como advierte <xref ref-type="bibr" rid="B12">Furedi (2018)</xref>, esta pedagogía de la complacencia produce una forma de infantilización también del propio docente, que aprende a protegerse del conflicto académico y a gestionar afectos antes que conocimiento. El aula se convierte, así, en un escenario de aprobación donde la identidad profesional se regula por la búsqueda de reconocimiento. En última instancia, la evaluación docente basada en la popularidad refuerza el narcisismo académico: el profesor actúa como un <italic>performer</italic> que necesita gustar para ser validado.</p>
+			<p>A la luz de lo anterior, la ANECA debería revisar sus criterios de evaluación y promoción académica, otorgando mayor peso a los méritos directamente vinculados con la excelencia intelectual y la contribución al conocimiento. La dirección de grupos, la gestión docente o el desempeño de cargos institucionales no deberían prevalecer sobre la valoración de la investigación original, la producción científica de impacto ni la generación de nuevas líneas de estudio. Asimismo, la evaluación docente basada en la satisfacción de los estudiantes (un criterio excepcional dentro de la función pública) genera efectos contraproducentes, al incentivar una pedagogía complaciente orientada al agrado más que al aprendizaje, reforzando el narcisismo académico y la figura del profesor como <italic>performer</italic>.</p>
+		</sec>
+		<sec>
+			<title>Repensar el yo Académico</title>
+			<p>Ante este panorama, no se trata de rechazar la visibilidad ni de añorar una torre de marfil, sino de repensar el sentido del reconocimiento. Ser visto no debería ser un fin en sí mismo, sino la consecuencia natural de un trabajo riguroso y compartido. Recuperar la lentitud reflexiva, la escritura sin prisa y la colaboración genuina son formas de resistencia frente al imperativo del brillo constante. Como subraya <xref ref-type="bibr" rid="B2">Bartram (2020)</xref>, solo una cultura académica que priorice la autenticidad sobre la autopromoción puede sostener su legitimidad social en la era de la exposición permanente.</p>
+			<p>El narcisismo académico nos obliga a mirar a un espejo incómodo: el de una universidad que reproduce las mismas pulsiones de autoexposición que dominan la esfera digital. La institución que históricamente debía fomentar la reflexión crítica y la búsqueda colectiva de conocimiento se enfrenta hoy a su propia imagen amplificada por las redes. En ella se reconocen las tensiones entre el deseo legítimo de visibilidad y la necesidad de validación constante que caracteriza a la cultura del rendimiento. Este espejo roto refleja una academia fragmentada entre su vocación intelectual y su dependencia de la atención pública. La lógica de la exposición constante transforma el acto de enseñar, investigar y comunicar. La autoridad académica, que antes emanaba del contenido del pensamiento, se confunde con la capacidad de gestionar una audiencia. En este sentido, la universidad se convierte en un microcosmos de la sociedad digital descrita por Casale y Fioravanti (2020): un espacio donde el reconocimiento externo, <italic>likes</italic>, citas, menciones, métricas, sustituye al juicio crítico y a la deliberación profunda.</p>
+			<p>Pero el espejo también muestra grietas más hondas. La búsqueda de notoriedad puede distorsionar los fines del conocimiento mismo: se privilegia la originalidad aparente sobre la solidez argumental, la visibilidad inmediata sobre el impacto a largo plazo. Se dedica más tiempo a promocionarse en las redes o fuera de ellas, que a investigar o pensar. Al mismo tiempo, la presión por publicar y destacar alimenta una cultura de ansiedad productiva desnortada, que, como advierten <xref ref-type="bibr" rid="B23">Morris, MacGillivray y Pither (2021)</xref>, puede erosionar los principios éticos y colaborativos de la investigación. En este contexto, la humildad intelectual se convierte casi en un acto de resistencia.</p>
+			<p>Sin embargo, reconocer estas fracturas no equivale a condenar la exposición pública ni a idealizar un pasado sin medios. Como recuerda <xref ref-type="bibr" rid="B2">Bartram (2020)</xref>, las redes ofrecen oportunidades genuinas de difusión, democratización del saber y diálogo transnacional. El problema no es la visibilidad en sí, sino su fetichización: cuando el brillo sustituye al pensamiento y el impacto mediático reemplaza al rigor y el trabajo.</p>
+			<p>Tal vez el desafío contemporáneo consista en aprender a habitar ese espejo sin perder la mirada crítica. Implica recuperar el sentido de comunidad académica, fortalecer la reflexión compartida y reivindicar el valor de la lentitud en tiempos de inmediatez. Ser visibles, sí, pero desde la consistencia y no desde la vanidad. Pensar, enseñar e investigar no como formas de autoexposición, sino como ejercicios de responsabilidad colectiva frente a una sociedad saturada de imágenes y escasa de sentido.</p>
+			<p>En este contexto es muy necesario repensar el presente y futuro de la universidad contemporánea. Solo al reconocer sus grietas podemos recomponerla, recordando que el valor del conocimiento no se mide por su visibilidad, sino por su capacidad de iluminar incluso cuando nadie mira.</p>
+		</sec>
+		<sec>
+			<title>Hacia una Cultura Académica del Reconocimiento con Propósito: Pautas Para una Visibilidad con Sentido</title>
+			<p>Transformar el actual modelo de visibilidad universitaria requiere revisar los mecanismos que sostienen el narcisismo académico. No se trata de negar la exposición pública, sino de reorientarla hacia fines colectivos de mejora del conocimiento. La visibilidad debe ser entendida como un medio para la comunicación científica, la transferencia de conocimiento y la creación de comunidad, no como un fin en sí misma.</p>
+			<p>En el plano institucional, es necesario repensar los sistemas de evaluación y reconocimiento. Las métricas cuantitativas (número de publicaciones, citas o impacto digital) no deberían constituir el único criterio de valoración. Resulta imprescindible integrar indicadores cualitativos que consideren la contribución al conocimiento, la docencia, la mentoría y la transferencia social. Como sostienen <xref ref-type="bibr" rid="B19">Hicks et al. (2015)</xref>, una evaluación responsable debe equilibrar cantidad y calidad, promoviendo la integridad y la diversidad de enfoques en la producción científica. Una política universitaria orientada por estos principios puede atenuar la lógica del rendimiento y favorecer una cultura del mérito basada en el impacto significativo del saber.</p>
+			<p>Como muestra el caso español, los criterios de acreditación de la ANECA para profesor titular o catedrático han priorizado en los últimos años méritos de liderazgo académico, gestión y ocupación de cargos institucionales. Si bien estas funciones pueden contribuir al funcionamiento de las universidades, su consideración como indicadores centrales de excelencia ha desplazado la valoración de la investigación y la creación de conocimiento. En la práctica, esta orientación ha generado un efecto contraproducente: la dedicación a tareas administrativas y de representación institucional tiende a limitar el tiempo y la continuidad necesaria para el desarrollo de una trayectoria investigadora sólida y de calidad. Esta situación resulta especialmente preocupante cuando afecta a profesores jóvenes con talento, que se ven obligados a invertir una parte considerable de su tiempo en tareas administrativas y burocráticas para cumplir con los requisitos de acreditación. En lugar de poder concentrarse en la investigación o la formación de redes científicas internacionales, estos académicos se ven inmersos prematuramente en dinámicas de gestión que poco aportan a su desarrollo intelectual. De este modo, el sistema no solo desaprovecha su potencial creativo, sino que también corre el riesgo de desalentar vocaciones y reproducir una cultura universitaria donde la promoción depende más de la visibilidad institucional que del valor intrínseco del conocimiento generado.</p>
+			<p>En este sentido, resulta especialmente preocupante que los profesores que integran los tribunales de concursos adopten este planteamiento de manera acrítica y transmitan a los jóvenes académicos la idea de que deben ser competentes en todo, incluyendo también funciones de gestión, que más que aportar, a menudo entorpecen su desarrollo científico.</p>
+			<p>Por ello, sería imprescindible revisar los criterios de evaluación y promoción académica, de modo que el reconocimiento se base en la relevancia científica, la aportación al saber y la coherencia de la trayectoria investigadora. La gestión universitaria debería promocionar el mérito académico y favorecer un sistema que premie la excelencia intelectual sin desincentivar la labor investigadora. En definitiva, la política universitaria debería orientarse por principios de valoración equilibrada y favorecer una cultura del mérito basada en el impacto significativo del saber, reduciendo además tensiones, envidias y competencia interna sin sentido entre el profesorado.</p>
+			<p>Asimismo, urge promover una formación ética y comunicativa en la cultura digital. La alfabetización académica contemporánea no solo implica saber publicar, sino también aprender a comunicar sin caer en la autopromoción narcisista. Las instituciones pueden fomentar buenas prácticas de difusión científica basadas en la transparencia, la colaboración y la responsabilidad social. El reto no es visibilizar más, sino hacerlo mejor: construir una presencia pública que mantenga el rigor y la honestidad intelectual en entornos mediados por la atención (<xref ref-type="bibr" rid="B10">Duffy y Pooley, 2017</xref>).</p>
+			<p>En el plano personal y ético, es necesario fomentar una pedagogía de la “humildad digital”: usar las redes para compartir conocimiento, no para exhibirse y construir personajes o hacerse virales; para dialogar, no para competir. La comunicación científica debería orientarse hacia la apertura y la colaboración, priorizando la claridad, la honestidad y la responsabilidad antes que la autopromoción. Una comunicación científica responsable requiere examinar críticamente su pertinencia, novedad y relevancia, así como la motivación real de su exposición. Este ejercicio (preguntarse si la difusión responde a un propósito académico legítimo o a una necesidad de autoexhibición) opera como un mecanismo de autorregulación que previene la visibilidad innecesaria y favorece una práctica intelectual más sobria y reflexiva. Cada académico puede preguntarse, antes de publicar o difundir: ¿esto añade valor al saber, o solo alimenta la apariencia y la vanidad?</p>
+			<p>Asimismo, evitar la inflación superflua de las autopresentaciones públicas, desplegando listados de premios, estancias o cargos y ex-cargos académicos, constituiría un ejercicio de integridad profesional y permitiría devolver la centralidad a lo que debería ser el núcleo de toda comunicación académica: las ideas mismas.</p>
+			<p>Finalmente, el desafío consiste en redefinir el ideal de prestigio académico. Frente a la lógica del rendimiento, la inmediatez y la visibilidad vacía de contenido, conviene recuperar el valor de la reflexión, la cooperación y la coherencia intelectual. La universidad debe seguir siendo un espacio de pensamiento crítico, no de mera visibilidad. Solo una cultura académica que reconozca el conocimiento por su capacidad transformadora, y no por su proyección mediática, podrá sostener su legitimidad en la era de la exposición permanente.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA). (2024, 20 de marzo). <italic>Criterios de Evaluación y Requisitos Mínimos de Referencia de los Méritos y Competencias Requeridos para Obtener la Acreditación</italic>. Recuperado de: <ext-link ext-link-type="uri" xlink:href="https://www.aneca.es/criterios-2024">https://www.aneca.es/criterios-2024</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)</collab>
+					</person-group>
+					<day>20</day>
+					<month>03</month>
+					<year>2024</year>
+					<source>Criterios de Evaluación y Requisitos Mínimos de Referencia de los Méritos y Competencias Requeridos para Obtener la Acreditación</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.aneca.es/criterios-2024">https://www.aneca.es/criterios-2024</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Bartram, B. (2020). <italic>Academics online: Self-promotion, competition and branding</italic>. University of Winchester. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.13140/RG.2.2.23402.93120">https://doi.org/10.13140/RG.2.2.23402.93120</ext-link></mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bartram</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>Academics online: Self-promotion, competition and branding</source>
+					<publisher-name>University of Winchester</publisher-name>
+					<pub-id pub-id-type="doi">10.13140/RG.2.2.23402.93120</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Biosca, P. (2025, 5 agosto). El mercado negro de la investigación: redes globales fabrican estudios científicos a medida por un puñado de euros. <italic>ABC</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.abc.es/ciencia/mercado-negro-investigacion-redes-globales-fabrican-estudios-20250804210001-nt.html">https://www.abc.es/ciencia/mercado-negro-investigacion-redes-globales-fabrican-estudios-20250804210001-nt.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="newspaper">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Biosca</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<day>05</day>
+					<month>08</month>
+					<year>2025</year>
+					<article-title>El mercado negro de la investigación: redes globales fabrican estudios científicos a medida por un puñado de euros</article-title>
+					<source>ABC</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.abc.es/ciencia/mercado-negro-investigacion-redes-globales-fabrican-estudios-20250804210001-nt.html">https://www.abc.es/ciencia/mercado-negro-investigacion-redes-globales-fabrican-estudios-20250804210001-nt.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Braunstein, J. F. (2024). <italic>La religión Woke: Anatomía del movimiento irracional e identitario que está poniendo en jaque a Occidente</italic>. La Esfera de los Libros.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Braunstein</surname>
+							<given-names>J. F.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<source>La religión Woke: Anatomía del movimiento irracional e identitario que está poniendo en jaque a Occidente</source>
+					<publisher-name>La Esfera de los Libros</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Campbell, W. K., y Crist, C. (2022). <italic>The new science of narcissism</italic>. Sounds True.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Campbell</surname>
+							<given-names>W. K.</given-names>
+						</name>
+						<name>
+							<surname>Crist</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>The new science of narcissism</source>
+					<publisher-name>Sounds True</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Campbell, W. K., Hoffman, B. J., Campbell, S. M., y Marchisio, G. (2011). Narcissism in organizational contexts. <italic>Human Resource Management Review</italic>, <italic>21</italic>(4), 268-284. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.hrmr.2010.10.007">https://doi.org/10.1016/j.hrmr.2010.10.007</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Campbell</surname>
+							<given-names>W. K.</given-names>
+						</name>
+						<name>
+							<surname>Hoffman</surname>
+							<given-names>B. J.</given-names>
+						</name>
+						<name>
+							<surname>Campbell</surname>
+							<given-names>S. M.</given-names>
+						</name>
+						<name>
+							<surname>Marchisio</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Narcissism in organizational contexts</article-title>
+					<source>Human Resource Management Review</source>
+					<volume>21</volume>
+					<issue>4</issue>
+					<fpage>268</fpage>
+					<lpage>284</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.hrmr.2010.10.007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Casale, S., y Banchi, V. (2020). Narcissism and problematic social media use: A systematic literature review. <italic>Addictive Behaviors Reports</italic>, <italic>11</italic>, 100252. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.abrep.2020.100252">https://doi.org/10.1016/j.abrep.2020.100252</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Casale</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Banchi</surname>
+							<given-names>V.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Narcissism and problematic social media use: A systematic literature review</article-title>
+					<source>Addictive Behaviors Reports</source>
+					<volume>11</volume>
+					<elocation-id>100252</elocation-id>
+					<pub-id pub-id-type="doi">10.1016/j.abrep.2020.100252</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Crusius, J., y Lange, J. (2016). How Do People Respond to Threatened Social Status? Moderators of benign versus malicious envy. En R. H. Smith, U. Merlone y M. K. Duffy (Eds.), <italic>Envy at work and in organizations</italic> (pp. 85-110). Oxford University Press. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/acprof:oso/9780190228057.003.0004">https://doi.org/10.1093/acprof:oso/9780190228057.003.0004</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Crusius</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Lange</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<chapter-title>How Do People Respond to Threatened Social Status? Moderators of benign versus malicious envy</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Smith</surname>
+							<given-names>R. H.</given-names>
+						</name>
+						<name>
+							<surname>Merlone</surname>
+							<given-names>U.</given-names>
+						</name>
+						<name>
+							<surname>Duffy</surname>
+							<given-names>M. K.</given-names>
+						</name>
+					</person-group>
+					<source>Envy at work and in organizations</source>
+					<fpage>85</fpage>
+					<lpage>110</lpage>
+					<publisher-name>Oxford University Press</publisher-name>
+					<pub-id pub-id-type="doi">10.1093/acprof:oso/9780190228057.003.0004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Doyle, A. (2022). <italic>The new puritans: How the religion of social justice captured the western world</italic>. Constable.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Doyle</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>The new puritans: How the religion of social justice captured the western world</source>
+					<publisher-name>Constable</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Duffy, B. E., y Pooley, J. D. (2017). “Facebook for Academics”: The Convergence of Self-Branding and Social Media Logic on Academia.edu. <italic>Social Media + Society</italic>, <italic>3</italic>(1). 2056305117696523.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Duffy</surname>
+							<given-names>B. E.</given-names>
+						</name>
+						<name>
+							<surname>Pooley</surname>
+							<given-names>J. D.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>“Facebook for Academics”: The Convergence of Self-Branding and Social Media Logic on Academia.edu</article-title>
+					<source>Social Media + Society</source>
+					<volume>3</volume>
+					<issue>1</issue>
+					<elocation-id>2056305117696523</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Errasti, J., y Pérez-Álvarez, M. (2022). <italic>Nadie nace en un cuerpo equivocado: éxito y miseria de la identidad de género</italic>. Deusto/Planeta.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Errasti</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Pérez-Álvarez</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>Nadie nace en un cuerpo equivocado: éxito y miseria de la identidad de género</source>
+					<publisher-name>Deusto/Planeta</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Furedi, F. (2018). <italic>Qué le está pasando a La Universidad: Un análisis sociológico de su infantilización</italic>. Narcea Ediciones.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Furedi</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Qué le está pasando a La Universidad: Un análisis sociológico de su infantilización</source>
+					<publisher-name>Narcea Ediciones</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Gebauer, J. E., y Sedikides, C. (2018). Communal Narcissism: Theoretical and Empirical Support. En: A. Hermann, A. Brunell y J. Foster (Eds), <italic>Handbook of Trait Narcissism</italic>. Springer, Cham. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/978-3-319-92171-6_7">https://doi.org/10.1007/978-3-319-92171-6_7</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gebauer</surname>
+							<given-names>J. E.</given-names>
+						</name>
+						<name>
+							<surname>Sedikides</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<chapter-title>Communal Narcissism: Theoretical and Empirical Support</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hermann</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Brunell</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Foster</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<source>Handbook of Trait Narcissism</source>
+					<publisher-name>Springer</publisher-name>
+					<publisher-loc>Cham</publisher-loc>
+					<pub-id pub-id-type="doi">10.1007/978-3-319-92171-6_7</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Gnambs, T., y Appel, M. (2018). Narcissism and Social Networking Behavior: A Meta-Analysis. <italic>Journal of Personality</italic>, <italic>86</italic>(2), 200-212. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/jopy.12305">https://doi.org/10.1111/jopy.12305</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gnambs</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Appel</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Narcissism and Social Networking Behavior: A Meta-Analysis</article-title>
+					<source>Journal of Personality</source>
+					<volume>86</volume>
+					<issue>2</issue>
+					<fpage>200</fpage>
+					<lpage>212</lpage>
+					<pub-id pub-id-type="doi">10.1111/jopy.12305</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Hafermalz, E. (2021). Out of the panopticon and into exile: Visibility and control in distributed new culture organizations. <italic>Organization Studies</italic>, <italic>42</italic>(5) 697-717. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0170840620909962">https://doi.org/10.1177/0170840620909962</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hafermalz</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Out of the panopticon and into exile: Visibility and control in distributed new culture organizations</article-title>
+					<source>Organization Studies</source>
+					<volume>42</volume>
+					<issue>5</issue>
+					<fpage>697</fpage>
+					<lpage>717</lpage>
+					<pub-id pub-id-type="doi">10.1177/0170840620909962</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Hatemi, P. K., y Fazekas, Z. (2018). Narcissism and Political Orientations. <italic>American Journal of Political Science</italic>, <italic>62</italic>(4), 873-888. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/ajps.12380">https://doi.org/10.1111/ajps.12380</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hatemi</surname>
+							<given-names>P. K.</given-names>
+						</name>
+						<name>
+							<surname>Fazekas</surname>
+							<given-names>Z.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Narcissism and Political Orientations</article-title>
+					<source>American Journal of Political Science</source>
+					<volume>62</volume>
+					<issue>4</issue>
+					<fpage>873</fpage>
+					<lpage>888</lpage>
+					<pub-id pub-id-type="doi">10.1111/ajps.12380</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Haidt, J., y Lukianoff, G. (2018/2019). <italic>La transformación de la mente moderna. Cómo las buenas intenciones y las malas ideas están condenando a una generación al fracaso</italic>. Deusto.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Haidt</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Lukianoff</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2018/2019</year>
+					<source>La transformación de la mente moderna. Cómo las buenas intenciones y las malas ideas están condenando a una generación al fracaso</source>
+					<publisher-name>Deusto</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Hayward, K. J. (2024). <italic>Infantilized: How our culture killed adulthood</italic>. Constable.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hayward</surname>
+							<given-names>K. J.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<source>Infantilized: How our culture killed adulthood</source>
+					<publisher-name>Constable</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Hicks, D., Wouters, P., Waltman, L., de Rijcke, S., y Rafols, I. (2015). The Leiden Manifesto for research metrics. <italic>Nature</italic>, <italic>520</italic>(7548), 9-11. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/520429a">https://doi.org/10.1038/520429a</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hicks</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Wouters</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Waltman</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>de Rijcke</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Rafols</surname>
+							<given-names>I.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>The Leiden Manifesto for research metrics</article-title>
+					<source>Nature</source>
+					<volume>520</volume>
+					<issue>7548</issue>
+					<fpage>9</fpage>
+					<lpage>11</lpage>
+					<pub-id pub-id-type="doi">10.1038/520429a</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Khamis, S., Ang, L., y Welling, R. (2017). Self-branding, micro-celebrity’ and the rise of Social Media: The limits of the imagined audience. <italic>Celebrity Studies</italic>, <italic>8</italic>(2), 191-208. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/19392397.2016.1218292">https://doi.org/10.1080/19392397.2016.1218292</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Khamis</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ang</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Welling</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Self-branding, micro-celebrity’ and the rise of Social Media: The limits of the imagined audience</article-title>
+					<source>Celebrity Studies</source>
+					<volume>8</volume>
+					<issue>2</issue>
+					<fpage>191</fpage>
+					<lpage>208</lpage>
+					<pub-id pub-id-type="doi">10.1080/19392397.2016.1218292</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Lasch, E. (1979/2023). <italic>La cultura del narcisismo: la vida en una era de expectativas decrecientes</italic>. Capitán Swing.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lasch</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>1979/2023</year>
+					<source>La cultura del narcisismo: la vida en una era de expectativas decrecientes</source>
+					<publisher-name>Capitán Swing</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Lipovetsky, G. (1983/2006). <italic>La era del vacío</italic>. Anagrama.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lipovetsky</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>1983/2006</year>
+					<source>La era del vacío</source>
+					<publisher-name>Anagrama</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Morris, D. W., MacGillivray, E., y Pither, E. N. (2021). Self-promotion and the need to be first in science. <italic>Facets</italic>, <italic>6</italic>(1), 1881-1891.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Morris</surname>
+							<given-names>D. W.</given-names>
+						</name>
+						<name>
+							<surname>MacGillivray</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Pither</surname>
+							<given-names>E. N.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Self-promotion and the need to be first in science</article-title>
+					<source>Facets</source>
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>1881</fpage>
+					<lpage>1891</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Nehrlich, A. D., Gebauer, J. E., Sedikides, C., y Schoel, C. (2019). Agentic narcissism, communal narcissism, and prosociality. <italic>Journal of Personality and Social Psychology</italic>, <italic>117</italic>(1), 142-165. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/pspp0000190">https://doi.org/10.1037/pspp0000190</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nehrlich</surname>
+							<given-names>A. D.</given-names>
+						</name>
+						<name>
+							<surname>Gebauer</surname>
+							<given-names>J. E.</given-names>
+						</name>
+						<name>
+							<surname>Sedikides</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Schoel</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Agentic narcissism, communal narcissism, and prosociality</article-title>
+					<source>Journal of Personality and Social Psychology</source>
+					<volume>117</volume>
+					<issue>1</issue>
+					<fpage>142</fpage>
+					<lpage>165</lpage>
+					<pub-id pub-id-type="doi">10.1037/pspp0000190</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Pérez-Álvarez, M. (en prensa). <italic>Selfis, satysfiers, mascotas y robots: signos del narcisismo contemporáneo</italic>. Deusto/Planeta.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Álvarez</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<comment>en prensa</comment>
+					<source>Selfis, satysfiers, mascotas y robots: signos del narcisismo contemporáneo</source>
+					<publisher-name>Deusto/Planeta</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Post, M. J. (2015). <italic>Narcissism and politics</italic>. <italic>Dreams of Glory</italic>. Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Post</surname>
+							<given-names>M. J.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Narcissism and politics. Dreams of Glory</source>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Ronningstam, E. (2022). Narcissistic personality disorder. En S. K. Huprich (Ed.), <italic>Personality disorders and pathology: Integrating clinical assessment and practice in the DSM-5 and ICD-11 era</italic> (pp. 375-389). American Psychological Association. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0000310-017">https://doi.org/10.1037/0000310-017</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ronningstam</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<chapter-title>Narcissistic personality disorder</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Huprich</surname>
+							<given-names>S. K.</given-names>
+						</name>
+					</person-group>
+					<source>Personality disorders and pathology: Integrating clinical assessment and practice in the DSM-5 and ICD-11 era</source>
+					<fpage>375</fpage>
+					<lpage>389</lpage>
+					<publisher-name>American Psychological Association</publisher-name>
+					<pub-id pub-id-type="doi">10.1037/0000310-017</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Wong, C. (2024). The “PhD influencers” logging lab life on TikTok and Instagram. <italic>Nature</italic>, <italic>631</italic>, 724-725. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/d41586-024-02294-9">https://doi.org/10.1038/d41586-024-02294-9</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wong</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>The “PhD influencers” logging lab life on TikTok and Instagram</article-title>
+					<source>Nature</source>
+					<volume>631</volume>
+					<fpage>724</fpage>
+					<lpage>725</lpage>
+					<pub-id pub-id-type="doi">10.1038/d41586-024-02294-9</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

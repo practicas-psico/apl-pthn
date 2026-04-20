@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.70478/pap.psicol.2026.47.11</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>El Modelo Cognitivo Contemporáneo, una Aproximación Integradora y Dimensional</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>The Contemporary Cognitive Model, an Integrative and Dimensional Approach</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-7286-9034</contrib-id>
+					<name>
+						<surname>Prado-Abril</surname>
+						<given-names>Javier</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0002-2360-335X</contrib-id>
+					<name>
+						<surname>Domínguez-Grimbergen</surname>
+						<given-names>Rosa</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-0610-8170</contrib-id>
+					<name>
+						<surname>Inchausti</surname>
+						<given-names>Félix</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-5327-465X</contrib-id>
+					<name>
+						<surname>Sánchez-Reales</surname>
+						<given-names>Sergio</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0007-1481-8099</contrib-id>
+					<name>
+						<surname>López-Gómez</surname>
+						<given-names>Jesús</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Hospital Universitario Miguel Servet, Zaragoza, España</institution>
+				<institution content-type="orgname">Hospital Universitario Miguel Servet</institution>
+				<addr-line>
+					<city>Zaragoza</city>
+				</addr-line>
+				<country country="ES">España</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Hospital Universitario San Pedro, Logroño, España</institution>
+				<institution content-type="orgname">Hospital Universitario San Pedro</institution>
+				<addr-line>
+					<city>Logroño</city>
+				</addr-line>
+				<country country="ES">España</country>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Hospital Universitario de Jerez de la Frontera, España</institution>
+				<institution content-type="orgname">Hospital Universitario de Jerez de la Frontera</institution>
+				<country country="ES">España</country>
+			</aff>
+			<aff id="aff4">
+				<label>4</label>
+				<institution content-type="original">Badalona Serveis Assistencials (BSA), España</institution>
+				<institution content-type="orgname">Badalona Serveis Assistencials (BSA)</institution>
+				<country country="ES">España</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">Autor de correspondencia: Javier Prado-Abril <email>jprado@salud.aragon.es</email>
+				</corresp>
+				<fn fn-type="con" id="fn2">
+					<label>Citar como</label>
+					<p>Prado-Abril, J., Domínguez-Grimbergen, R., Inchausti, F., Sánchez-Reales, S., y López-Gómez, J. (2026). El modelo cognitivo contemporáneo, una aproximación integradora y dimensional. <italic>Papeles del Psicólogo/Psychologist Papers, 47</italic>(2), 95-105. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.70478/pap.psicol.2026.47.11">https://doi.org/10.70478/pap.psicol.2026.47.11</ext-link>. Este artículo está publicado bajo Licencia Creative Commons 4.0 CC-BY-NC-ND</p>
+				</fn>
+				<fn fn-type="conflict" id="fn3">
+					<p>Los autores declaran no tener conflictos de interés.</p>
+				</fn>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>95</fpage>
+			<lpage>105</lpage>
+			<history>
+				<date date-type="received">
+					<day>06</day>
+					<month>11</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>29</day>
+					<month>01</month>
+					<year>2026</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El modelo cognitivo ha evolucionado desde su origen hacia un paradigma abierto, integrador y sensible con la complejidad del sufrimiento humano. Este trabajo tiene como objetivo sistematizar parte de dicha evolución y proponer una formulación multidimensional de la psicopatología útil para la práctica clínica. Se sintetizan aportaciones clásicas y contemporáneas del modelo cognitivo que incluyen elementos de las tradiciones constructivistas, narrativas, experienciales y relacionales. Asimismo, se presenta un caso clínico para ilustrar la aplicabilidad del modelo. El caso de Hugo muestra cómo una conceptualización integradora y dimensional ofrece un marco útil para comprender y tratar el sufrimiento humano. Por último, se discute cómo la flexibilidad y la apertura del modelo cognitivo favorece el diálogo entre modelos, aunque también presenta desafíos de sistematización y validación empírica.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The cognitive model has evolved from its origins into an open, integrative paradigm that is sensitive to the complexity of human suffering. This paper aims to systematize part of this evolution and to propose a multidimensional formulation of psychopathology that is useful for clinical practice. Classical and contemporary contributions to the cognitive model are synthesized, incorporating elements from constructivist, narrative, experiential, and relational traditions. A clinical case is presented to illustrate the applicability of the model. The case of Hugo shows how an integrative and dimensional conceptualization provides a useful framework for understanding and addressing human suffering. Finally, we discuss how the flexibility and openness of the cognitive model foster dialogue across approaches, while also presenting challenges for systematization and empirical validation.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Modelo cognitivo</kwd>
+				<kwd>Psicoterapia</kwd>
+				<kwd>Formulación dimensional</kwd>
+				<kwd>Integración</kwd>
+				<kwd>Self</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Cognitive model</kwd>
+				<kwd>Psychotherapy</kwd>
+				<kwd>Dimensional formulation</kwd>
+				<kwd>Integration</kwd>
+				<kwd>Self</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="2"/>
+				<table-count count="4"/>
+				<equation-count count="0"/>
+				<ref-count count="45"/>
+				<page-count count="11"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Desde su origen como alternativa al conductismo en los años 50 y 60 del pasado siglo, el modelo cognitivo se ha consolidado como uno de los grandes paradigmas de la historia contemporánea de la psicología. La <italic>revolución cognitiva</italic> supuso un giro decisivo en el estudio científico del comportamiento humano al ubicar los procesos mentales, como la percepción, la memoria, el lenguaje o el razonamiento, en el centro mismo de los asuntos susceptibles de interés e investigación empírica (<xref ref-type="bibr" rid="B16">Gardner, 1985</xref>; <xref ref-type="bibr" rid="B26">Miller, 2003</xref>). Además de representar una potente transformación en el mundo de las ideas de la época y en los entornos académicos, rápidamente tuvo su influencia en el ámbito clínico que se caracterizaba por la hegemonía del psicoanálisis, cuya vigencia empezaba a declinar coincidiendo con la aparición de otras formas de entender el sufrimiento humano y los avances de la psicofarmacología (<xref ref-type="bibr" rid="B1">Alford y Beck, 1998</xref>; <xref ref-type="bibr" rid="B25">Mahoney, 1991</xref>; <xref ref-type="bibr" rid="B32">Paris, 2017</xref>).</p>
+			<p>Entre los pioneros del modelo cognitivo destacan autores como George Kelly, Albert Ellis y Aaron Beck, quienes durante el inicio de la segunda mitad del siglo XX establecieron los fundamentos del paradigma en el ámbito de la psicopatología y de la psicoterapia (<xref ref-type="bibr" rid="B1">Alford y Beck, 1998</xref>; <xref ref-type="bibr" rid="B4">Beck, 2011</xref>). Desde esta perspectiva, los trastornos mentales tendrían su origen en los procesos cognitivos que las personas despliegan en el procesamiento y análisis de las experiencias de la vida. Posteriormente, la esencia de la evolución del modelo se caracterizó por la extensión, la riqueza y la diversidad de sus propuestas teórico-técnicas (<xref ref-type="bibr" rid="B14">Fernández-Álvarez y Fernández-Álvarez, 2017</xref>; <xref ref-type="bibr" rid="B29">Norcross et al., 2019</xref>). Actualmente, se entiende que el sufrimiento humano surge de la forma en que las personas perciben, interpretan y otorgan significado a sus experiencias personales construyendo narrativas de vida más o menos funcionales que permiten mantener la coherencia autobiográfica, el sentido de uno mismo o la integridad del <italic>self</italic> (<xref ref-type="bibr" rid="B13">Dimaggio et al., 2015</xref>; <xref ref-type="bibr" rid="B14">Fernández-Álvarez y Fernández-Álvarez, 2017</xref>; <xref ref-type="bibr" rid="B17">Gonçalves y Machado, 1999</xref>; <xref ref-type="bibr" rid="B19">Greenberg y Safran, 1987</xref>; <xref ref-type="bibr" rid="B20">Guidano, 1987</xref>, <xref ref-type="bibr" rid="B21">1991</xref>; <xref ref-type="bibr" rid="B22">Inchausti, 2025</xref>; <xref ref-type="bibr" rid="B23">Liotti, 2004</xref>, <xref ref-type="bibr" rid="B24">2017</xref>; <xref ref-type="bibr" rid="B25">Mahoney, 1991</xref>; <xref ref-type="bibr" rid="B33">Prado-Abril et al., 2013</xref>; <xref ref-type="bibr" rid="B36">Safran y Segal, 1990</xref>).</p>
+			<p>La evolución epistemológica del modelo cognitivo ha sido un proceso progresivo salpicado por las tensiones teóricas. Diversas reformulaciones han enriquecido, profundizado y complejizado las nociones originales sobre el funcionamiento cognitivo de las personas. Dicho proceso ha cristalizado en un marco teórico explicativo amplio, relativamente coherente y con un alto componente de sistematicidad, fruto de la capacidad de síntesis y de la vocación por la integración propias de las últimas décadas (ver <xref ref-type="table" rid="t1">Tabla 1</xref>).</p>
+			<p>
+				<table-wrap id="t1">
+					<label>Tabla 1</label>
+					<caption>
+						<title>Fases Históricas en la Evolución del Modelo Cognitivo Hacia la Complejidad y la Progresiva Vocación por la Integración</title>
+					</caption>
+					<table>
+						<colgroup>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="center">Años</th>
+								<th align="center">Fase</th>
+								<th align="center">Elementos clave</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="left">50-70</td>
+								<td align="left">Ruptura fundacional.</td>
+								<td align="left">Surgimiento de la terapia cognitiva como alternativa al conductismo y al psicoanálisis. Énfasis en pensamientos automáticos, distorsiones perceptivas y estructuras cognitivas.</td>
+							</tr>
+							<tr>
+								<td align="left">80-90</td>
+								<td align="left">Tensión epistemológica.</td>
+								<td align="left">Debate entre la epistemología racionalista y constructivista. Surgimiento de modelos centrados en el <italic>self</italic> como eje organizador de significados personales.</td>
+							</tr>
+							<tr>
+								<td align="left">90-2000</td>
+								<td align="left">Aproximación integradora.</td>
+								<td align="left">Aparición de los primeros modelos cognitivos decididamente integradores (p. ej., terapia de esquemas). Necesidad de abordar problemáticas clínicas más complejas vertebrando las aportaciones de diferentes enfoques.</td>
+							</tr>
+							<tr>
+								<td align="left">2000 →</td>
+								<td align="left">Madurez, pluralidad teórico-técnica.</td>
+								<td align="left">Reconocimiento explícito de la integración como proceso vigente. Diversificación de modelos bajo el paraguas conceptual del modelo cognitivo.</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p><italic>Nota.</italic> Adaptado de <xref ref-type="bibr" rid="B14">Fernández-Álvarez y Fernández-Álvarez (2017)</xref>.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>Algunos autores sostienen que el modelo cognitivo y su variante cognitivo-conductual representan el marco teórico de referencia más adecuado para tratar de alcanzar esa aspiración, aparentemente inapresable, que constituye la integración de la teoría y la práctica de la psicoterapia (<xref ref-type="bibr" rid="B1">Alford y Beck, 1998</xref>; <xref ref-type="bibr" rid="B9">Castonguay et al., 2019</xref>; <xref ref-type="bibr" rid="B14">Fernández-Álvarez y Fernández-Álvarez, 2017</xref>; <xref ref-type="bibr" rid="B28">Norcross et al., 2019</xref>). Sin embargo, una integración teórica amplia aún debe cubrir una serie de aspectos con menor heterogeneidad que la que actualmente define el estado del campo. Cualquier paradigma que se precie tiene que ser capaz de articular y secuenciar un marco teórico de referencia unificado que permita integrar la experiencia normal y anormal, con los procesos cognitivos, afectivos, motivacionales, interpersonales, evolutivos y conductuales involucrados en la construcción del contexto identitario de la persona. A modo de aproximación, véase la <xref ref-type="fig" rid="f1">Figura 1</xref>.</p>
+			<p>
+				<fig id="f1">
+					<label>Figura 1</label>
+					<caption>
+						<title>Propuesta de Modelo Cognitivo Integrador Para la Comprensión de la Psicopatología Como Fenómeno Emergente</title>
+					</caption>
+					<graphic xlink:href="0214-7823-pappsicol-47-02-95-gf1.jpg"/>
+				</fig>
+			</p>
+			<p>Los elementos de análisis psicopatológico señalados deben guiar la evaluación, la formulación y el tratamiento psicológico de los trastornos mentales de tal forma que sean susceptibles de operativización explícita y evaluación empírica sistemática. Existen esfuerzos de gran valor en esta dirección, pero el proyecto está lejos de ser la norma en el panorama actual de las psicoterapias cognitivas. No obstante, este no es un defecto exclusivo del ecosistema cognitivo, sino que define en su conjunto el campo de las psicoterapias contemporáneas que se caracteriza por la especificidad de un sinfín de modelos que ofrecen respuestas parciales a diferentes tipos de problemas clínicos (<xref ref-type="bibr" rid="B31">Paris, 2013</xref>; <xref ref-type="bibr" rid="B29">Norcross y Goldfried, 2019</xref>; <xref ref-type="bibr" rid="B42">Wampold, 2019</xref>; <xref ref-type="bibr" rid="B43">Wampold y Imel, 2015</xref>; <xref ref-type="bibr" rid="B45">Zilcha-Mano, 2025</xref>).</p>
+			<p>Aunque el modelo cognitivo reconoce que la integración es un fenómeno estrictamente vigente, su pluralidad consustancial impide todavía hablar de un marco de referencia y de suficiente consenso que permita conceptualizar, formular e integrar el sufrimiento y las experiencias perturbadoras de las personas -es decir, la psicopatología- con su mejor modo de reparación, restauración, articulación o superación -esto es, la modalidad de tratamiento-. En el mejor de los casos, debemos hablar de una familia de aproximaciones teórico-técnicas que comparten una misma cosmovisión, si bien otorgan mayor peso a unas u otras de las dimensiones presentadas en la <xref ref-type="fig" rid="f1">Figura 1</xref>. Asimismo, la aspiración integradora debe salvar otra brecha para tener un alcance sustancial. Esta consiste en la desarticulación que existe entre la información y el conocimiento que proviene de la investigación básica y del ámbito de la experiencia directa e intuitiva más propia de los contextos asistenciales (<xref ref-type="bibr" rid="B15">Fernández-Álvarez et al., 2020</xref>). Quizás el desarrollo de redes de investigación orientadas por la práctica pueda servir en el futuro a dicho objetivo (<xref ref-type="bibr" rid="B2">Areas et al., 2022</xref>; <xref ref-type="bibr" rid="B3">Barkham, 2014</xref>).</p>
+			<p>El presente trabajo persigue la máxima honestidad intelectual. Sin embargo, no está libre de sesgos y necesariamente se posiciona en determinado lugar de la evolución del modelo cognitivo y del estado de las corrientes que lo conforman. En este caso, se ha optado por seguir la trayectoria que ha llevado al modelo cognitivo hacia la complejidad y la integración amplia de elementos procedentes de diferentes fuentes de conocimiento. Una alternativa podría haber sido tomar el camino más ortodoxo e institucional que condujo a la hegemonía actual del modelo biomédico y de la terapia cognitivo-conductual (TCC; <xref ref-type="bibr" rid="B4">Beck, 2011</xref>; <xref ref-type="bibr" rid="B11">David et al., 2018</xref>). Las razones provienen fundamentalmente del interés de los autores por los modelos complejos. Estos enfoques suelen presentar un mayor rango de soluciones en el ámbito clínico, aunque como contrapartida obligan a tolerar mayores niveles de incertidumbre asociados con la propia naturaleza heurística de la formulación y su derivada psicoterapéutica (<xref ref-type="bibr" rid="B35">Prado-Abril et al., 2017</xref>, <xref ref-type="bibr" rid="B34">2019</xref>; <xref ref-type="bibr" rid="B38">Sperry y Sperry, 2020</xref>).</p>
+			<p>Desde esta aproximación, el modelo cognitivo ha profundizado desde sus orígenes en progresivos niveles de introspección de la mano de la epistemología constructivista. Por ejemplo, <xref ref-type="bibr" rid="B25">Mahoney (1991)</xref> trasladó el foco de los contenidos cognitivos hacia procesos experienciales y autorregulados que conforman patrones dinámicos de interacción centrados en la significación personal. Por su parte, <xref ref-type="bibr" rid="B20">Guidano (1987</xref>, <xref ref-type="bibr" rid="B21">1991)</xref> definió el <italic>self</italic> como una organización narrativa, en constante cambio y construcción, donde la disfunción proviene de la falta de capacidad de integración en una narrativa coherente. <xref ref-type="bibr" rid="B23">Liotti (2004</xref>, <xref ref-type="bibr" rid="B24">2017)</xref> enriquece este aspecto articulando en mayor detalle la relación entre la historia de apego y los mecanismos de carácter disociativo para entender los procesos de falta de integración del <italic>self</italic>. <xref ref-type="bibr" rid="B36">Safran y Segal (1990)</xref> y <xref ref-type="bibr" rid="B19">Greenberg y Safran (1987)</xref> cumplen un papel esencial en la incorporación de los aspectos emocionales e interpersonales en el marco de la configuración de las cogniciones, los sistemas de creencias personales y los procesos de cambio humano. De este modo, citando sólo algunos de los autores más destacados, la evolución del modelo hacia la complejidad narrativa, experiencial y relacional encontró en la terapia de esquemas de <xref ref-type="bibr" rid="B40">Young et al. (2003)</xref> una expresión sistematizada para el trabajo clínico. Dicha modalidad de tratamiento estructurado puede conceptualizarse como una integración operativa de muchos de los elementos mencionados. Por un lado, mantiene la estructura y el enfoque empírico de la TCC tradicional de la primera época. Al mismo tiempo, incorpora elementos del constructivismo y de la teoría del apego, primando la importancia de los aspectos emocionales e interpersonales, cuando formula los esquemas tempranos desadaptativos como núcleos narrativo-afectivos que organizan la experiencia del <italic>self</italic>. En consecuencia, la identidad sería el principal vector sobre el que organizar la evaluación, la formulación y el tratamiento psicológico. No tanto para desconfirmar los esquemas subyacentes (<xref ref-type="bibr" rid="B1">Alford y Beck, 1998</xref>; <xref ref-type="bibr" rid="B4">Beck, 2011</xref>), sino para comprender la naturaleza de las experiencias disfuncionales de las personas con la pretensión de poder flexibilizarlas, enriquecerlas y matizarlas, promoviendo una mirada más compleja y policromática de uno mismo (<xref ref-type="bibr" rid="B13">Dimaggio et al., 2015</xref>; <xref ref-type="bibr" rid="B33">Prado-Abril et al., 2013</xref>; <xref ref-type="bibr" rid="B36">Safran y Segal, 1990</xref>; <xref ref-type="bibr" rid="B40">Young et al., 2003</xref>).</p>
+			<p>Por último, debe señalarse que el proceso de expansión y enriquecimiento interno que ha seguido el paradigma cognitivo en el ámbito clínico se ha producido en diálogo con las propias transformaciones de la ciencia cognitiva. Como señala <xref ref-type="bibr" rid="B30">Osbeck (2009)</xref>, el tradicional paradigma computacional de la mente, como sistema de procesamiento simbólico abstracto, dio paso progresivamente a perspectivas más integradoras como la cognición encarnada, la cognición situada y la mente extendida. Estas nuevas aproximaciones cuestionan la separación estricta que establecía el modelo clásico entre mente, cuerpo y entorno, situando el proceso de conocimiento humano como un fenómeno profundamente marcado por los aspectos afectivos, relacionales y de carácter contextual. Por ello, la cognición no puede entenderse como una mera manipulación de representaciones internas, del mismo modo que el sufrimiento humano no puede reducirse a errores lógicos, de interpretación o distorsiones aisladas, ni la psicoterapia a una suerte de tecnología de corrección de pensamientos disfuncionales. Más bien, se trata de fenómenos emergentes que involucran al organismo en su totalidad y que precisan de marcos teóricos e intervenciones clínicas capaces de abordar la complejidad sin fragmentarla bajo la ilusión del pensamiento secuencial. En consecuencia, el modelo cognitivo se presenta como un paradigma abierto, integrador y plural que aspira a entender y explicar la naturaleza humana, así como esa condición consustancial con el vivir que es el sufrimiento y cómo lidiar con ello para construir vidas que merezcan la pena ser vividas.</p>
+		</sec>
+		<sec>
+			<title>Algunos Aspectos Básicos Sobre Psicopatología</title>
+			<p>Como se ha señalado, el modelo cognitivo ha recorrido diferentes etapas que han influido en la comprensión y formulación de los trastornos mentales. En sus inicios se entendía que los trastornos mentales eran producto de distorsiones cognitivas y pensamientos automáticos negativos derivados de esquemas disfuncionales desarrollados en etapas tempranas de la vida (<xref ref-type="bibr" rid="B1">Alford y Beck, 1998</xref>; <xref ref-type="bibr" rid="B4">Beck, 2011</xref>; <xref ref-type="bibr" rid="B11">David et al., 2018</xref>). Posteriormente, se ha visto que una perspectiva basada en la persona como agente activo que otorga significado a sus experiencias vitales, articulando relatos contextuales, es un planteamiento que amplía y enriquece dicho posicionamiento (<xref ref-type="bibr" rid="B17">Gonçalves y Machado, 1999</xref>; <xref ref-type="bibr" rid="B20">Guidano, 1987</xref>, <xref ref-type="bibr" rid="B21">1991</xref>; <xref ref-type="bibr" rid="B25">Mahoney, 1991</xref>; <xref ref-type="bibr" rid="B40">Young et al., 2003</xref>).</p>
+			<p>Desde la metateoría constructivista que informa al modelo cognitivo, los trastornos mentales no pueden concebirse como entidades naturales fijas. Mucho menos como enfermedades tal y como se destila con frecuencia desde el modelo biomédico (<xref ref-type="bibr" rid="B12">Deacon, 2013</xref>). Los síntomas y los síndromes se entienden como un fenómeno complejo, emergente, enraizado en la biografía de la persona y con un decisivo componente contextual. Los padece una persona que es agente activo en la construcción de realidades con significación personal. Esta experiencia subjetiva surge de una compleja interacción con las influencias relacionales y socio-culturales que encuadran el desarrollo del sí mismo como instancia psicológica sujeta a una lógica discursiva (<xref ref-type="bibr" rid="B20">Guidano, 1987</xref>, <xref ref-type="bibr" rid="B21">1991</xref>; <xref ref-type="bibr" rid="B25">Mahoney, 1991</xref>; <xref ref-type="bibr" rid="B36">Safran y Segal, 1990</xref>). Este planteamiento encaja amablemente con los postulados del modelo biopsicosocial e invita a considerar que los trastornos mentales guardan relación con la historia de significados personales y las normas culturales de la época que definen el cauce de expresión del sufrimiento. Nuestra época representa un ejemplo paradigmático, donde se han reducido los umbrales necesarios para recibir un diagnóstico psicopatológico, existe una notable percepción subjetiva en las personas de estar enfermas, probablemente como consecuencia de fenómenos de propagación social como el <italic>disease mongering,</italic> quedando como resultado neto unas tasas de prevalencia de problemas de salud mental que parecen representar una alarma internacional sin precedentes (<xref ref-type="bibr" rid="B27">Moynihan et al., 2008</xref>; <xref ref-type="bibr" rid="B44">Whitaker, 2015</xref>). Este tipo de fenómenos ponen en franca cuestión a la psicopatología oficial como una ciencia natural competente para demarcar con objetividad el inicio de las experiencias o comportamientos susceptibles de ser considerados anormales. De hecho, delimitan a la psicopatología como una disciplina profundamente maleable, interpretable, imprecisa, con un elevado grado de subjetividad y determinada por los marcos normativos y las necesidades no siempre explícitas que impone la realidad social de la época (Berrios, 2006).</p>
+			<p>En adelante, se presentará una propuesta multidimensional sobre la forma en que las personas pueden expresar su sufrimiento con un objetivo abiertamente centrado en su comprensión y explicación. La idea es que sea útil como guía para la conceptualización y la formulación de los problemas para poder construir sistemas de tratamiento psicoterapéutico ajustados a las necesidades específicas que cada persona puede precisar para prosperar en su vida. La <xref ref-type="table" rid="t2">Tabla 2</xref> amplía el contenido de la propuesta formulada en la <xref ref-type="fig" rid="f1">Figura 1</xref> y muestra los bloques que pueden estar involucrados en la emergencia de la psicopatología como fenómeno subjetivo. Señala las dimensiones involucradas, sus componentes principales y algunos ejemplos clínicos que pretenden ilustrar la expresión sintomática que puede observarse en la práctica clínica.</p>
+			<p>
+				<table-wrap id="t2">
+					<label>Tabla 2</label>
+					<caption>
+						<title>Dimensiones y Componentes Principales de una Psicopatología Cognitiva Integradora</title>
+					</caption>
+					<table>
+						<colgroup>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="center">Dimensión</th>
+								<th align="center">Componentes</th>
+								<th align="center">Definición</th>
+								<th align="center">Ejemplo clínico</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="left">Cognitiva</td>
+								<td align="left">Esquemas, creencias nucleares, pensamientos automáticos, distorsiones cognitivas.</td>
+								<td align="left">Estructuras mentales que organizan la experiencia y guían la interpretación de la realidad.</td>
+								<td align="left">Una persona con creencias nucleares de inutilidad interpreta sus errores como prueba de su incompetencia personal estructural.</td>
+							</tr>
+							<tr>
+								<td align="left">Afectiva</td>
+								<td align="left">Reconocimiento emocional, regulación emocional, evitación experiencial, tolerancia al malestar.</td>
+								<td align="left">Procesos emocionales que influyen en la percepción, evaluación y respuesta a los eventos internos y externos.</td>
+								<td align="left">Una persona con ansiedad generalizada evita enfrentarse a sus emociones, incrementando su malestar emocional a largo plazo.</td>
+							</tr>
+							<tr>
+								<td align="left">Motivacional</td>
+								<td align="left">Metas personales, valores, conflicto motivacional, activación conductual.</td>
+								<td align="left">Sistemas que dirigen la conducta hacia objetivos significativos, condicionando la toma de decisiones y el cambio terapéutico.</td>
+								<td align="left">Una persona con obsesiones de contenido sexual entra en conflicto con su meta personal de formar una familia, generando ambivalencia, culpa y bloqueo conductual.</td>
+							</tr>
+							<tr>
+								<td align="left">Interpersonal</td>
+								<td align="left">Estilos de apego, mentalización, sensibilidad interpersonal, patrones relacionales.</td>
+								<td align="left">Patrones internalizados en la infancia que influyen en la manera de vincularse con los demás.</td>
+								<td align="left">Un paciente con apego desorganizado puede alternar entre una fuerte necesidad de contacto emocional y conductas de rechazo o desconfianza hacia su terapeuta.</td>
+							</tr>
+							<tr>
+								<td align="left">Evolutiva</td>
+								<td align="left">Desarrollo del <italic>self</italic>, hitos del desarrollo, historia de trauma, transiciones evolutivas críticas.</td>
+								<td align="left">Trayectoria personal a lo largo del ciclo vital, incluyendo experiencias tempranas significativas.</td>
+								<td align="left">Un adulto que sufrió negligencia infantil puede presentar dificultades persistentes en la construcción de una identidad estable e integrada.</td>
+							</tr>
+							<tr>
+								<td align="left">Conductual</td>
+								<td align="left">Reforzamiento, evitación, conductas de seguridad, habilidades de afrontamiento.</td>
+								<td align="left">Patrones de conducta mantenidos por sus consecuencias.</td>
+								<td align="left">Una persona fóbica evita sistemáticamente las situaciones temidas, reforzando su miedo a largo plazo.</td>
+							</tr>
+							<tr>
+								<td align="left">Contextual</td>
+								<td align="left">Narrativas culturales, clase social, género, etnia, sentido de pertenencia, estigmatización.</td>
+								<td align="left">Factores socioculturales que influyen en la construcción de la identidad y en la expresión del sufrimiento psíquico.</td>
+								<td align="left">Una mujer migrante interpreta su sufrimiento emocional como debilidad, influida por un entorno que minimiza y no valida su experiencia subjetiva.</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			</p>
+			<p>El sufrimiento psíquico y su manifestación psicopatológica se entiende como una experiencia subjetiva emergente que variará en su forma de presentación, intensidad, persistencia y extensión en función de las dimensiones y componentes que se encuentren involucrados y de la interrelación entre los mismos. Es decir, la psicopatología se formula como un fenómeno multidimensional, multifactorial y multicausal que sigue una lógica no siempre sencilla de conceptualizar de un modo completo en el trabajo clínico. Ser conscientes de esta cualidad distintiva de la naturaleza del sufrimiento humano, contemplando todas las dimensiones involucradas en una persona, en un contexto socio-cultural dado, es clave para establecer una planificación de la psicoterapia más individualizada y sensible con las idiosincrásicas trayectorias vitales de las personas. En última instancia, estas trayectorias se encuentran en el centro mismo de la configuración de sus identidades y de las historias que se cuentan (<xref ref-type="bibr" rid="B20">Guidano, 1987</xref>, <xref ref-type="bibr" rid="B21">1991</xref>). Como veremos a continuación, un modelo de estas características facilita formulaciones exhaustivas y complejas de mucha utilidad para el trabajo clínico de carácter idiográfico.</p>
+		</sec>
+		<sec>
+			<title>Implicaciones Para la Práctica Clínica</title>
+			<p>Para aterrizar la conceptualización realizada y, desde ahí, orientar la construcción del proceso psicoterapéutico, partiremos de un caso clínico basado en la experiencia profesional de los autores con personas que padecen trastornos mentales graves. Hugo es un varón de 32 años, diagnosticado oficialmente de trastorno límite de la personalidad, que se encuentra en tratamiento psicológico ambulatorio en su centro de salud mental de zona. En la primera entrevista de valoración, informa de que mantiene su rendimiento laboral y que su consulta se debe a una crisis emocional derivada de una ruptura de pareja que define como conflictiva. Desde la ruptura sentimental, refiere episodios de aislamiento social, angustia intensa y rumiación improductiva constante. Su relato se caracteriza por la autoexigencia, una necesidad intensa de control emocional, temor y suspicacia frente a la crítica, así como una narrativa centrada en el agravio y en la externalización de la responsabilidad. A nivel interpersonal, se aprecia que alterna entre la búsqueda intensa de apoyo, contención empática y validación emocional y las conductas de evitación y rechazo, generando una contratransferencia en el clínico de incomodidad y alerta al sentirse evaluado y emocionalmente exigido. Asimismo, entre otros episodios autobiográficos de interés, refiere que durante su infancia y adolescencia la relación con sus padres fue controvertida, señalándolos como negligentes y autoritarios.</p>
+			<sec>
+				<title>Dimensión Cognitiva</title>
+				<p>Desde el inicio del proceso psicoterapéutico, se evalúa la posibilidad de que Hugo presente esquemas desadaptativos relacionados con el abandono, la inestabilidad, la privación emocional, la grandiosidad y el castigo. Según <xref ref-type="bibr" rid="B40">Young et al. (2003)</xref> los esquemas cubren amplias áreas de contenido temático significativo para las personas. La temática de los mismos representa elementos persistentes sobre la visión de uno mismo y de la relación con los demás. Se sugiere que se originan en la infancia, pero se desarrollan, modulan y consolidan a lo largo del desarrollo vital posterior. Con la costumbre, se convierten en formas cómodas y automáticas de mantener la coherencia de significados del <italic>self</italic>. Por ello, muchas veces se encuentran en el fondo de las percepciones subjetivas más particulares de las personas. A modo de resumen, en la <xref ref-type="table" rid="t3">Tabla 3</xref> se exponen los cinco dominios de la experiencia que aglutinan los dieciocho esquemas propuestos (<xref ref-type="bibr" rid="B5">Bernstein y Clercx, 2018</xref>; <xref ref-type="bibr" rid="B39">Young, 2006</xref>; <xref ref-type="bibr" rid="B40">Young et al., 2003</xref>).</p>
+				<p>
+					<table-wrap id="t3">
+						<label>Tabla 3</label>
+						<caption>
+							<title>Dominios y Esquemas Propuestos por <xref ref-type="bibr" rid="B40">Young et al. (2003)</xref>
+							</title>
+						</caption>
+						<table>
+							<colgroup>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th align="center">Dominios</th>
+									<th align="center">Esquemas</th>
+									<th align="center">Descripción</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left" rowspan="5">
+										<p>Desconexión y rechazo:</p>
+										<p>Dificultad para vincularse y mantener relaciones interpersonales satisfactorias y estables.</p>
+									</td>
+									<td align="left">1. Abandono e inestabilidad.</td>
+									<td align="left">Percepción de los otros en las relaciones interpersonales como imprevisibles, anticipando el final de la relación.</td>
+								</tr>
+								<tr>
+									<td align="left">2. Desconfianza y abuso.</td>
+									<td align="left">Tendencia a anticipar maltrato, humillación, engaño o manipulación por parte del otro.</td>
+								</tr>
+								<tr>
+									<td align="left">3. Privación emocional.</td>
+									<td align="left">Expectativa de que sus necesidades emocionales (cuidados, empatía o protección) no serán satisfechas por el otro.</td>
+								</tr>
+								<tr>
+									<td align="left">4. Imperfección y vergüenza.</td>
+									<td align="left">Sentimiento de sí mismo como imperfecto, inferior o poco merecedor de afecto.</td>
+								</tr>
+								<tr>
+									<td align="left">5. Aislamiento social y alienación.</td>
+									<td align="left">Percepción de sí mismo como diferente, con dificultades para desarrollar sentimiento de pertenencia.</td>
+								</tr>
+								<tr>
+									<td align="left" rowspan="4">
+										<p>Deterioro en autonomía y ejecución:</p>
+										<p>Expectativas de poca capacidad para diferenciarse, sobrevivir de manera independiente o actuar de forma satisfactoria.</p>
+									</td>
+									<td align="left">1. Dependencia e incompetencia.</td>
+									<td align="left">Concepción de sí mismo como incapaz para desarrollar las responsabilidades cotidianas sin ayuda de los demás.</td>
+								</tr>
+								<tr>
+									<td align="left">2. Vulnerabilidad al peligro o enfermedad.</td>
+									<td align="left">Miedo exagerado a que se produzcan catástrofes médicas, emocionales o externas.</td>
+								</tr>
+								<tr>
+									<td align="left">3. Fusión, yo inmaduro.</td>
+									<td align="left">Excesiva implicación y proximidad emocional con las personas significativas. Falta de identidad propia.</td>
+								</tr>
+								<tr>
+									<td align="left">4. Fracaso.</td>
+									<td align="left">Creencia de haber fracasado o anticipar el fracaso en el futuro.</td>
+								</tr>
+								<tr>
+									<td align="left" rowspan="2">
+										<p>Límites deficitarios:</p>
+										<p>Déficit de autocontrol, responsabilidad u orientación a largo plazo.</p>
+									</td>
+									<td align="left">5. Grandiosidad y autorización.</td>
+									<td align="left">Percepción de uno mismo como autorizado a recibir privilegios especiales sobre el otro, sin estar ligado a las normas de reciprocidad.</td>
+								</tr>
+								<tr>
+									<td align="left">6. Insuficiente autocontrol y disciplina.</td>
+									<td align="left">Tendencia a la impulsividad, intolerancia a la frustración, evitación de la incomodidad y responsabilidades, afectando al cumplimiento de metas.</td>
+								</tr>
+								<tr>
+									<td align="left" rowspan="3">
+										<p>Dirigido por las necesidades de los demás:</p>
+										<p>Foco excesivo en los deseos y las necesidades de los demás, en detrimento de uno mismo.</p>
+									</td>
+									<td align="left">7. Subyugación.</td>
+									<td align="left">Supresión de los deseos, preferencias o emociones propias al percibir coerción o control ajeno.</td>
+								</tr>
+								<tr>
+									<td align="left">8. Autosacrificio.</td>
+									<td align="left">Sacrificio de la propia gratificación con intención de satisfacer las necesidades de los demás o evitar un posible daño.</td>
+								</tr>
+								<tr>
+									<td align="left">9. Búsqueda de aprobación y reconocimiento.</td>
+									<td align="left">Exceso de énfasis en la búsqueda de aprobación, reconocimiento o atención por parte del otro.</td>
+								</tr>
+								<tr>
+									<td align="left" rowspan="4">
+										<p>Hipervigilancia e inhibición:</p>
+										<p>Tendencia a inhibir las propias emociones o impulsos, generando un déficit de espontaneidad y satisfacción.</p>
+									</td>
+									<td align="left">10. Negatividad y pesimismo.</td>
+									<td align="left">Tendencia a centrar la atención de forma generalizada en los aspectos negativos de la experiencia, minimizando los positivos.</td>
+								</tr>
+								<tr>
+									<td align="left">11. Inhibición emocional.</td>
+									<td align="left">Represión excesiva de la expresión emocional para evitar la vergüenza, desaprobación o la pérdida de control.</td>
+								</tr>
+								<tr>
+									<td align="left">12. Metas inalcanzables e hipercriticismo.</td>
+									<td align="left">Tendencia al esfuerzo de forma perfeccionista y rígida para cumplir con ciertos estándares de conducta, generalmente para evitar la crítica.</td>
+								</tr>
+								<tr>
+									<td align="left">13. Castigo.</td>
+									<td align="left">Creencia de que los errores deben castigarse con dureza.</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+				<p>El cuestionario de esquemas de <xref ref-type="bibr" rid="B39">Young (2006)</xref>, adaptado a nuestro idioma y contexto cultural por <xref ref-type="bibr" rid="B7">Calvete et al. (2013)</xref>, es una herramienta de interés para sistematizar la evaluación psicológica en esta dirección. No obstante, los esquemas también se pueden rastrear prestando especial atención al contenido del discurso durante las conversaciones terapéuticas, especialmente cuando estas toman un tono emocional cargado (<xref ref-type="bibr" rid="B18">Greenberg, 2016</xref>; <xref ref-type="bibr" rid="B19">Greenberg y Safran, 1987</xref>; <xref ref-type="bibr" rid="B36">Safran y Segal, 1990</xref>; <xref ref-type="bibr" rid="B40">Young et al., 2003</xref>). Por ejemplo, los esquemas de abandono e inestabilidad se aprecian en expresiones como <italic>“soy una persona de historias de amor breves, pero intensas, a las que siguen largos duelos, con reincidencias, hasta que todo acaba fatal o acaban desapareciendo sin mediar palabra”</italic>; el de privación emocional en <italic>“me entrego con todo, pero siento que nunca se me da todo lo que merezco”</italic>; el de grandiosidad en <italic>“quizás es porque soy conformista y siempre elijo hombres que no están a mi altura y se asustan”</italic>; y, por último, el de castigo en <italic>“se merece todo lo malo que le pase por no dar el nivel, no estuvo a la altura de mi compromiso”</italic>. Estos pequeños extractos de las sesiones del proceso psicoterapéutico esbozan como los esquemas operan en la vida cotidiana filtrando la experiencia subjetiva, emocional y relacional de Hugo. Por su parte, la rumiación reiterada e improductiva cumple el papel de estrategia de afrontamiento que, aunque a corto plazo refuerza su sentido de control y la coherencia del <italic>self,</italic> a largo plazo perpetúa su modo de ver el mundo impidiendo la inclusión de perspectivas alternativas que permitan la toma de conciencia, el enriquecimiento de su experiencia subjetiva, el cambio en su narrativa vital y el trabajo con la flexibilización de los patrones conductuales e interpersonales.</p>
+			</sec>
+			<sec>
+				<title>Dimensión Afectiva</title>
+				<p>Durante las primeras sesiones, Hugo muestra una reactividad emocional muy elevada, episodios de desconexión y embotamiento afectivo: <italic>“a veces, ni sé que siento, es como si me apagara por dentro”</italic>. Habla abiertamente de disociación: <italic>“estoy disociado, quiero creer que lo arreglaremos y quiero que sufra por lo que me ha hecho”</italic>. Este discurso, unido a la elevada intensidad emocional que lo acompaña en las sesiones de psicoterapia, forma parte de una narrativa que no es capaz de integrar posicionamientos contradictorios donde los episodios de desconexión, al bloquear la continuidad del necesario procesamiento afectivo de la experiencia subjetiva, mantienen el ciclo de malestar y de sufrimiento psíquico (<xref ref-type="bibr" rid="B20">Guidano, 1987</xref>, <xref ref-type="bibr" rid="B21">1991</xref>; <xref ref-type="bibr" rid="B23">Liotti, 2004</xref>, <xref ref-type="bibr" rid="B24">2017</xref>).</p>
+			</sec>
+			<sec>
+				<title>Dimensión Motivacional</title>
+				<p>A medida que avanzaba el proceso psicoterapéutico y se lograba cierta estabilización sintomática, Hugo empezó a expresar su motivación de formar algún día una familia en su sentido tradicional. Una meta vital que, cuando se exploraba en detalle, parecía apelar con claridad a un profundo deseo de lograr estabilidad personal y coherencia identitaria. Sin embargo, su miedo al abandono y su necesidad de validación constante daban cuenta de una trayectoria relacional donde su involucración en forma de dependencia excesiva y de conductas de control sobre el otro habían bloqueado la posibilidad de crear un clima de intimidad auténtica y el desarrollo de mecanismos relacionales que facilitaran el logro de dicha meta vital. La contradicción entre su discurso y su conducta es manifiesta a lo largo de su recorrido autobiográfico. Las consecuencias son la emergencia de síntomas como la desorientación vital, la depresión reactiva ante las rupturas sentimentales o la frustración por la presunta felicidad de otros a los que no considera merecedores de una mayor suerte en la vida que la que él tiene.</p>
+			</sec>
+			<sec>
+				<title>Dimensión Interpersonal</title>
+				<p>Hugo describe relaciones de amistad superficiales e inestables basadas en ciclos de idealización y decepción, así como relaciones de ambivalencia con su hermana menor y progenitores a los que señala como muy unidos, con él en una especie de posición periférica respecto a dicho núcleo familiar. En terapia, se muestra ocasionalmente colaborador e incluso avasallador, pero ante cuestionamientos centrales de su modo de hacer, aunque sutiles, se muestra desconfiado, retador y devaluador del proceso psicoterapéutico. Estas oscilaciones son habituales en este perfil de pacientes y suelen relacionarse con crianzas complejas y estilos de apego en el espectro desorganizado (<xref ref-type="bibr" rid="B10">Crittenden, 2016</xref>). Que las sesiones generen fatiga en el clínico y eventualmente la sensación de alerta también apoya este punto. Las personas que demandan alta intensidad emocional en el otro, al tiempo que siguen momentos de frialdad o rechazo, suelen remitir a modelos relacionales internalizados en la infancia.</p>
+			</sec>
+			<sec>
+				<title>Dimensión Evolutiva</title>
+				<p>Los hitos autobiográficos que van apareciendo en las conversaciones terapéuticas a lo largo del tratamiento delinean una trayectoria evolutiva marcada por la negligencia parental y las experiencias de desapego: <italic>“era frecuente, cuando era muy pequeño todavía, que me quedara solo en casa y no supiera donde estaban mis padres”</italic>. También por el autoritarismo de la reacción de sus figuras de apego: <italic>“mi padre siempre me reñía cuando lloraba y mi madre miraba para otro lado”</italic>. Durante su adolescencia frecuentó grupos sociales que describe como transgresores de los límites sociales con los que se inició en el consumo de alcohol, drogas y las relaciones sexuales. Su relato del pasado siempre marca cierta distancia con respecto a la autoimagen actual que quiere transmitir, donde se presenta como una persona socialmente integrada, con un alto desempeño laboral, que ha salido adelante con éxito, a pesar de haber sufrido una mala situación de partida. Como un <italic>“superviviente del barrio y sus dinámicas”</italic>. Sin embargo, su discurso también señala con un poso de nostalgia que la “<italic>cohesión y la lealtad”</italic> eran factores nucleares de <italic>“los viejos tiempos”</italic>. La incomodidad y la vergüenza que le genera su <italic>self</italic> pasado al que parece querer renunciar, pero que a la vez rescata con afecto, y su <italic>self</italic> actual que no acaba de ser estable, apuntalan algunas de las diferentes instancias de la identidad que no encuentran todavía una convivencia equilibrada en el plano de la experiencia subjetiva.</p>
+			</sec>
+			<sec>
+				<title>Dimensión Conductual</title>
+				<p>Al iniciarse el tratamiento, antes de lograr una primera estabilización de los síntomas más evidentes y perturbadores, Hugo recurre a conductas disfuncionales de regulación emocional y de manejo del malestar que logran su finalidad a corto plazo, aunque a su vez actúan como factores de mantenimiento y de cronificación de la sintomatología ansiosa y depresiva. Entre ellas, destacaban la ideación autolesiva que no llegaba al acto como en su adolescencia, el aislamiento socio-familiar y el abuso de benzodiacepinas cuando necesitaba desconectarse de sus pensamientos perturbadores y de sus emociones dolorosas. En paralelo, estas conductas reforzaban su narrativa de agravio y de externalización de la responsabilidad. La persistencia de la disforia, la rabia y la tristeza por la pérdida parecían jugar el papel de legitimar su vivencia de víctima de una vida injusta. Sin embargo, a la vez presentaba una valencia positiva que le permitía proyectar una imagen de aparente equilibrio y normalidad como hombre fuerte capaz de transitar la adversidad, defenderse con firmeza, mantener el rendimiento laboral y un aspecto físico cuidado.</p>
+			</sec>
+			<sec>
+				<title>Dimensión Contextual</title>
+				<p>Hugo creció en un barrio humilde, con vocación comunitaria e impregnado de un fuerte sentimiento de pertenencia. Sin embargo, el clima de negligencia y de falta de contención emocional que vivió en su hogar pudo interferir en su capacidad para interiorizar de forma segura dichos valores comunitarios. Por otro lado, los códigos del barrio ofrecían la seguridad de la lealtad, pero también modelizaban las relaciones desde la confrontación, los posicionamientos maniqueos, la hipervigilancia y la suspicacia. En consecuencia, pudo incorporar la idea de que pertenecer significa renunciar a partes de uno mismo y que el dolor se puede compensar con dureza. Con el tiempo, al convertirse en un hombre adulto con una carrera laboral de prestigio que vendría a remarcar su propio valor y capacidad, no acaba de sentirse del todo en su mundo. Esta disonancia crea como un doble registro. En privado: orgulloso, resentido, inseguro, inestable y avergonzado de su pasado. En público: competente, equilibrado, ambicioso, metódico y pulcro. La fractura entre los dos mundos señala uno de los puntos más complejos que tendrá que abordar el proceso psicoterapéutico. Es decir, esta falta estructural de sentido de pertenencia actúa como elemento transversal que tiñe toda su experiencia subjetiva manteniendo, a través de la difusión de identidad, el sufrimiento de una forma crónica.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>Una Breve Formulación para la Práctica Clínica</title>
+			<p>El caso de Hugo, más allá de entidades diagnósticas u otras alternativas de conceptualización derivadas de otros modelos psicopatológicos y psicoterapéuticos, puede considerarse un caso ejemplar de lo que en el modelo cognitivo se denomina difusión de identidad. Es decir, la incapacidad o dificultad para establecer una identidad clara, coherente y equilibrada. Este suele ser un asunto cardinal en las personas que reciben diagnósticos psicopatológicos, en particular en la esfera de la personalidad. La difusión de identidad en Hugo se produce como resultado de una trayectoria evolutiva marcada por un apego en el espectro desorganizado, esquemas disfuncionales cristalizados y una narrativa vital escindida entre el orgullo de haber ascendido socialmente y la vergüenza no reconocida e integrada de su historia de origen. Esta experiencia interna tácita se encuentra en la base de su patrón de desregulación emocional, interpersonal y conductual que, a su vez, perpetúa su conflicto interno, obstaculizando la construcción de una identidad coherente y polifacética donde puedan convivir las diferentes partes del sí mismo. Muy a menudo, un descenso de la fragmentación y la difusión identitaria, tras un proceso psicoterapéutico efectivo, se encuentra relacionado con la mejora de los síntomas, de la funcionalidad y de la calidad de vida subjetiva.</p>
+		</sec>
+		<sec>
+			<title>El Desarrollo de la Psicoterapia</title>
+			<p>Las implicaciones de esta evaluación y formulación dimensional del caso para el proceso psicoterapéutico se presentan sucintamente en la <xref ref-type="fig" rid="f2">Figura 2</xref> de modo secuencial.</p>
+			<p>
+				<fig id="f2">
+					<label>Figura 2</label>
+					<caption>
+						<title>Áreas del Proceso Psicoterapéutico</title>
+					</caption>
+					<graphic xlink:href="0214-7823-pappsicol-47-02-95-gf2.png"/>
+				</fig>
+			</p>
+			<p>La secuencialidad debe interpretarse de modo circular y contextualizarse en un proceso psicoterapéutico que habitualmente se desarrolla con un alto componente de recursividad e iteratividad que profundiza progresivamente en la experiencia subjetiva de las personas. Es decir, la linealidad simplemente tiene finalidad didáctica y expositiva. Se trata de resumir brevemente seis áreas que una psicoterapia efectiva tendría que cubrir con éxito en el caso de Hugo. La descripción de las fases, técnicas y duración del tratamiento exceden los objetivos de este trabajo, pero diferentes fórmulas de abordaje psicoterapéutico coherentes con lo que aquí se ha expuesto pueden encontrarse en <xref ref-type="bibr" rid="B13">Dimaggio et al. (2015)</xref>, <xref ref-type="bibr" rid="B20">Guidano (1987</xref>, <xref ref-type="bibr" rid="B21">1991)</xref>, <xref ref-type="bibr" rid="B25">Mahoney (1991)</xref>, <xref ref-type="bibr" rid="B22">Inchausti (2025)</xref>, <xref ref-type="bibr" rid="B33">Prado-Abril et al. (2013)</xref>, <xref ref-type="bibr" rid="B36">Safran y Segal (1990)</xref> y <xref ref-type="bibr" rid="B40">Young et al. (2003)</xref>, entre otras propuestas disponibles en el campo de las psicoterapias.</p>
+			<p>Por último, vale la pena atender al relato en primera persona de los pacientes de nuestros procesos psicoterapéuticos:</p>
+			<disp-quote>
+				<p><italic>“Durante mucho tiempo pensé que lo que me pasaba era que simplemente estaba quebrado. Sin brújula. Nadie me lo dijo así, claro, pero eso era lo que se insinuaba detrás de las miradas, los informes y del diagnóstico de trastorno límite de la personalidad. Cuando leí esas palabras por primera vez fue como si me hubieran estampado un sello sobre la frente. Un esto es lo que eres, como si todo lo demás… Mi historia, mis esfuerzos, mis contradicciones, mi sufrimiento, quedara reducido a tres letras: TLP. Sentí vergüenza. Miedo. También rabia. Porque una parte de mí quería creer que alguien me podía ayudar, pero otra asumía que ya estaba marcado, que todos los caminos se estrecharían a partir de ahí. Que mis maniobras para salir adelante serían inútiles. A veces pienso que el diagnóstico me dolió más que los síntomas. Que el problema no era tanto cómo me sentía, sino cómo los profesionales empezaron a tratarme, con distancia, siempre recomendándome pastillas. Recuerdo que durante las primeras sesiones contigo estaba un poco a la defensiva. Como si tuviera que demostrar que yo no era ese diagnóstico, pero al mismo tiempo sabiendo que necesitaba que me ayudaras. Me costó confiar. Me costó hablar sin miedo a ser malinterpretado o juzgado como inestable, seductor y manipulador. Pero poco a poco algo empezó a cambiar. Fue como una forma distinta de ser escuchado. Parecía importar cómo yo vivía lo que me pasaba. Empezamos a hablar de mi forma de ver el mundo, de mis modos de relacionarme, de cómo algunas experiencias de mi vida habían influido en ciertas maneras de comportarme, entenderme y protegerme. Creo que ahí empezó a suceder algo distinto en mi forma de entender lo que me pasaba. Recuerdo cuando hablamos por primera vez de las dimensiones de mi caso y cómo se relacionaban entre sí para explicar mi sufrimiento. Me sentí visto. Era una historia que tenía sentido. Todavía hay días en los que dudo de mí. A veces vuelven los impulsos, los miedos, pero ahora sé reconocer esas partes de mí. Ya no las tapo con pastillas, alcohol o sexo. Las observo. No siempre, claro, pero más veces que antes. Siento que estoy empezando a construir una historia propia que puedo controlar, en vez de estar reaccionando permanentemente a lo que sucede a mi alrededor. Sé que esto es un proceso, pero confío en el proceso. Supongo que cambiar consiste en esto. A mi ritmo. Sin prisa. No sé si eso es curarse. Pero sí sé que es otra forma de vivir.”</italic></p>
+			</disp-quote>
+		</sec>
+		<sec>
+			<title>¿Un Puente Epistemológico Entre Modelos?</title>
+			<p>Uno de los aspectos que define a la mayor parte de los modelos actuales en el campo de la comprensión del sufrimiento humano y su tratamiento psicológico es la presencia de corrientes integradoras entre sus propuestas (<xref ref-type="bibr" rid="B29">Norcross y Goldfried, 2019</xref>). Esto convierte la comparación de modelos, muchas veces, en una tarea imposible de delinear con precisión más allá de recurrir a tópicos o simplificaciones de los mismos. La propia <xref ref-type="table" rid="t4">Tabla 4</xref> debe verse con esta cuestión en mente y como un mapa de tendencias que no define literalmente el territorio clínico en el que luego se despliegan los modelos descritos. Asimismo, como se ha señalado para el modelo cognitivo, a medida que un modelo en particular profundiza en su propia complejidad sobre el entendimiento humano acaba llegando a lugares comunes con otras perspectivas. En ocasiones, las diferencias simplemente son un asunto de jerga o lealtad (<xref ref-type="bibr" rid="B29">Norcross y Goldfried, 2019</xref>; <xref ref-type="bibr" rid="B31">Paris, 2013</xref>). Conviene recordar que un hecho sistemáticamente encontrado en la investigación en psicoterapia en contextos naturales es que los clínicos que obtienen mejores resultados terapéuticos se parecen más entre sí, a nivel de los aspectos que se despliegan en el plano de la conducta observable, que lo que sus propios modelos teóricos de referencia habrían pronosticado (<xref ref-type="bibr" rid="B8">Castonguay y Hill, 2017</xref>; <xref ref-type="bibr" rid="B35">Prado-Abril et al., 2017</xref>, <xref ref-type="bibr" rid="B34">2019</xref>; <xref ref-type="bibr" rid="B43">Wampold y Imel, 2015</xref>).</p>
+			<p>Por más delimitación conceptual que se le quiera dar, es fácil entender que mentalización, reflexividad, metacognición o teoría de la mente se mueven en el ámbito de la descripción de aspectos psicológicos muy interrelacionados entre sí. Sucede del mismo modo cuando se opta por hablar de esquemas que configuran realidades subjetivas afectivo-narrativas, en vez de optar por patrones operativos de conflicto intrapsíquico. Por ende, sin ánimo de simplificar la riqueza teórico-técnica de otros modelos, en este apartado se tratará de establecer algunas similitudes y diferencias desde un punto de vista que podríamos etiquetar como estándar. No en vano, el propio Young tuvo que enfrentar importantes retos y resistencias dentro de la comunidad cognitivo-conductual, cuando inició el desarrollo de la terapia de esquemas tras haber sido un alumno aventajado de Beck. El hecho de incorporar elementos procedentes de la teoría del apego, de la emoción y del ámbito psicodinámico, fue visto como una deriva ecléctica sin fundamentación empírica y no tanto como una evolución legítima del modelo como actualmente se entiende (<xref ref-type="bibr" rid="B5">Bernstein y Clercx, 2018</xref>). También podría decirse que la presentación formal y oficial en el ámbito institucional e internacional, particularmente en forma de aparición en guías de práctica clínica como patrón oro de tratamiento psicológico, convierte a la TCC en la marca más visible del modelo cognitivo. Del mismo modo, podría establecerse un paralelismo con la vertiente psicodinámica relacional contemporánea con respecto al psicoanálisis más paradigmático (<xref ref-type="bibr" rid="B37">Shedler, 2010</xref>). En suma, trazar puentes entre modelos para articular lo común parte de una condición previa que consiste en el fuerte componente de heterodoxia interna que comparten gran parte de los modelos.</p>
+			<p>El modelo cognitivo integrador presentado aquí comparte muchos postulados con el estándar cognitivo-conductual, en tanto que evoluciona del mismo punto de partida, aunque posteriormente se siguieran trayectorias epistemológicas y teóricas diferentes. Por ejemplo, se considera que los aspectos cognitivos y conductuales son esenciales para la comprensión de las personas y que la flexibilización de patrones es uno de los grandes objetivos del tratamiento. Sin embargo, el énfasis por comprender la experiencia subjetiva de las personas, el reconocimiento de estructuras internas tácitas que buscan la significación personal y su relación con la historia de apego le coloca más próximo al modelo psicodinámico, especialmente en su vertiente más relacional y contemporánea (<xref ref-type="bibr" rid="B37">Shedler, 2010</xref>). La incorporación de elementos experienciales y el peso de la emoción como motor de cambio en psicoterapia comparte claramente con la visión humanista que el cambio psicológico no sólo requiere de comprensión, sino de vivencias de transformación personal. Por su parte, la consideración central de los aspectos relacionales en la trayectoria vital y la influencia de las narrativas socio-culturales en la configuración de la identidad abre la posibilidad de un diálogo fértil con los modelos sistémicos. En este punto, al ser el modelo cognitivo una aproximación abierta y plural, puede servir como un puente epistemológico, teórico y técnico de vertebración de modelos. Principalmente, para aquellos cuyo interés se centra en la integración teórico-técnica con un foco muy centrado en la comprensión de la experiencia subjetiva de las personas.</p>
+			<p>
+				<table-wrap id="t4">
+					<label>Tabla 4</label>
+					<caption>
+						<title>Elementos Para el Diálogo Entre Modelos</title>
+					</caption>
+					<table>
+						<colgroup>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="center"/>
+								<th align="center">Modelo Cognitivo Integrador</th>
+								<th align="center">Corriente Cognitivo-Conductual</th>
+								<th align="center">Modelo Psicodinámico Contemporáneo</th>
+								<th align="center">Modelo Sistémico Relacional</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="left">Unidad de análisis</td>
+								<td align="left">Organización de la experiencia subjetiva.</td>
+								<td align="left">Pensamientos automáticos, conductas observables.</td>
+								<td align="left">Conflictos inconscientes, relaciones objetales.</td>
+								<td align="left">Estructura sistema familiar-relacional.</td>
+							</tr>
+							<tr>
+								<td align="left">Origen del sufrimiento</td>
+								<td align="left">Difusión del <italic>self.</italic></td>
+								<td align="left">Distorsiones cognitivas.</td>
+								<td align="left">Experiencias tempranas internalizadas.</td>
+								<td align="left">Disfunción familiar.</td>
+							</tr>
+							<tr>
+								<td align="left">Método de evaluación</td>
+								<td align="left">Formulación clínica idiográfica y contextual.</td>
+								<td align="left">Evaluación estructurada, protocolos estandarizados.</td>
+								<td align="left">Asociación libre, análisis de la transferencia.</td>
+								<td align="left">Mapeo de relaciones, genograma.</td>
+							</tr>
+							<tr>
+								<td align="left">Rol del terapeuta</td>
+								<td align="left">Explorador, activo.</td>
+								<td align="left">Instructor, activo.</td>
+								<td align="left">Explorador, pasivo.</td>
+								<td align="left">Observador participante.</td>
+							</tr>
+							<tr>
+								<td align="left">Teoría del cambio</td>
+								<td align="left">Integración del <italic>self</italic>, resignificación de la experiencia.</td>
+								<td align="left">Corrección de distorsiones, adquisición de habilidades.</td>
+								<td align="left">Elaboración de conflictos y resignificación de vínculos pasados.</td>
+								<td align="left">Cambio de patrones de comunicación y modificación de jerarquías.</td>
+							</tr>
+							<tr>
+								<td align="left">Relación terapéutica</td>
+								<td align="left">Espacio de reflexión y trabajo conjunto sobre la narrativa personal.</td>
+								<td align="left">Relación colaborativa basada en los objetivos del tratamiento.</td>
+								<td align="left">Transferencia y contratransferencia como motor del cambio.</td>
+								<td align="left">Relación como parte del sistema observado.</td>
+							</tr>
+							<tr>
+								<td align="left">Epistemología</td>
+								<td align="left">Constructivista.</td>
+								<td align="left">Positivista.</td>
+								<td align="left">Hermenéutica.</td>
+								<td align="left">Teoría de la complejidad.</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn id="TFN2">
+							<p><italic>Nota.</italic> Adaptado de <xref ref-type="bibr" rid="B42">Wampold (2019)</xref>.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>Finalmente, en aras de la claridad expositiva, en la <xref ref-type="table" rid="t4">Tabla 4</xref> se presentan algunos de los elementos que necesariamente deberían contemplarse en el establecimiento de un diálogo constructivo entre el modelo cognitivo, la TCC, el modelo psicodinámico y el modelo sistémico-relacional. En convergencia con la síntesis de <xref ref-type="bibr" rid="B41">Wachtel y Gagnon (2019)</xref>, el reconocimiento y el interés mutuo entre modelos, el tráfico de ideas e incluso el mestizaje teórico-técnico, desde una actitud abierta y sensible por la integración teórica amplia, probablemente constituya uno de los caminos más estimulantes y prósperos que un profesional de la salud mental puede recorrer a lo largo de toda su carrera profesional.</p>
+		</sec>
+		<sec>
+			<title>Recapitulación</title>
+			<p>El presente texto ha tratado de sistematizar de manera equilibrada la evolución que ha seguido el modelo cognitivo desde sus orígenes vinculados a la <italic>revolución cognitiva</italic> hasta la actualidad. Dicho proceso se ha realizado enfatizando la complejidad inherente que define la propia organización interna del modelo. Se ha intentado huir de esquematizaciones y simplificaciones que podrían haber obstaculizado que se mostrase el potencial que tiene desde una perspectiva aplicada. Asimismo, se ha buscado integrar diferentes corrientes epistemológicas para transmitir una perspectiva plural de la psicopatología que pone el acento en su vertiente clínica, experiencial, narrativa, relacional y contextualmente situada. Este planteamiento no representa simplemente un posicionamiento en un lugar determinado dentro de las corrientes que conforman el paradigma cognitivo, sino que como se ha ejemplificado en el caso de Hugo, tiene implicaciones prácticas en la forma de conceptualizar el sufrimiento, formular los pasos a seguir y realizar psicoterapia desde una aproximación informada científicamente y éticamente guiada.</p>
+			<p>El modelo cognitivo, en particular en su forma contemporánea, se acerca al sufrimiento humano de la mano de la capacidad introspectiva de las personas para profundizar en la naturaleza subjetiva de su experiencia y desde la confianza en que son capaces de articular su historia autobiográfica de un modo coherente, polifacético y con capacidad para dotar de sentido a su historia vital. Desde esta perspectiva, la práctica de la psicoterapia no puede reducirse a la aplicación consecutiva de técnicas o protocolos de intervención derivados de un diagnóstico categorial como eje sobre el que hacer pivotar la organización del tratamiento. Tampoco la psicopatología se conceptualiza como una taxonomía de categorías pretendidamente discretas, exhaustivas y excluyentes, sino que se entiende como el reflejo de un complejo entramado expresivo que surge de las biografías, los vínculos, los traumas, las relaciones interpersonales y las trayectorias vitales de las personas en un momento socio-cultural dado.</p>
+			<p>En este artículo se propone un modelo multidimensional para la conceptualización cognitiva de la psicopatología que destaca por su sensibilidad idiográfica, su apertura y su flexibilidad para integrar aquellos elementos que la investigación científica informe como necesarios. Se ha tratado de que pueda capturar la complejidad en detalle, pero que a su vez mantenga una adecuada capacidad operativa. Las siete dimensiones propuestas ayudan a organizar la experiencia subjetiva de las personas que puede acabar expresándose en forma de diferentes manifestaciones psicopatológicas. Por ejemplo, en el caso de Hugo, en forma de trastorno de la personalidad. Sin embargo, lo importante es que el modelo pueda servir para conectar la historia que la persona trae a consulta con su sistema de creencias, sus síntomas, su trayectoria vital, etc. El objetivo principal es facilitar que la identidad avance en progresivos niveles de estabilidad, organización y complejidad, integrando con naturalidad las diferentes instancias del <italic>self</italic> involucradas. En el apartado sobre el desarrollo de la psicoterapia, se ilustra mediante un relato en primera persona cómo a través del proceso psicoterapéutico se puede devolver la voz a una persona promoviendo el desarrollo de relatos personales más elaborados, reflexivos y útiles para transitar el sufrimiento.</p>
+			<p>El diálogo con otros modelos ha permitido delinear ciertos caminos comunes, así como algunos contrastes en la forma de acercarse a la práctica clínica. Apostar por una integración reflexiva y respetuosa con las diferencias, quizás sea la dirección más adecuada para mejorar en la comprensión del estado del campo y en la efectividad de los tratamientos que reciben las personas con trastornos mentales. En cualquier caso, es importante ser conscientes de que ningún modelo por sí mismo agota todas las posibilidades de comprensión de la experiencia subjetiva de las personas. Probablemente, ni siquiera sea adecuado pretenderlo. De todas formas, el modelo cognitivo que aquí se ha presentado se ofrece como un paradigma abierto. Como una plataforma desde la que tejer redes de colaboración teórico-técnicas que puedan servir para articular diferentes fuentes de conocimiento.</p>
+			<p>Sin embargo, a pesar de sus avances en profundidad, complejidad y sensibilidad clínica, el modelo cognitivo contemporáneo no está exento de desafíos. Su aspiración integradora corre el riesgo de diluirse en una amalgama teórica difícil de sistematizar, si no se establecen criterios claros de demarcación para delimitar cuáles son los componentes principales. Además, su apertura a múltiples dimensiones puede tensionar su capacidad de ser operativo en la práctica clínica, si no se acompaña de procedimientos técnicos suficientemente desarrollados para sostener dicha complejidad. Asimismo, en sus evoluciones, el modelo parece depender de elementos conceptuales que provienen de otras perspectivas. Ello puede plantear algunos interrogantes sobre su consistencia interna como paradigma independiente. Por último, su escasa implantación institucional, en comparación con la corriente cognitivo-conductual, supone un obstáculo para su diseminación formativa y su validación empírica sistemática. Estas limitaciones, que a su vez son retos pendientes, refuerzan la necesidad de seguir profundizando en la capacidad del modelo para ofrecer formulaciones y soluciones más sofisticadas sobre la naturaleza del sufrimiento y su relación con los procesos de cambio humano.</p>
+			<p>Entonces, lo que queda es una invitación a pensar el modelo cognitivo no como una teoría acabada, sino como un sistema teórico-técnico de código abierto que se encuentra en evolución y en búsqueda de las mejores soluciones posibles para la práctica clínica. En los años noventa, se pensaba que el inicio del presente siglo traería la integración definitiva en el campo de conocimiento de la teoría y la práctica de la psicoterapia (<xref ref-type="bibr" rid="B25">Mahoney, 1991</xref>; <xref ref-type="bibr" rid="B29">Norcross y Goldfried, 2019</xref>; <xref ref-type="bibr" rid="B42">Wampold, 2019</xref>; <xref ref-type="bibr" rid="B43">Wampold y Imel, 2015</xref>). Sin embargo, treinta años después, tal vez el desarrollo más importante fue sembrar la semilla que permitiera que las siguientes generaciones continuasen en el empeño con sensibilidad y apertura. Quizás, desde el principio, simplemente se trataba de estimular la curiosidad y el deseo de comprender en toda su profundidad ese misterio que todavía es la mente humana.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Alford, B. A., y Beck, A. T. (1998). <italic>The integrative power of cognitive therapy</italic>. Guilford Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alford</surname>
+							<given-names>B. A.</given-names>
+						</name>
+						<name>
+							<surname>Beck</surname>
+							<given-names>A. T.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>The integrative power of cognitive therapy</source>
+					<publisher-name>Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Areas, M., Molinari, G., Gómez-Penedo, J. M., Fernández-Álvarez, J., y Prado-Abril, J. (2022). Development of a practice research network in Spain. <italic>Studies in Psychology</italic>, <italic>43</italic>(3), 525-545. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02109395.2022.2133454">https://doi.org/10.1080/02109395.2022.2133454</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Areas</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Molinari</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Gómez-Penedo</surname>
+							<given-names>J. M.</given-names>
+						</name>
+						<name>
+							<surname>Fernández-Álvarez</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Prado-Abril</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Development of a practice research network in Spain</article-title>
+					<source>Studies in Psychology</source>
+					<volume>43</volume>
+					<issue>3</issue>
+					<fpage>525</fpage>
+					<lpage>545</lpage>
+					<pub-id pub-id-type="doi">10.1080/02109395.2022.2133454</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Barkham, M. (2014). Practice-based research networks: Origins, overview, obstacles, and opportunities. <italic>Counselling &amp; Psychotherapy Research</italic>, <italic>14</italic>(3), 167-173. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/14733145.2014.929414">https://doi.org/10.1080/14733145.2014.929414</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barkham</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Practice-based research networks: Origins, overview, obstacles, and opportunities</article-title>
+					<source>Counselling &amp; Psychotherapy Research</source>
+					<volume>14</volume>
+					<issue>3</issue>
+					<fpage>167</fpage>
+					<lpage>173</lpage>
+					<pub-id pub-id-type="doi">10.1080/14733145.2014.929414</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Beck, J. S. (2011). <italic>Cognitive behavior therapy: Basics and beyond</italic> (2nd ed.). Guilford Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Beck</surname>
+							<given-names>J. S.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Cognitive behavior therapy: Basics and beyond</source>
+					<edition>2</edition>
+					<publisher-name>Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Bernstein, D. P., y Clercx, M. (2018). Schema therapy. En W. J. Livesley y R. Larstone (Eds.), <italic>Handbook of personality disorders: Theory, research, and treatment</italic> (2<sup>nd</sup> ed., pp. 555-570). Guilford Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bernstein</surname>
+							<given-names>D. P.</given-names>
+						</name>
+						<name>
+							<surname>Clercx</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<chapter-title>Schema therapy</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Livesley</surname>
+							<given-names>W. J.</given-names>
+						</name>
+						<name>
+							<surname>Larstone</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<source>Handbook of personality disorders: Theory, research, and treatment</source>
+					<edition>2</edition>
+					<fpage>555</fpage>
+					<lpage>570</lpage>
+					<publisher-name>Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Berrios, G. E. (1996). <italic>The history of mental symptoms: Descriptive psychopathology since the nineteenth century</italic>. Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Berrios</surname>
+							<given-names>G. E.</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<source>The history of mental symptoms: Descriptive psychopathology since the nineteenth century</source>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Calvete, E., Orue, I., y González-Diez, Z. (2013). An examination of the structure and stability of early maladaptive schemas by means of the Young Schema Questionnaire-3. <italic>European Journal of Psychological Assessment</italic>, <italic>29</italic>(4), 283-290. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1027/1015-5759/a000158">https://doi.org/10.1027/1015-5759/a000158</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calvete</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Orue</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>González-Diez</surname>
+							<given-names>Z.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>An examination of the structure and stability of early maladaptive schemas by means of the Young Schema Questionnaire-3</article-title>
+					<source>European Journal of Psychological Assessment</source>
+					<volume>29</volume>
+					<issue>4</issue>
+					<fpage>283</fpage>
+					<lpage>290</lpage>
+					<pub-id pub-id-type="doi">10.1027/1015-5759/a000158</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Castonguay, L. G., y Hill, C. E. (Eds.). (2017). <italic>How and why are some therapists better than others?</italic> American Psychological Association.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Castonguay</surname>
+							<given-names>L. G.</given-names>
+						</name>
+						<name>
+							<surname>Hill</surname>
+							<given-names>C. E.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>How and why are some therapists better than others?</source>
+					<publisher-name>American Psychological Association</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Castonguay, L. G., Newman, M. G., y Grosse-Holtforth, M. (2019). Cognitive-behavioral assimilative integration. En J. C. Norcross y M. R. Goldfried (Eds.), <italic>Handbook of psychotherapy integration</italic> (3<sup>rd</sup> ed., pp. 228-252). Oxford.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castonguay</surname>
+							<given-names>L. G.</given-names>
+						</name>
+						<name>
+							<surname>Newman</surname>
+							<given-names>M. G.</given-names>
+						</name>
+						<name>
+							<surname>Grosse-Holtforth</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<chapter-title>Cognitive-behavioral assimilative integration</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Norcross</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Goldfried</surname>
+							<given-names>M. R.</given-names>
+						</name>
+					</person-group>
+					<source>Handbook of psychotherapy integration</source>
+					<edition>3</edition>
+					<fpage>228</fpage>
+					<lpage>252</lpage>
+					<publisher-name>Oxford</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Crittenden, P. M. (2016). <italic>Raising parents: Attachment, representation, and treatment</italic> (2<sup>nd</sup> ed.). Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Crittenden</surname>
+							<given-names>P. M.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Raising parents: Attachment, representation, and treatment</source>
+					<edition>2</edition>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>David, D., Cristea, I., y Hofmann, S. G. (2018). Why cognitive behavioral therapy is the current gold standard of psychotherapy. <italic>Frontiers in Psychiatry</italic>, <italic>9</italic>, 4. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fpsyt.2018.00004">https://doi.org/10.3389/fpsyt.2018.00004</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>David</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Cristea</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Hofmann</surname>
+							<given-names>S. G.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Why cognitive behavioral therapy is the current gold standard of psychotherapy.</article-title>
+					<source>Frontiers in Psychiatry</source>
+					<volume>9</volume>
+					<elocation-id>4</elocation-id>
+					<pub-id pub-id-type="doi">10.3389/fpsyt.2018.00004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Deacon, B. J. (2013). The biomedical model of mental disorder: A critical analysis of its validity, utility, and effects on psychotherapy research. <italic>Clinical Psychology Review</italic>, <italic>33</italic>(7), 846-861. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.cpr.2012.09.007">https://doi.org/10.1016/j.cpr.2012.09.007</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Deacon</surname>
+							<given-names>B. J.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>The biomedical model of mental disorder: A critical analysis of its validity, utility, and effects on psychotherapy research</article-title>
+					<source>Clinical Psychology Review</source>
+					<volume>33</volume>
+					<issue>7</issue>
+					<fpage>846</fpage>
+					<lpage>861</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.cpr.2012.09.007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Dimaggio, G., Montano, A., Popolo, R., y Salvatore, G. (2015). <italic>Metacognitive interpersonal therapy for personality disorders: A treatment manual</italic>. Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dimaggio</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Montano</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Popolo</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Salvatore</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Metacognitive interpersonal therapy for personality disorders: A treatment manual</source>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Fernández-Álvarez, H., y Fernández-Álvarez, J. (2017). Terapia cognitivo conductual integrativa. <italic>Revista de Psicopatología y Psicología Clínica</italic>, <italic>22</italic>(2), 157-169. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5944/rppc.vol.22.num.2.2017.18720">https://doi.org/10.5944/rppc.vol.22.num.2.2017.18720</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández-Álvarez</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Fernández-Álvarez</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Terapia cognitivo conductual integrativa</article-title>
+					<source>Revista de Psicopatología y Psicología Clínica</source>
+					<volume>22</volume>
+					<issue>2</issue>
+					<fpage>157</fpage>
+					<lpage>169</lpage>
+					<pub-id pub-id-type="doi">10.5944/rppc.vol.22.num.2.2017.18720</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Fernández-Álvarez, J., Prado-Abril, J., Sánchez-Reales, S., Molinari, G., Gómez Penedo, J. M., y Youn, S. J. (2020). La brecha entre la investigación y la práctica clínica: Hacia la integración de la psicoterapia. <italic>Papeles del Psicólogo</italic>, <italic>41</italic>(2), 81-90. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2020.2932">https://doi.org/10.23923/pap.psicol2020.2932</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández-Álvarez</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Prado-Abril</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez-Reales</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Molinari</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Gómez Penedo</surname>
+							<given-names>J. M.</given-names>
+						</name>
+						<name>
+							<surname>Youn</surname>
+							<given-names>S. J.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>La brecha entre la investigación y la práctica clínica: Hacia la integración de la psicoterapia</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>41</volume>
+					<issue>2</issue>
+					<fpage>81</fpage>
+					<lpage>90</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2020.2932</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Gardner, H. (1985). <italic>The mind's new science: A history of the cognitive revolution</italic>. Basic Books.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gardner</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>1985</year>
+					<source>The mind's new science: A history of the cognitive revolution</source>
+					<publisher-name>Basic Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Gonçalves, O. F., y Machado, P. P. (1999). Cognitive narrative psychotherapy: Research foundations. <italic>Journal of Clinical Psychology</italic>, <italic>55</italic>(10), 1179-1191. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/(SICI)1097-4679(199910)55:10&lt;1179::AID-JCLP2&gt;3.0.CO;2-L">https://doi.org/10.1002/(SICI)1097-4679(199910)55:10&lt;1179::AID-JCLP2&gt;3.0.CO;2-L</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gonçalves</surname>
+							<given-names>O. F.</given-names>
+						</name>
+						<name>
+							<surname>Machado</surname>
+							<given-names>P. P.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<article-title>Cognitive narrative psychotherapy: Research foundations</article-title>
+					<source>Journal of Clinical Psychology</source>
+					<volume>55</volume>
+					<issue>10</issue>
+					<fpage>1179</fpage>
+					<lpage>1191</lpage>
+					<pub-id pub-id-type="doi">10.1002/(SICI)1097-4679(199910)55:10&lt;1179::AID-JCLP2&gt;3.0.CO;2-L</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Greenberg, L. S. (2016). <italic>Emotion-focused therapy (Revised ed.)</italic>. American Psychological Association.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Greenberg</surname>
+							<given-names>L. S.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Emotion-focused therapy (Revised ed.)</source>
+					<publisher-name>American Psychological Association</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Greenberg, L. S., y Safran, J. D. (1987). <italic>Emotion in psychotherapy: Affect, cognition, and the process of change</italic>. Guilford Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Greenberg</surname>
+							<given-names>L. S.</given-names>
+						</name>
+						<name>
+							<surname>Safran</surname>
+							<given-names>J. D.</given-names>
+						</name>
+					</person-group>
+					<year>1987</year>
+					<source>Emotion in psychotherapy: Affect, cognition, and the process of change</source>
+					<publisher-name>Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Guidano, V. F. (1987). <italic>Complexity of the self: A developmental approach to psychopathology and therapy</italic>. Guilford Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Guidano</surname>
+							<given-names>V. F.</given-names>
+						</name>
+					</person-group>
+					<year>1987</year>
+					<source>Complexity of the self: A developmental approach to psychopathology and therapy</source>
+					<publisher-name>Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Guidano, V. F. (1991). <italic>The self in process: Toward a post-rationalist cognitive therapy</italic>. Guilford Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Guidano</surname>
+							<given-names>V. F.</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<source>The self in process: Toward a post-rationalist cognitive therapy</source>
+					<publisher-name>Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Inchausti, F. (2025). <italic>Sufrimiento y cambio en psicoterapia: Teoría, investigación y tratamiento</italic>. Pirámide.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Inchausti</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<source>Sufrimiento y cambio en psicoterapia: Teoría, investigación y tratamiento</source>
+					<publisher-name>Pirámide</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Liotti, G. (2004). Trauma, dissociation, and disorganized attachment: Three strands of a single braid. <italic>Psychotherapy: Theory, Research, Practice, Training</italic>, <italic>41</italic>(4), 472-486. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0033-3204.41.4.472">https://doi.org/10.1037/0033-3204.41.4.472</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liotti</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Trauma, dissociation, and disorganized attachment: Three strands of a single braid</article-title>
+					<source>Psychotherapy: Theory, Research, Practice, Training</source>
+					<volume>41</volume>
+					<issue>4</issue>
+					<fpage>472</fpage>
+					<lpage>486</lpage>
+					<pub-id pub-id-type="doi">10.1037/0033-3204.41.4.472</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Liotti, G. (2017). Conflicts between motivational systems related to attachment trauma: Key to understanding the intra-family relationship between abused children and their abusers. <italic>Journal of Trauma &amp; Dissociation</italic>, <italic>18</italic>(3), 304-318. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/15299732.2017.1295392">https://doi.org/10.1080/15299732.2017.1295392</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liotti</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Conflicts between motivational systems related to attachment trauma: Key to understanding the intra-family relationship between abused children and their abusers</article-title>
+					<source>Journal of Trauma &amp; Dissociation</source>
+					<volume>18</volume>
+					<issue>3</issue>
+					<fpage>304</fpage>
+					<lpage>318</lpage>
+					<pub-id pub-id-type="doi">10.1080/15299732.2017.1295392</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Mahoney, M. J. (1991). <italic>Human change processes: The scientific foundations of psychotherapy</italic>. Basic Books.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mahoney</surname>
+							<given-names>M. J.</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<source>Human change processes: The scientific foundations of psychotherapy</source>
+					<publisher-name>Basic Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Miller, G. A. (2003). The cognitive revolution: A historical perspective. <italic>Trends in Cognitive Sciences</italic>, <italic>7</italic>(3), 141-144. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S1364-6613(03)00029-9">https://doi.org/10.1016/S1364-6613(03)00029-9</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Miller</surname>
+							<given-names>G. A.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>The cognitive revolution: A historical perspective</article-title>
+					<source>Trends in Cognitive Sciences</source>
+					<volume>7</volume>
+					<issue>3</issue>
+					<fpage>141</fpage>
+					<lpage>144</lpage>
+					<pub-id pub-id-type="doi">10.1016/S1364-6613(03)00029-9</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Moynihan, R., Doran, E., y Henry, D. (2008). Disease Mongering is now part of the global health debate. <italic>PLoS Medicine</italic>, <italic>5</italic>(5), e106. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pmed.0050106">https://doi.org/10.1371/journal.pmed.0050106</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moynihan</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Doran</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Henry</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Disease Mongering is now part of the global health debate</article-title>
+					<source>PLoS Medicine</source>
+					<volume>5</volume>
+					<issue>5</issue>
+					<elocation-id>e106</elocation-id>
+					<pub-id pub-id-type="doi">10.1371/journal.pmed.0050106</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Norcross, J. C., Beutler, L. E., y Goldfried, M. R. (2019). Cognitive-behavioral therapy and psychotherapy integration. En K. S. Dobson y D. J. A. Dozois (Eds.), <italic>Handbook of cognitive-behavioral therapies</italic> (4<sup>th</sup> ed., pp. 318-345). Guilford Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Norcross</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Beutler</surname>
+							<given-names>L. E.</given-names>
+						</name>
+						<name>
+							<surname>Goldfried</surname>
+							<given-names>M. R.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<chapter-title>Cognitive-behavioral therapy and psychotherapy integration</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Dobson</surname>
+							<given-names>K. S.</given-names>
+						</name>
+						<name>
+							<surname>Dozois</surname>
+							<given-names>D. J. A.</given-names>
+						</name>
+					</person-group>
+					<source>Handbook of cognitive-behavioral therapies</source>
+					<edition>4</edition>
+					<fpage>318</fpage>
+					<lpage>345</lpage>
+					<publisher-name>Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Norcross, J. C., y Goldfried, M. R. (Eds.). (2019). <italic>Handbook of psychotherapy integration</italic> (3<sup>rd</sup> ed.). Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Norcross</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Goldfried</surname>
+							<given-names>M. R.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<source>Handbook of psychotherapy integration</source>
+					<edition>3</edition>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Osbeck, L. M. (2009). Transformations in cognitive science: Implications and issues posed. <italic>Journal of Theoretical and Philosophical Psychology</italic>, <italic>29</italic>(1), 16-33. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/a0015454">https://doi.org/10.1037/a0015454</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Osbeck</surname>
+							<given-names>L. M.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Transformations in cognitive science: Implications and issues posed</article-title>
+					<source>Journal of Theoretical and Philosophical Psychology</source>
+					<volume>29</volume>
+					<issue>1</issue>
+					<fpage>16</fpage>
+					<lpage>33</lpage>
+					<pub-id pub-id-type="doi">10.1037/a0015454</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Paris, J. (2013). How the history of psychotherapy interferes with integration. <italic>Journal of Psychotherapy Integration</italic>, <italic>23</italic>(2), 99-106. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/a0031419">https://doi.org/10.1037/a0031419</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Paris</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>How the history of psychotherapy interferes with integration</article-title>
+					<source>Journal of Psychotherapy Integration</source>
+					<volume>23</volume>
+					<issue>2</issue>
+					<fpage>99</fpage>
+					<lpage>106</lpage>
+					<pub-id pub-id-type="doi">10.1037/a0031419</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Paris, J. (2017). Is psychoanalysis still relevant to Psychiatry? <italic>The Canadian Journal of Psychiatry</italic>, <italic>62</italic>(5), 308-312. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0706743717692306">https://doi.org/10.1177/0706743717692306</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Paris</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Is psychoanalysis still relevant to Psychiatry?</article-title>
+					<source>The Canadian Journal of Psychiatry</source>
+					<volume>62</volume>
+					<issue>5</issue>
+					<fpage>308</fpage>
+					<lpage>312</lpage>
+					<pub-id pub-id-type="doi">10.1177/0706743717692306</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Prado-Abril, J., García-Campayo, J., y Sánchez-Reales, S. (2013). Funcionamiento de la terapia cognitivo-interpersonal en los trastornos de la personalidad: Estudio de dos casos. <italic>Revista de Psicopatología y Psicología Clínica</italic>, <italic>18</italic>(2), 139-149. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5944/rppc.vol.18.num.2.2013.12770">https://doi.org/10.5944/rppc.vol.18.num.2.2013.12770</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Prado-Abril</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>García-Campayo</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez-Reales</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Funcionamiento de la terapia cognitivo-interpersonal en los trastornos de la personalidad: Estudio de dos casos</article-title>
+					<source>Revista de Psicopatología y Psicología Clínica</source>
+					<volume>18</volume>
+					<issue>2</issue>
+					<fpage>139</fpage>
+					<lpage>149</lpage>
+					<pub-id pub-id-type="doi">10.5944/rppc.vol.18.num.2.2013.12770</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Prado-Abril, J., Gimeno-Peón, A., Inchausti, F., y Sánchez-Reales, S. (2019). Pericia, efectos del terapeuta y práctica deliberada: El ciclo de la excelencia. <italic>Papeles del Psicólogo</italic>, <italic>40</italic>(2), 89-100. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.23923/pap.psicol2019.2888">https://doi.org/10.23923/pap.psicol2019.2888</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Prado-Abril</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Gimeno-Peón</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Inchausti</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez-Reales</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Pericia, efectos del terapeuta y práctica deliberada: El ciclo de la excelencia</article-title>
+					<source>Papeles del Psicólogo</source>
+					<volume>40</volume>
+					<issue>2</issue>
+					<fpage>89</fpage>
+					<lpage>100</lpage>
+					<pub-id pub-id-type="doi">10.23923/pap.psicol2019.2888</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Prado-Abril, J., Sánchez-Reales, S., y Inchausti, F. (2017). En busca de nuestra mejor versión: Pericia y excelencia en Psicología Clínica. <italic>Ansiedad y Estrés</italic>, <italic>23</italic>(2), 110-117. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.anyes.2017.06.001">https://doi.org/10.1016/j.anyes.2017.06.001</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Prado-Abril</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez-Reales</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Inchausti</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>En busca de nuestra mejor versión: Pericia y excelencia en Psicología Clínica</article-title>
+					<source>Ansiedad y Estrés</source>
+					<volume>23</volume>
+					<issue>2</issue>
+					<fpage>110</fpage>
+					<lpage>117</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.anyes.2017.06.001</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Safran, J. D., y Segal, Z. V. (1990). <italic>Interpersonal process in cognitive therapy</italic>. Basic Books.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Safran</surname>
+							<given-names>J. D.</given-names>
+						</name>
+						<name>
+							<surname>Segal</surname>
+							<given-names>Z. V.</given-names>
+						</name>
+					</person-group>
+					<year>1990</year>
+					<source>Interpersonal process in cognitive therapy</source>
+					<publisher-name>Basic Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. <italic>American Psychologist</italic>, <italic>65</italic>(2), 98-109. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/a0018378">https://doi.org/10.1037/a0018378</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shedler</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>The efficacy of psychodynamic psychotherapy</article-title>
+					<source>American Psychologist</source>
+					<volume>65</volume>
+					<issue>2</issue>
+					<fpage>98</fpage>
+					<lpage>109</lpage>
+					<pub-id pub-id-type="doi">10.1037/a0018378</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Sperry, L., y Sperry, J. (2020). <italic>Case conceptualization: Mastering this competency with ease and confidence</italic> (2<sup>nd</sup> ed.). Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sperry</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Sperry</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>Case conceptualization: Mastering this competency with ease and confidence</source>
+					<edition>2</edition>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Young, J. E. (2006). <italic>Young Schema Questionnaire-3</italic>. Cognitive Therapy Center.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Young</surname>
+							<given-names>J. E.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Young Schema Questionnaire-3</source>
+					<publisher-name>Cognitive Therapy Center</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Young, J. E., Klosko, J. S., y Weishaar, M. E. (2003). <italic>Schema therapy: A practitioner's guide</italic>. Guilford Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Young</surname>
+							<given-names>J. E.</given-names>
+						</name>
+						<name>
+							<surname>Klosko</surname>
+							<given-names>J. S.</given-names>
+						</name>
+						<name>
+							<surname>Weishaar</surname>
+							<given-names>M. E.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>Schema therapy: A practitioner's guide</source>
+					<publisher-name>Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Wachtel, P. L., y Gagnon, G. J. (2019). Cyclical psychodynamics and integrative relational psychotherapy. En J. C. Norcross y M. R. Goldfried (Eds.), <italic>Handbook of psychotherapy integration</italic> (3<sup>rd</sup> ed., pp. 184-203). Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wachtel</surname>
+							<given-names>P. L.</given-names>
+						</name>
+						<name>
+							<surname>Gagnon</surname>
+							<given-names>G. J.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<chapter-title>Cyclical psychodynamics and integrative relational psychotherapy</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Norcross</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Goldfried</surname>
+							<given-names>M. R.</given-names>
+						</name>
+					</person-group>
+					<source>Handbook of psychotherapy integration</source>
+					<edition>3</edition>
+					<fpage>184</fpage>
+					<lpage>203</lpage>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Wampold, B. E. (2019). <italic>The basics of psychotherapy: An introduction to theory and practice</italic> (2<sup>nd</sup> ed.). American Psychological Association.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wampold</surname>
+							<given-names>B. E.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<source>The basics of psychotherapy: An introduction to theory and practice</source>
+					<edition>2</edition>
+					<publisher-name>American Psychological Association</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Wampold, B. E., y Imel, Z. E. (2015). <italic>The great psychotherapy debate: The evidence for what makes psychotherapy work</italic> (2<sup>nd</sup> ed.). Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wampold</surname>
+							<given-names>B. E.</given-names>
+						</name>
+						<name>
+							<surname>Imel</surname>
+							<given-names>Z. E.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>The great psychotherapy debate: The evidence for what makes psychotherapy work</source>
+					<edition>2</edition>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Whitaker, R. (2015). <italic>Anatomía de una epidemia: Medicamentos psiquiátricos y el asombroso aumento de las enfermedades mentales</italic>. Capitán Swing.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Whitaker</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Anatomía de una epidemia: Medicamentos psiquiátricos y el asombroso aumento de las enfermedades mentales</source>
+					<publisher-name>Capitán Swing</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Zilcha-Mano, S. (2025). Almost 90 years of common factors: Are they still useful in research and practice? <italic>Journal of Consulting and Clinical Psychology</italic>, <italic>93</italic>(5), 341-343. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/ccp0000944">https://doi.org/10.1037/ccp0000944</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zilcha-Mano</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Almost 90 years of common factors: Are they still useful in research and practice?</article-title>
+					<source>Journal of Consulting and Clinical Psychology</source>
+					<volume>93</volume>
+					<issue>5</issue>
+					<fpage>341</fpage>
+					<lpage>343</lpage>
+					<pub-id pub-id-type="doi">10.1037/ccp0000944</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<title>Financiación</title>
+			<fn fn-type="other" id="fn1">
+				<p>El presente trabajo carece de financiación pública, comercial o de organizaciones no gubernamentales.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

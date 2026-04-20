@@ -3,6 +3,7 @@ from docx import Document
 import zipfile
 import os
 import mysql.connector
+import fitz  # PyMuPDF
 
 app = Flask(__name__)
 
@@ -128,6 +129,35 @@ def insertar_en_bd(datos, journal_id):
 
     except Exception as e:
         return str(e)
+    
+def extraer_texto_pdf(ruta_pdf):
+    texto = ''
+    doc = fitz.open(ruta_pdf)
+    for pagina in doc:
+        texto += pagina.get_text()
+    doc.close()
+    texto = ' '.join(texto.split())
+    return texto
+
+def comparar_con_pdf(datos, texto_pdf):
+    resultados = []
+
+    def buscar(valor, texto):
+        if not valor:
+            return 'VACÍO EN WORD'
+        return '✅ COINCIDE' if valor.lower() in texto.lower() else '❌ NO COINCIDE'
+
+    resultados.append({'campo': 'Título en español', 'valor': datos['title_es'], 'resultado': buscar(datos['title_es'], texto_pdf)})
+    resultados.append({'campo': 'Título en inglés', 'valor': datos['title_en'], 'resultado': buscar(datos['title_en'], texto_pdf)})
+    resultados.append({'campo': 'DOI', 'valor': datos['doi'], 'resultado': buscar(datos['doi'], texto_pdf)})
+    resultados.append({'campo': 'Keywords EN', 'valor': datos['keywords_en'], 'resultado': buscar(datos['keywords_en'], texto_pdf)})
+    resultados.append({'campo': 'Keywords ES', 'valor': datos['keywords_es'], 'resultado': buscar(datos['keywords_es'], texto_pdf)})
+
+    # Comparar autores uno a uno
+    for autor in datos['autores']:
+        resultados.append({'campo': 'Autor', 'valor': autor, 'resultado': buscar(autor, texto_pdf)})
+
+    return resultados
 
 @app.route('/')
 def index():
@@ -144,47 +174,41 @@ def index():
 
 @app.route('/subir', methods=['POST'])
 def subir():
-    if 'zip' not in request.files:
+    if 'word' not in request.files:
         return 'No se ha subido ningún archivo'
 
-    archivo_zip = request.files['zip']
+    archivo_word = request.files['word']
 
-    if archivo_zip.filename == '':
+    if archivo_word.filename == '':
         return 'No se ha seleccionado ningún archivo'
 
-    ruta_zip = 'temp/' + archivo_zip.filename
+    if not archivo_word.filename.endswith('.docx'):
+        return 'El archivo debe ser un Word (.docx)'
+
     os.makedirs('temp', exist_ok=True)
-    archivo_zip.save(ruta_zip)
+    ruta_docx = 'temp/' + archivo_word.filename
+    archivo_word.save(ruta_docx)
 
-    ruta_extraccion = 'temp/extraido'
-    os.makedirs(ruta_extraccion, exist_ok=True)
+    journal_id = request.form.get('journal_id', 'desconocido')
+    datos = procesar_word(ruta_docx)
 
-    with zipfile.ZipFile(ruta_zip, 'r') as zip_ref:
-        zip_ref.extractall(ruta_extraccion)
-
-    resultados = []
-    for raiz, carpetas, archivos in os.walk(ruta_extraccion):
-        for archivo in archivos:
-            if archivo.endswith('.docx') and not archivo.startswith('~'):
-                ruta_docx = os.path.join(raiz, archivo)
-                datos = procesar_word(ruta_docx)
-
-                journal_id = request.form.get('journal_id', 'desconocido')
-                if datos['title_es'] and datos['doi']:
-                    resultado_bd = insertar_en_bd(datos, journal_id)
-                    resultados.append({
-                        'archivo': archivo,
-                        'datos': datos,
-                        'insertado': resultado_bd == True,
-                        'error': resultado_bd if resultado_bd != True else ''
-                    })
-                else:
-                    resultados.append({
-                        'archivo': archivo,
-                        'datos': datos,
-                        'insertado': False,
-                        'error': 'No se encontró título en español o DOI'
-                    })
+    if datos['title_es'] and datos['doi']:
+        resultado_bd = insertar_en_bd(datos, journal_id)
+        resultados = [{
+            'archivo': archivo_word.filename,
+            'datos': datos,
+            'insertado': resultado_bd == True,
+            'error': resultado_bd if resultado_bd != True else '',
+            'comparacion': []
+        }]
+    else:
+        resultados = [{
+            'archivo': archivo_word.filename,
+            'datos': datos,
+            'insertado': False,
+            'error': 'No se encontró título en español o DOI',
+            'comparacion': []
+        }]
 
     return render_template('resultado.html', resultados=resultados)
 

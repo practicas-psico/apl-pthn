@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="book-review" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">00011</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Revisión de Libro</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Revisión de Libro</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Martínez-Loredo</surname>
+						<given-names>Víctor</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Universidad de Oviedo</institution>
+					<institution content-type="normalized">Universidad de Oviedo</institution>
+					<institution content-type="orgname">Universidad de Oviedo</institution>
+					<country country="ES">Spain</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Autor de correpondencia: <email>martinezlvictor@uniovi.es</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>149</fpage>
+			<lpage>150</lpage>
+			<product product-type="book">
+				<source>Enfoques de Psicopatología. Análisis y comprensión del sufrimiento de la persona, 2 vols.</source>, <person-group person-group-type="author">
+					<name>
+						<surname>Fonseca-Pedrero</surname>
+						<given-names>Eduardo</given-names>
+					</name>
+					<name>
+						<surname>Al-Halabí</surname>
+						<given-names>Susana</given-names>
+					</name>
+				</person-group> (Coords.) (<year>2026</year>), <publisher-name>Editorial Pirámide</publisher-name>.</product>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="0"/>
+				<page-count count="2"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>Si la <italic>Encyclopédie</italic> aspiró a compendiar el saber humano bajo el impulso de Diderot, d'Alembert y los enciclopedistas franceses, no fue por afán acumulativo, sino por la convicción de que el conocimiento debía organizarse, discutirse y ponerse en relación. Aquella empresa ilustrada no pretendía reunir entradas de forma neutral, sino ofrecer una arquitectura intelectual capaz de ordenar un mundo complejo bajo una nueva mirada. Algo semejante puede decirse de <italic>Enfoques de Psicopatología I y II</italic>: una suerte de enciclopedia contemporánea del sufrimiento psicológico en la sociedad del Atlántico Norte. Sus dos tomos ofrecen una panorámica amplia, académicamente rigurosa, clínicamente operativa y epistemológicamente consciente de su propio tiempo.</p>
+		<p>La psicopatología ha vivido durante décadas bajo el predominio del modelo biomédico, acompañado de una proliferación de clasificaciones diagnósticas que, si bien útiles con (alguna) frecuencia, han tendido a reificar categorías y a fragmentar la comprensión de la experiencia humana. El prólogo del manual sitúa con claridad esta encrucijada histórica: siglos de organicismo, un “triple secuestro” disciplinar y la necesidad de un nuevo marco capaz de integrar perspectivas sin caer en reduccionismos. No se trata de negar la dimensión biológica del sufrimiento -el organismo como condición de posibilidad-, sino de evitar que monopolice su inteligibilidad.</p>
+		<p>El primer tomo despliega los fundamentos que sostienen esa ambición integradora. El capítulo “Psicopatología: pasado, presente y futuro” permite plantear cuestiones relevantes que atraviesan el campo, como la omnipresencia de los modelos reduccionistas y la reificación psicológica, la inconmensurabilidad de cada propuesta y la cuestión de su posible integración. En “Psicopatología del desarrollo” se subraya el carácter histórico y evolutivo del malestar psicológico, con énfasis en los nuevos retos en la era digital: la “epidemia” de salud mental infanto-juvenil y la dialéctica entre empatía y narcisismo en la construcción de identidades individualistas. En una obra de tal alcance no podían faltar capítulos como “Psicopatología y procesos psicológicos” y “Psicopatología, psicoterapia y formulación de casos”, donde se examinan los mecanismos funcionales que atraviesan distintos cuadros clínicos y se subraya la importancia del análisis funcional y de la formulación de casos para explicar y comprender las problemáticas del sufrimiento humano, frente a la simple asignación diagnóstica.</p>
+		<p>A ello se suma un bloque sin parangón en la literatura en español de incuestionable interés para profesionales y estudiantes: “Las grandes escuelas de psicopatología”, donde se presentan, en su contexto y con espacio para la reflexión, los principales marcos teóricos: biomédico, conductual, cognitivo, constructivista, sistémico-familiar, humanista-experiencial, fenomenológico-existencial, psicodinámico y contextual. Este compendio, tan indispensable como olvidado hasta la publicación de esta obra, ofrece como resultado una exposición comparativa y comprehensiva que permite apreciar cómo cada tradición ilumina ciertas dimensiones del fenómeno psicopatológico y oscurece otras. Cada enfoque presenta sus fundamentos, sus implicaciones clínicas y sus límites, así como -de forma innovadora- su diálogo con otras tradiciones. El lector no encontrará dogmas ni etiquetas diagnósticas, sino distintas cartografías que describen el campo psicológico y psicopatológico con excelencia y rigor, a manos de académicos de gran prestigio y profesionales de referencia.</p>
+		<p>El segundo tomo amplía el mapa hacia territorios conceptuales más recientes y hacia zonas limítrofes con otras disciplinas. En “Filosofía, cultura y psicopatología: convergiendo en la persona y sus circunstancias”, se pone sobre la mesa la raigambre cultural con la que se tejen los fenómenos psicopatológicos, buscando la gramática común que permite explicar los distintos modos de experimentar, expresar y actuar sobre el sufrimiento en distintas épocas. Asimismo, dirige su guadaña dialéctica a concepciones extravagantes para desbrozar las psicopatologías silvestres crecidas en el sustrato de la psicología <italic>mainstream</italic> y la autoayuda.</p>
+		<p>El capítulo “Cultura y narrativa del <italic>self</italic> en psicopatología y psicoterapia” recuerda que el malestar humano no puede entenderse al margen de los marcos simbólicos e históricos que configuran la experiencia subjetiva. La persona construye sus experiencias conforme a una narrativa coherente, quizá su único escudo al verse arrojada al mundo. Al fin y al cabo, no hay que olvidar que quien sufre es la persona debido a sus circunstancias y no a desajustes en sus partes. En “Psicopatología y artes plásticas: los colapsos del yo en el modernismo, expresionismo, surrealismo y realismo”, el diálogo con la historia del arte revela hasta qué punto las crisis del sujeto moderno se han expresado también en el lenguaje visual, mostrando sedimentos materiales comunes más allá de la célula.</p>
+		<p>Como complemento de las grandes escuelas clásicas, el bloque “Los nuevos enfoques psicológicos de psicopatología” introduce modelos actuales, más o menos continuadores de aquellas -sistemas complejos, HiTOP, RDoC, modelo transdiagnóstico y marco de poder, amenaza y significado-, así como la dirección “Hacia una psicoterapia unificada: integración, convergencia y retos contemporáneos”, orientada a articular tradiciones clínicas diversas sin diluir sus fundamentos. Estas propuestas no se presentan como sustitutos definitivos, sino como nuevas cartografías -o actualizaciones de las clásicas- que intentan responder a las limitaciones de los sistemas diagnósticos tradicionales. Por último, el delicioso capítulo “Estrategia o disfunción, esa es la cuestión” retoma esta confrontación de <italic>fondo</italic> y <italic>figura</italic> la cuestión decisiva: si los fenómenos psicopatológicos deben entenderse como fallos de algún sistema psicológico o como formas de adaptación a contextos particulares.</p>
+		<p>Aun con la profundidad y alcance de los temas tratados, el lector se encontrará con un texto accesible, en el que la claridad expositiva no sacrifica la profundidad analítica, marca de la casa de sus brillantes coordinadores. La estructura didáctica del manual -con apartados de mirada en primera persona, aplicación clínica, síntesis de lo esencial y ampliaciones culturales- facilita su comprensión y lo convierte en una herramienta para pensar críticamente la psicopatología. En lugar de limitarse a seguir las modas diagnósticas del momento, la obra ofrece marcos conceptuales que permiten cuestionarlas, situarlas históricamente y comprender mejor la experiencia del sufrimiento psicológico.</p>
+		<p>Una empresa editorial de esta envergadura no es fruto del azar. Requiere una dirección intelectual capaz de convocar voces diversas, articular perspectivas y sostener una coherencia conceptual a lo largo de un proyecto necesariamente plural. En este sentido, la labor de coordinación del extraordinario tándem conformado por los profesores Al-Halabí y Fonseca-Pedrero merece destacarse. Su trabajo no se limita a reunir contribuciones, sino que configura una arquitectura conceptual que permite que los distintos capítulos dialoguen entre sí y que el conjunto adquiera la forma de un mapa imprescindible, ordenado y crítico del campo de la psicopatología contemporánea.</p>
+		<p>Como la enciclopedia ilustrada que sirve de metáfora inicial, <italic>Enfoques de Psicopatología I y II</italic> no clausura el debate: lo organiza. Expone las diferencias entre modelos, señala sus tensiones internas y muestra los puntos de contacto posibles. Frente a la tentación de reducir la psicopatología a una taxonomía cerrada, propone una comprensión plural que mantiene el vínculo con la evidencia empírica sin perder de vista la complejidad de la experiencia humana.</p>
+	</body>
+</article>

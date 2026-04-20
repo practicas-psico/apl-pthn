@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aplicativo Python</title>
+    <title>Aplicativo Word</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
@@ -14,7 +14,7 @@
     <div class="container mt-4">
         <div class="card">
             <div class="card-header" style="background-color:rgb(11, 84, 161); color:white;">
-                <h5 class="mb-0">Insertar archivos Word</h5>
+                <h5 class="mb-0">Insertar archivo Word</h5>
             </div>
             <div class="card-body">
                 <form action="/subir" method="post" enctype="multipart/form-data">
@@ -27,8 +27,8 @@
                         </select>
                     </div>
                     <div class="mb-3">
-                        <label class="form-label">Sube un ZIP con archivos Word</label>
-                        <input type="file" name="zip" accept=".zip" class="form-control">
+                        <label class="form-label">Archivo Word</label>
+                        <input type="file" name="word" accept=".docx" class="form-control">
                     </div>
                     <button type="submit" class="btn btn-primary">Subir y procesar</button>
                 </form>

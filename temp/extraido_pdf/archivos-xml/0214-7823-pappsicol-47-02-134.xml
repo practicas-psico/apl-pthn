@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">pappsicol</journal-id>
+			<journal-title-group>
+				<journal-title>Papeles del Psicólogo</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Pap. Psicol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0214-7823</issn>
+			<issn pub-type="epub">1886-1415</issn>
+			<publisher>
+				<publisher-name>Consejo General de Colegios Oficiales de Psicólogos</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.70478/pap.psicol.2026.47.15</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículo</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Micromachismos en el Ámbito Laboral Como Riesgo Psicosocial Invisible: Revisión y Propuesta de Evaluación Preventiva</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Gender Microaggressions in the Workplace as an Invisible Psychosocial Risk: Review and Proposal for Preventive Assessment</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-2577-5617</contrib-id>
+					<name>
+						<surname>Guillem Monzón</surname>
+						<given-names>Gonzalo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-5182-032X</contrib-id>
+					<name>
+						<surname>Cifre Gallego</surname>
+						<given-names>Eva</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-2952-3361</contrib-id>
+					<name>
+						<surname>Machín Rincón</surname>
+						<given-names>Laritza</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Universidad Jaume I de Castellón, España</institution>
+					<institution content-type="normalized">Universitat Jaume I</institution>
+					<institution content-type="orgname">Universidad Jaume I de Castellón</institution>
+					<country country="ES">Spain</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">Autor de correspondencia: Gonzalo Guillem Monzón <email>gonzaloguillem@hotmail.com</email>
+				</corresp>
+				<fn fn-type="con" id="fn1">
+					<label>Citar como</label>
+					<p>Guillem Monzón, G., Cifre Gallego, E., y Machín Rincón, L. (2026). Micromachismos en el ámbito laboral como riesgo psicosocial invisible: revisión y propuesta de evaluación preventiva. <italic>Papeles del Psicólogo/Psychologist Papers, 47</italic>(2), 134-143. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.70478/pap.psicol.2026.47.15">https://doi.org/10.70478/pap.psicol.2026.47.15</ext-link>. Este artículo está publicado bajo Licencia Creative Commons 4.0 CC-BY-NC-ND</p>
+				</fn>
+				<fn fn-type="conflict" id="fn2">
+					<p>Los autores declaran que la investigación se llevó a cabo en ausencia de cualquier relación comercial o financiera que pudiera interpretarse como un posible conflicto de intereses.</p>
+				</fn>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>01</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>May-Aug</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>2</issue>
+			<fpage>134</fpage>
+			<lpage>143</lpage>
+			<history>
+				<date date-type="received">
+					<day>23</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>05</day>
+					<month>01</month>
+					<year>2026</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>Este artículo revisa el fenómeno de los micromachismos en el entorno laboral como un riesgo psicosocial invisible que afecta a las mujeres. A través de una revisión teórica y normativa, argumentamos que estos comportamientos, pese a su aparente inocuidad, tienen un impacto significativo en la salud mental y el desarrollo profesional de las trabajadoras. Analizamos el marco legal español y proponemos una metodología estructurada para su identificación y prevención dentro de los procesos de evaluación psicosocial. Finalmente, ofrecemos recomendaciones prácticas para integrar este enfoque en la gestión de riesgos laborales desde una perspectiva de género.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>This article reviews the phenomenon of gender microaggressions in the workplace as an invisible psychosocial risk that affects women. Through a theoretical and regulatory review, it is argued that these apparently innocuous behaviors have a significant impact on the mental health and professional development of women workers. The article analyzes the Spanish legal framework and proposes a structured methodology for identifying and preventing these behaviors in psychosocial risk assessments. Finally, practical recommendations are provided for integrating this perspective into organizational risk management from a gender-sensitive approach.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Micromachismos</kwd>
+				<kwd>Riesgos psicosociales</kwd>
+				<kwd>Salud laboral</kwd>
+				<kwd>Género</kwd>
+				<kwd>Evaluación organizacional</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Gender microaggressions</kwd>
+				<kwd>Psychosocial risks</kwd>
+				<kwd>Occupational health</kwd>
+				<kwd>Gender</kwd>
+				<kwd>Organizational assessment</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="1"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="54"/>
+				<page-count count="10"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>A diferencia de formas más evidentes de discriminación, los micromachismos operan mediante la normalización. Su aparente inocuidad hace que a menudo pasen inadvertidos tanto para quienes los ejercen como para quienes los experimentan (<xref ref-type="bibr" rid="B6">Bonino Méndez, 2004</xref>). Sin embargo, generan un impacto negativo significativo en el bienestar de las trabajadoras. Estudios previos indican que pueden erosionar la autoestima, limitar el desarrollo profesional (<xref ref-type="bibr" rid="B40">Nadal y Haynes, 2012</xref>) y contribuir a la segregación laboral (<xref ref-type="bibr" rid="B4">Benalcázar-Luna y Venegas, 2017</xref>; <xref ref-type="bibr" rid="B22">Ferrer Pérez et al., 2008</xref>). Asimismo, perpetúan fenómenos estructurales como el techo de cristal y el suelo pegajoso (<xref ref-type="bibr" rid="B17">Dueñas Fernández y Moreno Mínguez, 2017</xref>; <xref ref-type="bibr" rid="B39">Mor Barak, 2016</xref>) y generan estrés y agotamiento emocional (<xref ref-type="bibr" rid="B12">Cortina, 2008</xref>; <xref ref-type="bibr" rid="B47">Saldaña Orozco et al., 2020</xref>). Al normalizar la infravaloración de las mujeres, deterioran el clima laboral, reducen la motivación y afectan al rendimiento organizacional (<xref ref-type="bibr" rid="B23">Fitzgerald et al., 1995</xref>).</p>
+			<p>La ausencia de metodologías específicas para evaluar micromachismos supone un obstáculo en la gestión preventiva de la salud laboral y la equidad de género. Por ello, este estudio analiza los micromachismos como un riesgo psicosocial emergente e invisibilizado, explorando estrategias para su identificación, evaluación y prevención, con el fin de contribuir al diseño de intervenciones que promuevan entornos laborales más equitativos y saludables.</p>
+			<sec>
+				<title>Los Micromachismos Como Riesgo Psicosocial</title>
+				<p>El comité mixto de la <xref ref-type="bibr" rid="B34">Organización Internacional del Trabajo (OIT) y la Organización Mundial de la Salud (OMS) (1984)</xref> definieron los factores psicosociales como aquellas condiciones presentes en el entorno laboral que se relacionan con la organización y la ejecución del trabajo y que pueden afectar tanto al bienestar y la salud (física y mental) como al desarrollo profesional de las personas trabajadoras. En la misma línea, <xref ref-type="bibr" rid="B13">Cox, Griffiths y Randall (2003)</xref> describen estos factores como elementos del diseño del trabajo y de la estructura organizativa que, junto con el entorno social, tienen el potencial de provocar daño físico y psicológico.</p>
+				<p>Desde esta perspectiva, la discriminación de género en el trabajo ejerce un impacto directo sobre la salud física, psíquica y social de las mujeres. La exposición continuada a violencia basada en género se ha vinculado con mayores niveles de estrés crónico, ansiedad y sintomatología depresiva, así como con un incremento de la demanda de atención sanitaria derivada de la percepción de deterioro del bienestar general (<xref ref-type="bibr" rid="B11">Cifre Gallego et al., 2021</xref>; <xref ref-type="bibr" rid="B46">Ruiz-Pérez y Plazaola-Castaño, 2005</xref>). Dentro de este marco, los micromachismos constituyen una forma menos visible pero particularmente dañina de violencia de género y discriminación: Son prácticas sutiles, normalizadas y difíciles de denunciar, que deterioran progresivamente el estado emocional de quienes las padecen (<xref ref-type="bibr" rid="B6">Bonino, 2004</xref>).</p>
+				<p>La literatura señala que estas manifestaciones cotidianas de discriminación se asocian con una amplia gama de consecuencias psicosociales. Entre ellas se incluyen la sobrecarga física y emocional, con sentimientos persistentes de agotamiento y falta de energía para atender necesidades propias (<xref ref-type="bibr" rid="B45">Rosso et al., 2010</xref>; <xref ref-type="bibr" rid="B38">Lysova et al., 2019</xref>); la inhibición del poder personal y la sensación de tener que adoptar estrategias defensivas, junto con la deslegitimación de las quejas; bloqueos cognitivos que dificultan la concentración y la toma de decisiones; y un deterioro de la autoestima, expresado en inseguridad, desmotivación y percepción de ineficacia personal (<xref ref-type="bibr" rid="B40">Nadal y Haynes, 2012</xref>; Oswald et al., 2019). Asimismo, se ha descrito un malestar generalizado e irritabilidad constante que con frecuencia se interiorizan como fallos personales, lo que incrementa la carga psicológica y la probabilidad de problemas de salud mental (<xref ref-type="bibr" rid="B25">Foley et al., 2005</xref>; <xref ref-type="bibr" rid="B52">Szymanski y Mikorski, 2017</xref>). Estudios recientes como el de (<xref ref-type="bibr" rid="B36">Kim y Meister, 2023</xref>) con mujeres del sector STEM en Estados Unidos, muestran que las microagresiones de género se asocian con desgaste emocional, rumiación, pérdida de autoestima y debilitamiento de la identidad profesional, pudiendo contribuir incluso al abandono del puesto de trabajo.</p>
+				<p>En consecuencia, los micromachismos pueden considerarse un factor de riesgo psicosocial “invisible”: su sutileza y aceptación social dificultan su identificación, pero no atenúan su impacto sobre la salud mental, la implicación laboral y la calidad de las relaciones en el trabajo (<xref ref-type="bibr" rid="B11">Cifre Gallego et al., 2021</xref>; <xref ref-type="bibr" rid="B47">Saldaña Orozco et al., 2020</xref>; <xref ref-type="bibr" rid="B54">UGT, 2018</xref>).</p>
+				<p>Antes de profundizar en su evaluación, conviene delimitar tres conceptos centrales: discriminación de género, violencia simbólica y micromachismos o microviolencias de género. Por discriminación de género entendemos aquellas prácticas, normas y estructuras que generan de manera sistemática un trato desigual entre mujeres y hombres en el ámbito laboral, ya sea de forma directa o indirecta (<xref ref-type="bibr" rid="B10">Cifre Gallego et al., 2020</xref>). La violencia simbólica se refiere a formas de dominación que operan de manera sutil y tan normalizada que pasan desapercibidas, a través de significados, expectativas y estereotipos que sostienen y refuerzan la posición de desventaja de las mujeres (<xref ref-type="bibr" rid="B6">Bonino Méndez, 2004</xref>; <xref ref-type="bibr" rid="B7">Bourdieu, 2000</xref>). Finalmente, en este contexto, los micromachismos -también denominados microviolencias de género cuando se enfatiza su carácter de violencia leve pero persistente- son acciones cotidianas, muchas veces difíciles de identificar, mediante las cuales se desautoriza, minimiza o subordina la voz y la autoridad de las mujeres (<xref ref-type="bibr" rid="B5">Bonino, 2005</xref>; <xref ref-type="bibr" rid="B22">Ferrer Pérez et al., 2008</xref>).</p>
+				<p>A lo largo del artículo utilizamos principalmente el término micromachismos (y, en algunos pasajes, microagresiones de género) para referirnos a estas conductas específicas en el entorno laboral, mientras que reservamos la expresión discriminación de género para aludir al nivel estructural del problema, del cual dichas prácticas constituyen una manifestación concreta.</p>
+			</sec>
+			<sec>
+				<title>Ley de Prevención de Riesgos Laborales (LPRL) y su Aplicación Para la Protección de la Salud de las Trabajadoras y los Trabajadores</title>
+				<p>La <xref ref-type="bibr" rid="B18">Ley 31/1995 de Prevención de Riesgos Laborales (LPRL)</xref> establece las obligaciones empresariales para garantizar la seguridad y el bienestar de las personas trabajadoras. Según su artículo 16, la empresa debe realizar una evaluación inicial de todos los riesgos -incluidos los psicosociales- y aplicar las medidas preventivas correspondientes. La Ley de Infracciones y Sanciones en el Orden Social (LISOS, art. 12.b) considera falta grave no llevar a cabo esta evaluación.</p>
+				<p>Tradicionalmente, la LPRL ha abordado la igualdad desde un enfoque centrado en maternidad, embarazo y lactancia, lo que hizo necesario desarrollar normativas que ampliaran este marco. La <xref ref-type="bibr" rid="B19">Ley Orgánica 3/2007</xref> -reforzada por el <xref ref-type="bibr" rid="B20">Real Decreto-ley 6/2019</xref>, que establece la implantación progresiva de Planes de Igualdad- sitúa estos planes como el instrumento idóneo para identificar, evaluar y corregir desigualdades, incluidas las de carácter sutil como los micromachismos. Su evaluación complementa diagnósticos sobre brecha salarial, segregación ocupacional o techo de cristal, incorporando indicadores de clima psicosocial con enfoque de género.</p>
+				<p>A este marco se suma la Ley Orgánica 10/2022, que exige promover condiciones laborales que prevengan conductas que vulneren la libertad sexual o la integridad moral (art. 12), incluyendo el acoso sexual y el acoso por razón de sexo. Los micromachismos pueden operar como comportamientos normalizados que favorecen la tolerancia hacia estas formas de acoso, por lo que su detección e intervención se alinean con las obligaciones preventivas de igualdad y salud psicosocial.</p>
+				<p>Finalmente, la evidencia muestra que los riesgos laborales afectan de manera desigual a hombres y mujeres (<xref ref-type="bibr" rid="B10">Cifre et al., 2020</xref>), por lo que incorporar la perspectiva de género en la prevención resulta imprescindible para no subestimar riesgos que impactan especialmente en la salud de las mujeres.</p>
+			</sec>
+			<sec>
+				<title>Relevancia de Integrar la Evaluación de Micromachismos en el Marco de la Gestión de Riesgos Psicosociales</title>
+				<p>Los micromachismos se manifiestan en el lugar de trabajo de múltiples formas, desde comentarios aparentemente inofensivos hasta la exclusión de mujeres de roles de liderazgo y oportunidades de desarrollo. Estos comportamientos, aunque sutiles, pueden afectar de manera significativa la percepción de valor propio y la productividad de las trabajadoras, lo que se traduce en un impacto acumulativo en su salud mental y satisfacción laboral (<xref ref-type="bibr" rid="B1">Algner y Lorenz, 2022</xref>).</p>
+				<p>El principal problema de los micromachismos está en la dificultad para detectarlos, puesto que, al ser comportamientos normalizados dentro de la sociedad, tanto la persona que los sufre como la que los ejerce no son plenamente conscientes de ellos (<xref ref-type="bibr" rid="B17">Dueñas Fernández y Moreno Mínguez, 2017</xref>). Los beneficios de incorporar la evaluación de micromachismos van más allá de la mejora del bienestar individual. Estudios como el de <xref ref-type="bibr" rid="B3">Basford et al., (2014)</xref> sobre microagresiones de género en <bold>empleadas de organizaciones norteamericanas</bold> mediante un diseño transversal con muestras de <bold>mujeres trabajadoras de diferentes sectores</bold>, mostraron que las microinvalidaciones afectan al compromiso laboral y al bienestar psicológico y resalta que abordar estas conductas, es crucial para lograr la equidad de género y aumentar la representación femenina en campos donde históricamente han sido subrepresentada. Este tipo de medidas no solo refuerzan la inclusión, sino que también contribuyen a la cohesión y efectividad del equipo.</p>
+				<p>La integración de la evaluación de micromachismos requiere un enfoque sistémico en el que las organizaciones adopten medidas proactivas para identificar, evaluar y mitigar estos comportamientos. Implementar herramientas de evaluación y formación en gestión de riesgos psicosociales permite a las empresas crear una cultura de respeto e igualdad (<xref ref-type="bibr" rid="B37">Lewis y Neville, 2015</xref>). Por tanto, evaluar estos comportamientos y tomar medidas preventivas no solo fomenta un ambiente de respeto y equidad, sino que también responde a la obligación empresarial de velar por la salud integral de su plantilla, conforme lo establece la Ley de Prevención de Riesgos Laborales en España (<xref ref-type="bibr" rid="B30">NTP 450</xref>, <xref ref-type="bibr" rid="B32">NTP 926</xref>).</p>
+			</sec>
+		</sec>
+		<sec sec-type="methods">
+			<title>Propuesta de una Metodología de Evaluación de los Micromachismos como Riesgo Psicosocial de las Mujeres</title>
+			<p>Debemos extender la idea de que los micromachismos son un factor de riesgo psicosocial más, ya que influye en la aparición de enfermedades como el burnout y el estrés, que contribuyen al desarrollo de problemas de salud mental (<xref ref-type="bibr" rid="B47">Saldaña Orozco et al., 2020</xref>), debido a su impacto negativo y sostenido en el bienestar emocional y psicológico de quienes los sufren. Los micromachismos se presentan como una forma de violencia simbólica que afectan la autoestima y provocan malestar emocional y psicológico. Estos efectos acumulativos pueden resultar en estrés crónico y agotamiento emocional. Esto no solo afectaría la productividad y el ambiente laboral de manera negativa, sino que también podría causar síntomas de ansiedad (<xref ref-type="bibr" rid="B32">NTP 926</xref>).</p>
+			<p>Para determinar las fases de una evaluación de riesgos psicosociales aplicados a los micromachismos acudiremos al Criterio técnico 104/2021 elaborado por la dirección de la Inspección de Trabajo y Seguridad Social sobre actuaciones de la inspección de trabajo y seguridad social en riesgos psicosociales y a la “Nota Técnica de Prevención (NTP) 450: Factores psicosociales: fases para su evaluación” en donde se desgrana de forma meticulosa los pasos a seguir y las necesidades mínimas que se establecen.</p>
+			<p>Así mismo se ha seguido una propuesta metodológica que se estructura de forma coherente con las fases establecidas para la elaboración e implementación de los <bold>Planes de Igualdad</bold> (<xref ref-type="bibr" rid="B19">LO 3/2007</xref>; <xref ref-type="bibr" rid="B20">RD-L 6/2019</xref>; RD 901/2020), de modo que la evaluación de micromachismos se integre en el marco normativo vigente y pueda incorporarse a los diagnósticos y medidas de igualdad de las organizaciones que consta de Diagnóstico inicial, Priorización de áreas de mejora, Diseño de medidas, Implementación y sensibilización, Seguimiento y evaluación:</p>
+			<p>
+				<fig id="f1">
+					<label>Figura 1</label>
+					<caption>
+						<title>Flujograma Para una Evaluación Psicosocial que Incluya Micromachismos</title>
+					</caption>
+					<graphic xlink:href="0214-7823-pappsicol-47-02-134-gf1.jpg"/>
+					<attrib>Nota Técnica de Prevención número 450 (1995)</attrib>
+				</fig>
+			</p>
+			<sec>
+				<title>1. Determinación de la Necesidad de Evaluación de los Micromachismos</title>
+				<p>En este punto, la ley es ambigua y no fija una fecha exacta para realizar este tipo de evaluaciones, ni en las “Notas técnicas de prevención” ni en el criterio técnico 104/2021, ni en la ley se fija una periodicidad concreta. En su lugar, la Ley de Prevención de Riesgos Laborales en su, artículo 16 establece que una evaluación de riesgos en el lugar de trabajo puede ser necesaria en las siguientes circunstancias:</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>Cuando se constate una serie de “anomalías” o disfunciones que sugieran la existencia de problemas de índole psicosocial. Por ejemplo, un cúmulo de quejas, un elevado absentismo, una baja productividad, etc.</p>
+						</list-item>
+						<list-item>
+							<p>Para comprobar la idoneidad de las medidas preventivas ya existentes, verificando, por ejemplo, la eficacia de las acciones tomadas tras una evaluación de riesgos.</p>
+						</list-item>
+						<list-item>
+							<p>Como resultado de una evaluación global anterior, para evaluar de manera más específica ciertas actividades, grupos de trabajo o riesgos concretos.</p>
+						</list-item>
+						<list-item>
+							<p>Cuando se introduzca una innovación en el lugar de trabajo, como un nuevo proceso de producción, nuevos equipos materiales o humanos, o modificaciones en la organización del trabajo, que puedan alterar significativamente la situación actual.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Puesto que estudios como el de <xref ref-type="bibr" rid="B37">Lewis y Neville (2015)</xref>, desarrollados con muestras de mujeres negras en Estados Unidos (Estudio 1: N = 259; Estudio 2: N = 210), evidencian que las microagresiones influyen de manera significativa en la cohesión relacional, el funcionamiento grupal y el bienestar psicológico, se refuerza la necesidad de contar con instrumentos de evaluación que permitan analizar explícitamente estas dinámicas en los entornos laborales.</p>
+			</sec>
+			<sec>
+				<title>2. Identificación de Factores de Riesgo Relacionados con Micromachismos</title>
+				<p>La identificación de micromachismos como factores de riesgo psicosocial requiere un enfoque que visibilice prácticas normalizadas de discriminación de baja intensidad dentro de la cultura organizacional. Estos comportamientos pueden manifestarse de forma cotidiana y sutil, por lo que es necesario analizar variables organizativas con perspectiva de género.</p>
+				<p>Entre los elementos más relevantes a considerar se encuentran:</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p><bold>Distribución de género en puestos de responsabilidad</bold>, jerarquías y toma de decisiones (<xref ref-type="bibr" rid="B42">ONU Mujeres, 2017</xref>; <xref ref-type="bibr" rid="B17">Dueñas Fernández y Moreno Mínguez, 2017</xref>).</p>
+						</list-item>
+						<list-item>
+							<p><bold>Relatos o percepciones de exclusión, infantilización o invisibilizaría</bold>n de mujeres en espacios de interacción profesional (<xref ref-type="bibr" rid="B47">Saldaña Orozco et al., 2020</xref>).</p>
+						</list-item>
+						<list-item>
+							<p><bold>Diferencias en acceso a formación, promoción y participación estratégica</bold>, en función del género (<xref ref-type="bibr" rid="B54">UGT, 2018</xref>).</p>
+						</list-item>
+						<list-item>
+							<p><bold>Presencia de comentarios sexistas o trato diferencial normalizado</bold>, frecuentemente no percibido como discriminatorio por quienes lo ejercen (<xref ref-type="bibr" rid="B6">Bonino, 2004</xref>; <xref ref-type="bibr" rid="B3">Basford et al., 2014</xref>).</p>
+						</list-item>
+						<list-item>
+							<p><bold>Rotación voluntaria del personal femenino o solicitudes de cambio de área por malestar psicológico</bold>, lo cual puede ser indicativo de entornos hostiles (<xref ref-type="bibr" rid="B52">Szymanski y Mikorski, 2017</xref>).</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Estos indicadores permiten detectar patrones relacionales y estructurales que generan desigualdad y afectan la salud psicosocial, especialmente de las trabajadoras.</p>
+			</sec>
+			<sec>
+				<title>3. Diseño del Estudio y Metodología</title>
+				<sec>
+					<title>Identificación de las Trabajadoras Expuestas a Micromachismos</title>
+					<p>Una vez identificados los factores de riesgo pertinentes, el diseño metodológico del estudio debe orientarse hacia aquellos grupos o áreas organizacionales en los que exista una mayor probabilidad de presencia de micromachismos. Para tal fin, se proponen criterios de priorización basados en tres dimensiones: (a) la exposición diferencial al riesgo, entendida como la permanencia de desigualdades estructurales de género en determinados espacios; (b) la existencia de indicios previos de malestar o quejas relacionadas con el trato recibido; y (c) la configuración de estructuras organizativas que favorecen relaciones jerárquicas asimétricas, conforme a lo señalado en la Nota Técnica de Prevención 926 y el Criterio Técnico 104/2021.</p>
+					<p>Bajo estos lineamientos, se sugiere enfocar la evaluación en los siguientes contextos específicos:</p>
+					<p>
+						<list list-type="order">
+							<list-item>
+								<p>equipos con baja representación femenina;</p>
+							</list-item>
+							<list-item>
+								<p>departamentos donde se hayan registrado quejas informales vinculadas a situaciones de trato desigual;</p>
+							</list-item>
+							<list-item>
+								<p>unidades organizativas caracterizadas por estructuras jerárquicas rígidas o por un liderazgo predominantemente masculino.</p>
+							</list-item>
+						</list>
+					</p>
+					<p>La aplicación de estos criterios permite delimitar áreas prioritarias de análisis, facilitando una evaluación más precisa y contextualizada de los micromachismos. Además, contribuye a incorporar una perspectiva sensible a las dinámicas de poder y desigualdad que los sustentan y reproducen en el entorno laboral.</p>
+				</sec>
+				<sec>
+					<title>Elección de la Metodología y Técnicas de Investigación: Herramientas y Técnicas Para la Evaluación de Micromachismos</title>
+					<p>La evaluación de micromachismos como forma específica de riesgo psicosocial exige un enfoque metodológico que permita identificar prácticas de dominación simbólica y discriminación de género que, aunque sutiles, tienen un impacto significativo en el bienestar laboral. Para ello, es necesario combinar estrategias de recogida de información que integren tanto la objetividad de la medición estructurada como la profundidad del análisis cualitativo.</p>
+				</sec>
+				<sec>
+					<title>Técnicas Cuantitativas Para el Estudio de Micromachismo</title>
+					<p>Desde una perspectiva metodológica más amplia, la <xref ref-type="bibr" rid="B33">NTP 702</xref> del Instituto Nacional de Seguridad y Salud en el Trabajo destaca la relevancia de los enfoques cuantitativos para la identificación de indicadores de riesgo psicosocial, a través de instrumentos validados que permitan establecer comparaciones entre contextos organizacionales. Sin embargo, en el caso específico de los micromachismos, se observa una limitada disponibilidad de herramientas diseñadas para su evaluación en entornos laborales.</p>
+					<p>En este sentido, uno de los que más se adapta a esta necesidad de evaluar micromachismos es la escala MIMI-16 (Microinvalidation and Microinsult Scale-16), desarrollada por <xref ref-type="bibr" rid="B1">Algner y Lorenz (2022)</xref>, cuyo objetivo es identificar la presencia de microinsultos y microinvalidaciones hacia las mujeres en el contexto organizacional. Esta escala tiene como propósito explícito evaluar microagresiones dirigidas a mujeres en el ámbito laboral, entendidas como formas contemporáneas de violencia simbólica y discriminación indirecta, A diferencia de otras herramientas que abordan el sexismo desde una perspectiva general, el MIMI-16 fue construido a partir de experiencias reales de mujeres trabajadoras, mediante dos estudios psicométricos independientes con muestras de 497 y 606 participantes, respectivamente (N total = 1,103).</p>
+					<p>El MIMI-16 ha demostrado excelentes propiedades psicométricas, incluyendo una alta fiabilidad interna, validez factorial y validez convergente, lo que lo posiciona como una herramienta robusta para medir la prevalencia de estas formas sutiles de violencia de género en el ámbito organizacional. Se trata de un instrumento específicamente diseñado a partir de experiencias de mujeres trabajadoras, orientado a medir microinsultos y microinvalidaciones basadas en el género en el contexto laboral Su aplicación proporciona una base diagnóstica sólida para analizar la relación entre las microagresiones de género y variables psicosociales como el estrés laboral, la desmotivación, el deterioro del clima organizacional y la rotación de personal.</p>
+					<p>En consecuencia, aunque el MIMI-16 no constituye un instrumento jurídico orientado a la detección de acoso sexual o acoso por razón de sexo, sí representa una herramienta cuantitativa valiosa para la identificación de formas de violencia simbólica de baja intensidad. Su integración en los diagnósticos de igualdad y en las evaluaciones de riesgos psicosociales permite avanzar hacia una comprensión más integral de las desigualdades de género en el trabajo.</p>
+				</sec>
+				<sec>
+					<title>Técnicas Cualitativas Para Detectar Micromachismos</title>
+					<p>La dimensión cualitativa resulta clave para explorar la vivencia personal de los micromachismos en el entorno laboral. Herramientas como entrevistas semiestructuradas y grupos de discusión permiten acceder a relatos subjetivos que revelan experiencias normalizadas de exclusión, desvalorización o minimización. Estos espacios de diálogo facilitan la reflexión crítica y la visibilización de comportamientos que, por su carácter reiterado y soterrado, pasan desapercibidos incluso para quienes los sufren.</p>
+					<p>Estos espacios de diálogo, como señalan como señalan <xref ref-type="bibr" rid="B6">Bonino (2004)</xref> y <xref ref-type="bibr" rid="B47">Saldaña Orozco et al. (2020)</xref>, no solo favorecen la reflexión crítica, sino que actúan como mecanismos diagnósticos esenciales al permitir detectar patrones de comportamiento sistemático que generan malestar psicológico (ansiedad, inseguridad, agotamiento emocional), aunque no siempre sean reconocidos por quienes los sufren.</p>
+					<p>La combinación de ambas estrategias -cuestionarios estandarizados y relatos experienciales- posibilita una triangulación metodológica robusta (<xref ref-type="bibr" rid="B16">Denzin, 1978</xref>) que potencia la capacidad del estudio para detectar micromachismos de forma integral que no solo mejora la precisión del diagnóstico organizacional, sino que también fortalece la base para implementar intervenciones efectivas orientadas al cambio cultural.</p>
+				</sec>
+			</sec>
+			<sec>
+				<title>4. Formulación de Hipótesis Orientada a la Detección de Micromachismos</title>
+				<p>Antes de comenzar la etapa de recopilación y planificación de datos, es crucial tener en cuenta la fase de formulación de suposiciones significativas en la investigación científica como destacan <xref ref-type="bibr" rid="B48">Selltiz et al. (1980)</xref> y <xref ref-type="bibr" rid="B50">Sierra Bravo (1998)</xref>. Las hipótesis son afirmaciones que se someten a pruebas empíricas y representan las posibles soluciones al problema identificado al estar basadas en conceptos interrelacionados.</p>
+				<p>Por ejemplo, se podría tener la necesidad de investigar en una empresa específica si hay una relación entre &quot;Problemas en la supervisión&quot; y &quot;Microinvalidaciones&quot; entendidas estas como expresiones encubiertas de micromachismo que descalifican o minimizan la experiencia y competencia de las mujeres.</p>
+			</sec>
+			<sec>
+				<title>5. Planificación y Realización del Trabajo de Campo del Estudio de Micromachismos</title>
+				<p>El trabajo de campo en este estudio tiene como objetivo principal identificar y comprender las manifestaciones de micromachismos en contextos organizacionales, a través de una estrategia metodológica cuidadosamente planificada y ética. Para ello, resulta imprescindible comunicar con antelación a las personas participantes los objetivos específicos centrados en la detección de prácticas micromachistas, la metodología utilizada (incluyendo técnicas cualitativas y cuantitativas) y la duración estimada del proceso evaluativo. Esta transparencia permite no solo obtener el consentimiento informado, sino también fomentar una participación reflexiva y comprometida con la temática de género.</p>
+				<p>La adecuación del entorno también es determinante. Tanto las entrevistas como los cuestionarios deben desarrollarse en espacios que garanticen la privacidad y el respeto, evitando interrupciones y generando una atmósfera de seguridad emocional que permita compartir experiencias personales sin temor a represalias. Este punto es especialmente importante cuando se trata de identificar conductas micromachistas que muchas veces no son reconocidas como tales por el entorno laboral.</p>
+				<p>Asimismo, es fundamental que el proceso esté dirigido por facilitadores/as con formación en perspectiva de género y sensibilidad intercultural, especialmente durante la aplicación de entrevistas en profundidad y grupos de discusión. Su rol no sólo es técnico, sino también ético, ya que deben ser capaces de reconocer dinámicas de poder, generar confianza y abordar con cuidado relatos que podrían implicar experiencias de malestar, invisibilizarían o violencia simbólica (<xref ref-type="bibr" rid="B43">ONU Mujeres, 2015</xref>).</p>
+				<p>En conjunto, estas medidas refuerzan la validez del estudio y aseguran que el trabajo de campo contribuya de manera directa a la visibilización, comprensión y futura intervención frente a micromachismos laborales, cumpliendo con un enfoque respetuoso, éticamente responsable y metodológicamente sólido (<xref ref-type="bibr" rid="B24">Flick, 2018</xref>).</p>
+			</sec>
+			<sec>
+				<title>6. Análisis de Resultados de la Investigación Psicosocial de Micromachismos</title>
+				<p>Una vez obtenidos los datos, el análisis se centra en identificar las causas que originan el problema, es decir, las causas de las posibles malas condiciones psicosociales en el trabajo.</p>
+				<p>En este estudio se adopta el marco teórico de las microagresiones raciales propuesto por <xref ref-type="bibr" rid="B51">Sue (2010)</xref>, quien identifica tres formas principales: microasaltos, microinsultos y microinvalidaciones. Si bien esta clasificación surgió inicialmente en el análisis de dinámicas racializadas, en 2010 se amplió a otras formas de discriminación, incluyendo las basadas en el género. En particular, el Capítulo 8 del volumen “Sexism and Gender Microaggressions” muestra cómo estas formas sutiles de interacción contribuyen a reproducir desigualdades estructurales entre mujeres y hombres, tanto en lo social como en el ámbito laboral.</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>Microagresiones: son conductas discriminatorias que se realizan de manera consciente y explícita (ya sea verbalmente o de manera no verbal), diseñadas para perjudicar a la persona que las recibe y se comparan al sexismo convencional.</p>
+						</list-item>
+						<list-item>
+							<p>Microinsultos: se refieren a comunicaciones o acciones que transmitan estereotipos sin ser conscientes de ello y que puedan resultar groseras e insensibles hacia la identidad de género de una persona.</p>
+						</list-item>
+						<list-item>
+							<p>Microinvalidaciones: Se refiere a comunicaciones que niegan o excluyen los pensamientos, sentimientos o la realidad experiencial de una persona estigmatizada; dentro de esta categoría se incluye la ceguera hacia el género y la negación de la discriminación individual.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Incorporar este marco permite entender los micromachismos en el entorno laboral como una forma específica de microagresión de género, en línea con la noción de violencia simbólica propuesta por <xref ref-type="bibr" rid="B7">Bourdieu (2000)</xref> y con las formas sutiles de dominación que describe <xref ref-type="bibr" rid="B6">Bonino (2004)</xref>. Esta articulación conceptual cobra particular relevancia al analizar las interacciones cotidianas en el trabajo, donde estas prácticas no solo refuerzan desigualdades estructurales, sino que también impactan negativamente en el bienestar psicológico y el desarrollo profesional de las mujeres.</p>
+				<p>La evaluación del riesgo psicosocial derivado de los micromachismos en el entorno laboral requiere una aproximación metodológica sensible a su carácter sutil y normalizado. A diferencia de otras formas de violencia más explícitas, los micromachismos operan de manera sistemática a través de comentarios, gestos o actitudes que refuerzan jerarquías de género y menoscaban progresivamente el bienestar emocional de las trabajadoras (<xref ref-type="bibr" rid="B6">Bonino, 2004</xref>; <xref ref-type="bibr" rid="B17">Dueñas-Fernández y Moreno Mínguez, 2017</xref>).</p>
+				<p>En términos de evaluación, es imprescindible valorar no solo la frecuencia, sino también la intensidad emocional con que estos comportamientos son percibidos y su efecto a largo plazo.</p>
+				<p>Diversos estudios han mostrado que la exposición continuada a este tipo de violencia simbólica se relaciona con un incremento del agotamiento emocional, pérdida de sentido de pertenencia y mayor percepción de injusticia organizacional. Así, <xref ref-type="bibr" rid="B22">Ferrer et al. (2008)</xref>, en un estudio realizado en España con una muestra representativa de la población adulta (N = 1.351), evidenciaron que una parte significativa de la ciudadanía normaliza determinadas microviolencias con impacto directo en el bienestar psicológico. De forma complementaria, <xref ref-type="bibr" rid="B1">Algner y Lorenz (2022)</xref> desarrollaron el MIMI-16 a partir de dos muestras independientes de mujeres trabajadoras en Alemania (N = 497 y N = 606), mostrando que los <italic>microinsultos</italic> y <italic>microinvalidaciones</italic> se asocian con deterioro emocional y menor integración laboral. En este sentido, resulta recomendable incorporar indicadores cualitativos y cuantitativos en los diagnósticos psicosociales, especialmente aquellos que se alineen con escalas de medición validadas como el MIMI-16.</p>
+			</sec>
+			<sec>
+				<title>7. Elaboración del Informe de Resultados en Evaluaciones de Micromachismos</title>
+				<p>La redacción del informe final debe abordarse con rigor técnico y sensibilidad ética, considerando que los micromachismos son una forma de violencia simbólica de carácter sutil, cuya identificación puede generar resistencias o negación dentro de la organización. Por ello, la presentación de los resultados debe equilibrar la claridad analítica con una comunicación cuidadosa, que fomente la reflexión colectiva y no la culpabilización individual.</p>
+				<p>El informe debe estructurarse de manera accesible, incluyendo:</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>Descripción de la metodología empleada (cuantitativa, cualitativa o mixta).</p>
+						</list-item>
+						<list-item>
+							<p>Resumen de los hallazgos relevantes, especialmente aquellos relacionados con comportamientos normalizados que refuercen la desigualdad de género.</p>
+						</list-item>
+						<list-item>
+							<p>Impacto identificado sobre la salud psicosocial de las trabajadoras.</p>
+						</list-item>
+						<list-item>
+							<p>Recomendaciones concretas orientadas a la prevención, intervención y formación en la materia.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Es recomendable presentar ejemplos despersonalizados y agregados para ilustrar patrones comunes de micromachismos detectados, con el fin de facilitar su reconocimiento por parte de la organización sin exponer a personas concretas.</p>
+				<p>El informe debe entregarse a las personas representantes del personal y difundirse conforme al principio de información y consulta recogido en el artículo 18 de la <xref ref-type="bibr" rid="B18">Ley 31/1995 de Prevención de Riesgos Laborales</xref>, cumpliendo así con la obligación legal de compartir los resultados de las evaluaciones psicosociales.</p>
+				<p>Este proceso no solo permite dar visibilidad a una problemática muchas veces ignorada, sino que también constituye el primer paso hacia la construcción de entornos laborales más equitativos, seguros y respetuosos.</p>
+			</sec>
+			<sec>
+				<title>8. Plan de Intervención, Implementación y Seguimiento Para la Prevención de
+					Micromachismos</title>
+				<p>Una vez identificados los micromachismos en el entorno laboral, es fundamental diseñar e implementar un plan de intervención que promueva transformaciones sostenidas tanto a nivel individual como organizacional. Este plan debe superar la lógica reactiva frente a casos aislados y centrarse en transformar las condiciones estructurales que permiten la persistencia de estas formas de violencia simbólica.</p>
+				<p>La sensibilización es un eje central en este proceso. Como plantea <xref ref-type="bibr" rid="B6">Bonino (2004)</xref>, es necesario que tanto las trabajadoras como los trabajadores tomen conciencia de cómo los micromachismos operan de manera encubierta en las relaciones laborales. La formación y el cuestionamiento crítico de los roles de género tradicionales permiten identificar y desnaturalizar prácticas cotidianas que reproducen desigualdad. Estas acciones deben complementarse con políticas institucionales claras, que establezcan normas de convivencia basadas en la equidad y el respeto, en línea con el artículo 48 de la <xref ref-type="bibr" rid="B19">Ley Orgánica 3/2007</xref> para la igualdad efectiva de mujeres y hombres.</p>
+				<p>Organismos como la <xref ref-type="bibr" rid="B44">Organización Internacional del Trabajo (OIT, 2019)</xref> coinciden en que la participación equitativa en los procesos de toma de decisiones fortalece el compromiso institucional con la justicia social. Para ello, es necesario revisar periódicamente las normas internas de las organizaciones, identificando posibles sesgos en los procesos de selección, promoción y asignación de responsabilidades, como advierten <xref ref-type="bibr" rid="B42">ONU Mujeres (2017)</xref>
+				</p>
+				<p>Asimismo, la comunicación organizacional desempeña un papel clave en la consolidación de una cultura inclusiva. El uso sistemático de un lenguaje no sexista, tal como recomienda el <xref ref-type="bibr" rid="B21">European Institute for Gender Equality (2021)</xref>, ayuda a visibilizar a todas las personas, evitando estereotipos y promoviendo la igualdad en las interacciones cotidianas. Igualmente, es importante contar con canales de denuncia confidenciales y eficaces, que garanticen a las personas afectadas (en su mayoría mujeres) la posibilidad de informar sobre conductas micromachistas sin temor a represalias.</p>
+				<p>La sostenibilidad del plan requiere un sistema de seguimiento riguroso, apoyado en indicadores validados. Las Notas Técnicas de Prevención del INSST (<xref ref-type="bibr" rid="B31">NTP 443</xref>, <xref ref-type="bibr" rid="B33">NTP 702</xref> y <xref ref-type="bibr" rid="B30">NTP 450</xref>) recomiendan evaluar la efectividad de las intervenciones mediante variables como la disminución de quejas por microagresiones, la mejora en el bienestar psicosocial de las trabajadoras, la reducción del absentismo y una mayor satisfacción laboral.</p>
+				<p>Un entorno laboral que reconoce evalúa y actúa frente a los micromachismos no solo protege la salud psicosocial de su plantilla, sino que también mejora la cohesión interna, refuerza el compromiso y proyecta una imagen institucional alineada con los valores de equidad y derechos humanos (<xref ref-type="bibr" rid="B39">Mor Barak, 2016</xref>).</p>
+			</sec>
+		</sec>
+		<sec sec-type="discussion">
+			<title>Discusión Crítica</title>
+			<p>Los micromachismos, a pesar de su sutileza y normalización social, constituyen un riesgo psicosocial de alto impacto en la salud mental y emocional de las trabajadoras. Esta evidencia refuerza lo señalado por <xref ref-type="bibr" rid="B11">Cifre Gallego et al. (2021)</xref> y <xref ref-type="bibr" rid="B47">Saldaña Orozco et al. (2020)</xref>, quienes argumentan que estas formas de violencia simbólica afectan la autoestima, generan ansiedad, y contribuyen al agotamiento emocional y a la desmotivación profesional (<xref ref-type="bibr" rid="B15">Dardenne et al., 2007</xref>). La incorporación del enfoque de género en la evaluación de riesgos psicosociales permite visibilizar estos impactos diferenciados, hasta ahora invisibilizados por estrategias tradicionales de prevención con sesgo androcéntrico (<xref ref-type="bibr" rid="B54">UGT, 2018</xref>; <xref ref-type="bibr" rid="B11">Cifre Gallego et al., 2021</xref>).</p>
+			<p>Tal y como se ha visto, existe una evidente dificultad para reconocer los micromachismos tanto por parte de quien los sufre como de quien los reproduce. Esto coincide con lo señalado por <xref ref-type="bibr" rid="B6">Bonino (2004)</xref> y <xref ref-type="bibr" rid="B3">Basford et al. (2014)</xref>, quienes advierten que su normalización dificulta la denuncia y el tratamiento institucional, provocando la invisibilización de una fuente crónica de malestar psicológico. Desde una perspectiva psicosocial, esta invisibilización refuerza el fenómeno del silencio organizacional, donde las trabajadoras se ven forzadas a reprimir el malestar por miedo a represalias o por la ausencia de canales institucionales confiables (<xref ref-type="bibr" rid="B36">Kim y Meister, 2023</xref>). La creación de entornos laborales donde todas las personas se sientan seguras y valoradas no solo mitiga este silencio, sino que también fortalece la cohesión y la retención del talento.</p>
+			<p>En términos metodológicos, la triangulación de técnicas cualitativas y cuantitativas ha demostrado ser clave para detectar patrones sistemáticos y relacionales de micromachismo. Tal como propone <xref ref-type="bibr" rid="B16">Denzin (1978)</xref>, la combinación de cuestionarios estandarizados con entrevistas en profundidad no solo mejora la fiabilidad de los datos, sino que también permite contextualizar las experiencias desde la vivencia subjetiva de las afectadas. En este estudio, se propone el uso del MIMI-16 para cuantificar microinsultos y microinvalidaciones en distintos niveles de la organización, mientras que las entrevistas cualitativas brindan un entendimiento más ajustado sobre cómo estas prácticas afectan el bienestar cotidiano. Esta metodología contribuye además a superar la invisibilidad de las formas sutiles de violencia simbólica.</p>
+			<p>Por otro lado, si bien los datos respaldan la existencia e impacto de los micromachismos, persisten retos importantes en su evaluación normativa y sistemática. Las Notas Técnicas de Prevención y el Criterio Técnico 104/2021 aún no abordan de forma explícita este tipo de conductas, lo que deja un vacío normativo que limita la acción preventiva en las organizaciones. La falta de una metodología establecida en la ley para este tipo de evaluaciones refuerza la necesidad de propuestas científicamente respaldadas que recomienden realizar estos diagnósticos al menos cada tres años, como sugiere este estudio.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>La integración del enfoque de género en la evaluación de riesgos psicosociales permite visibilizar los micromachismos como fuentes de malestar crónico que afectan de manera específica a las trabajadoras. Esta perspectiva es esencial para superar los límites de los marcos normativos actuales y promover estrategias de intervención más justas y eficaces.</p>
+			<p>Solo mediante un compromiso institucional real -que combine políticas públicas, formación continua y mecanismos internos de prevención- será posible avanzar hacia entornos laborales saludables, igualitarios y sostenibles a largo plazo.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Algner, M., y Lorenz, T. (2022). You’re prettier when you smile: Construction and validation of a questionnaire to assess microaggressions against women in the workplace. <italic>Frontiers in Psychology</italic>, <italic>13</italic>, Article 834357. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fpsyg.2022.834357">https://doi.org/10.3389/fpsyg.2022.834357</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Algner</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Lorenz</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>You’re prettier when you smile: Construction and validation of a questionnaire to assess microaggressions against women in the workplace</article-title>
+					<source>Frontiers in Psychology</source>
+					<volume>13</volume>
+					<elocation-id>834357</elocation-id>
+					<pub-id pub-id-type="doi">10.3389/fpsyg.2022.834357</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Barreto, M., y Ellemers, N. (2005). The perils of political correctness: Men's and women's responses to old-fashioned and modern sexist views. <italic>Social Psychology Quarterly</italic>, <italic>68</italic>(1), 75-88. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/019027250506800106">https://doi.org/10.1177/019027250506800106</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barreto</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ellemers</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>The perils of political correctness: Men's and women's responses to old-fashioned and modern sexist views</article-title>
+					<source>Social Psychology Quarterly</source>
+					<volume>68</volume>
+					<issue>1</issue>
+					<fpage>75</fpage>
+					<lpage>88</lpage>
+					<pub-id pub-id-type="doi">10.1177/019027250506800106</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Basford, T. E., Offermann, L. R., y Behrend, T. S. (2014). Do you see what I see? Perceptions of gender microaggressions in the workplace. <italic>Psychology of Women Quarterly</italic>, <italic>38</italic>(3), 340-349. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0361684313511420">https://doi.org/10.1177/0361684313511420</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Basford</surname>
+							<given-names>T. E.</given-names>
+						</name>
+						<name>
+							<surname>Offermann</surname>
+							<given-names>L. R.</given-names>
+						</name>
+						<name>
+							<surname>Behrend</surname>
+							<given-names>T. S.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Do you see what I see? Perceptions of gender microaggressions in the workplace</article-title>
+					<source>Psychology of Women Quarterly</source>
+					<volume>38</volume>
+					<issue>3</issue>
+					<fpage>340</fpage>
+					<lpage>349</lpage>
+					<pub-id pub-id-type="doi">10.1177/0361684313511420</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Benalcázar-Luna, M., y Venegas, G. (2017). Micromachismo: manifestación de violencia simbólica. <italic>UTCiencia</italic>, <italic>2</italic>(3), 140-149. <ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/379262366_Micromachismo_manifestacion_de_violencia_simbolica">https://www.researchgate.net/publication/379262366_Micromachismo_manifestacion_de_violencia_simbolica</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Benalcázar-Luna</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Venegas</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Micromachismo: manifestación de violencia simbólica</article-title>
+					<source>UTCiencia</source>
+					<volume>2</volume>
+					<issue>3</issue>
+					<fpage>140</fpage>
+					<lpage>149</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/379262366_Micromachismo_manifestacion_de_violencia_simbolica">https://www.researchgate.net/publication/379262366_Micromachismo_manifestacion_de_violencia_simbolica</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Bonino, L. (2005). Las microviolencias y sus efectos: Claves para su detección. En C. Ruiz-Jarabo y P. Blanco (Eds.), <italic>La violencia contra las mujeres prevención y detección</italic> (pp. 83-102). Díaz de Santos.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bonino</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<chapter-title>Las microviolencias y sus efectos: Claves para su detección</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ruiz-Jarabo</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Blanco</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<source>La violencia contra las mujeres prevención y detección</source>
+					<fpage>83</fpage>
+					<lpage>102</lpage>
+					<publisher-name>Díaz de Santos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Bonino Méndez, L. (2004). <italic>Micromachismos: La violencia invisible en la pareja</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.joaquimmontaner.net/Saco/dipity_mens/micromachismos_0.pdf">https://www.joaquimmontaner.net/Saco/dipity_mens/micromachismos_0.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bonino Méndez</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<source>Micromachismos: La violencia invisible en la pareja</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.joaquimmontaner.net/Saco/dipity_mens/micromachismos_0.pdf">https://www.joaquimmontaner.net/Saco/dipity_mens/micromachismos_0.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Bourdieu, P. (2000). <italic>La dominación masculina</italic> (J. Jordá, Trad.). Anagrama.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bourdieu</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>La dominación masculina</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Jordá</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<publisher-name>Anagrama</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Brescoll, V. L. (2016). Leading with limited power: The effects of stereotype threat on women’s executive presence and leadership evaluations. <italic>Academy of Management Journal</italic>, <italic>59</italic>(3), 1015-1030. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5465/amj.2013.0813">https://doi.org/10.5465/amj.2013.0813</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Brescoll</surname>
+							<given-names>V. L.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Leading with limited power: The effects of stereotype threat on women’s executive presence and leadership evaluations</article-title>
+					<source>Academy of Management Journal</source>
+					<volume>59</volume>
+					<issue>3</issue>
+					<fpage>1015</fpage>
+					<lpage>1030</lpage>
+					<pub-id pub-id-type="doi">10.5465/amj.2013.0813</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Chang, C.-H. D., Ferris, D. L., Johnson, R. E., Rosen, C. C., y Tan, J. A. (2012). Core self-evaluations: A review and evaluation of the literature. <italic>Journal of Management</italic>, <italic>38</italic>(1), 81-128. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0149206311419661">https://doi.org/10.1177/0149206311419661</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chang</surname>
+							<given-names>C.-H. D.</given-names>
+						</name>
+						<name>
+							<surname>Ferris</surname>
+							<given-names>D. L.</given-names>
+						</name>
+						<name>
+							<surname>Johnson</surname>
+							<given-names>R. E.</given-names>
+						</name>
+						<name>
+							<surname>Rosen</surname>
+							<given-names>C. C.</given-names>
+						</name>
+						<name>
+							<surname>Tan</surname>
+							<given-names>J. A.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Core self-evaluations: A review and evaluation of the literature</article-title>
+					<source>Journal of Management</source>
+					<volume>38</volume>
+					<issue>1</issue>
+					<fpage>81</fpage>
+					<lpage>128</lpage>
+					<pub-id pub-id-type="doi">10.1177/0149206311419661</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Cifre Gallego, E., Domínguez-Castillo, M. P., y López-Ramos, A. (2020). Género y prevención de riesgos laborales. En A. L. García Izquierdo (Coord.), <italic>Intervención psicosocial para una prevención de riesgos inclusiva</italic> (pp. 89-117). Ediciones de la Universidad de Oviedo.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cifre Gallego</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Domínguez-Castillo</surname>
+							<given-names>M. P.</given-names>
+						</name>
+						<name>
+							<surname>López-Ramos</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<chapter-title>Género y prevención de riesgos laborales</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>García Izquierdo</surname>
+							<given-names>A. L.</given-names>
+						</name>
+					</person-group>
+					<source>Intervención psicosocial para una prevención de riesgos inclusiva</source>
+					<fpage>89</fpage>
+					<lpage>117</lpage>
+					<publisher-name>Ediciones de la Universidad de Oviedo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Cifre-Gallego, E., Machín Rincón, L. M., Segovia-Pérez, M., Gatzia-Fernández, L., y Vera-Perea, M. (2021). Ajuste de la identidad de género propia y del puesto y salud psicosocial en mujeres directivas. En M. Alcañiz (Coord.), <italic>Investigació i gènere a la Universitat Jaume I</italic>, 2020 (pp. 43-55), Servei de Publicacions de la Universitat Jaume I.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cifre-Gallego</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Machín Rincón</surname>
+							<given-names>L. M.</given-names>
+						</name>
+						<name>
+							<surname>Segovia-Pérez</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Gatzia-Fernández</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Vera-Perea</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<chapter-title>Ajuste de la identidad de género propia y del puesto y salud psicosocial en mujeres directivas</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alcañiz</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<source>Investigació i gènere a la Universitat Jaume I</source>
+					<year>2020</year>
+					<fpage>43</fpage>
+					<lpage>55</lpage>
+					<publisher-name>Servei de Publicacions de la Universitat Jaume I</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Cortina, L. M. (2008). Unseen injustice: Incivility as modern discrimination in organizations. <italic>Academy of Management Review</italic>, <italic>33</italic>(1), 55-75. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5465/amr.2008.27745097">https://doi.org/10.5465/amr.2008.27745097</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cortina</surname>
+							<given-names>L. M.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Unseen injustice: Incivility as modern discrimination in organizations</article-title>
+					<source>Academy of Management Review</source>
+					<volume>33</volume>
+					<issue>1</issue>
+					<fpage>55</fpage>
+					<lpage>75</lpage>
+					<pub-id pub-id-type="doi">10.5465/amr.2008.27745097</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Cox, T., Griffiths, A., y Randall, R. (2003). A risk management approach to the prevention of work stress. En M. J. Schabracq, J. A. M. Winnubst y C. L. Cooper (Eds.), <italic>Handbook of work and health psychology</italic> (2nd ed., pp. 191-206). Wiley. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/0470013400.ch10">https://doi.org/10.1002/0470013400.ch10</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cox</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Griffiths</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Randall</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<chapter-title>A risk management approach to the prevention of work stress</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Schabracq</surname>
+							<given-names>M. J.</given-names>
+						</name>
+						<name>
+							<surname>Winnubst</surname>
+							<given-names>J. A. M.</given-names>
+						</name>
+						<name>
+							<surname>Cooper</surname>
+							<given-names>C. L.</given-names>
+						</name>
+					</person-group>
+					<source>Handbook of work and health psychology</source>
+					<edition>2</edition>
+					<fpage>191</fpage>
+					<lpage>206</lpage>
+					<publisher-name>Wiley</publisher-name>
+					<pub-id pub-id-type="doi">10.1002/0470013400.ch10</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Creswell, J. W., y Plano Clark, V. L. (2018). <italic>Diseño de investigación: Enfoques cualitativo, cuantitativo y mixto</italic> (3.ª ed., J. P. Torres, Trad.). Pearson Education.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Creswell</surname>
+							<given-names>J. W.</given-names>
+						</name>
+						<name>
+							<surname>Plano Clark</surname>
+							<given-names>V. L.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Diseño de investigación: Enfoques cualitativo, cuantitativo y mixto</source>
+					<edition>3</edition>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Torres</surname>
+							<given-names>J. P.</given-names>
+						</name>
+					</person-group>
+					<publisher-name>Pearson Education</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Dardenne, B., Dumont, M., y Bollier, T. (2007). Insidious dangers of benevolent sexism: Consequences for women's performance. <italic>Journal of Personality and Social Psychology</italic>, <italic>93</italic>(5), 764-779. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0022-3514.93.5.764">https://doi.org/10.1037/0022-3514.93.5.764</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dardenne</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Dumont</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Bollier</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Insidious dangers of benevolent sexism: Consequences for women's performance</article-title>
+					<source>Journal of Personality and Social Psychology</source>
+					<volume>93</volume>
+					<issue>5</issue>
+					<fpage>764</fpage>
+					<lpage>779</lpage>
+					<pub-id pub-id-type="doi">10.1037/0022-3514.93.5.764</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Denzin, N. K. (1978). <italic>The research act: A theoretical introduction to sociological methods</italic> (2nd ed.). McGraw-Hill. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4324/9781315134543">https://doi.org/10.4324/9781315134543</ext-link></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Denzin</surname>
+							<given-names>N. K.</given-names>
+						</name>
+					</person-group>
+					<year>1978</year>
+					<source>The research act: A theoretical introduction to sociological methods</source>
+					<edition>2</edition>
+					<publisher-name>McGraw-Hill</publisher-name>
+					<pub-id pub-id-type="doi">10.4324/9781315134543</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Dueñas Fernández, D., y Moreno Mínguez, A. (2017). Mujeres, madres y trabajadoras: Incidencia laboral de la maternidad durante el ciclo económico 2005-2016. <italic>Revista de Economía Laboral</italic>, <italic>14</italic>(2), 66-103. <ext-link ext-link-type="uri" xlink:href="http://www.aeet-rel.es/index.php/rel/article/view/114">http://www.aeet-rel.es/index.php/rel/article/view/114</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dueñas Fernández</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Moreno Mínguez</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Mujeres, madres y trabajadoras: Incidencia laboral de la maternidad durante el ciclo económico 2005-2016</article-title>
+					<source>Revista de Economía Laboral</source>
+					<volume>14</volume>
+					<issue>2</issue>
+					<fpage>66</fpage>
+					<lpage>103</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.aeet-rel.es/index.php/rel/article/view/114">http://www.aeet-rel.es/index.php/rel/article/view/114</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>España. (1995). <italic>Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.boe.es/eli/es/l/1995/11/08/31">https://www.boe.es/eli/es/l/1995/11/08/31</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>España</collab>
+					</person-group>
+					<year>1995</year>
+					<article-title>Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales</article-title>
+					<ext-link ext-link-type="uri" xlink:href="https://www.boe.es/eli/es/l/1995/11/08/31">https://www.boe.es/eli/es/l/1995/11/08/31</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>España. (2007). <italic>Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6115">https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6115</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>España</collab>
+					</person-group>
+					<year>2007</year>
+					<source>Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6115">https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6115</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>España. (2019). <italic>Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para la igualdad de trato y oportunidades entre mujeres y hombres en el empleo y la ocupación</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.boe.es/eli/es/rdl/2019/03/01/6">https://www.boe.es/eli/es/rdl/2019/03/01/6</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>España</collab>
+					</person-group>
+					<year>2019</year>
+					<source>Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para la igualdad de trato y oportunidades entre mujeres y hombres en el empleo y la ocupación</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.boe.es/eli/es/rdl/2019/03/01/6">https://www.boe.es/eli/es/rdl/2019/03/01/6</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>European Institute for Gender Equality. (2021). <italic>Gender-sensitive communication toolkit</italic>. <ext-link ext-link-type="uri" xlink:href="https://eige.europa.eu/publications/gender-sensitive-communication">https://eige.europa.eu/publications/gender-sensitive-communication</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>European Institute for Gender Equality</collab>
+					</person-group>
+					<year>2021</year>
+					<source>Gender-sensitive communication toolkit</source>
+					<ext-link ext-link-type="uri" xlink:href="https://eige.europa.eu/publications/gender-sensitive-communication">https://eige.europa.eu/publications/gender-sensitive-communication</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Ferrer Pérez, V. A., Bosch Fiol, E., Navarro Guzmán, C., Ramis Palmer, M. C., y García Buades, M. E. (2008). Los micromachismos o microviolencias en la relación de pareja: Una aproximación empírica. <italic>Anales de Psicología</italic>, <italic>24</italic>(2), 341-352. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6018/analesps">https://doi.org/10.6018/analesps</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ferrer Pérez</surname>
+							<given-names>V. A.</given-names>
+						</name>
+						<name>
+							<surname>Bosch Fiol</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Navarro Guzmán</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ramis Palmer</surname>
+							<given-names>M. C.</given-names>
+						</name>
+						<name>
+							<surname>García Buades</surname>
+							<given-names>M. E.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Los micromachismos o microviolencias en la relación de pareja: Una aproximación empírica</article-title>
+					<source>Anales de Psicología</source>
+					<volume>24</volume>
+					<issue>2</issue>
+					<fpage>341</fpage>
+					<lpage>352</lpage>
+					<pub-id pub-id-type="doi">10.6018/analesps</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Fitzgerald, L. F., Gelfand, M. J., y Drasgow, F. (1995). Measuring sexual harassment: Theoretical and psychometric advances. <italic>Basic and Applied Social Psychology</italic>, <italic>17</italic>(4), 425-445. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1207/s15324834basp1704_2">https://doi.org/10.1207/s15324834basp1704_2</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fitzgerald</surname>
+							<given-names>L. F.</given-names>
+						</name>
+						<name>
+							<surname>Gelfand</surname>
+							<given-names>M. J.</given-names>
+						</name>
+						<name>
+							<surname>Drasgow</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<article-title>Measuring sexual harassment: Theoretical and psychometric advances</article-title>
+					<source>Basic and Applied Social Psychology</source>
+					<volume>17</volume>
+					<issue>4</issue>
+					<fpage>425</fpage>
+					<lpage>445</lpage>
+					<pub-id pub-id-type="doi">10.1207/s15324834basp1704_2</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Flick, U. (2018). <italic>Introducción a la investigación cualitativa</italic> (5.ª ed.). Ediciones Morata.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Flick</surname>
+							<given-names>U.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Introducción a la investigación cualitativa</source>
+					<edition>5</edition>
+					<publisher-name>Ediciones Morata</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Foley, S., Hang-Yue, N., y Wong, A. (2005). Perceptions of discrimination and justice: Are there gender differences in outcomes? <italic>Group &amp; Organization Management</italic>, <italic>30</italic>(4), 421-450. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1059601104265054">https://doi.org/10.1177/1059601104265054</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Foley</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Hang-Yue</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Wong</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Perceptions of discrimination and justice: Are there gender differences in outcomes?</article-title>
+					<source>Group &amp; Organization Management</source>
+					<volume>30</volume>
+					<issue>4</issue>
+					<fpage>421</fpage>
+					<lpage>450</lpage>
+					<pub-id pub-id-type="doi">10.1177/1059601104265054</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Glick, P., y Fiske, S. T. (1996). The ambivalent sexism inventory: Differentiating hostile and benevolent sexism. <italic>Journal of Personality and Social Psychology</italic>, <italic>70</italic>(3), 491-512. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0022-3514.70.3.491">https://doi.org/10.1037/0022-3514.70.3.491</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Glick</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Fiske</surname>
+							<given-names>S. T.</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<article-title>The ambivalent sexism inventory: Differentiating hostile and benevolent sexism</article-title>
+					<source>Journal of Personality and Social Psychology</source>
+					<volume>70</volume>
+					<issue>3</issue>
+					<fpage>491</fpage>
+					<lpage>512</lpage>
+					<pub-id pub-id-type="doi">10.1037/0022-3514.70.3.491</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Glick, P., y Fiske, S. T. (2001). An ambivalent alliance: Hostile and benevolent sexism as complementary justifications for gender inequality. <italic>American Psychologist</italic>, <italic>56</italic>(2), 109-118. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0003-066X.56.2.109">https://doi.org/10.1037/0003-066X.56.2.109</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Glick</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Fiske</surname>
+							<given-names>S. T.</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<article-title>An ambivalent alliance: Hostile and benevolent sexism as complementary justifications for gender inequality</article-title>
+					<source>American Psychologist</source>
+					<volume>56</volume>
+					<issue>2</issue>
+					<fpage>109</fpage>
+					<lpage>118</lpage>
+					<pub-id pub-id-type="doi">10.1037/0003-066X.56.2.109</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Hebl, M., Foster, J., Mannix, L., y Dovidio, J. (2002). Formal and interpersonal discrimination: A field study of bias toward gay applicants. <italic>Personality and Social Psychology Bulletin</italic>, <italic>28</italic>(6), 815-825. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0146167202289010">https://doi.org/10.1177/0146167202289010</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hebl</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Foster</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Mannix</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Dovidio</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<article-title>Formal and interpersonal discrimination: A field study of bias toward gay applicants</article-title>
+					<source>Personality and Social Psychology Bulletin</source>
+					<volume>28</volume>
+					<issue>6</issue>
+					<fpage>815</fpage>
+					<lpage>825</lpage>
+					<pub-id pub-id-type="doi">10.1177/0146167202289010</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Inspección de Trabajo y Seguridad Social. (2021). <italic>Criterio técnico 104/2021 sobre actuaciones de la Inspección de Trabajo y Seguridad Social en riesgos psicosociales</italic>. <ext-link ext-link-type="uri" xlink:href="https://seguridadlaboral.castillalamancha.es/sites/default/files/2024-09/ITSS%20Criterio%20T%C3%A9cnico%20104-2021.pdf">https://seguridadlaboral.castillalamancha.es/sites/default/files/2024-09/ITSS%20Criterio%20T%C3%A9cnico%20104-2021.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Inspección de Trabajo y Seguridad Social</collab>
+					</person-group>
+					<year>2021</year>
+					<source>Criterio técnico 104/2021 sobre actuaciones de la Inspección de Trabajo y Seguridad Social en riesgos psicosociales</source>
+					<ext-link ext-link-type="uri" xlink:href="https://seguridadlaboral.castillalamancha.es/sites/default/files/2024-09/ITSS%20Criterio%20T%C3%A9cnico%20104-2021.pdf">https://seguridadlaboral.castillalamancha.es/sites/default/files/2024-09/ITSS%20Criterio%20T%C3%A9cnico%20104-2021.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Instituto Nacional de Seguridad y Salud en el Trabajo. (1995). <italic>Factores psicosociales: Fases para su evaluación</italic> (NTP 450). <ext-link ext-link-type="uri" xlink:href="https://l1nq.com/oDd6s">https://l1nq.com/oDd6s</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Seguridad y Salud en el Trabajo</collab>
+					</person-group>
+					<year>1995</year>
+					<source>Factores psicosociales: Fases para su evaluación</source>
+					<pub-id pub-id-type="other">NTP 450</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="https://l1nq.com/oDd6s">https://l1nq.com/oDd6s</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Instituto Nacional de Seguridad y Salud en el Trabajo. (2000). <italic>Satisfacción laboral: Una aproximación desde los riesgos psicosociales</italic> (NTP 443) <ext-link ext-link-type="uri" xlink:href="https://goo.su/533okdZ">https://goo.su/533okdZ</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Seguridad y Salud en el Trabajo</collab>
+					</person-group>
+					<year>2000</year>
+					<source>Satisfacción laboral: Una aproximación desde los riesgos psicosociales</source>
+					<pub-id pub-id-type="other">NTP 443</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="https://goo.su/533okdZ">https://goo.su/533okdZ</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Instituto Nacional de Seguridad y Salud en el Trabajo. (2009). <italic>Evaluación de riesgos psicosociales. Criterios técnicos</italic> (NTP 926) <ext-link ext-link-type="uri" xlink:href="https://goo.su/dR7nLID">https://goo.su/dR7nLID</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Seguridad y Salud en el Trabajo</collab>
+					</person-group>
+					<year>2009</year>
+					<source>Evaluación de riesgos psicosociales. Criterios técnicos</source>
+					<pub-id pub-id-type="other">NTP 926</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="https://goo.su/dR7nLID">https://goo.su/dR7nLID</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Instituto Nacional de Seguridad y Salud en el Trabajo. (2010). <italic>Indicadores para el seguimiento del estrés laboral</italic> (NTP 702). <ext-link ext-link-type="uri" xlink:href="https://goo.su/IJP9i">https://goo.su/IJP9i</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Seguridad y Salud en el Trabajo</collab>
+					</person-group>
+					<year>2010</year>
+					<source>Indicadores para el seguimiento del estrés laboral</source>
+					<pub-id pub-id-type="other">NTP 702</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="https://goo.su/IJP9i">https://goo.su/IJP9i</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>International Labour Organisation, and WHO Committee on Occupational Health (18-24 September 1984). <italic>Psychosocial Factors at Work : Recognition and Control</italic>. Occupational Safety and Health Series, 56 <ext-link ext-link-type="uri" xlink:href="http://www.ilo.org/public/libdoc/ilo/1986/86B09_301_engl.pdf">http://www.ilo.org/public/libdoc/ilo/1986/86B09_301_engl.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>International Labour Organisation</collab>
+						<collab>WHO Committee on Occupational Health</collab>
+					</person-group>
+					<day>18-24</day>
+					<month>09</month>
+					<year>1984</year>
+					<source>Psychosocial Factors at Work : Recognition and Control</source>
+					<series>Occupational Safety and Health</series>
+					<issue>56</issue>
+					<ext-link ext-link-type="uri" xlink:href="http://www.ilo.org/public/libdoc/ilo/1986/86B09_301_engl.pdf">http://www.ilo.org/public/libdoc/ilo/1986/86B09_301_engl.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Jones, K. P., Stewart, K., King, E. B., Botsford Morgan, W., Gilrane, V. L., y Hylton, K. (2014). Negative consequences of benevolent sexism on efficacy and performance. <italic>Gender in Management</italic>, <italic>29</italic>(3), 171-189. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1108/GM-07-2013-0086">https://doi.org/10.1108/GM-07-2013-0086</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jones</surname>
+							<given-names>K. P.</given-names>
+						</name>
+						<name>
+							<surname>Stewart</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>King</surname>
+							<given-names>E. B.</given-names>
+						</name>
+						<name>
+							<surname>Botsford Morgan</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Gilrane</surname>
+							<given-names>V. L.</given-names>
+						</name>
+						<name>
+							<surname>Hylton</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Negative consequences of benevolent sexism on efficacy and performance</article-title>
+					<source>Gender in Management</source>
+					<volume>29</volume>
+					<issue>3</issue>
+					<fpage>171</fpage>
+					<lpage>189</lpage>
+					<pub-id pub-id-type="doi">10.1108/GM-07-2013-0086</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Kim, J. Y., y Meister, A. (2023). Microaggressions, interrupted: The experience and effects of gender microaggressions for women in STEM. <italic>Journal of Business Ethics</italic>, <italic>185</italic>(3), 513-531. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10551-022-05203-0">https://doi.org/10.1007/s10551-022-05203-0</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kim</surname>
+							<given-names>J. Y.</given-names>
+						</name>
+						<name>
+							<surname>Meister</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Microaggressions, interrupted: The experience and effects of gender microaggressions for women in STEM</article-title>
+					<source>Journal of Business Ethics</source>
+					<volume>185</volume>
+					<issue>3</issue>
+					<fpage>513</fpage>
+					<lpage>531</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10551-022-05203-0</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Lewis, J. A., y Neville, H. A. (2015). Construction and initial validation of the Gendered Racial Microaggressions Scale for Black women. <italic>Journal of Counseling Psychology</italic>, <italic>62</italic>(2), 289-302. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/cou0000062">https://doi.org/10.1037/cou0000062</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lewis</surname>
+							<given-names>J. A.</given-names>
+						</name>
+						<name>
+							<surname>Neville</surname>
+							<given-names>H. A.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Construction and initial validation of the Gendered Racial Microaggressions Scale for Black women</article-title>
+					<source>Journal of Counseling Psychology</source>
+					<volume>62</volume>
+					<issue>2</issue>
+					<fpage>289</fpage>
+					<lpage>302</lpage>
+					<pub-id pub-id-type="doi">10.1037/cou0000062</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Lysova, E. I., Allan, B. A., Dik, B. J., Duffy, R. D., y Steger, M. F. (2019). Fostering meaningful work in organizations: A multi-level review and integration. <italic>Journal of Vocational Behavior</italic>, <italic>110</italic>, 374-389. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jvb.2018.07.004">https://doi.org/10.1016/j.jvb.2018.07.004</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lysova</surname>
+							<given-names>E. I.</given-names>
+						</name>
+						<name>
+							<surname>Allan</surname>
+							<given-names>B. A.</given-names>
+						</name>
+						<name>
+							<surname>Dik</surname>
+							<given-names>B. J.</given-names>
+						</name>
+						<name>
+							<surname>Duffy</surname>
+							<given-names>R. D.</given-names>
+						</name>
+						<name>
+							<surname>Steger</surname>
+							<given-names>M. F.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Fostering meaningful work in organizations: A multi-level review and integration</article-title>
+					<source>Journal of Vocational Behavior</source>
+					<volume>110</volume>
+					<fpage>374</fpage>
+					<lpage>389</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jvb.2018.07.004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Mor Barak, M. E. (2016). <italic>Managing diversity: Toward a globally inclusive workplace</italic> (4th ed.). SAGE.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mor Barak</surname>
+							<given-names>M. E.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Managing diversity: Toward a globally inclusive workplace</source>
+					<edition>4</edition>
+					<publisher-name>SAGE</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Nadal, K. L., y Haynes, K. (2012). The effects of sexism, gender microaggressions, and other forms of discrimination on women's mental health and development. En P. K. Lundberg-Love, K. L. Nadal y M. A. Paludi (Eds.), <italic>Women and mental disorders</italic> (pp. 87-101). Praeger/ABC-CLIO.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nadal</surname>
+							<given-names>K. L.</given-names>
+						</name>
+						<name>
+							<surname>Haynes</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<chapter-title>The effects of sexism, gender microaggressions, and other forms of discrimination on women's mental health and development</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Lundberg-Love</surname>
+							<given-names>P. K.</given-names>
+						</name>
+						<name>
+							<surname>Nadal</surname>
+							<given-names>K. L.</given-names>
+						</name>
+						<name>
+							<surname>Paludi</surname>
+							<given-names>M. A.</given-names>
+						</name>
+					</person-group>
+					<source>Women and mental disorders</source>
+					<fpage>87</fpage>
+					<lpage>101</lpage>
+					<publisher-name>Praeger/ABC-CLIO</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Nadal, K. L., Hamit, S., Lyons, O., Weinberg, A., y Corman, L. (2013). Gender microaggressions: Perceptions, processes, and coping mechanisms of women. En M. A. Paludi (Ed.), <italic>Psychology for business success (Vol. 1): Juggling, balancing, and integrating work and family roles and responsibilities</italic> (pp. 193-220). Praeger/ABC-CLIO.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nadal</surname>
+							<given-names>K. L.</given-names>
+						</name>
+						<name>
+							<surname>Hamit</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Lyons</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Weinberg</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Corman</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<chapter-title>Gender microaggressions: Perceptions, processes, and coping mechanisms of women</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Paludi</surname>
+							<given-names>M. A.</given-names>
+						</name>
+					</person-group>
+					<source>Psychology for business success (Vol. 1): Juggling, balancing, and integrating work and family roles and responsibilities</source>
+					<fpage>193</fpage>
+					<lpage>220</lpage>
+					<publisher-name>Praeger/ABC-CLIO</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>ONU Mujeres. (2017). <italic>Principios de empoderamiento de las mujeres: Igualdad significa negocios</italic>. <ext-link ext-link-type="uri" xlink:href="https://mexico.unwomen.org/sites/default/files/Field%20Office%20Mexico/Documentos/Publicaciones/2011/Principios%20de%20empoderamiento/7principiosEmpoderamiento%20pdf.pdf">https://mexico.unwomen.org/sites/default/files/Field%20Office%20Mexico/Documentos/Publicaciones/2011/Principios%20de%20empoderamiento/7principiosEmpoderamiento%20pdf.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>ONU Mujeres</collab>
+					</person-group>
+					<year>2017</year>
+					<source>Principios de empoderamiento de las mujeres: Igualdad significa negocios</source>
+					<ext-link ext-link-type="uri" xlink:href="https://mexico.unwomen.org/sites/default/files/Field%20Office%20Mexico/Documentos/Publicaciones/2011/Principios%20de%20empoderamiento/7principiosEmpoderamiento%20pdf.pdf">https://mexico.unwomen.org/sites/default/files/Field%20Office%20Mexico/Documentos/Publicaciones/2011/Principios%20de%20empoderamiento/7principiosEmpoderamiento%20pdf.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>ONU Mujeres. (2015). <italic>Enfoque en la prevención: Poner fin a la violencia contra las mujeres</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2015/A-framework-to-underpin-action-to-prevent-violence-against-women-es.pdf">https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2015/A-framework-to-underpin-action-to-prevent-violence-against-women-es.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>ONU Mujeres</collab>
+					</person-group>
+					<year>2015</year>
+					<source>Enfoque en la prevención: Poner fin a la violencia contra las mujeres</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2015/A-framework-to-underpin-action-to-prevent-violence-against-women-es.pdf">https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2015/A-framework-to-underpin-action-to-prevent-violence-against-women-es.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Organización Internacional del Trabajo (OIT) (2019). <italic>Violencia y acoso en el mundo del trabajo</italic>. <ext-link ext-link-type="uri" xlink:href="https://goo.su/tJbNQ">https://goo.su/tJbNQ</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Organización Internacional del Trabajo (OIT)</collab>
+					</person-group>
+					<year>2019</year>
+					<source>Violencia y acoso en el mundo del trabajo</source>
+					<ext-link ext-link-type="uri" xlink:href="https://goo.su/tJbNQ">https://goo.su/tJbNQ</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Rosso, B. D., Dekas, K. H., y Wrzesniewski, A. (2010). On the meaning of work: A theoretical integration and review. <italic>Research in Organizational Behavior</italic>, <italic>30</italic>, 91-127. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.riob.2010.09.001">https://doi.org/10.1016/j.riob.2010.09.001</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rosso</surname>
+							<given-names>B. D.</given-names>
+						</name>
+						<name>
+							<surname>Dekas</surname>
+							<given-names>K. H.</given-names>
+						</name>
+						<name>
+							<surname>Wrzesniewski</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>On the meaning of work: A theoretical integration and review</article-title>
+					<source>Research in Organizational Behavior</source>
+					<volume>30</volume>
+					<fpage>91</fpage>
+					<lpage>127</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.riob.2010.09.001</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Ruiz-Pérez, I., y Plazaola-Castaño, J. (2005). Intimate partner violence and mental health consequences in women attending family practice in Spain. <italic>Psychosomatic Medicine</italic>, <italic>67</italic>(5), 791-797. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1097/01.psy.0000181269.11979.cd">https://doi.org/10.1097/01.psy.0000181269.11979.cd</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ruiz-Pérez</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Plazaola-Castaño</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Intimate partner violence and mental health consequences in women attending family practice in Spain</article-title>
+					<source>Psychosomatic Medicine</source>
+					<volume>67</volume>
+					<issue>5</issue>
+					<fpage>791</fpage>
+					<lpage>797</lpage>
+					<pub-id pub-id-type="doi">10.1097/01.psy.0000181269.11979.cd</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Saldaña Orozco, C., Polo-Vargas, J. D., Gutiérrez-Carvajal, O. I., y Madrigal Torres, B. E. (2020). Bienestar psicológico, estrés y factores psicosociales en trabajadores de instituciones gubernamentales de Jalisco-México. <italic>Revista de Ciencias Sociales (Ve)</italic>, <italic>26</italic>(1), 25-37. <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/journal/280/28063104003/">https://www.redalyc.org/journal/280/28063104003/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Saldaña Orozco</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Polo-Vargas</surname>
+							<given-names>J. D.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez-Carvajal</surname>
+							<given-names>O. I.</given-names>
+						</name>
+						<name>
+							<surname>Madrigal Torres</surname>
+							<given-names>B. E.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Bienestar psicológico, estrés y factores psicosociales en trabajadores de instituciones gubernamentales de Jalisco-México</article-title>
+					<source>Revista de Ciencias Sociales (Ve)</source>
+					<volume>26</volume>
+					<issue>1</issue>
+					<fpage>25</fpage>
+					<lpage>37</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/journal/280/28063104003/">https://www.redalyc.org/journal/280/28063104003/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Selltiz, C., Jahoda, M., Deutsch, M., y Cook, S. W. (1980). <italic>Métodos de investigación en las relaciones sociales</italic>. Ediciones Rialp.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Selltiz</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Jahoda</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Deutsch</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Cook</surname>
+							<given-names>S. W.</given-names>
+						</name>
+					</person-group>
+					<year>1980</year>
+					<source>Métodos de investigación en las relaciones sociales</source>
+					<publisher-name>Ediciones Rialp</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Showalter, K. (2016). Women’s employment and domestic violence: A review of the literature. <italic>Aggression and Violent Behavior</italic>, <italic>31</italic>, 37-47. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.avb.2016.06.017">https://doi.org/10.1016/j.avb.2016.06.017</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Showalter</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Women’s employment and domestic violence: A review of the literature</article-title>
+					<source>Aggression and Violent Behavior</source>
+					<volume>31</volume>
+					<fpage>37</fpage>
+					<lpage>47</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.avb.2016.06.017</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Sierra Bravo, R. (1998). <italic>Técnicas de investigación social : teoría y ejercicios</italic> (11a ed., rev.). Paraninfo.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sierra Bravo</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<source>Técnicas de investigación social : teoría y ejercicios</source>
+					<edition>11</edition>
+					<publisher-name>Paraninfo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<mixed-citation>Sue, D. W. (2010). Gender microaggressions and sexism. En D. W. Sue (Ed.), <italic>Microaggressions in everyday life: Race, gender, and sexual orientation</italic> (pp. 160-183). Wiley.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sue</surname>
+							<given-names>D. W.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<chapter-title>Gender microaggressions and sexism</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Sue</surname>
+							<given-names>D. W.</given-names>
+						</name>
+					</person-group>
+					<source>Microaggressions in everyday life: Race, gender, and sexual orientation</source>
+					<fpage>160</fpage>
+					<lpage>183</lpage>
+					<publisher-name>Wiley</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B52">
+				<mixed-citation>Szymanski, D. M., y Mikorski, R. (2017). Sexually Objectifying Environments: Power, Rumination, and Waitresses’ Anxiety and Disordered Eating. <italic>Psychology of Women Quarterly</italic>, <italic>41</italic>(3), 314-324. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0361684317709438">https://doi.org/10.1177/0361684317709438</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Szymanski</surname>
+							<given-names>D. M.</given-names>
+						</name>
+						<name>
+							<surname>Mikorski</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Sexually Objectifying Environments: Power, Rumination, and Waitresses’ Anxiety and Disordered Eating</article-title>
+					<source>Psychology of Women Quarterly</source>
+					<volume>41</volume>
+					<issue>3</issue>
+					<fpage>314</fpage>
+					<lpage>324</lpage>
+					<pub-id pub-id-type="doi">10.1177/0361684317709438</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B53">
+				<mixed-citation>Tao, K. W., Owen, J., y Drinane, J. M. (2017). Was that racist? An experimental study of microaggression ambiguity and emotional reactions for racial-ethnic minority and White individuals. <italic>Race and Social Problems</italic>, <italic>9</italic>, 262-271. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12552-017-9210-4">https://doi.org/10.1007/s12552-017-9210-4</ext-link></mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tao</surname>
+							<given-names>K. W.</given-names>
+						</name>
+						<name>
+							<surname>Owen</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Drinane</surname>
+							<given-names>J. M.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Was that racist? An experimental study of microaggression ambiguity and emotional reactions for racial-ethnic minority and White individuals</article-title>
+					<source>Race and Social Problems</source>
+					<volume>9</volume>
+					<fpage>262</fpage>
+					<lpage>271</lpage>
+					<pub-id pub-id-type="doi">10.1007/s12552-017-9210-4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B54">
+				<mixed-citation>UGT - Unión General de Trabajadores. (2018). <italic>Guía sobre género y riesgos psicosociales</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.ugt.es/sites/default/files/guiawebgeneroyriesgo.pdf">https://www.ugt.es/sites/default/files/guiawebgeneroyriesgo.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>UGT - Unión General de Trabajadores</collab>
+					</person-group>
+					<year>2018</year>
+					<source>Guía sobre género y riesgos psicosociales</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.ugt.es/sites/default/files/guiawebgeneroyriesgo.pdf">https://www.ugt.es/sites/default/files/guiawebgeneroyriesgo.pdf</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
