@@ -145,7 +145,7 @@ def comparar_con_pdf(datos, texto_pdf):
     def buscar(valor, texto):
         if not valor:
             return 'VACÍO EN WORD'
-        return '✅ COINCIDE' if valor.lower() in texto.lower() else '❌ NO COINCIDE'
+        return 'COINCIDE' if valor.lower() in texto.lower() else 'NO COINCIDE'
 
     resultados.append({'campo': 'Título en español', 'valor': datos['title_es'], 'resultado': buscar(datos['title_es'], texto_pdf)})
     resultados.append({'campo': 'Título en inglés', 'valor': datos['title_en'], 'resultado': buscar(datos['title_en'], texto_pdf)})
