@@ -25,6 +25,24 @@
             <div class="card-body">
                 <form action="/subir" method="post" enctype="multipart/form-data">
                     <div class="mb-3">
+                        <label class="form-label">Revista</label>
+                        <select name="journal_id" class="form-select">
+                            {% for journal in journals %}
+                                <option value="{{ journal }}">{{ journal }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 mb-3">
+                            <label class="form-label">Volumen</label>
+                            <input type="text" name="volume" class="form-control">
+                        </div>
+                        <div class="col-md-3 mb-3">
+                            <label class="form-label">Número (Issue)</label>
+                            <input type="text" name="issue" class="form-control">
+                        </div>
+                    </div>
+                    <div class="mb-3">
                         <label class="form-label">Archivo Word</label>
                         <input type="file" name="word" accept=".docx" class="form-control">
                     </div>

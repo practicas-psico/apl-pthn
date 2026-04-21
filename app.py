@@ -97,11 +97,10 @@ def insertar_en_bd(datos, journal_id):
         received = convertir_fecha(datos['fecha_recepcion'])
         accepted = convertir_fecha(datos['fecha_aceptacion'])
 
-        # Insertar artículo
         query = """INSERT INTO article 
             (article_title, article_title_trans, doi, journal_id, license_type, 
-            abstract, trans_abstract, received, accepted) 
-            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+            abstract, trans_abstract, received, accepted, volume, issue) 
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         cursor.execute(query, (
             datos['title_es'],
             datos['title_en'],
@@ -111,7 +110,9 @@ def insertar_en_bd(datos, journal_id):
             datos['abstract_es'],
             datos['abstract_en'],
             received,
-            accepted
+            accepted,
+            datos.get('volume', ''),
+            datos.get('issue', '')
         ))
         article_id = cursor.lastrowid
 
@@ -203,7 +204,11 @@ def subir():
     archivo_word.save(ruta_docx)
 
     journal_id = request.form.get('journal_id', 'desconocido')
+    volume = request.form.get('volume', '')
+    issue = request.form.get('issue', '')
     datos = procesar_word(ruta_docx)
+    datos['volume'] = volume
+    datos['issue'] = issue
 
     if datos['title_es'] and datos['doi']:
         # Verificar si el DOI ya existe en la BD
