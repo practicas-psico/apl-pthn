@@ -11,7 +11,7 @@ config_db = {
     'host': 'localhost',
     'user': 'root',
     'password': '',
-    'database': 'db_xml'
+    'database': 'psicofundacion'
 }
 
 # Etiquetas del Word
@@ -68,8 +68,21 @@ def insertar_en_bd(datos, journal_id):
         conexion = mysql.connector.connect(**config_db)
         cursor = conexion.cursor()
 
-        # Extraer journal_id del DOI
-        doi = datos['doi'].replace('https://doi.org/', '')
+        doi = datos['doi'].replace('https://doi.org/', '').strip()
+        # Extraer journal_id del DOI automáticamente
+        try:
+            partes_doi = doi.split('/')
+            journal_id = partes_doi[1].split('.')[0] if len(partes_doi) > 1 else journal_id
+        except:
+            pass
+
+        # Insertar revista si no existe
+        cursor.execute("SELECT journal_id FROM journal WHERE journal_id = %s", (journal_id,))
+        if not cursor.fetchone():
+            cursor.execute(
+                "INSERT INTO journal (journal_id, journal_title) VALUES (%s, %s)",
+                (journal_id, journal_id)
+            )
 
         # Convertir fechas de DD/MM/YYYY a YYYY-MM-DD
         def convertir_fecha(fecha_str):
@@ -216,6 +229,25 @@ def subir():
             return render_template('resultado.html', resultados=resultados)
 
         resultado_bd = insertar_en_bd(datos, journal_id)
+        resultados = [{
+            'archivo': archivo_word.filename,
+            'datos': datos,
+            'insertado': resultado_bd == True,
+            'error': resultado_bd if resultado_bd != True else '',
+            'comparacion': []
+        }]
+    else:
+        resultados = [{
+            'archivo': archivo_word.filename,
+            'datos': datos,
+            'insertado': False,
+            'error': 'No se encontró título en español o DOI',
+            'comparacion': []
+        }]
+
+    return render_template('resultado.html', resultados=resultados)
+
+@app.route('/articulos')
         
 @app.route('/articulos')
 def articulos():
