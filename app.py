@@ -1,9 +1,8 @@
 from flask import Flask, render_template, request
 from docx import Document
-import zipfile
 import os
 import mysql.connector
-import fitz  # PyMuPDF
+import fitz
 
 app = Flask(__name__)
 
@@ -14,7 +13,6 @@ config_db = {
     'database': 'psicofundacion'
 }
 
-# Etiquetas del Word
 ETIQUETAS = {
     'title_en': 'Título completo en inglés:',
     'title_es': 'Título completo en español:',
@@ -29,19 +27,38 @@ ETIQUETAS = {
     'abstract_es': 'Resumen en español:',
 }
 
+def obtener_formato(p):
+    texto_con_formato = ""
+    for run in p.runs:
+        contenido = run.text.replace('\xa0', ' ')
+        if run.bold:
+            contenido = f"<b>{contenido}</b>"
+        if run.italic:
+            contenido = f"<i>{contenido}</i>"
+        if run.font.superscript:
+            contenido = f"<sup>{contenido}</sup>"
+        if run.font.subscript:
+            contenido = f"<sub>{contenido}</sub>"
+        texto_con_formato += contenido
+    return texto_con_formato
+
 def procesar_word(ruta_docx):
     doc = Document(ruta_docx)
-
     datos = {k: '' for k in ETIQUETAS}
     autores = []
     leyendo_autores = False
+    leyendo_body = False
+    body = []
 
     for p in doc.paragraphs:
         texto = p.text.strip()
         if not texto:
             continue
 
-        # Detectar sección de autores
+        if leyendo_body:
+            body.append(obtener_formato(p))
+            continue
+
         if 'Autores/ Filiación' in texto:
             leyendo_autores = True
             continue
@@ -50,17 +67,26 @@ def procesar_word(ruta_docx):
             if any(etiqueta in texto for etiqueta in ETIQUETAS.values()):
                 leyendo_autores = False
             else:
-                if texto:
-                    autores.append(texto)
+                autores.append(texto)
                 continue
 
-        # Extraer campos por etiqueta
         for campo, etiqueta in ETIQUETAS.items():
             if etiqueta in texto:
-                datos[campo] = texto.split(etiqueta)[1].strip()
+                formato = obtener_formato(p)
+                if etiqueta in formato:
+                    datos[campo] = formato.split(etiqueta)[1].strip()
+                else:
+                    datos[campo] = texto.split(etiqueta)[1].strip()
+                if campo == 'abstract_es':
+                    leyendo_body = True
+                    print("ACTIVANDO BODY")
                 break
 
+    print("BODY LEIDO:", len(body), "párrafos")
+    print("PRIMER PÁRRAFO:", body[0] if body else "VACÍO")
+
     datos['autores'] = autores
+    datos['body'] = body
     return datos
 
 def insertar_en_bd(datos, journal_id):
@@ -69,14 +95,13 @@ def insertar_en_bd(datos, journal_id):
         cursor = conexion.cursor()
 
         doi = datos['doi'].replace('https://doi.org/', '').strip()
-        # Extraer journal_id del DOI automáticamente
+
         try:
             partes_doi = doi.split('/')
             journal_id = partes_doi[1].split('.')[0] if len(partes_doi) > 1 else journal_id
         except:
             pass
 
-        # Insertar revista si no existe
         cursor.execute("SELECT journal_id FROM journal WHERE journal_id = %s", (journal_id,))
         if not cursor.fetchone():
             cursor.execute(
@@ -84,7 +109,6 @@ def insertar_en_bd(datos, journal_id):
                 (journal_id, journal_id)
             )
 
-        # Convertir fechas de DD/MM/YYYY a YYYY-MM-DD
         def convertir_fecha(fecha_str):
             if not fecha_str:
                 return None
@@ -116,7 +140,6 @@ def insertar_en_bd(datos, journal_id):
         ))
         article_id = cursor.lastrowid
 
-        # Insertar keywords EN
         if datos['keywords_en']:
             for kw in datos['keywords_en'].split(','):
                 kw = kw.strip()
@@ -126,7 +149,6 @@ def insertar_en_bd(datos, journal_id):
                         (article_id, 'en', kw)
                     )
 
-        # Insertar keywords ES
         if datos['keywords_es']:
             for kw in datos['keywords_es'].split(','):
                 kw = kw.strip()
@@ -143,38 +165,10 @@ def insertar_en_bd(datos, journal_id):
 
     except Exception as e:
         return str(e)
-    
-def extraer_texto_pdf(ruta_pdf):
-    texto = ''
-    doc = fitz.open(ruta_pdf)
-    for pagina in doc:
-        texto += pagina.get_text()
-    doc.close()
-    texto = ' '.join(texto.split())
-    return texto
-
-def comparar_con_pdf(datos, texto_pdf):
-    resultados = []
-
-    def buscar(valor, texto):
-        if not valor:
-            return 'VACÍO EN WORD'
-        return 'COINCIDE' if valor.lower() in texto.lower() else 'NO COINCIDE'
-
-    resultados.append({'campo': 'Título en español', 'valor': datos['title_es'], 'resultado': buscar(datos['title_es'], texto_pdf)})
-    resultados.append({'campo': 'Título en inglés', 'valor': datos['title_en'], 'resultado': buscar(datos['title_en'], texto_pdf)})
-    resultados.append({'campo': 'DOI', 'valor': datos['doi'], 'resultado': buscar(datos['doi'], texto_pdf)})
-    resultados.append({'campo': 'Keywords EN', 'valor': datos['keywords_en'], 'resultado': buscar(datos['keywords_en'], texto_pdf)})
-    resultados.append({'campo': 'Keywords ES', 'valor': datos['keywords_es'], 'resultado': buscar(datos['keywords_es'], texto_pdf)})
-
-    # Comparar autores uno a uno
-    for autor in datos['autores']:
-        resultados.append({'campo': 'Autor', 'valor': autor, 'resultado': buscar(autor, texto_pdf)})
-
-    return resultados
 
 @app.route('/')
 def index():
+    journals = []
     try:
         conexion = mysql.connector.connect(**config_db)
         cursor = conexion.cursor()
@@ -182,8 +176,8 @@ def index():
         journals = [row[0] for row in cursor.fetchall()]
         cursor.close()
         conexion.close()
-    except:
-        journals = []
+    except Exception as e:
+        print("ERROR BD:", e)
     return render_template('index.html', journals=journals)
 
 @app.route('/subir', methods=['POST'])
@@ -211,7 +205,6 @@ def subir():
     datos['issue'] = issue
 
     if datos['title_es'] and datos['doi']:
-        # Verificar si el DOI ya existe en la BD
         doi_limpio = datos['doi'].replace('https://doi.org/', '')
         try:
             conexion = mysql.connector.connect(**config_db)
@@ -253,19 +246,17 @@ def subir():
     return render_template('resultado.html', resultados=resultados)
 
 @app.route('/articulos')
-        
-@app.route('/articulos')
 def articulos():
     try:
         conexion = mysql.connector.connect(**config_db)
         cursor = conexion.cursor()
         cursor.execute("SELECT article_id, article_title, article_title_trans, doi, journal_id, received, accepted FROM article ORDER BY article_id DESC")
-        articulos = cursor.fetchall()
+        arts = cursor.fetchall()
         cursor.close()
         conexion.close()
     except:
-        articulos = []
-    return render_template('articulos.html', articulos=articulos)
+        arts = []
+    return render_template('articulos.html', articulos=arts)
 
 if __name__ == '__main__':
     app.run(debug=True)
