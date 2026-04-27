@@ -87,6 +87,22 @@ def procesar_word(ruta_docx):
 
     datos['autores'] = autores
     datos['body'] = body
+    
+    # Leer tablas
+    tablas = []
+    for tabla in doc.tables:
+        tabla_data = []
+        for fila in tabla.rows:
+            fila_data = []
+            ids_vistos = set()
+            for celda in fila.cells:
+                if id(celda._tc) not in ids_vistos:
+                    ids_vistos.add(id(celda._tc))
+                    fila_data.append(celda.text.strip())
+            tabla_data.append(fila_data)
+        tablas.append(tabla_data)
+    datos['tablas'] = tablas
+            
     return datos
 
 def insertar_en_bd(datos, journal_id):
